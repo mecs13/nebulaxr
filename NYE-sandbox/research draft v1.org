@@ -1,0 +1,73 @@
+#+TITLE: Research Drafts v.1
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+*Game Psych Draft: Addiction and Rewards*
+* motives and consequences of online gaming
+** study conducted in turkey with high school-age students (mostly boys) that played MMORPGs
+
+** technology use and gaming as habitual (availability and saturation as a contributing factor, engaging b/c it is there and b/c it is a staple of pop culture- similar to television and radio use historically)
+
+** “most frequent players preferred social games”
+
+** addiction as a behavioral and physical dependence, games as dependency objects
+*** dependence can be expressed actively and passively (less relevant to our model, we are trying to emulate Togetherness and Celebration, not a substitute for NYE more a replica/novelty - interest/curiousity > immersion or dependence)
+*** so long as it is habitual and interactive, it can be engaging/addictive - of course i am framing this moreso as connection than a dependence in the interest of not pathologizing our - or any - potential users
+
+** MMORPG’s as particular for their focus on socializing with “people from different beliefs, cultures, and languages"
+*** similar appeal to our project - warrants further research if we can identify what aspects of a more simplified MMORPG are enjoyable to users and how effective they are in depicting other cultures, creating and maintaining a player’s interest via storytelling or world-building
+
+** motivations for playing MMORPGs include novelty, a highly social/discovery oriented personality, a competitive personality, interest in low intensity enjoyment
+*** achievement, socialization, immersion, and success were also central to one’s gameplay experience, and should be our main priority in dev and design
+*** how can we ensure we foster feelings of success, achievement, and belonging in our sandbox users? 
+
+** must consider duration of experience, how long should users should spend in the lobby?
+*** how long we anticipate they will spend will influence how much effort we devote to engaging them and maintaining their attention, as this is a prelude our lobby is ideally an introductory space that sets the tone for the actual content
+
+{{{pagebreak}}}
+
+* tech addiction and social connectedness 
+** nonclinical study conducted in turkey with adolescents, more even gender split
+
+** includes internet, smartphone + digital game addiction
+
+** internet games as escape tools
+*** similar to how we incorporated escapism and immersion in our last experiences, our lobby should be both simulating and soothing 
+*** popular amongst teenagers for a lack of authority figures in virtual environments 
+
+** social connectedness concerns how ingrained one is in their social + emotional relationships, a subjective experience - negatively impacted by game/internet addiction
+*** technology as an alternative to real social environments
+
+** digital game addiction associated with “loneliness” and “introversion” - demonstrated need for socialization
+
+** virtual environments as lacking in "the spirit of real social environments”
+*** by further researching what elements are central to one’s ideal social environment, perhaps we can mirror this experience, making it both fulfilling and fun for users looking for a sense of community - a lot of the heavy lifting can be done by the livestreams directly inserting users into a social environment, the lobby can again act as a go-between allowing for clear focus + functionality within our modest timeline
+
+{{{pagebreak}}}
+
+* video games: recreation or addiction
+** identifies teen and adults as core demographic 
+
+** “sophisticated graphics, characters, and strategic challenges” as preferable to real world entertainment 
+*** by focusing our efforts on environmental design and ensuring our mini-games are a bit challenging, we can easily meet these requirements
+
+** “gaming prompts a response predominantly in the prefrontal cortex that influences feelings of pleasure and reward. subsequent reinforcement of these pathways ultimately mimics ‘true’ neurobiological addiction”
+*** on how game addiction operates on a neurological + cognitive level
+
+** game design purposefully addictive to ensure users will keep playing
+*** elements that contribute to this include: sufficient difficulty levels, “hooks” (i.e. tangible success/progress in-game - leveling-up or getting a high score,) social aspects that foster a sense of belonging (chats, multiplayer options)
+*** if we can implement a multiplayer aspect to our game, we will be able to secure socially motivated users, which are among the majority
+
+{{{pagebreak}}}
+
+*Next Steps*
+* must figure out a way to instill a sense of achievement in the player or award them measurable success
+** this may involve task completion, "leveling-up," collecting items, access to additional features or content (streams, limited time offers that can later be reimbursed) 
+
+* what elements of game design do users find thought-provoking? how can we make users curious?
+** novelty? hidden items? strategic marketing? 
+
+* given the popularity of MMORPG's how can we leverage their success and mirror their model in our lobby (ties directly into environmental design)
+** can we feasibly make our experience social? can users engage with other users in real time? or will the livestreams suffice?

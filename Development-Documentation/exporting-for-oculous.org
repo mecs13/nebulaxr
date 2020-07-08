@@ -1,0 +1,74 @@
+Oculus Home: (has more restrictions than an actual .glb file)
+
+Parameters for modeling:
+1 cm in Blender = 1 m in Home
+Model/package =< 10 mB (the limit)
+Optimize triangulation (clean geometry)
+No max polycount, but attempt to keep to a minimum (apparently performance can break with a 50k mesh)
+
+Parameters for texturing:
+Only one material per sub-mesh.
+Combine submeshes where possible to reduce draw calls.
+
+glTF format supports Metallic-Roughness PBR model:
+Base Color
+Metallic
+Roughness
+Normal
+Ambient Occlusion
+Emission
+
+The format does expect the textures in a specific format.
+Base Color, Normal, and Emission textures - saved as individual files, lossless format (i.e. png).
+Ambient Occlusion, Roughness, and Metallic textures - saved in a single channel-packed texture to reduce the number of texture loads. The textures need to be packed into the channels of your texture as follows:
+
+Red: Ambient Occlusion
+Green: Roughness
+Blue: Metallic
+
+Parameters for animations:
+1 animation per .glb
+———————-
+
+Steam VR:
+
+General organization parameters: (Destination folder)
+folder with all the files associated the model cannot use:
+ upper case letters
+spaces
+symbols
+only lower case letters, numbers and underscores
+
+Directions for modeling:
+ In the asset browser, click the model editor (person) and then file —> create new from mesh file
+
+Directions for texturing:
+importer will have created basic materials for each texture according the shader you selected upon import. If you don't remember doing that the default is VR_standard,
+default the Vr Standard shader has no Specular. Turn it on with the checkbox.
+
+Directions for animations:
+Animations will be under the model’s directory
+Model editor —> add animation
+Able to add multiple, change frame count, timing, whether they loop when they loop, etc.
+
+
+——————
+HTC Vive: (connected to Steam VR)
+
+Parameters for modeling:
+
+Parameters for texturing:
+
+Parameters for animations:
+
+__________
+3D motion animation in youtube:
+
+Parameters for modeling:
+
+Parameters for texturing:
+
+Parameters for animations:
+
+————
+

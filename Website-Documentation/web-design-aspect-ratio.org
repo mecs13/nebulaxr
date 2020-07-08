@@ -1,0 +1,28 @@
++# Title: Web Assets 
++# Author: Joseph Mecca
+
+Web Assets:   
+** Header (Sky ) 
+- [[./img/header-background-NYE-page-ballon.png]]
+** Background  
+- [[../background-NYE-Fweb.png]]
+
+– 1280x720 pixel backfeound photos 
+
+** Image1
+- [[../image1.png]]
+** Image2 
+- [[../image1.png]]
+** Image3 
+- [[../image1.png]]
+** Image4 
+- [[../image1.png]]
+** SLiders 
+– sliders 1600x500
+** Bottom background 
+- [[../img/bottom-background-Final-bckground-NYE-1.png]]
+** PNG (Featured Image) 
+- [[../img-png-admin-ajax.png]]
+
+– 250x166 (right panel menu) 
+

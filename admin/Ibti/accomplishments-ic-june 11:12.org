@@ -1,0 +1,53 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Thursday 6/11/2020
+*Accomplished*
+** DONE: Uploaded Vlogs 7 and 8 to Drive
+** DONE: Completed and uploaded Confidentiality agreement
+** DONE: Created Nervevana folder on github, will be updated with proper files
+** DONE: Put past 10/10s in VS Code to upload to git as files, will upload tomorrow
+** DONE: Reviewed nye-deliverables-shanghai.org
+** DONE: Started linting competition doc from initial project development
+** DONE: Started linting market and concept research doc from Nerve.1
+** DONE: Read briefly on github to further familiarize myself with the platform
+** DONE: Reviewed business proposition sample on Slack
+** DONE: Started identifying potential legal issues to research
+*To-Do:*
+~* IC~: Continue looking at legality of Shenandoah idea to begin formal development next week
+~* IC~: Begin broad research related to Shenandoah's market and design in prep of next week
+~* IC~: Set up weekly meeting time with Joe
+~* IC~: Decide on a Team name by next week
+~* IC~: Demo experience before Monday, if possible
+~* IC~: Complete seeding philosophy.org and upload to personal folder on git
+~* IC~: Draft methodology in org and upload under project folder
+~* IC~: Finish linting documents and upload to project folder on git
+~* IC~: Complete 100 to 300 word blurb for Marwa
+~* IC~: Film and upload Vlog 9 to Drive
+
+* Friday 6/12/2020
+*Accomplished*
+** DONE: Filmed and uploaded Vlog 9 to Drive
+** DONE: Uploaded past 10/10s to personal folder on git
+** DONE: Scheduled weekly Google Meet with Joe, awaiting approval
+** DONE: Completed and uploaded seeding philosophy.org on git
+** DONE: Finished linting comp doc and uploaded under Nervevana folder on git
+** DONE: Finished linting m&r doc and uploaded under Nervevana folder on git
+** DONE: Drafted methodology.org for Mei as Joe requested
+** DONE: Came up with three potential team names, will discuss upon next team meet
+** DONE: Browsed the Shenandoah page to identify potential opportunity/competition
+** DONE: Looked over Matterport virtual tours, and familiarized self with Matterport's services
+*To-Do:*
+~* IC~: Continue looking at the legality of Shenandoah idea 
+~* IC~: Continue looking at Shenandoah's market/design in prep of next week
+~* IC~: Identify competitors in VR
+~* IC~: Identify competitors in the Virginia national park/tourism circuit
+~* IC~: Decide on name with team
+~* IC~: Meet with team this weekend to prepare for presentation (TBD)
+~* IC~: Recieve update on side-project demo
+~* IC~: Upload methodology to project folder on git
+~* IC~: Complete 100 to 300 word blurb for Marwa
+~* IC~: Film and upload Vlog 10 to Drive

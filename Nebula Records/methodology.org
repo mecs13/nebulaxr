@@ -1,0 +1,13 @@
+#+TITLE: Research Methodology
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Methods)}}}
+{{{theme-color(4b7985)}}}
+
+* Informal Research
+
+Depending on the concept, I begin by collecting a list of experiences most similar to ours relative to content and marketing. I start evaluating these experiences according to their promotional materials, social media presence, strengths, weaknesses, and purpose. If the experience has been reviewed by a media outlet or influencer, I will also take this into account, especially for companies that are less transparent about their model. I compile this accordingly, and use it as leverage to strenthen our model and corner a market our competitors have failed to secure.
+
+* Formal Research
+
+For more academic aspects of my research, I focus on enhancing our experience according to strategies/theories cited in numerous papers and studies. I begin with a broad analysis - in this case, I focused on environmental psychology - and grow more and more specific over time. After ensuring the efficacy of our concept and identifying our experience's selling points, I work on enhancing our model's design and UI elements according to research specific to virtual reality and game design. 

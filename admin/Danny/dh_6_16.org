@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Tuesday, June 16th 2020
+*Accomplished:*
+** DONE: Connected VSCode to GH
+** DONE: Completed and uploaded seeding philosophy
+** DONE: Researched basic physic imlementation in UE4
+** DONE: Compiled online resources on VR Inventory Managment
+** DONE: Decided to halt Nervana, proceed with Kartell proto instead
+** DONE: Prepared materials for Dev Station build
+** DONE: Scheduled PC build time with Joe for 6/18
+** DONE: Reviewed Monday meeting notes to streamline general objectives
+** DONE: Prepared for Wednesdays meeting
+** DONE: Day 13 vlog
+*To-Do:*
+** TODO: Attend Wednesday meeting
+** TODO: Shift project focus
+** TODO: Discuss potential project shortcomings with Joe and team
+** TODO: Decide on clear project objective with team
+** TODO: Decide and commit to single project with team
+** TODO: Following meeting, discuss workflow for remainder of week
+** TODO: Assist team with new project proposal
+** TODO: Discuss future objectiveswith Joe and team to ensure clarity
+** TODO: Check in with Joe to prepare for Thursday
+** TODO: Day 14 Vlog

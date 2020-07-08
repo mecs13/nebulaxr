@@ -1,0 +1,48 @@
+* Accomplished
+DONE - What do we need to accomplish to reach 90? Post to GH
+
+DONE - How can we increase our Alexa rating? Post to GH
+
+DONE - NXRLibrary Upload research, summaries, links, graphcis, Publish Draft 2
+
+DONE - Run Math Rank Analysis
+
+DONE - Summarize challenge and send it to the team
+
+DONE - Webpage at 90/100 Math Rank
+
+DONE - WebXR.  If Marwa and Nick and Yuni succeed, this will be a map to demo *promote* The experience without needing to Download it.
+
+* TO-DO
+MS - Search and Identify 5 grant opportunities
+
+MS - MS get 10x nova pages into 80+
+- New Year's XR
+- Homepage
+- Team
+- Products
+- Build XR
+- Services
+- HR-XR
+- Exist
+- Bloomaway
+- Infinite Gallery
+- Torus
+
+MS - Codepend Integrations
+
+MS - Codpen pick top 10 of collection - Say why
+
+MS - Implement them into the website
+
+MS - Edit them - modify to personalize more as nova-nebula
+
+MS - Code Pen Integrations - 5x Implemented - Example, animated form.
+
+MS - Write Instructions for Ibti and post to github
+
+MS - Walk Ibti through the process
+
+MS - Modify 5 codepens
+
+MS - Write instructions for Ibti to modify the codepens back to their original form

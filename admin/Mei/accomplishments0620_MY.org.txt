@@ -1,0 +1,23 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Saturday 6/20/2020
+* Accomplished:*
+** DONE: Actively corresponding with team and Joe using Discord about potential partnerships 
+** DONE: Researched into Barron's Magazine financial
+** DONE: Assisted Yuni in researching about Unreal licensing agreement
+** DONE: Continue to correspond with development team as this will affect how I will approach things
+** DONE: Uploaded vlogs 11 and 12
+*To-DO*
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Prepare a New Year's Eve Financial Strategy 
+** TODO: Finish and prepare New Year's Eve Production Plan 
+** TODO: Prepare some sort of business, financial and marketing presentation for Monday
+** TODO: Continue to check in with development team to make sure marketing and business strategy is on point
+** TODO: Finishing touches to presentation, possibly include psychology of gaming and New Years
+** TODO: Continue to finish financial profile for the chosen companies in each industry
+** TODO: Have a meeting at 11 AM with Yuni & Yuhao about new project 
+** TODO: Upload vlog 13

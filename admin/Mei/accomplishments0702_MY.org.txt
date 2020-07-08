@@ -1,0 +1,25 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Thursday 7/2/2020
+* Accomplished:*
+** DONE: Continually communicating with team 
+** DONE: Researched heavily- Audience Purchasing Power
+** DONE: Looked and read through many opinion as well as business magazines about purchasing power
+** DONE: Learned new business terminology from researching into audience purchase power 
+** DONE: Researched for Yuni- Motion Array (Audio) Legal 
+** DONE: Continued to update progress on GitHub
+*To-DO*
+** TODO: Research for curiousity- "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Continue updating- audience purchasing power
+** TODO: Continue updating- Black Swan Event
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Make sure to stay in correspondence with development with progress so I can document 
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared for a presentation next Monday
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 18- 21

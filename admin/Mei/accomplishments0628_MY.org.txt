@@ -1,0 +1,23 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Sunday 6/28/2020
+* Accomplished:*
+** DONE: Communicated with team about tomorrow's order of presentation
+** DONE: Updated GitHub on Sonic Haptics research
+** DONE: Updated "Production Timeline" -> "start-of-presentation"
+** DONE: Updated "Market Value of Audience" -> "start-of-presentation"
+** DONE: Updated "Developement" -> "start-of-presentation"
+** DONE: Reached out to Yuni about design write up to put in .org
+** DONE: Uploaded vlog 18 & 19
+
+*To-DO*
+** TODO: Research & hopefully develop on Yuni's questionn- "what are some ways new gamers are presented to the market?”
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Put together a presentation after validify the document 
+** TODO: Upload vlog 20

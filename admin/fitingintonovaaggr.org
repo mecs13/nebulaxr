@@ -1,0 +1,782 @@
+* Fitting Into Nova Document
+* Without doing research, one sentence that expresses what you know about:
+
+** Teamship: I am unfamiliar. 
+** Emacs: I’ve recently become aware of its relation to .org mode, but have no knowledge beyond that.
+** Git: I’m aware of some of its use in regard to coding, but I have difficulty navigating and understanding it.
+** XR: I know this is VR related but I’m not sure about the specifics.
+** Linux: I am unfamiliar.
+** Windows: I’m generally aware of Windows, but I don’t use their products outside of Microsoft Suite.
+** Adobe After Effects: I have no personal experience with this software.
+** Adobe Premiere: I have no personal experience with this software.
+** Adobe Photoshop: I have no personal experience with this software.
+** Blender: I have no direct experience with this, but I have more recently become aware of its use in accessing and viewing assets.
+** Maya: I am unfamiliar.
+** C++: I know this is a coding language, but I have no experience with coding.
+** C sharp: I believe this is a variation of C++ making it another coding language with a somewhat different functionality.
+** CSS: I am unfamiliar.
+** Python: I am unfamiliar.
+** Java: I’m aware of Java in regard to flash, but nothing beyond that.
+** JS: I’m unclear what this is in reference to.
+** Webxr: I am unfamiliar.
+** Wordpress: I’ve previously hosted two websites on Wordpress.
+** Mobile apps: I have no technical knowledge in regard to mobile apps.
+** Gaming: I play games and participate in some gaming communities, but beyond that my knowledge is limited.
+** Sales: I worked at a retail flagship store, so I have customer service and sales experience.
+** Marketing: I have a background in research and sales, and worked directly with the promotion and presentation of merchandise so I have some relevant experience.
+** Management: I have no management experience, but I am somewhat familiar with working relative to different management styles.
+** Leadership: I’ve been a team leader in the past, but I much prefer working as a member to help delegate tasks and refine projects.
+** Integrity: For me, integrity concerns one’s ability to identify and adhere to their own moral principles.
+** Duty: Depending on the moral framework, duty can vary, but I’d say it is one’s duty to preserve themselves and others.
+** Ethics: I’ve taken a number of courses in philosophy and am familiar with theories on applied ethics.
+
+* Paragraph your strengths and weaknesses.
+
+** Seeing as my background is primarily in qualitative social science research and social theory, I would say one of my major strengths is in analysis. I am able to draw upon my experiences in numerous fields to devise creative and mindful solutions. Through legal, social, and philosophical frameworks, I’ve learned to assess situations more critically. My research experience has also strengthened my ability to synthesize and organize information. My weaknesses are in financial analysis and computer science. I have a basic understanding of technology, but no personal experience with coding or game design. Though I am familiar with quantitative research methods, I’m inexperienced in the fields of economics and business administration. 
+
+* One simple sentence describing a personal ambition for the summer
+
+** This summer, I would like to learn a skill outside my fields of expertise. 
+
+* Interview us. What are three questions you would like answered?
+
+** Will we be spending the summer working on developing a singular VR experience?
+** What is the day-to-day of developing a project after deciding on a concept?
+** For less intensive projects, how long does development typically take before anything is ready to test?
+-
+-
+-Can be the same day.  Depends on the core objective.  I would say typically a 6 month project, you don't test the VR deployment until month 3.   But, you might view assets inside a headset... Is that testing?  Yes, but maybe not the real testing period
+deleted    admin/Ibti/seeding philosophy.org
+@@ -1,31 +0,0 @@
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-PROVIDENT: For me, to be provident is be prepared for the worst, while hoping for the best.
+-
+-SINCERE: Sincerety involves being honest with others as well as yourself.
+-
+ANTICIPATORY: You are able to, or at least behave as if you have to ability to, anticipate events and outcomes before they occur. Similar to preparedness.
+
+GRACIOUS: You take things in stride, and recognize others for their efforts.
+
+AMBITIOUS: You are driven to succeed by your own volition.
+
+ATTENTIVE: You are detail-oriented, generally aware of your surroundings, and an active listener/participant.
+
+CONSIDERATE: You take other people and perspectives into account, and are mindful of your impact on the world around you.
+
+LOYAL: Devoting yourself to something or someone and remaining committed, at least to the extent it isn't detrimental to your own wellbeing.
+
+DETERMINED: You are motivated to maintain the momentum needed to achieve your goals.
+
+DILIGENT: To be diligent is to be thorough and efficient in equal parts.
+
+INNOVATIVE: Innovation involves approaching classic problems in new ways.
+
+CREATIVE: To be creative is to approach and present things more dynamically. Similar to innovation, but not quite.
+
+RESOURCEFUL: You are aware of what you have at your disposal, and are able to make full use of your skillset.
+ No newline at end of file
+eleted    admin/JM/Nirvana-Play-Feedback.org
+@ -1,11 +0,0 @@
+Great work!  OK, make it smooth.  Focus on getting the initial entrance very pleasant.  This is critical.  First 7 seconds first impression, to a magnitude more.
+
+Focus strongly on making this initial scene calm and pleasant.... Maybe minimize stimulus., directional light to  feel guided.
+
+I think trying to re-create the real world is impossible.  One would even need to assume a godlike complex to attempt it.
+ But remixing can be effective and fun.  The idea of technically pulling from Google terrain is very interesting and can certainly be monetized with a good strategy.
+The national parks have market potential - but the schtick would have to be someting more powerfull than "check out the vista".  Maybe you can make a scavenger hunt in VR that coincides to clues hidden in the real parks, which drives visitations because the people who played it in VR are trying to level up, or win something.
+
+I really had fun trying this out!   It got me inspired, you can definitely make soemthing really cool this summer.  Keep up the hustle -hell yeah!!
+
+Video of play- https://drive.google.com/drive/u/5/my-drive
+eleted    admin/Marwa/Web-dev-lesson2.org
+@ -1,3 +0,0 @@
+** Add everyone's profile, imagine, general info
+** Button to DL PDF
+** SEO math rank above a 90
+eleted    admin/Marwa/Week2-POA-marwa.org
+@ -1,37 +0,0 @@
+
+
+eleted    admin/Marwa/web-dev-lesson1.org
+@ -1,17 +0,0 @@
+Good morning!   Today we are going to learn how to make a webpage.  We will be using Wordpress and Divi.
+
+https://novamedia.nyc/wp-admin/
+Username: marwa@novamedia.nyc pswxrd:marwaxr2020
+
+- In the left panel seek "pages"
+- near the top, click "Add Page" button
+- Use the Divi Builder
+- Clone a current page
+- Begin editing this page so it can be your own.
+
+You may need to take some tutorials on Divi for wordpress.  If you are not sure which tutorials, find some, send them to me, i will review and advise :)
+
+Once you understand how to make a page, we will market the page with SEO and other tactics the team will help on.
+
+Mei is a rising Macaulay Honors junior at The City College of New York double majoring in applied mathematics and music with a background in legal, finance, and technology. She has experience starting her own startup as well as working in a corporate setting (Mastercard).
+
+Mei's personal hobbies include volunteering in her local hospitals and music schools as well as doing contortion. She has previously played the National Anthem at the Yankees Stadium as well as performed internationally at a Town Hall in Paris, France. She also loves to teach music, math, and English to students all around the world. 
+
+She previously attended Fiorello H. LaGuardia High School where she graduated with a concentration in music (violin and piano) as well as in liberal arts. With her diverse backgrounds and bi-cultural outlook, she provides a unique perspective in regards to business as well as in development.
+  
+eleted    admin/Mei/fitting-into-nova-workflow_YC.org
+@ -1,80 +0,0 @@
+** Without doing research, one sentence that expresses what you know about:
+
+Due by the end of Day June 3
+
+Teamship: Heard of but unfamiliar with 
+
+Emacs: it is a text editor software
+
+Git: it is a free and open source software where people can coordinating
+
+XR: it's a software that combines virtual reality with reality
+
+Linux: it's an operating system and it's open sourced
+
+Windows: it's an operating system that is operated by Microsoft
+
+Adobe After Effects: creating graphics that can be in motion and it is best for VR
+
+Adobe Premiere: it's an editing software for videos, so beneficial to all filming, entertainment and other industries 
+
+Adobe Photoshop: a software that is able to edit, add features, add textures onto anything that provides a realistic photo
+
+Blender: it's a computer software where we are able to create 3D things for free
+
+Maya: Heard of but unfamiliar with  
+
+C++: a programming language 
+
+C sharp: programming language used in Unity game engine
+
+CSS: programing language for website building
+
+Python: a common programming language that is taught at school
+
+Java: a common programming language that is taught at school
+
+JS: a powerful programming language this is useful to prototype things. You can add a lot of syntax that is very unique and is very different from other progamming languages 
+
+Webxr: it has to do with something with VR and acts like Javascript in VR
+
+Wordpress: an application where we are able to create websites easily
+
+Mobile apps: it's is a software that is able appilcation. It persuades mobility, accessibility which is all key for people all around the world
+
+Gaming: in regular sense, it is simply for pleasure but if you want to expand in the gaming industry it can be educational, train you and among other things. It's immersive and brings so much adrenaline. 
+
+Sales: it's a measurement of how many products or services a business can sell to its customers. How much revenue can we bring to the business and understanding the demand of our society. 
+
+Marketing: it's a way of communicating the value of a product, service or brand to its customers. It's a process where we are able to create a line of communicating and exchanging our core values to our clients. 
+
+Management: it's the pursuit of organizational goals efficiently and effectively. It's being able to plan. lead and control your team and business as well as your resources. 
+
+Leadership: it's the ability to lead, guide and influence others to success and being able to guide others to accomplish a mission and being able to continually build a positive work environment and relationship. 
+
+Integrity: being true to yourself and faithful to your moral values. 
+
+Duty: being proactive and follow through on your assigned tasks. A duty can be seen as a way to grow even at the most challenging times. A duty in general though are the neccessity things we need to accomplish.
+
+Ethics: it related to something that is moral and does it follow the norm of our society. 
+
+
+** Paragraph your strengths and weaknesses. 
+
+I can be extremely technical when it comes to marketing and business plans. I know how to pitch really well since I have previous experiences with them. I also can choose the right types of soundtracks and sound effects. I can describe a piece of music very detailed and have a jist of the type of experience the music conveys. 
+
+My weaknesses contains technicality when it comes to programming and designing. I have previous experiences with them but never in depth. With limited time, it usually takes me awhile to learn a new programming language. I can make a presentation look great but when it comes to designing, I may not be the best person to go to. 
+
+
+** One simple sentence describing a personal ambition for the summer 
+
+A challenging eventful summer where I am able to learn new software skills in either technology or finance and work with very diverse people. 
+
+
+** Interview us. What are three questions you would like answered? 
+
+What were the biggest risks you have taken when launching this company?
+
+What is the one thing you would tell your younger self?
+
+What has been the main difference for you working in corporates and startups? What has been the most difficult time working for both types of businesses?
+eleted    admin/Mei/seeding-phil
+@ -1,34 +0,0 @@
+=#+TITLE: Seeding Philosophy
+
+{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+
+
+One simple sentence describing what each of these words mean to you:
+
+
+PROVIDENT: always have the future in mind and far-sighted whenever there are new tasks at hand. This kind of mentality is cruical as we want constanly want to be prepared of what is to come. 
+
+SINCERE: one always needs to be sincere as this is a key way to build trust. If one is not sincere about the things they say, they would break a relationship and probably no one can talk the non sincere person seriously. 
+
+ANTICIPATORY: Always plan on anticipating failures, constant changes, successes- nothing in life is a straight road. 
+
+GRACIOUS: we should comfort, be sympathetic towards others and never be quick to judge. 
+
+AMBITIOUS: Don't just end at the tasks given at hand, instead offer help around you and accomplish more tasks instead of waiting around. 
+
+ATTENTIVE: Never slack off any minute while working with others or moments when you spend time with others. We need to be proactive and always participate even if it's something that is way outside of your comfort zone. 
+
+CONSIDERATE: Always be considerate of everyone's capabilities, culture, values and everyone's ideas. 
+
+LOYAL: Always be 100% transparent with others and always offer support to others even if the other person doesn't need it at that time. 
+
+DETERMINED: Quitting is never an option in life or else you have failed yourself. We need to be determinded to push even if it is at the hardest times. 
+
+DILIGENT: Time is precious and if you aren't giving 100% to things, you basically have taken one step back in your professional and personal development. 
+
+INNOVATIVE: We should be able to think outside of the box and continue to add on to exisiting products instead of inventing new things. 
+
+CREATIVE: Let your mind run loose and this is one important character trait everyone wants to desire because this is what separates person from person. 
+
+RESOURCEFUL: always being avaliable for others as well as being open minded to share intelligence with others.
+  
+eleted    admin/NerveVana Project Proposal.pdf
+eleted    admin/Torus-Menu-Design-Specification.pdf
+eleted    admin/Yuhao/accomplishments0603_YC.org
+@ -1,29 +0,0 @@
+ No newline at end of file
+eleted    admin/Yuhao/confidentiality-agreement-fellowship2020_YC.pdf
+eleted    admin/Yuhao/fitting-into-nova-workflow_YC.org
+@ -1,90 +0,0 @@
+** Without doing research, one sentence that expresses what you know about:
+
+** Due by the end of Day June 3
+
+- Teamship: the ability of a team to derive concepts, delegate tasks efficiently time wise, and meet milestones
+
+- Emacs: software for text editing and task keeping
+
+- Git: open source software popular for team based software development
+
+- XR: extended reality in the sense of merging the various types of simulated realities with a real world environment 
+
+- Linux: the definitive open source operating system with a strong community, but industry hardware support is lacking although it's been growing in the last few years
+
+- Windows: the industry standard of operating systems as many applications are built on binary that run exclusively on a Windows based system
+
+- Adobe After Effects: software for creating visual effects often used in the post processing of game development or movie production
+
+- Adobe Premiere: software for video editing
+
+- Adobe Photoshop: industry standard software for creating and editing digital art, textures, and graphics
+
+- Blender: one of the industry's most powerful, yet free, modeling softwares for 3D asset design, texture painting, sculpting, animation, rendering, and presentation
+
+- Maya: a more "professional" equivalent of Blender but with a steep cost
+
+- C++: an extensive and efficient programming language that became the gaming industry standard as UE4 became the go-to commercial engine for AAA gaming
+
+- C sharp: programming language used in Unity game engine
+
+- CSS: programing language for website building
+
+- Python: popular programming language
+
+- Java: popular programming language with far reaching platform utility
+
+- JS: popular language for web development as it has dedicated utility in browsers
+
+- Webxr: web based extended reality
+
+- Wordpress: an online website creator popular for blogs
+
+- Mobile apps: applications that prioritize mobility, ease of access, and reach of audience at the compromise of power and complexity
+
+- Gaming: an immersive and loving medium for entertainment, art, expression, and education 
+
+- Sales: how well a product returns revenue wise with success measured on the proportionality of production to profit
+
+- Marketing: the ability of team to push a product to the appropriate audience
+
+- Management: the ability of one person or a team to delegate tasks and deadlines to efficiently roll out a product
+
+- Leadership: the ability of one to realize a goal within a team and serve as a driving and contributing force for the completion of said goal
+
+- Integrity: one's ability to be principled on qualities that derive success in their work
+
+- Duty: one's responsibilities as entrusted by a collabarating party
+
+- Ethics: one's ability to identify and act on proper moral behavior in a given scenerio
+
+*** Paragraph your strengths and weaknesses.
+
+My greatest strengths are my technical abilities and enthusiasm in my work.I find it amazing to be be able to boot into some software with a blank screen and create something out of virtually nothing. It's the thought of endless possibilities within these softwares that motivates me to always improve upon what I have and seek greater understanding and utility of said softwares. Regarding my weaknesses, I often get ahead of myself with the scope of my work. When it comes to designing no matter the project or software, I tend to get very ambitious with what I want to accomplish just to realize that to do so would take me way past the deadline. However, because of it, I learned to really appreciate working on a team because it takes a group of people with a shared goal to have the courage to discuss what can and cannot be done within a realistic time table.
+
+*** One simple sentence describing a personal ambition for the summer
+
+To focus on more small scale scenes as to prioritize high visual fidelity and interactive systems.
+
+*** *Interview us.* What are three questions you would like answered?
+
+What struggles have you encountered as a company in the VR industry?
+
+Consistent financial support and centralization.  As the VR industry has been per project funded for us, it fragments the team but broadens the reach.  There has been struggles in finding the time to execute everything we plan, and agree to.  Not succeeding here significantly reduces output value...
+
+Funny stuff too, from people jumping through the mixed reality screen at your fancy hotel demo, to crazy landlord screaming drunk in your office a late Saturday, stranded (briefly) in the middle-east.
+
+What I like about nova most is that we pursue projects we wish to.  By having the passion to bring to life any creation is fulfilling and positive.   
+
+Start up struggles: Team optimization, capitalization, developing new workflows.  They are all more or less expected, and managable.
+
+
+*** What compelled you originally to go on this venture in VR?
+
+I played.  It was wild.  I was also on the hunt for something new and marketable.   XR was a decisive answer in 2016.  I quit my second job within a year.  I opened the LLC, sold a demo-serve to the French Trade Office, and built a team.   
+
+Opportunity to control my future - my time and values - maintaining independence and raising a family with education, opportunity, peace and creative pursuits.
+
+*** In what ways would you like to see VR technologies evolve on a hardware and software level as well as on a cultural level.
+
+Headset smaller. Hand tracking take over for controllers. Shared experiences - collaborative design.  Bring people to places they would not otherwise venture - simulated or imagined.  XR on the web. 
+eleted    admin/Yuhao/seeding-philosophy_YC.org
+@ -1,33 +0,0 @@
+=#+TITLE: Seeding Philosophy
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Nova XR)}}}
+{{{theme-color(4b7985)}}}
+
+One simple sentence describing what each of these words mean to you:
+
+*PROVIDENT* :to have the foresight to prepare for future events whether it stems from success or failure
+
+*SINCERE* :to be genuine about the feelings of others to build trust and a strong relationship
+
+*ANTICIPATORY* :to act in consideration of a foreseeable outcome
+
+*GRACIOUS* :to be humble in success and pleasant in failure
+
+*AMBITIOUS* :to possess the determination to take a project to new heights
+
+*ATTENTIVE* :to be perceptive of and actively heed others
+
+*CONSIDERATE* :to be mindful of others in their endeavors in consideration of one's own
+
+*LOYAL* :to be dedicated to an entity and provide support in pursuit of its success
+
+*DETERMINED* :to be firm and resolved on a decision and to have faith in seeing a project through to success
+
+*DILIGENT* :to be persistent in consistent in the progression of one's work
+
+*INNOVATIVE* :to possess a thought process capable of revolutionizing a process by rethinking its traditional approach
+
+*CREATIVE* :to possess a visionary mindset that's rich in artistic imagination
+
+*RESOURCEFUL* :to overcome difficult situations by using the tools made and found avaliable
+ No newline at end of file
+eleted    admin/Yuni/Fitting Into NOVA Workflow
+@ -1,63 +0,0 @@
+** EMACS: Has to do with ORG mode, don’t know anything meaningful about it. 
+** TEAMSHIP: Can’t say anything meaningful about this. 
+** GIT: Versioning tool. Saves each iteration so it can be retrieved. Allows several people on a team to create edits in a single workspace without confusion coordinating files. 
+** XR: Stands for Cross-reality, including virtual and augmented reality. 
+** LINUX: Operating system favored by tech geeks. 
+** WINDOWS:: Operating system created by Microsoft. 
+** ADOBE AFTER EFFECTS:: Digital visual fx software. 
+** ADOBE PREMIERE:: Industry standard film/video editing software. I have basic proficiency. 
+** ADOBE PHOTOSHOP:: Industry standard photo and image editing software. I have basic proficiency. 
+** BLENDER:: Open source 3D modeling and animation software. Not user friendly. 
+** MAYA:: State-of-the-Art 3D modeling and animation software. Free for students. 
+** C++:: Programming language heavily used by game devs. 
+** C sharp:: Another programming language heavily used by game devs. 
+** CSS:: Basic programming language used primarily by graphic designers and web developers. 
+** PYTHON:: Programming language, don’t know anything meaningful about it. 
+** JAVA:: Programming language, don’t know anything meaningful. 
+** JS:: Can’t say anything meaningful. 
+** WEBXR:: Can’t say anything meaningful. 
+** WORDPRESS:: Open source website builder. I have basic proficiency. 
+** MOBILE APPS:: Applications executable on a phone or other mobile device. 
+** GAMING:: The enjoyment of complex multimedia entertainment projects featuring film, literary, psychology, visual art, audio design, and programming elements. 
+** SALES:: A set of psychological tactics used to successfully sell a product to a client. 
+** MARKETING:: Attracting a target audience to entice them to make a purchase or become aware of your company. 
+** MANAGEMENT:: Leading, organizing and controling a group of people to achieve a common goal. 
+** LEADERSHIP:: Using social skills and management skills to inspire and get the most out of followers. 
+** INTEGRITY::Being true to your moral principles. 
+** DUTY:: Being compelled by one’s principles to honor and fulfill one’s role in a situation where one is depended upon. 
+** ETHICS:: An intellectual methodology of deciding right from wrong, or discussing the validity of absolute right and absolute wrong, using principles created by prominent philosophers.
+
+
+*Paragraph your strengths and weaknesses.
+
+**Yuni is the team’s concept and 3D artist. She will be responsible for informing the concept development process from an artistic standpoint. She will also oversee all of the visual aspects of the project, including UX design, making 3D assets available to Daniel and Yuhao as they develop the framework for the VR experience. Yuni is still learning the basics of building game experiences in a game engine. Her current weaknesses are in software proficiency, so she will rely heavily on Daniel and Yuhao for support in learning how to construct a game framework.
+
+*One simple sentence describing a personal ambition for the summer.
+
+**I want my talent and appreciation for the fine arts to shine through in every project and for the first time, become a professional developer! =
+
+
+*Interview us. What are three questions you would like answered?*
+
+*Why does Nova seek out interns? What does Nova seek to get out of having interns?
+
+
+*What are Nova’s goals for growth for the next few years? How will Nova scale up?
+
+** Increase client revenue 20-40 percent, topping 100k per annum in revenue. To do this, much of it is reputation in the long and the short. In the long, that means having projects that receive attention (festival approach, monetary returns to stakeholders), in the short, that means churning out concepts that are simple, professional, and compelling (clear potential for ROI).
+** This means more full-time partners/collaborators, and incrementally adding to the team, and shifting from a few people wearing many hats to several people having focus. Team chemistry is critical for this - and therefore the growth needs to be good growth. More people doesn’t always mean more effective.
+
+
+*What are Joe’s life goals? Why did he choose to be an entrepreneur?
+
+** Raise a family that is happy, healthy and able to fulfill their amobitions (IE, has the time and resources to seize opportunities and nurture growth)
+** Entrepreneur because I wish to create my own schedule, own repsonsibity for succes/failures, and not be throttled by earning potential. As an entrepreneur you own your work and can scale yourself greater. IE, there is not a limit on earning potential. Also, it’s in my blood - I’m a bit antiauthroitarian, don’t always play nice if I have to take orders from someone who isn’t themselves giving 100%. But, just coasting, doing a job good enough, blah blah, Becuase their lackadasical mentality limits their abilities, which iun turn limits my opportunities.. So, I rather be surrounded by starving artists and hustlers.
+eleted    admin/Yuni/Personal Bio for Website
+@ -1,19 +0,0 @@
+#+TITLE: Personal Bio for NEBULA XR Website
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+*BIO*
+
+** Yuni grew up all around the world raised in a variety of cultural ecosystems. She credits these early experiences for her unique world view and appreciation for different perspectives—the hallmark of her personality. 
+
+** Yuni spends much of her free time in the study and practice of creative endeavors.
+** She loves stories. Those dearest to her heart are titles in classical literature, especially British Literature. She can lie in bed for hours with a book and treasures the sensation of feeling absorbed into its pages. Sometimes, she writes science fiction or short stories.
+** She loves to dissect games and films with a critical eye, watching for cinematography and thematic symbolism. She has produced a handful of short student films and has a solid grasp of the pre-production, production, and post-production process in film.
+
+** Yuni is in her third year of studying the Fine Arts at The City College of New York. It is her first time studying art in a formal setting. Someday, she hopes to channel her skills, passion, education and unique perspective into a fruitful career as an art director.
+** For the Summer of 2020, Yuni hopes to be relied upon by NEBULA XR for creative vision, good ideas, and the generation of impressive art assets.
+
+** Outside of her career pursuits, Yuni cooks every day and renovates her condo endlessly. When she craves excitement, she spends an evening at the opera, engages strangers in deep conversation, or hops in her car and drives somewhere new. For special thrills, she hikes and kayaks.
+** Perhaps more than anything, Yuni loves spending quality time with family, friends and her beloved felines—Stela, Misa, Oli, and Uma, who keep her company at her work desk.
+eleted    admin/Yuni/Skills Write Up
+@ -1,16 +0,0 @@
+#+TITLE: Yuni's Skills Description
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+** Yuni is both excited and perplexed by the emerging field of Virtual Reality and its prospects as a gaming and storytelling medium.
+** In the world of art, Yuni finds herself moved by the work of the old masters. A traditional artist herself, Yuni is a master of drawing and sculpture. She has been drawing since she was old enough to hold a pencil, and favors the style of realism.
+
+** Yuni sustains skillsets which she believes are growing increasingly rare in the age of technology. 
+
+** She has devoted years cultivating her mastery of art theory and principles—including composition, balance, emphasis, harmony, movement, pattern, proportion, repetition, rhythm, unity, and variety.
+** As an Electronic Design Major, she is studying to be a master of graphic design elements—such as unity, hierarchy, color, line, point, shape, texture, space, and form. She synthesizes these principles with intelligent concepts in her designs.
+
+** Sensing the need to join the digital era, she is now investing time learning to configure these skills inside software applications such as Adobe Creative Suite and game engines like Unreal Engine.
+eleted    admin/Yuni/Team Name Proof
+@ -1,24 +0,0 @@
+#+TITLE: Team Name Proof: Nebula XR
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*NEBULA XR*
+*The NOVA Intern Team has elected to name itself NEBULA XR.
+
+**The name runs tangent to the astronomical definition of what a NOVA is: "...a star showing a sudden large increase in brightness.." or "a star that suddenly increases its light output tremendously" as defined by Merriam-Webster.
+
+**A "NOVA" is an astronomical event which is typically recognized as the point when astronomers become aware of a particular star's existence. 
+**Symbolically, that can represent NOVA as a company that has "appeared" in the VR market by "shining brightly."
+
+**According to spacecenter.org, a "nebula" is "...an enormous cloud of dust and gas occupying the space between stars and acting as a nursery for new stars."
+**In other words, it is a collection of particles(skills, talents, ambitions) which are not yet fully-formed but, through pressure and momentum, might eventually turn into stars (successful professionals).
+**In these terms, the Nova XR's intern team can be understood to be works in progress with lots of potential.
+
+
+*OTHER REASONS WHY THE NAME WORKS*
+
+**Nebula XR is parented by Nova XR and both start with an N.
+**It sounds cool.
+eleted    admin/Yuni/Work Philosophy
+@ -1,12 +0,0 @@
+#+TITLE: Yuni's Work Philosophy
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+*Yuni's Philosophy*
+
+**In her work, Yuni aspires to demonstrate her excellent taste, perfectionism, and natural affinity for the fine arts for which she is seeking formal training. 
+Yuni strives to embody authenticity and humanity above all else, and believes that artists cannot create exceptional work without being brave enough to offer their whole selves, flaws and all, for scrutinizing eyes--for better or for worse.
+Yuni believes that games are the next stage of evolution in entertainment, surpassing even film and television. Having witnessed the industry mature alongside herself over the last two decades or so, she feels an acutely personal connection to the medium. 
+At its highest potential, she believes the enjoyment and process of game design can illuminate the human condition and human nature in a way that no other form of media can.
+eleted    admin/Yuni/YD_Signed Confidentiality Agreement.pdf
+eleted    admin/Yuni/Yuni's Seeding Philosophy
+@ -1,47 +0,0 @@
+
+
+=#+TITLE: Seeding Philosophy
+
+{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+
+One simple sentence describing what each of these words mean to you:
+
+
+*PROVIDENT
+** To me being provident means being efficient with time and time management, especially in planning.
+
+*SINCERE
+** To me, to be sincere is to mean what you say, and not to say things that you don't mean. It is to not misrepresent onesself. It is a simple concept but difficult to implement in academic and professional circles, because these contexts demand large amounts of pretense.
+
+*ANTICIPATORY
+** To me being anticipatory is having the skill of figuring out what is needed of you before you are asked.
+
+*GRACIOUS
+** To me being gracious is to act with an air of courtesy and kindness, even when it is difficult.
+
+*AMBITIOUS
+** To be ambitious is to set high standards and expectations for onesself and one's ventures.
+
+*ATTENTIVE
+** To be attentive is to give one's full attention when it matters because it comes naturally to you, not because it is demanded.
+
+*CONSIDERATE
+** To be considerate is to have a demeanor which proactively seeks to make room for the needs of others who you care for.
+
+*LOYAL
+** To be loyal is to maintain fidelity to a person or group / company. To be sincere, it must be inspired by an intrinsic appreciation for that which one is being loyal to, and not coerced from fear or necessity. Loyalty is earned.
+
+*DETERMINED
+** Determination is a series of internal decisions which lead a person to perservere out of desire for a cherished goal.
+
+*DILIGENT
+** Diligence is the quality of exhibiting attentiveness and devotion to the quality of one's work.
+
+*INNOVATIVE
+** Innovation is a thinking pattern which seeks to disrupt the status quo for some kind of benefit.
+
+*CREATIVE
+** Someone who is creative is inclined to generate something where there before was nothing, or to assemble pieces of something into something new. It is most often associated with artistic fields but in reality can apply to any craft in any field.
+
+*RESOURCEFUL
+** Someone who is resourceful is good at using what they currently have at their disposal to solve problems or produce solutions to dilemmas.
+eleted    admin/Yuni/yuni.org
+@ -1,64 +0,0 @@
+#+TITLE: Fitting Into Nova Workflow
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+*FITTING INTO NOVA WORKFLOW*
+*Without doing research, one sentence that expresses what you know about:
+
+** TEAMSHIP: Can’t say anything meaningful about this. 
+** EMACS: Has to do with ORG mode, don’t know anything meaningful about it. 
+** GIT: Versioning tool. Saves each iteration so it can be retrieved. Allows several people on a team to create edits in a single workspace without confusion coordinating files. 
+** XR: Stands for Cross-reality, including virtual and augmented reality. 
+** LINUX: Operating system favored by tech geeks. 
+** WINDOWS:: Operating system created by Microsoft. 
+** ADOBE AFTER EFFECTS:: Digital visual fx software. 
+** ADOBE PREMIERE:: Industry standard film/video editing software. I have basic proficiency. 
+** ADOBE PHOTOSHOP:: Industry standard photo and image editing software. I have basic proficiency. 
+** BLENDER:: Open source 3D modeling and animation software. Not user friendly. 
+** MAYA:: State-of-the-Art 3D modeling and animation software. Free for students. 
+** C++:: Programming language heavily used by game devs. 
+** C sharp:: Another programming language heavily used by game devs. 
+** CSS:: Basic programming language used primarily by graphic designers and web developers. 
+** PYTHON:: Programming language, don’t know anything meaningful about it. 
+** JAVA:: Programming language, don’t know anything meaningful. 
+** JS:: Can’t say anything meaningful. 
+** WEBXR:: Can’t say anything meaningful. 
+** WORDPRESS:: Open source website builder. I have basic proficiency. 
+** MOBILE APPS:: Applications executable on a phone or other mobile device. 
+** GAMING:: The enjoyment of complex multimedia entertainment projects featuring film, literary, psychology, visual art, audio design, and programming elements. 
+** SALES:: A set of psychological tactics used to successfully sell a product to a client. 
+** MARKETING:: Attracting a target audience to entice them to make a purchase or become aware of your company. 
+** MANAGEMENT:: Leading, organizing and controling a group of people to achieve a common goal. 
+** LEADERSHIP:: Using social skills and management skills to inspire and get the most out of followers. 
+** INTEGRITY::Being true to your moral principles. 
+** DUTY:: Being compelled by one’s principles to honor and fulfill one’s role in a situation where one is depended upon. 
+** ETHICS:: An intellectual methodology of deciding right from wrong, or discussing the validity of absolute right and absolute wrong, using principles created by prominent philosophers.
+
+
+*Paragraph your strengths and weaknesses.
+
+**Yuni is the team’s concept and 3D artist. She will be responsible for informing the concept development process from an artistic standpoint. She will also oversee all of the visual aspects of the project, including UX design, making 3D assets available to Daniel and Yuhao as they develop the framework for the VR experience. Yuni is still learning the basics of building game experiences in a game engine. Her current weaknesses are in software proficiency, so she will rely heavily on Daniel and Yuhao for support in learning how to construct a game framework.
+
+*One simple sentence describing a personal ambition for the summer.
+
+**I want my talent and appreciation for the fine arts to shine through in every project and for the first time, become a professional developer! =
+
+
+*Interview us. What are three questions you would like answered?*
+
+* Why does Nova seek out interns? What does Nova seek to get out of having interns?
+
+
+* What are Nova’s goals for growth for the next few years? How will Nova scale up?
+
+** Increase client revenue 20-40 percent, topping 100k per annum in revenue. To do this, much of it is reputation in the long and the short. In the long, that means having projects that receive attention (festival approach, monetary returns to stakeholders), in the short, that means churning out concepts that are simple, professional, and compelling (clear potential for ROI).
+
+
+** This means more full-time partners/collaborators, and incrementally adding to the team, and shifting from a few people wearing many hats to several people having focus. Team chemistry is critical for this - and therefore the growth needs to be good growth. More people doesn’t always mean more effective. nb
+
+* What are Joe’s life goals? Why did he choose to be an entrepreneur?
+
+** Raise a family that is happy, healthy and able to fulfill their amobitions (IE, has the time and resources to seize opportunities and nurture growth)
+** Entrepreneur because I wish to create my own schedule, own repsonsibity for succes/failures, and not be throttled by earning potential. As an entrepreneur you own your work and can scale yourself greater. IE, there is not a limit on earning potential. Also, it’s in my blood - I’m a bit antiauthroitarian, don’t always play nice if I have to take orders from someone who isn’t themselves giving 100%. But, just coasting, doing a job good enough, blah blah, Becuase their lackadasical mentality limits their abilities, which iun turn limits my opportunities.. So, I rather be surrounded by starving artists and hustlers.
+eleted    admin/confidentiality agreement-fellowship2020.pdf
+eleted    admin/fitting-into-nova-workflow.org
+@ -1,70 +0,0 @@
+
+
+** Without doing research, one sentence that expresses what you know about:
+
+** Due by the end of Day June 3
+
+- Teamship
+
+- Emacs
+
+- Git
+
+- XR
+
+- Linux
+
+- Windows
+
+- Adobe After Effects
+
+- Adobe Premiere
+
+- Adobe Photoshop 
+
+- Blender
+
+- Maya
+
+- C++
+
+- C sharp
+
+- CSS
+
+- Python
+
+- Java
+
+- JS
+
+- Webxr
+
+- Wordpress
+
+- Mobile apps
+
+- Gaming
+
+- Sales
+
+- Marketing
+
+- Management
+
+- Leadership
+
+- Integrity
+
+- Duty
+
+- Ethics
+
+*** Paragraph your strengths and weaknesses.
+
+*** One simple sentence describing a personal ambition for the summer
+=
+*** *Interview us.* What are three questions you would like answered?
+
+
+
+
+eleted    fitting-into-nova-workflow_DH.org
+@ -1,76 +0,0 @@
+
+
+** Without doing research, one sentence that expresses what you know about:
+
+** Due by the end of Day June 3
+
+- Teamship
+Interdependibility. All about a positive environment that inspires creativity and pushing eachother.
+- Emacs
+Text editors.
+- Git
+Efficient collaboration tool that tracks changes in source code
+- XR
+Mixed reality that combines real and virtual attributes. 
+- Linux
+Open source operating system
+- Windows
+Operatin systemg. Know it inside and out.
+- Adobe After Effects
+Visual effect software.
+- Adobe Premiere
+Video editing software.
+- Adobe Photoshop 
+Photo editing software.
+- Blender
+Not too sure. I think something to do with graphics.
+- Maya
+I think it a similar software to Blender
+- C++
+Object oriented programming language. Very strong understanding.
+- C sharp
+Programming language from the C family.
+- CSS
+Front end programming language for presentation of documents.
+- Python
+High-level programming language.
+- Java
+Object oriented programming language. Good understanding.
+- JS
+Object oriented front end language used for web dev.
+- Webxr
+No knowledge of Webxr
+- Wordpress
+Website creation platform. Works hand in hand with SQL.
+- Mobile apps
+Programs designed as a mobile experiences.
+- Gaming
+Games can be played on various platforms. Inexperienced in creating games but have played them my entire life.
+- Sales
+Worked as a salesman previously. Based heavily on rapport and the exchange of goods or services to consumers.
+- Marketing
+Techniques used to attract consumers.
+- Management
+The infrastructure or stragety of managing a collective group of individuals.
+- Leadership
+Guidance of your team.
+- Integrity
+The practice of morality.
+- Duty
+Your individual responsibily to a team or organization.
+- Ethics
+A philosophy of good and bad.
+*** Paragraph your strengths and weaknesses.
+My strengths are working in a team, although I can be relied on independently as well. I have a strong understanding of C++ and other programming languages and always want to expand on my knowledge.
+I am motivated, eager to learn new skills, and a quick learner. I also can rely heavily on my interpersonal skills that I have learned through previous sales experience and love to combine it with my technical knowledge. 
+Regarding weaknesses, in the past I've had a tendency to get really caught up in my work. It has been the case where the solution is not obvious and I tend to keep going until the issue is resolved.
+ However, I am learning to become aware of when I can become frustrated and counterproductive, and take a step back to come back to a problem with a fresh mindset or ask for the help of one of my peers.
+*** One simple sentence describing a personal ambition for the summer
+= To learn how to function as a team in a work setting and pick up as many new skills as I can. I like pushing my comfort zone and am willing to work with concepts unfamiliar to me.
+*** *Interview us.* What are three questions you would like answered?
+
+How would you describe the work culture of Nova? What do you like most about working there?
+How would you describe the work environment? Is it typically more independent or collaborative?
+WHat are the key characteristics you feel an intern should possess in order to be successful at Nova?
+
+

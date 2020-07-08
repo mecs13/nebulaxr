@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Date
+*Accomplished:*
+** DONE: Continued research on volume widget
+** DONE: Attempted to find online resources for an in-game, interactive VR slider
+** DONE: Conferred with team to assume objective timelines
+** DONE: Revised skill desription
+** DONE: Created basic volume widget in first person project as practice. Will look into VR implementation.
+** DONE: Came up with 3 potential team names
+** DONE: Set designated recurring time and calendar invite for weekly check in with Joe
+** DONE: Uploaded signed confidentiality agreement to GitHub
+** DONE: Uploaded skill description to GitHub
+** DONE: Day 8 vlog
+*To-Do:*
+** TODO: Research interactivy implementation
+** TODO: Meet with Yuhao and Yuni for UE4 crash course
+** TODO: Download and launch new project folder 
+** TODO: Meet with team to discuss individual progress
+** TODO: Discuss architechtural prototype with Yuhao
+** TODO: Discuss national park idea with team
+** TODO: Decide on team name
+** TODO: Create rough outline of objectives until Monday
+** TODO: Ensure administrative tasks are completed
+** TODO: Day 9 vlog

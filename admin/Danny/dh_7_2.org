@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Thursday, July 2nd, 2020
+*Accomplished:*
+** DONE: Met with team to discuss project progress
+** DONE: Discussed new feature implementations for Monday build
+** DONE: Discussed new visual implementations for Monday build
+** DONE: Discussed overall concept direction for project in terms of end product
+** DONE: Team shared one on one notes
+** DONE: One on One with Joe
+** DONE: Discussed team meeting. Planned and created outline/checklist for capture day
+** DONE: Updated team regarding my one on one meeting
+** DONE: Set Sunday meeting time
+** DONE: Day 23 vlog
+*To-Do:*
+** TODO: Reinstall mobo on dev station PC
+** TODO: Install memory
+** TODO: Install gpu
+** TODO: Install PSU
+** TODO: Ensure approriate install of all wire by refereing to manual and being as meticulous as physically possible
+** TODO: Update team on project progress
+** TODO: Communicate with team to meet Sunday to ensure fluidity while presenting
+** TODO: Compile all resources used to incude in documentation as reference
+** TODO: Learn GitBash commands
+** TODO: Day 24 vlog

@@ -1,0 +1,25 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Sunday 7/5/2020
+* Accomplished:*
+** DONE: Had a preparation session with team for tomorrow's presentation & demo 
+** DONE: Finished presentation excluding the use of NOVA's backgroud 
+** DONE: Integrated research into presentation (Black Swan Event & Audience Purchasing Power)
+** DONE: Reached out to team members on missing document points
+** DONE: Updated a separate philosophy to the document as others seem to have gone missing
+** DONE: Will integrate design story into production pipeline and presentation 
+** DONE: Uploaded vlogs 18-22
+*To-DO*
+** TODO: Continue to research and be up to date with stocks, prices and business as everything is pretty volatile right now
+** TODO: Integrate Gantt graphics into presentation
+** TODO: Have all information on Emac System
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared for a presentation tomorrow
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 23

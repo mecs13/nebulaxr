@@ -1,0 +1,2311 @@
+
+2493f2a7bd95fe3666bc205d2ac6dd1f6d56c193
+Author:       JRMrksmn <mecs13@gmail.com>
+AuthorDate:   Tue Jun 23 22:55:47 2020 -0400
+Commit:       JRMrksmn <mecs13@gmail.com>
+CommitDate:   Tue Jun 23 22:55:47 2020 -0400
+
+Parent:     595045ec intern suuport
+Contained:  master
+
+fixing the repo I hope
+
+73 files changed, 68 insertions(+), 2134 deletions(-)
+A1ger1an.org                                       |   6 -
+DailyAccomplishments.org                           |  30 -----
+DailyAccomplishments1.org                          |  28 -----
+DailyAccomplishments2.org                          |  28 -----
+DailyAccomplishments3.org                          |  28 -----
+Link to Gantt.desktop                              |   7 ++
+NYE-sanbox/start-of-presentation-doc.org           |  61 ++++++++++
+admin/Danny/accomplishments_DH.org                 |  30 -----
+.../confidentiality agreement-fellowship2020.pdf   | Bin 179862 -> 0 bytes 
+admin/Danny/dh_6_10.org                            |  30 -----
+admin/Danny/dh_6_5.org                             |  30 -----
+admin/Danny/dh_6_6.org                             |  30 -----
+admin/Danny/dh_6_7.org                             |  31 ------
+admin/Danny/dh_6_9.org                             |  30 -----
+admin/Danny/fitting-into-nova-workflow_DH.org      |  76 -------------
+admin/Danny/skilldescription_DH.docx               | Bin 12433 -> 0 bytes 
+admin/Ibti/Accomplishments-IC-June3wed.org         |  28 -----
+admin/Ibti/accomplishments-ic-june 4.org           |  28 -----
+admin/Ibti/accomplishments-ic-june 5.org           |  28 -----
+admin/Ibti/accomplishments-ic-june 6.org           |  28 -----
+admin/Ibti/accomplishments-ic-june 7.org           |  28 -----
+admin/Ibti/accomplishments-ic-june 9:10.org        |  53 ---------
+admin/Ibti/bio ic.docx                             | Bin 12987 -> 0 bytes 
+.../confidentiality agreement-fellowship2020.pdf   | Bin 214554 -> 0 bytes 
+admin/Ibti/fitting into workflow.org               |  53 ---------
+admin/Ibti/seeding philosophy.org                  |  31 ------
+admin/JM/Nirvana-Play-Feedback.org                 |  11 --
+admin/Marwa/Web-dev-lesson2.org                    |   3 -
+admin/Marwa/Week2-POA-marwa.org                    |  37 -------
+admin/Marwa/web-dev-lesson1.org                    |  17 ---
+admin/Marwa/weds-jun3-accomp.org                   |  28 -----
+...es_confidentiality agreement-fellowship2020.pdf | Bin 250097 -> 0 bytes 
+admin/Mei/accomplishments0603_MY.org.txt           |  29 -----
+admin/Mei/accomplishments0604_MY.org.txt           |  29 -----
+admin/Mei/accomplishments0605_MY.org.txt           |  29 -----
+admin/Mei/accomplishments0606_MY.org.txt           |  29 -----
+admin/Mei/accomplishments0607_MY.org.txt           |  26 -----
+admin/Mei/accomplishments0610_MY.org.txt           |  28 -----
+admin/Mei/accomplishments0613_MY.org.txt           |  23 ----
+admin/Mei/accomplishments0614_MY.org.txt           |  27 -----
+admin/Mei/bio.org                                  |   6 -
+admin/Mei/fitting-into-nova-workflow_YC.org        |  80 --------------
+admin/Mei/seeding-phil                             |  34 ------
+admin/NerveVana Project Proposal.pdf               | Bin 359232 -> 0 bytes 
+admin/Torus-Menu-Design-Specification.pdf          | Bin 33984434 -> 0 bytes 
+admin/Yuhao/accomplishments0603_YC.org             |  29 -----
+admin/Yuhao/accomplishments0604_YC.org             |  29 -----
+admin/Yuhao/accomplishments0605_YC.org             |  28 -----
+admin/Yuhao/accomplishments0606_YC.org             |  28 -----
+admin/Yuhao/accomplishments0607_YC.org             |  28 -----
+admin/Yuhao/accomplishments0609_YC.org             |  28 -----
+admin/Yuhao/accomplishments0610_YC.org             |  28 -----
+admin/Yuhao/accomplishments0611_YC.org             |  28 -----
+admin/Yuhao/accomplishments0612_YC.org             |  28 -----
+admin/Yuhao/accomplishments0614_YC.org             |  28 -----
+...confidentiality-agreement-fellowship2020_YC.pdf | Bin 127577 -> 0 bytes 
+admin/Yuhao/fitting-into-nova-workflow_YC.org      |  90 ---------------
+admin/Yuhao/seeding-philosophy_YC.org              |  33 ------
+admin/Yuni/Fitting Into NOVA Workflow              |  63 -----------
+admin/Yuni/Personal Bio for Website                |  19 ----
+admin/Yuni/Skills Write Up                         |  16 ---
+admin/Yuni/Team Name Proof                         |  24 ----
+admin/Yuni/Work Philosophy                         |  12 --
+admin/Yuni/YD_Signed Confidentiality Agreement.pdf | Bin 195231 -> 0 bytes 
+admin/Yuni/Yuni's Seeding Philosophy               |  47 --------
+admin/Yuni/yuni.org                                |  64 -----------
+admin/confidentiality agreement-fellowship2020.pdf | Bin 125710 -> 0 bytes 
+admin/fitting-into-nova-workflow.org               |  70 ------------
+admin/in-office-G.org                              | 123 ---------------------
+admin/seeding-philosophy.org                       |  33 ------
+admin/team/June14-teammeet.org                     |  56 ----------
+admin/team/housekeeping-June10.org                 |  36 ------
+fitting-into-nova-workflow_DH.org                  |  76 -------------
+
+deleted    A1ger1an.org
+@@ -1,6 +0,0 @@
+-* A1ger1an
+-** Tun1s1an
+-*** Amer1can
+-/College Student/
+-*Summer*
+-[[../images/AlgeriaFlag.jpg]]
+deleted    DailyAccomplishments.org
+@@ -1,30 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Marwa Soussi
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Wednesday 6/3/2020
+-*Accomplished*
+-** DONE: Received approval from Joe on project plan of action
+-** DONE: Worked with Yuni to further better my understanding and complete tasks
+-** DONE: Planned a uniform creative vision for the project
+-** DONE: Watched tutorials regarding game menu creation/navigation
+-** DONE: Installed and Configured Unreal Game Engine
+-** DONE: Collaborated with team via Google Meet to discuss audio implementation
+-** DONE: Learned to operate Org-Mode extension
+-** DONE: Used web-resources to further familiarize myself with Unreal Engine UI
+-** DONE: Created first Video Log to self-reflect on hardships encountered
+-** DONE: Created logo for the team's VR but it is still going through receiving feedback
+-*To-Do:*
+-** TODO: Still need to create a menu and possibly an in-game menu
+-** TODO: Agree on audio for project
+-** TODO: Edit logo for final touches
+-** TODO: Create second Video Log to self-reflect on hardships encountered
+-** TODO: Design menu in 2D
+-** TODO: Create a cutout in the clouds that forms the shape of a mountain in the logo
+-** TODO: Possibly create a loading screen
+-** TODO: If able to, work on designing a waterfall
+-** TODO: Collaborate with group if we will put a house on the mountaintop
+-** TODO: Insert activities that the player can do
+deleted    DailyAccomplishments1.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Marwa Soussi
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Wednesday 6/3/2020
+-*Accomplished*
+-** DONE: Description of the product
+-** DONE: Who is the product for and who are we trying to reach
+-** DONE: Our Mission
+-** DONE: Designing what the menu will look like and what it will include
+-** DONE: Contact Us
+-** DONE: About the Team
+-** DONE: Free Trial
+-** DONE: One-time Payment
+-** DONE: Second Video Log
+-** DONE: Daily Accomplishments written in Org-Mode
+-*To-Do:*
+-** MS: Create an in-game menu
+-** MS: Agree on audio for project
+-** MS: Edit logo for final touches
+-** MS: Create third Video Log to self-reflect on hardships encountered
+-** MS: Design menu in 2D
+-** MS: Create a cutout in the clouds that forms the shape of a mountain in the logo
+-** MS: Possibly create a loading screen
+-** MS: If able to, work on designing a waterfall
+-** MS: Collaborate with group if we will put a house on the mountaintop
+-** MS: Insert activities that the player can do
+deleted    DailyAccomplishments2.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Marwa Soussi
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Friday 6/5/2020
+-*Accomplished*
+-** DONE: Create an in-game
+-** DONE: Logo completed
+-** DONE: Designed menu in 2D
+-** DONE: Third Video Log to self-reflct on hardships encountered
+-** DONE: Loading screen created
+-** DONE: Inserted activities that the player can do
+-** DONE: Formation of the program's design
+-** DONE: Finzalized the Contact Us, About the Team page
+-** DONE: Translation done for Joe
+-** DONE: Search Engine Optimization (SEO)
+-*To-Do:*
+-** MS: I have completed my daily tasks, just waiting on the team to give me a heads up if I can something more
+-** MS: First female video translation for Joe
+-** MS: Second female video translation for Joe
+-** MS: N/A
+-** MS: N/A
+-** MS: N/A
+-** MS: N/A
+-** MS: N/A
+-** MS: N/A
+-** MS: N/A
+deleted    DailyAccomplishments3.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Marwa Soussi
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Saturday 6/6/2020
+-*Accomplished*
+-** DONE: Logo completed
+-** DONE: Audio agreed upon
+-** DONE: Strategy completed
+-** DONE: 
+-** DONE: 
+-** DONE: 
+-** DONE: 
+-** DONE: 
+-** DONE: 
+-** DONE: 
+-*To-Do:*
+-** MS: I have completed my daily tasks, just waiting on the team to give me a heads up if I can something more
+-** MS: Translate the rest of the videos Joe assigned to me
+-** MS: Have started building a website using Divi
+-** MS: Learn to navigate my way through Divi
+-** MS: Have the team send in their Black/White headshots
+-** MS: Make sure to make the website look elegant
+-** MS: Use specific colors depending on the team's preferences
+-** MS: Make sure to introduce the team on the wesbite
+-** MS: Make sure to introduce our product
+-** MS: Make sure pricing and contact us is also available
+
+@@ -1,30 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Wednesday 6/3/2020
+-*Accomplished:*
+-** DONE: Received feedback/approval from Joe on protype concept
+-** DONE: Worked with team to further delegate specific tasks
+-** DONE: Worked with Design team to extensively plan a uniform crative vision for project
+-** DONE: Looked through Novas assest library for assets that may be useful
+-** DONE: Installed and Configured Unreal Game Engine
+-** DONE: Used web-resources to further familiarize myself with Unreal Engine UI
+-** DONE: Collaborated with team via Google Meet to dicuss audio implementation
+-** DONE: Installed and learned to operate VSCode and Org-Mode extension
+-** DONE: Created first Video Log to self-reflect on hardships encountered
+-** DONE: Watched tutorials regarding game menu creation/navigation
+-*To-Do:*
+-** TODO: Finish Unreal Crash Course
+-** TODO: Discuss Menu Options further with team
+-** TODO: Conceptualize menu format/navigation
+-** TODO: Assess feasability of seperate in-game and starter level menus
+-** TODO: Continue to get comfortable with Org Code
+-** TODO: Implement logo to starter menu
+-** TODO: Look into music implementation in menu
+-** TODO: Assess in-game opportunities for user interactivity
+-** TODO: Assess 2-D vs 3-D possibilities 
+-** TODO: Day 2 of Vlog
+\ No newline at end of file
+deleted    admin/Danny/confidentiality agreement-fellowship2020.pdf
+deleted    admin/Danny/dh_6_10.org
+@@ -1,30 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Wednesday, June 10th, 2020
+-*Accomplished:*
+-** DONE: Met with Joe in the morning to discuss future marketabilty of project
+-** DONE: Discussed oppurtunities to improve game marketability and replay value
+-** DONE: Decided to continue brainstorming on features/teamname/marketability/appeal to consumers and businesses
+-** DONE: Discussed oppurtunities for new feature implementations that should be done regardless of game direction
+-** DONE: Decided on interactive volume slider
+-** DONE: Compiled online resources that can be useful as tutorials
+-** DONE: Brushed up on GIT protocols
+-** DONE: Decided on server PC build date with Joe
+-** DONE: Signed confidentiality agreement
+-** DONE: Day 7 vlog
+-*To-Do:*
+-** TODO: Upload confidentiality agreement to GitHub
+-** TODO: Upload 100-300 word skill description
+-** TODO: Continue to think on team name
+-** TODO: Continue to think about additional features/marketablilty oppurtunities
+-** TODO: Continue work on interactive volume slider
+-** TODO: Discuss how and when national landmark idea can come to life
+-** TODO: Decide and set a fixed weekly 1-on-1 appointment with Joe
+-** TODO: Meet with dev team to enhance knowledge of UE4
+-** TODO: Work closly with dev team to ensure a unified vision of new game feature
+-** TODO: Day 8 vlog
+\ No newline at end of file
+deleted    admin/Danny/dh_6_5.org
+@@ -1,30 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Wednesday 6/3/2020
+-*Accomplished:*
+-** DONE: Collaborated with team to discuss potential menu options
+-** DONE: Created a basic blueprint for starter level main menu
+-** DONE: Further familiarized myself with Unreal Engine interface via tutorials
+-** DONE: Discussed potential functionality of in-game pause menu (TBD)
+-** DONE: Installed/configured all necessary extansions/softwares on backpack PC
+-** DONE: Discussed visual concepts of game UI
+-** DONE: Familiarized myself with Button implementation
+-** DONE: Familiarized myself with Button mapping via nodes
+-** DONE: Created an options menu within main. Options to be determined.
+-** DONE: Day 3 of video log entry
+-*To-Do:*
+-** TODO: Discuss practicality of in-game pause menu with team
+-** TODO: Meet with team to further organize workflow with approaching deadline
+-** TODO: Educate myself on how to create an in-game UI
+-** TODO: Discuss UI design with team
+-** TODO: Add to options menu
+-** TODO: Discuss immplementation of logo to starter menu
+-** TODO: Discuss where in game music implementation is appropriate
+-** TODO: Create UI
+-** TODO: Work with team to begin cohesive implementation of all features
+-** TODO: Day 4 of Vlog
+\ No newline at end of file
+deleted    admin/Danny/dh_6_6.org
+@@ -1,30 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Saturday June 6th, 2020
+-*Accomplished:*
+-** DONE: Met with team via Google Meet to discuss individual progress
+-** DONE: Receieved and gave constructive feedback from team members
+-** DONE: Created in game pause menu
+-** DONE: Discussed menu design further with team
+-** DONE: Discussed menu features further with team
+-** DONE: Added button functionality to in game pause menu
+-** DONE: Decided on logo implementation in menu
+-** DONE: Created a back to main menu funtion in pause menu
+-** DONE: Updated work philosophy
+-** DONE: Day 4 of Video Log
+-*To-Do:*
+-** TODO: Add logo to menu
+-** TODO: Create translucent background for main menu
+-** TODO: Add final touches to pause menu
+-** TODO: Work with team to compile individual portions of project
+-** TODO: Discuss any final touches/issues with team
+-** TODO: Prepare for Monday's pitch
+-** TODO: Add logo to main menu
+-** TODO: Debug where necessary
+-** TODO: Thank team for contributions and hardwork!
+-** TODO: Day 5 of video log
+\ No newline at end of file
+deleted    admin/Danny/dh_6_7.org
+@@ -1,31 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Date
+-*Accomplished:*
+-** DONE: Finishing touches on UI and Menu
+-** DONE: Conferred with team in morning to dicuss the days work flow 
+-** DONE: Sent my contributions to team for compilation
+-** DONE: Worked out issue by debugging and improvising
+-** DONE: Met with team to discuss overall progress and demo work
+-** DONE: Collaborated with team to discuss presenting roles
+-** DONE: Headshot
+-** DONE: Finalized work philosphy
+-** DONE: Accomplished all button mapping despite compatibility issue that came forth after
+-** DONE: Day 5 vlog
+-*To-Do:*
+-** TODO: Call with Joe and team
+-** TODO: Discuss project progress and demo prototype/pitch game
+-** TODO: Finish completing fitting into Nova workflow
+-(Rest to be determined tmm)
+-** TODO: 
+-** TODO: 
+-** TODO: 
+-** TODO: 
+-** TODO: 
+-** TODO:  
+-** TODO: 
+\ No newline at end of file
+deleted    admin/Danny/dh_6_9.org
+@@ -1,30 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Daniel Hristodorov
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-* Tuesday, June 9th, 2020
+-*Accomplished:*
+-** DONE: One-on-One with Joe
+-** DONE: Fitting into Nova workflow completed and uploaded.
+-** DONE: Looked into PC component compatibility
+-** DONE: Talked to Joe to pick a GPU
+-** DONE: Meet with team to discuss game development in term of implementing interactivity and objectives
+-** DONE: Decided with team to brainstorm new ideas for further discussion tomorrow
+-** DONE: Worked with Yuhao to debug game launch
+-** DONE: Finally recognized the issues!
+-** DONE: Familiarize myself with how to build a PC server
+-** DONE: Day 6 vlog
+-*To-Do:*
+-** TODO: Further brainstorm and implement interactivity concepts
+-** TODO: Further brainstorm and implement objective concepts
+-** TODO: Discuss customization options and feasability with team
+-** TODO: Unanimously decide with team which features to implement next
+-** TODO: Decide on a date for PC assembly with Joe
+-** TODO: Learn how to install GPU in a server build
+-** TODO: Learn how to configure PC to hydrid server/gaming build
+-** TODO: Compile learning resources to a universally accessible platform for future reference
+-** TODO: Meet with Joe at 9am
+-** TODO: Day 7 vlog
+\ No newline at end of file
+deleted    admin/Danny/fitting-into-nova-workflow_DH.org
+@@ -1,76 +0,0 @@
+-
+-
+-** Without doing research, one sentence that expresses what you know about:
+-
+-** Due by the end of Day June 3
+-
+-- Teamship
+-Interdependibility. All about a positive environment that inspires creativity and pushing eachother.
+-- Emacs
+-Text editors.
+-- Git
+-Efficient collaboration tool that tracks changes in source code
+-- XR
+-Mixed reality that combines real and virtual attributes. 
+-- Linux
+-Open source operating system
+-- Windows
+-Operatin systemg. Know it inside and out.
+-- Adobe After Effects
+-Visual effect software.
+-- Adobe Premiere
+-Video editing software.
+-- Adobe Photoshop 
+-Photo editing software.
+-- Blender
+-Not too sure. I think something to do with graphics.
+-- Maya
+-I think it a similar software to Blender
+-- C++
+-Object oriented programming language. Very strong understanding.
+-- C sharp
+-Programming language from the C family.
+-- CSS
+-Front end programming language for presentation of documents.
+-- Python
+-High-level programming language.
+-- Java
+-Object oriented programming language. Good understanding.
+-- JS
+-Object oriented front end language used for web dev.
+-- Webxr
+-No knowledge of Webxr
+-- Wordpress
+-Website creation platform. Works hand in hand with SQL.
+-- Mobile apps
+-Programs designed as a mobile experiences.
+-- Gaming
+-Games can be played on various platforms. Inexperienced in creating games but have played them my entire life.
+-- Sales
+-Worked as a salesman previously. Based heavily on rapport and the exchange of goods or services to consumers.
+-- Marketing
+-Techniques used to attract consumers.
+-- Management
+-The infrastructure or stragety of managing a collective group of individuals.
+-- Leadership
+-Guidance of your team.
+-- Integrity
+-The practice of morality.
+-- Duty
+-Your individual responsibily to a team or organization.
+-- Ethics
+-A philosophy of good and bad.
+-*** Paragraph your strengths and weaknesses.
+-My strengths are working in a team, although I can be relied on independently as well. I have a strong understanding of C++ and other programming languages and always want to expand on my knowledge.
+-I am motivated, eager to learn new skills, and a quick learner. I also can rely heavily on my interpersonal skills that I have learned through previous sales experience and love to combine it with my technical knowledge. 
+-Regarding weaknesses, in the past I've had a tendency to get really caught up in my work. It has been the case where the solution is not obvious and I tend to keep going until the issue is resolved.
+- However, I am learning to become aware of when I can become frustrated and counterproductive, and take a step back to come back to a problem with a fresh mindset or ask for the help of one of my peers.
+-*** One simple sentence describing a personal ambition for the summer
+-= To learn how to function as a team in a work setting and pick up as many new skills as I can. I like pushing my comfort zone and am willing to work with concepts unfamiliar to me.
+-*** *Interview us.* What are three questions you would like answered?
+-
+-How would you describe the work culture of Nova? What do you like most about working there?
+-How would you describe the work environment? Is it typically more independent or collaborative?
+-WHat are the key characteristics you feel an intern should possess in order to be successful at Nova?
+-
+-
+deleted    admin/Danny/skilldescription_DH.docx
+deleted    admin/Ibti/Accomplishments-IC-June3wed.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Wednesday 6/3/2020
+-*Accomplished*
+-** DONE: Met with team to review plan of action
+-** DONE: Discussed new responsibilities following meeting
+-** DONE: Began preliminary research on competitors and discussed research direction with Mei
+-** DONE: Consulted with team on the legality of the inclusion of potential assets and reviewed terms
+-** DONE: Compiled list of VR projects with similar concepts and began reviewing them relative to their application, strengths, and weaknesses
+-** DONE: Noted variances in immersion, interactivity, accessibility, and menu design
+-** DONE: Reformatted research including supplementary materials to support team project development
+-** DONE: Debriefed team on findings, awaiting response
+-** DONE: Started reading on market research and the efficacy of VR as a form of stress relief
+-** DONE: Began exploring environmental psychology and contrasting the design of similar concepts with what we currently have in engine
+-*To-Do:*
+-** TODO: Discuss findings with team
+-** TODO: Determine whether or not additional research on wellness competitors outside of VR is necessary
+-** TODO: Discuss the aesthetics of the project’s concept with Yuni and YuHao to determine how to best implement findings
+-** TODO: Discuss menu design with Marwa
+-** TODO: Organize another time to meet with team via Google Meet or Discord
+-** TODO: Determine whether architecture or open space is preferable to our concept
+-** TODO: Discuss interactivity with Marwa
+-** TODO: Familiarize self with org-mode extension
+-** TODO: Upload Day 1 Vlog to Drive
+-** TODO: Complete Day 2 Vlog and upload to Drive
+deleted    admin/Ibti/accomplishments-ic-june 4.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Thursday 6/4/2020
+-*Accomplished*
+-** DONE: Confirmed legality of conditional use of assets with Yuhao
+-** DONE: Discussed competitor research document with Mei
+-** DONE: Began to devise marketing strategy with Mei
+-** DONE: Discussed concept and design research direction with team
+-** DONE: Identified core demographic for project
+-** DONE: Uploaded Vlog 1
+-** DONE: Completed and uploaded Vlog 2
+-** DONE: Read briefly about org mode and Emacs
+-** DONE: Completed and uploaded fitting in NOVA workflow file
+-** DONE: Compiled additional sources related to environmental psychology and developing place attachment
+-*To-Do:*
+-~* IC~: Organize time to meet with team to demo experience
+-~* IC~: Collaborate with Mei and draft a formal marketing strategy supplemented with her analytics
+-~* IC~: Consolidate environmental concept research and email to team
+-~* IC~: Address menu design concerns with team upon development
+-~* IC~: Confer with Yuhao, Daniel, and Marwa on what features we can feasibly implement without issue by Monday
+-~* IC~: Determine what architectural style best suits our environment without diminishing the appeal of our landscape
+-~* IC~: Discuss potential interactive and immersive features
+-~* IC~: Establish how we are going to orient the user to make for the best experience
+-~* IC~: Confer with team on how to best format research relative to design, marketing, and efficacy according to priority
+-~* IC~: Complete Day 3 Vlog and upload to Drive
+\ No newline at end of file
+deleted    admin/Ibti/accomplishments-ic-june 5.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Friday 6/5/2020
+-*Accomplished*
+-** DONE: Updated bio to include philosophy on POA doc
+-** DONE: Organized time to meet with team tomorrow afternoon
+-** DONE: Reviewed Mei’s marketing strategies
+-** DONE: Looked over website-setup-duplication.org and read on survey setup
+-** DONE: Began formulating ways to quantify/measure our success
+-** DONE: Began researching environment and immersion indicators specific to game design
+-** DONE: Started reading on SEO 
+-** DONE: Looked into market research report formatting
+-** DONE: Started reading on 80/20 rule
+-** DONE: Looked into how color psychology can impact immersion in simulated game environments
+-*To-Do:*
+-~* IC~: Continue to familiarize myself with our marketing strategy
+-~* IC~: Collaborate with Mei to draft our formal strategy with visuals + analytics
+-~* IC~: Consolidate concept research and email to team
+-~* IC~: Address design concerns with team following demo (menu, color scheme, etc)
+-~* IC~: Establish how we are going to orient the user to make for the best experience
+-~* IC~: Determine what architectural style best suits our environment without diminishing the appeal of our landscape
+-~* IC~: Discuss and settle on some interactive and immersive features we can implement by deadline
+-~* IC~: Take B&W headshot
+-~* IC~: Upload Day 3 Vlog
+-~* IC~: Complete Day 4 Vlog and upload to Drive
+\ No newline at end of file
+deleted    admin/Ibti/accomplishments-ic-june 6.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Saturday 6/6/2020
+-*Accomplished*
+-** DONE: Met with team and demoed experience
+-** DONE: Decided on an immersive feature we could implement
+-** DONE: Continued collaborating with Mei on drafting our marketing report
+-** DONE: Uploaded Vlog 3
+-** DONE: Filmed and uploaded Vlog 4
+-** DONE: Addressed concerns related to design and began formulating in-game menu options
+-** DONE: Began formatting market research report
+-** DONE: Edited Mission Statement with Mei
+-** DONE: Established where user was going to drop-in and how they would be oriented relative to the rest of the landscape 
+-** DONE: Started formulating how marketing strategies would be implemented according to Joe’s responses on git
+-*To-Do:*
+-~* IC~: Finish synthesizing concept and market research by Sunday night
+-~* IC~: Continue collaborating with Mei to finalize our strategy with visuals and analytics
+-~* IC~: Film and upload Vlog 5 to Drive
+-~* IC~: Upload headshot
+-~* IC~: Have team review research documents
+-~* IC~: Figure out how we will be presenting
+-~* IC~: Cite sources that found our research and design
+-~* IC~: Meet up with team to ensure everything is compiled
+-~* IC~: Familiarize self with Visual Studio and org-mode plug-in
+-~* IC~: Upload finished document to Drive
+\ No newline at end of file
+deleted    admin/Ibti/accomplishments-ic-june 7.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Sunday 6/7/2020
+-*Accomplished*
+-** DONE: Met with team to prepare for presentation
+-** DONE: Reviewed Mei’s presentation and adjusted market research accordingly
+-** DONE: Cited appropriate sources to found concept and market research
+-** DONE: Demoed game again as a team to ensure experience was functional
+-** DONE: Filmed and uploaded Vlog 5
+-** DONE: Finished formulating ways to effectively implement market research
+-** DONE: Finished formatting market research 
+-** DONE: Finished formatting concept research
+-** DONE: Sent team document, awaiting confirmation before uploading to Drive
+-** DONE: Uploaded headshot to Drive
+-*To-Do:*
+-~* IC~: Upload synthesized research document to Drive by Monday morning
+-~* IC~: Presentation
+-~* IC~: Schedule 1 on 1 with Joe
+-~* IC~: Meet with team briefly in advance of meeting 
+-~* IC~: Film and upload Vlog 6 to Drive
+-~* IC~: Organize and upload files under a Nervevana folder on github
+-~* IC~: Review with team following meeting
+-~* IC~: Shift focus according to Joe’s feedback
+-~* IC~: Delegate new tasks for the week
+-~* IC~: Continue to familiarize self with org-mode plug-in and files from past week
+\ No newline at end of file
+deleted    admin/Ibti/accomplishments-ic-june 9:10.org
+@@ -1,53 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Tuesday 6/9/2020
+-*Accomplished*
+-** DONE: Scheduled and attended 1o1 with Joe
+-** DONE: Reviewed org basics with Joe
+-** DONE: Settled on a new project objective for Nervevana
+-** DONE: Discussed possible features to implement by Monday
+-** DONE: Met with team after 1o1s to workshop new Nervevana marketing strategy and possible alternatives
+-** DONE: Discussed concerns related to Joe's feedback to refocus efforts on our future update
+-** DONE: Filmed and uploaded Vlog 6 to Drive
+-** DONE: Started using VS Code plug-in for org-mode
+-** DONE: Submitted first time sheet for confirmation
+-** DONE: Started looking for a more collaborative calender for team to manage project priorities
+-*To-Do:*
+-~* IC~: Settle on a project planning app for team
+-~* IC~: Attend morning meeting
+-~* IC~: Stay on call to meet with team and continue to workshop our concept
+-~* IC~: Start linting past research documents and upload to git
+-~* IC~: Create Nervevana folder on github  
+-~* IC~: Complete seeding philosophy.org and upload to personal folder on git
+-~* IC~: Film and Upload Vlog 7 to Drive
+-~* IC~: Upload linted documents and methodology to project folder on git
+-~* IC~: Settle on a new concept if scrapping Nervevana, trade school/architectural options
+-~* IC~: Discuss HR form with Joe
+-
+-* Wednesday 6/10/2020
+-*Accomplished*
+-** DONE: Attended meeting
+-** DONE: Reviewed WebM files from past week related to Nova and Nervavana
+-** DONE: Met with team and discussed viability of new and current project
+-** DONE: Discussed possible features to implement by Monday, settled on sound design
+-** DONE: Continued workshopping market strategy, tentatively committed to national park angle
+-** DONE: Opened new Discord channels and messaged Joe directly as requested
+-** DONE: Briefly looked at research Joe uploaded to Drive
+-** DONE: Continued reading on org-mode formatting to lint documents
+-** DONE: Wrote up loose planner for team's week hosted on Taskade
+-** DONE: Started using Taskade to manage project priorities
+-*To-Do:*
+-~* IC~: Look at legality of Shenandoah idea to begin formal development next week
+-~* IC~: Begin broad research related to Shenandoah's market and design in prep of next week
+-~* IC~: Set up weekly meeting time with Joe
+-~* IC~: Decide on a Team name by next week
+-~* IC~: Create Nervevana folder on github  
+-~* IC~: Complete seeding philosophy.org and upload to personal folder on git
+-~* IC~: Upload Vlogs 7 and 8 to Drive
+-~* IC~: Upload linted documents and methodology to project folder on git
+-~* IC~: Complete 100 to 300 word blurb for Marwa
+-~* IC~: Complete and upload Confidentiality agreement
+deleted    admin/Ibti/bio ic.docx
+deleted    admin/Ibti/confidentiality agreement-fellowship2020.pdf
+deleted    admin/Ibti/fitting into workflow.org
+@@ -1,53 +0,0 @@
+-#+TITLE: Fitting into NOVA Workflow
+-#+AUTHOR: Ibtihal Chamakh
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Without doing research, one sentence that expresses what you know about:
+-
+-** Teamship: I am unfamiliar. 
+-** Emacs: I’ve recently become aware of its relation to .org mode, but have no knowledge beyond that.
+-** Git: I’m aware of some of its use in regard to coding, but I have difficulty navigating and understanding it.
+-** XR: I know this is VR related but I’m not sure about the specifics.
+-** Linux: I am unfamiliar.
+-** Windows: I’m generally aware of Windows, but I don’t use their products outside of Microsoft Suite.
+-** Adobe After Effects: I have no personal experience with this software.
+-** Adobe Premiere: I have no personal experience with this software.
+-** Adobe Photoshop: I have no personal experience with this software.
+-** Blender: I have no direct experience with this, but I have more recently become aware of its use in accessing and viewing assets.
+-** Maya: I am unfamiliar.
+-** C++: I know this is a coding language, but I have no experience with coding.
+-** C sharp: I believe this is a variation of C++ making it another coding language with a somewhat different functionality.
+-** CSS: I am unfamiliar.
+-** Python: I am unfamiliar.
+-** Java: I’m aware of Java in regard to flash, but nothing beyond that.
+-** JS: I’m unclear what this is in reference to.
+-** Webxr: I am unfamiliar.
+-** Wordpress: I’ve previously hosted two websites on Wordpress.
+-** Mobile apps: I have no technical knowledge in regard to mobile apps.
+-** Gaming: I play games and participate in some gaming communities, but beyond that my knowledge is limited.
+-** Sales: I worked at a retail flagship store, so I have customer service and sales experience.
+-** Marketing: I have a background in research and sales, and worked directly with the promotion and presentation of merchandise so I have some relevant experience.
+-** Management: I have no management experience, but I am somewhat familiar with working relative to different management styles.
+-** Leadership: I’ve been a team leader in the past, but I much prefer working as a member to help delegate tasks and refine projects.
+-** Integrity: For me, integrity concerns one’s ability to identify and adhere to their own moral principles.
+-** Duty: Depending on the moral framework, duty can vary, but I’d say it is one’s duty to preserve themselves and others.
+-** Ethics: I’ve taken a number of courses in philosophy and am familiar with theories on applied ethics.
+-
+-* Paragraph your strengths and weaknesses.
+-
+-** Seeing as my background is primarily in qualitative social science research and social theory, I would say one of my major strengths is in analysis. I am able to draw upon my experiences in numerous fields to devise creative and mindful solutions. Through legal, social, and philosophical frameworks, I’ve learned to assess situations more critically. My research experience has also strengthened my ability to synthesize and organize information. My weaknesses are in financial analysis and computer science. I have a basic understanding of technology, but no personal experience with coding or game design. Though I am familiar with quantitative research methods, I’m inexperienced in the fields of economics and business administration. 
+-
+-* One simple sentence describing a personal ambition for the summer
+-
+-** This summer, I would like to learn a skill outside my fields of expertise. 
+-
+-* Interview us. What are three questions you would like answered?
+-
+-** Will we be spending the summer working on developing a singular VR experience?
+-** What is the day-to-day of developing a project after deciding on a concept?
+-** For less intensive projects, how long does development typically take before anything is ready to test?
+-
+-
+-Can be the same day.  Depends on the core objective.  I would say typically a 6 month project, you don't test the VR deployment until month 3.   But, you might view assets inside a headset... Is that testing?  Yes, but maybe not the real testing period
+deleted    admin/Ibti/seeding philosophy.org
+@@ -1,31 +0,0 @@
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-PROVIDENT: For me, to be provident is be prepared for the worst, while hoping for the best.
+-
+-SINCERE: Sincerety involves being honest with others as well as yourself.
+-
+-ANTICIPATORY: You are able to, or at least behave as if you have to ability to, anticipate events and outcomes before they occur. Similar to preparedness.
+-
+-GRACIOUS: You take things in stride, and recognize others for their efforts.
+-
+-AMBITIOUS: You are driven to succeed by your own volition.
+-
+-ATTENTIVE: You are detail-oriented, generally aware of your surroundings, and an active listener/participant.
+-
+-CONSIDERATE: You take other people and perspectives into account, and are mindful of your impact on the world around you.
+-
+-LOYAL: Devoting yourself to something or someone and remaining committed, at least to the extent it isn't detrimental to your own wellbeing.
+-
+-DETERMINED: You are motivated to maintain the momentum needed to achieve your goals.
+-
+-DILIGENT: To be diligent is to be thorough and efficient in equal parts.
+-
+-INNOVATIVE: Innovation involves approaching classic problems in new ways.
+-
+-CREATIVE: To be creative is to approach and present things more dynamically. Similar to innovation, but not quite.
+-
+-RESOURCEFUL: You are aware of what you have at your disposal, and are able to make full use of your skillset.
+\ No newline at end of file
+deleted    admin/JM/Nirvana-Play-Feedback.org
+@@ -1,11 +0,0 @@
+-Great work!  OK, make it smooth.  Focus on getting the initial entrance very pleasant.  This is critical.  First 7 seconds first impression, to a magnitude more.
+-
+-Focus strongly on making this initial scene calm and pleasant.... Maybe minimize stimulus., directional light to  feel guided.
+-
+-I think trying to re-create the real world is impossible.  One would even need to assume a godlike complex to attempt it.
+- But remixing can be effective and fun.  The idea of technically pulling from Google terrain is very interesting and can certainly be monetized with a good strategy.
+-The national parks have market potential - but the schtick would have to be someting more powerfull than "check out the vista".  Maybe you can make a scavenger hunt in VR that coincides to clues hidden in the real parks, which drives visitations because the people who played it in VR are trying to level up, or win something.
+-
+-I really had fun trying this out!   It got me inspired, you can definitely make soemthing really cool this summer.  Keep up the hustle -hell yeah!!
+-
+-Video of play- https://drive.google.com/drive/u/5/my-drive
+deleted    admin/Marwa/Web-dev-lesson2.org
+@@ -1,3 +0,0 @@
+-** Add everyone's profile, imagine, general info
+-** Button to DL PDF
+-** SEO math rank above a 90
+deleted    admin/Marwa/Week2-POA-marwa.org
+@@ -1,37 +0,0 @@
+-
+-
+-#+TITLE: Marwa Plan of Action Week2
+-#+AUTHOR: Nova Media 
+-#+INCLUDE: "../print/doctype-proposal.org"
+-{{{subtitle(2020 June)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-Hello Marwa, I put together the projects we are going to be working on together over the next week.
+-The translations you've been working on since last Friday, so they are probably finished.  Please upload to Gdrive.
+-Next is website work!!  This was the mission we agreed to when commiting to the fellowship, so time to really start diving in.
+-We have two website work flows, which are both straight forward and good for new web devs.  We can start with whichever you prefer:
+-
+-*  TRANSLATIONS
+-** MS Translate video 1 speach to english speach - 00125.MTS
+-** MS Write the English equivalence into text file. 00125.MTS
+-** MS Time stamp the text file 00125.MTS
+-** MS Translate video 1 speach to english speach - 00040.MTS
+-** MS Write the English equivalence into text file. 00040.MTS
+-** MS Time stamp the text file 00040.MTS
+-** MS Translate video 1 speach to english speach - 00095.MTS
+-** MS Write the English equivalence into text file. 00095.MTS
+-** MS Time stamp the text file 00095.MTS
+-
+-* WORDPRESS WEBSITE
+-** MS Log into wordpress and update user profile information
+-** MS Watch 3 Divi-Wordpress tutorials.
+-** MS Create a new page with the divi builder.
+-** MS Upload your teams photos and write something nice about each of them (this is just a draft)
+-** MS Publish the draft and send me the link
+-
+-* VIRTUAL REALITY WEBSITE
+-** MS set the slideshow component to a fixed height so we can see the whole thing
+-** MS figure out how to change fonts
+-** MS change the color of “ABOUT” and “MORE CONTENT” when mouse hovers and change the cursor to a pointer
+-** MS make the home page take up the whole screen, so there’s no scrolling available
+deleted    admin/Marwa/web-dev-lesson1.org
+@@ -1,17 +0,0 @@
+-Good morning!   Today we are going to learn how to make a webpage.  We will be using Wordpress and Divi.
+-
+-https://novamedia.nyc/wp-admin/
+-Username: marwa@novamedia.nyc pswxrd:marwaxr2020
+-
+-- In the left panel seek "pages"
+-- near the top, click "Add Page" button
+-- Use the Divi Builder
+-- Clone a current page
+-- Begin editing this page so it can be your own.
+-
+-You may need to take some tutorials on Divi for wordpress.  If you are not sure which tutorials, find some, send them to me, i will review and advise :)
+-
+-Once you understand how to make a page, we will market the page with SEO and other tactics the team will help on.
+-
+-Lesson-2 Thursday
+-Lesson-3 Friday
+deleted    admin/Marwa/weds-jun3-accomp.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Marwa Soussi
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-* Wednesday 6/3/2020
+-*Accomplished*
+-** DONE: Received approval from Joe on project plan of action
+-** DONE: Worked with Yuni to further better my understanding and complete tasks
+-** DONE: Planned a uniform creative vision for the project
+-** DONE: Watched tutorials regarding game menu creation/navigation
+-** DONE: Installed and Configured Unreal Game Engine
+-** DONE: Collaborated with team via Google Meet to discuss audio implementation
+-** DONE: Learned to operate Org-Mode extension
+-** DONE: Used web-resources to further familiarize myself with Unreal Engine UI
+-** DONE: Created first Video Log to self-reflect on hardships encountered
+-** DONE: Created logo for the team's VR but it is still going through receiving feedback
+-*To-Do:*
+-** TODO: Still need to create a menu and possibly an in-game menu
+-** TODO: Agree on audio for project
+-** TODO: Edit logo for final touches
+-** TODO: Create second Video Log to self-reflect on hardships encountered
+-** TODO: Design menu in 2D
+-** TODO: Create a cutout in the clouds that forms the shape of a mountain in the logo
+-** TODO: Possibly create a loading screen
+-** TODO: If able to, work on designing a waterfall
+-** TODO: Collaborate with group if we will put a house on the mountaintop
+-** TODO: Insert activities that the player can do
+deleted    admin/Mei/Mei Yolles_confidentiality agreement-fellowship2020.pdf
+deleted    admin/Mei/accomplishments0603_MY.org.txt
+@@ -1,29 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitkle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Wednesday 6/3/2020
+-* Accomplished:*
+-** DONE: Researched and assisted team in identifying our competitors
+-** DONE: Researched different Royality Free music websites and platforms 
+-** DONE: Explored through a Royality Free music company called Epidemic Sound 
+-** DONE: Sifted through over 1000 soundtracks of piano music and chose my top 5 tracks 
+-** DONE: Received feedback from my team on the best user experience soundtrack for our game 
+-** DONE: Collaborated with team via Google Meet to discuss next steps as designs
+-** DONE: Familiarize myself with Unreal Game Engine via Google Meet
+-** DONE: Familiarize myself with Org Mode 
+-** DONE: Analyzed our competitors and realized MyndVR has a similar product like ours (related to COVID 19 and relaxation) but its target is for seniors. 
+-** DONE: Reached out to couple of close friends and family members on their go to relaxation music
+-*To-Do:*
+-** TODO: Research and sift through all 10K and 10Q's of our competitors
+-** TODO: Analyze findings from past financial plans of our competitors 
+-** TODO: Create graphics (charts, tables) to summarize findings from financial statements from our competitors 
+-** TODO: Assist anyway possible in terms of music and finances
+-** TODO: Collaborate with Ibti to figure out who our competitors are 
+-** TODO: Continue to choose the best white noises for the best user experience
+-** TODO: Watch tutorials and download (if space permits) Unreal Game Engine on my laptop
+-** TODO: Possibly assist in menu design 
+-** TODO: Continue to listen to many soundtracks and have backup soundtracks ready (just incase we add a different room)
+-** TODO: Record Day 2 of video log 
+deleted    admin/Mei/accomplishments0604_MY.org.txt
+@@ -1,29 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitkle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Thursday 6/4/2020
+-* Accomplished:*
+-** DONE: Started to compile some of our competitor list onto a powerpoint 
+-** DONE: Started to look at different finance related stats on each of the competitors
+-** DONE: Finished our "what are some specialities for our VR experience"
+-** DONE: Using past information and research, I was able to determine target audience
+-** DONE: Continued to explore Epidemic SoundTrack - white noise 
+-** DONE: Discussed some marketing strategies with team
+-** DONE: Learned and watched more about Org Mode videos
+-** DONE: Analyzed Ibti research and see if there was a common trend
+-** DONE: Started to look at timeline of production for each VR company
+-** DONE: Uploaded Day 1 and 2 of video log
+-*To-Do:*
+-** TODO: Continue to work on graphic (charts, tables) to summarize all findings onto a Powerpoint
+-** TODO: Organize a time with Ibti to go over marketing strategies 
+-** TODO: Discuss with team with whats the best marketing strategy moving forward
+-** TODO: Potentially collaborate with Daniel for additional sound experience 
+-** TODO: Organize a time to meet with team to discuss next steps in design and be up to date with everything 
+-** TODO: Research into potential features to add that will differentiate us from other VR experiences
+-** TODO: Continue to provide support for my team in terms of design and experience
+-** TODO: Possibly assist in menu design 
+-** TODO: Continue to research to learn more about Unreal's features
+-** TODO: Record Day 3 of video log 
+deleted    admin/Mei/accomplishments0605_MY.org.txt
+@@ -1,29 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitkle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Friday 6/5/2020
+-* Accomplished:*
+-** DONE: Finished graphic for competitor list 
+-** DONE: Updated speciality list on GitHub
+-** DONE: Worked with Marwa in improving SEO (specific hashtags for social media platforms)
+-** DONE: Watched videos on trends in VR 
+-** DONE: Chose top 10 from Epidemic SoundTrack - white noise 
+-** DONE: Continue to work closely with Ibti on marketing strategies 
+-** DONE: Updated GitHub in terms of our business and marketing strategies
+-** DONE: Researched and scope back on the startup I did and see what marketing and business strategies is relevant
+-** DONE: Research revenue and forecasted trends on multiple websites
+-** DONE: Uploaded Day 3 of video log
+-*To-Do:*
+-** TODO: Finish updating with more pitch like mission statement
+-** TODO: Meet with team to choose which sound tracks we want for our experience
+-** TODO: Continue to be in constant communication with Ibti about value proposition
+-** TODO: Upload philsophy and picture on GitHub
+-** TODO: Look at couple VR companies 10K on sec.gov and see if I can 
+-** TODO: Finish revenue trends and forcast
+-** TODO: Continue to provide support for my team in terms of design and experience
+-** TODO: Reach out to Ibti about her competitors and see if she can make it more concise
+-** TODO: Download and experience couple of other VR experiences 
+-** TODO: Record Day 4 of video log 
+\ No newline at end of file
+deleted    admin/Mei/accomplishments0606_MY.org.txt
+@@ -1,29 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitkle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Saturday 6/6/2020
+-* Accomplished:*
+-** DONE: Finished updating mission statement and discussed with team
+-** DONE: Discussed value proposition with Ibti
+-** DONE: Attended team meetings and staying up to date with design aspect 
+-** DONE: Sent 3 white noise audio tracks to team: bird chirping, wind, thunderstorm
+-** DONE: Looked into many 10K and analyzing the trend
+-** DONE: Finished and forecast revenue trend for VR 
+-** DONE: Finished looking at Oculus VR company's financial growth and documents
+-** DONE: Explored different graphics today with powerpoint
+-** DONE: Received feedback from Yuni about what sound experience to include
+-** DONE: Uploaded Day 4 of video log
+-*To-Do:*
+-** TODO: Send marketing/ business plan powerpoint to team and to Joe 
+-** TODO: Working closely with Ibti and waiting for her concise competitor statement to put in powerpoint
+-** TODO: Waiting to put logo into the powerpoint
+-** TODO: Upload philosophy and picture on GitHub
+-** TODO: Explore and see if I can loop my recordings (will use GarageBand if needed)
+-** TODO: Continually to update GitHub 
+-** TODO: Continue to provide support for my team in terms of design and experience
+-** TODO: Meet up with team one final time about project 
+-** TODO: Reach out to Marwa for General hashtags and including them in powerpoint
+-** TODO: Record Day 5 of video log 
+\ No newline at end of file
+deleted    admin/Mei/accomplishments0607_MY.org.txt
+@@ -1,26 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: ".../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Sunday 6/7/2020
+-* Accomplished:*
+-** DONE: Finished market strategy powerpoint slide (implemented about 7 strategies)
+-** DONE: Finished specific competitor, MyndVR, financials
+-** DONE: Finished general competitor, Oculus VR, financials
+-** DONE: Met with team the final time before presentation
+-** DONE: Talked and reviewed Ibti's final touches on research 
+-** DONE: Uploaded business/ marketing strategy to G-Drive folder 
+-** DONE: Designed the overall presentation to make it marketable and ready to be pitched 
+-*To-DO*
+-** TODO: Meet at 8:30 AM with team with last minute run through 
+-** TODO: Schedule 1 on 1 with Joe 
+-** TODO: Make sure to upload and update on GitHub (familiarize myself with it as well) 
+-** TODO: Followup with team after meeting with Joe
+-** TODO: Continue to watch videos about GitHub and see if there is an easier way to upload things
+-** TODO: Continue working on NerveVana and make sure to include measurable content
+-** TODO: Create Excel Sheet with how much money NerveVana will earn
+-** TODO: Create list for different influencers 
+-** TODO: Create list for different backlinks to use 
+-** TODO: Upload and film Vlog 5 & 6 
+deleted    admin/Mei/accomplishments0610_MY.org.txt
+@@ -1,28 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: ".../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Wednesday 6/10/2020
+-* Accomplished:*
+-** DONE: Submitted confidentiality agreement on Github
+-** DONE: Finished and submitted "seed to philosophy" on Github
+-** DONE: Attended team meeting in the morning to brainstorm next steps as well as how to market our product better 
+-** DONE: Discussed with team after team meeting with Joe about marketability as well as team name
+-** DONE: Looked through financial documents sent by Joe 
+-** DONE: Researched the best way to approach this startups financials using excel
+-** DONE: Brainstormed features we could add to NerveVana including zip line experience or more interactive experiences just like what Park Rangers does
+-** DONE: Reanalyzed statistics for the whole VR industry 
+-** DONE: As a team we decided that this week we want to focus on volume slider as our main added feature
+-*To-DO*
+-** TODO: Since idea is still up in the air, discuss whether we want to head into education or just as a game experience
+-** TODO: Alter the mission statement as well as the whole presentation
+-** TODO: Start putting ideas together about the sale funnel ideology
+-** TODO: Set up times to meet with team for brainstorming and development
+-** TODO: Discuss features to implement in the new idea of national landmark
+-** TODO: Upload 100- 133 skill description using XR
+-** TODO: Collaborate with Ibti on next steps for marketability 
+-** TODO: Create list for different influencers 
+-** TODO: Create list for different backlinks to use 
+-** TODO: Upload film Vlog 5, 6, 7 (have to redo 5 & 6 because there were some computer memory issues) 
+\ No newline at end of file
+deleted    admin/Mei/accomplishments0613_MY.org.txt
+@@ -1,23 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: ".../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Saturday 6/13/2020
+-* Accomplished:*
+-** DONE: Set weekly 1 on 1 meetings with Joe 
+-** DONE: Edit and uploaded headshot on Google Drive 
+-** DONE: Continued to research on national parl services and places
+-** DONE: Looked into Wix site and see which was best design (since things aren't finalized, it's hard for me to move foward with putting together this website)
+-** DONE: Watched videos on how to embed codepen on Wix website
+-*To-DO*
+-** TODO: Alter the mission statement as well as the whole presentation
+-** TODO: When idea is finalized, start to gear ideas into a sales funnel ideology
+-** TODO: Continue to brainstorm partnerships strategies 
+-** TODO: Continue to research about different national park services location 
+-** TODO: Upload 100- 133 skill description for Marwa and also on Github
+-** TODO: Continue to collaborate with Ibti on next steps for marketability 
+-** TODO: Decide on a team name tomorrow in meeting 
+-** TODO: Create list for different backlinks to use 
+-** TODO: Upload vlog 7 
+deleted    admin/Mei/accomplishments0614_MY.org.txt
+@@ -1,27 +0,0 @@
+-#+TITLE: Day-to-Day Accomplishments
+-#+AUTHOR: Mei Yolles
+-#+INCLUDE: ".../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-Sunday 6/14/2020
+-* Accomplished:*
+-** DONE: Submitted 100-300 word to Marwa and on GitHub
+-** DONE: Finished researching National Park Service legal cost and posted on GitHub
+-** DONE: Attended team meeting in the afternoon to discuss next steps 
+-** DONE: As a team, we agreed on a team name, Nebulla 
+-** DONE: Caught up with correspondence with team members 
+-** DONE: Continue to understand financial and business strategies (since nothing is confirmed it is hard to implement the strategy with NerveVana)
+-** DONE: Researched and compiled information on Virginia Tourism (Partnership Marketing Inititaive 2020- 2022)
+-** DONE: Sifting through many other organizations business strategies so it would be easy to implement once idea is finalized
+-*To-DO*
+-** TODO: Discuss marketability or target audience (education or travel industry- probably leaning towards travel)
+-** TODO: Alter the mission statement as well as the whole presentation
+-** TODO: Start putting ideas together about the sale funnel ideology
+-** TODO: Set up times to meet with team for brainstorming and development
+-** TODO: Jotted down many questions for Monday's weekly team meeting with Joe 
+-** TODO: Start to put a Wix website together by the end of next week when everything has been finalized and throughly run through with Joe 
+-** TODO: Collaborate with Ibti on next steps for marketability (once finalized idea)
+-** TODO: Create list for different influencers (once finalized idea)
+-** TODO: Create list for different backlinks to use (once finalized idea)
+-** TODO: Upload film Vlog 7 and 8 
+deleted    admin/Mei/bio.org
+@@ -1,6 +0,0 @@
+-Mei is a rising Macaulay Honors junior at The City College of New York double majoring in applied mathematics and music with a background in legal, finance, and technology. She has experience starting her own startup as well as working in a corporate setting (Mastercard).
+-
+-Mei's personal hobbies include volunteering in her local hospitals and music schools as well as doing contortion. She has previously played the National Anthem at the Yankees Stadium as well as performed internationally at a Town Hall in Paris, France. She also loves to teach music, math, and English to students all around the world. 
+-
+-She previously attended Fiorello H. LaGuardia High School where she graduated with a concentration in music (violin and piano) as well as in liberal arts. With her diverse backgrounds and bi-cultural outlook, she provides a unique perspective in regards to business as well as in development.
+-  
+deleted    admin/Mei/fitting-into-nova-workflow_YC.org
+@@ -1,80 +0,0 @@
+-** Without doing research, one sentence that expresses what you know about:
+-
+-Due by the end of Day June 3
+-
+-Teamship: Heard of but unfamiliar with 
+-
+-Emacs: it is a text editor software
+-
+-Git: it is a free and open source software where people can coordinating
+-
+-XR: it's a software that combines virtual reality with reality
+-
+-Linux: it's an operating system and it's open sourced
+-
+-Windows: it's an operating system that is operated by Microsoft
+-
+-Adobe After Effects: creating graphics that can be in motion and it is best for VR
+-
+-Adobe Premiere: it's an editing software for videos, so beneficial to all filming, entertainment and other industries 
+-
+-Adobe Photoshop: a software that is able to edit, add features, add textures onto anything that provides a realistic photo
+-
+-Blender: it's a computer software where we are able to create 3D things for free
+-
+-Maya: Heard of but unfamiliar with  
+-
+-C++: a programming language 
+-
+-C sharp: programming language used in Unity game engine
+-
+-CSS: programing language for website building
+-
+-Python: a common programming language that is taught at school
+-
+-Java: a common programming language that is taught at school
+-
+-JS: a powerful programming language this is useful to prototype things. You can add a lot of syntax that is very unique and is very different from other progamming languages 
+-
+-Webxr: it has to do with something with VR and acts like Javascript in VR
+-
+-Wordpress: an application where we are able to create websites easily
+-
+-Mobile apps: it's is a software that is able appilcation. It persuades mobility, accessibility which is all key for people all around the world
+-
+-Gaming: in regular sense, it is simply for pleasure but if you want to expand in the gaming industry it can be educational, train you and among other things. It's immersive and brings so much adrenaline. 
+-
+-Sales: it's a measurement of how many products or services a business can sell to its customers. How much revenue can we bring to the business and understanding the demand of our society. 
+-
+-Marketing: it's a way of communicating the value of a product, service or brand to its customers. It's a process where we are able to create a line of communicating and exchanging our core values to our clients. 
+-
+-Management: it's the pursuit of organizational goals efficiently and effectively. It's being able to plan. lead and control your team and business as well as your resources. 
+-
+-Leadership: it's the ability to lead, guide and influence others to success and being able to guide others to accomplish a mission and being able to continually build a positive work environment and relationship. 
+-
+-Integrity: being true to yourself and faithful to your moral values. 
+-
+-Duty: being proactive and follow through on your assigned tasks. A duty can be seen as a way to grow even at the most challenging times. A duty in general though are the neccessity things we need to accomplish.
+-
+-Ethics: it related to something that is moral and does it follow the norm of our society. 
+-
+-
+-** Paragraph your strengths and weaknesses. 
+-
+-I can be extremely technical when it comes to marketing and business plans. I know how to pitch really well since I have previous experiences with them. I also can choose the right types of soundtracks and sound effects. I can describe a piece of music very detailed and have a jist of the type of experience the music conveys. 
+-
+-My weaknesses contains technicality when it comes to programming and designing. I have previous experiences with them but never in depth. With limited time, it usually takes me awhile to learn a new programming language. I can make a presentation look great but when it comes to designing, I may not be the best person to go to. 
+-
+-
+-** One simple sentence describing a personal ambition for the summer 
+-
+-A challenging eventful summer where I am able to learn new software skills in either technology or finance and work with very diverse people. 
+-
+-
+-** Interview us. What are three questions you would like answered? 
+-
+-What were the biggest risks you have taken when launching this company?
+-
+-What is the one thing you would tell your younger self?
+-
+-What has been the main difference for you working in corporates and startups? What has been the most difficult time working for both types of businesses?
+deleted    admin/Mei/seeding-phil
+@@ -1,34 +0,0 @@
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-
+-PROVIDENT: always have the future in mind and far-sighted whenever there are new tasks at hand. This kind of mentality is cruical as we want constanly want to be prepared of what is to come. 
+-
+-SINCERE: one always needs to be sincere as this is a key way to build trust. If one is not sincere about the things they say, they would break a relationship and probably no one can talk the non sincere person seriously. 
+-
+-ANTICIPATORY: Always plan on anticipating failures, constant changes, successes- nothing in life is a straight road. 
+-
+-GRACIOUS: we should comfort, be sympathetic towards others and never be quick to judge. 
+-
+-AMBITIOUS: Don't just end at the tasks given at hand, instead offer help around you and accomplish more tasks instead of waiting around. 
+-
+-ATTENTIVE: Never slack off any minute while working with others or moments when you spend time with others. We need to be proactive and always participate even if it's something that is way outside of your comfort zone. 
+-
+-CONSIDERATE: Always be considerate of everyone's capabilities, culture, values and everyone's ideas. 
+-
+-LOYAL: Always be 100% transparent with others and always offer support to others even if the other person doesn't need it at that time. 
+-
+-DETERMINED: Quitting is never an option in life or else you have failed yourself. We need to be determinded to push even if it is at the hardest times. 
+-
+-DILIGENT: Time is precious and if you aren't giving 100% to things, you basically have taken one step back in your professional and personal development. 
+-
+-INNOVATIVE: We should be able to think outside of the box and continue to add on to exisiting products instead of inventing new things. 
+-
+-CREATIVE: Let your mind run loose and this is one important character trait everyone wants to desire because this is what separates person from person. 
+-
+-RESOURCEFUL: always being avaliable for others as well as being open minded to share intelligence with others.
+-  
+deleted    admin/NerveVana Project Proposal.pdf
+deleted    admin/Torus-Menu-Design-Specification.pdf
+deleted    admin/Yuhao/accomplishments0603_YC.org
+@@ -1,29 +0,0 @@
+-#+TITLE: Daily Accomplishments
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-* Wednesday 06/03/2020
+-*Accomplished*
+-** DONE: Created general purpose materials such as grass, water, and automatic landscape material
+-** DONE: Created basic material animations via blueprints for simulating wind and movement
+-** DONE: Discussed the use of premade assets and diffuse maps online with Ibti
+-** DONE: Gave a brief detailed walkthrough of the lanscaping tools in UE4 to Yuni
+-** DONE: Demoed the current compilation of meshes and materials to the team
+-** DONE: Compiled the Nova asset library and began to filter through it for assets of interest
+-** DONE: Discussed the need for normal maps and demonstrated the generation of them
+-** DONE: Addressed engine issues and discussed user inferfaces with Daniel and Marwa
+-** DONE: Sampled music selections and sound design curated by Mei with the team
+-** DONE: Explored Org Mode documentation and recorded first video log
+-*To Do*
+-** TODO: Migrate custom landscape materials over to Yuni and debug problems that may occur in exporting
+-** TODO: Discuss the fair use and legality of asset usage with Ibti
+-** TODO: Isolate assets of interest from the Nova library and verify if textures have been applied
+-** TODO: Set up VR pawn for player to control and create various trigger blueprints
+-** TODO: Consult with Mei on the implementation of sound and music
+-** TODO: Discuss the research on a mountaintop house and proceed with mockup designs on Revit
+-** TODO: Discuss implementable activities for the player in the experience that are time appropriate
+-** TODO: Discuss environmental design with Yuni after completion of landscape
+-** TODO: Discuss development of a user interface with Daniel and Marwa
+-** TODO: Playtest the level to identify potential issues
+deleted    admin/Yuhao/accomplishments0604_YC.org
+@@ -1,29 +0,0 @@
+-#+TITLE: Thursday 06/04/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Updated landscape material textures
+-** DONE: Set up the necessary drivers and packages for exporting UE4 build to an Android platform
+-** DONE: Explored possibility of executing a VR experience on the Oculus Quest through Oculus Link and SteamVR
+-** DONE: Identified missing texture issue when migrating out materials
+-** DONE: Discussed fair use of free assets with Ibti
+-** DONE: Compiled free assets of interest from Quixel Megascans
+-** DONE: Updated a few soft textures and sorted more of the Nova library
+-** DONE: Implemented locomotion for players to navigate via thumbstick
+-** DONE: Verified locomotion worked as intended and addressed collision issues
+-** DONE: Packaged a build of the experience for SteamVR
+-*To Do*
+-** YC: Demo progress of the experience and showcase current assets to the team
+-** YC: Address SteamVR input issues
+-** YC: Overhaul automatic landscape material to be more realistic
+-** YC: Sort through free assets of interest on the Epic Marketplace
+-** YC: Apply landscape materials to Yuni's landscape
+-** YC: Implement Mei's sound selection to the level
+-** YC: Discuss UI implementation with Daniel and Marwa and UI design with Yuni
+-** YC: Implement functions to the other motion controller buttons
+-** YC: Research optimization for Oculus Quest packaging
+-** YC: Migrate updated project back to Yuni for visual touchups
+-** YC: Playtest the level to identify potential issues
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0605_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Friday 06/05/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Finalized auto landscape material with all blend layers of interest
+-** DONE: Compiled all free assets of interest from Quixel Megascans and the Epic Marketplace
+-** DONE: Began optimizing NerveVana with a goal of at least a stable 60 FPS
+-** DONE: Updated UE4 to version 4.25.1
+-** DONE: Implemented teleportation as a method of navigation
+-** DONE: Discussed UI and menuing with Daniel
+-** DONE: Set up packaging settings for Oculus Quest
+-** DONE: Prepared level demo for team 
+-** DONE: Implemented more functionality to motion controller buttons
+-** DONE: Packaged another build of the experience for SteamVR
+-*To Do*
+-** YC: Demo progress of the experience and showcase current assets to the team
+-** YC: Address SteamVR input issues and look into playtesting the experience when built as an .apk
+-** YC: Pitch new player feature to team
+-** YC: Upload project for Yuni to paint landscape
+-** YC: Map controller functionality for other VR controllers
+-** YC: Implement Mei's sound selection to the level
+-** YC: Design and implement start and in-experience menus
+-** YC: Discuss controller explanation page implementation with Daniel and Marwa
+-** YC: Migrate updated project back to Yuni for visual touchups
+-** YC: Playtest the level to identify potential issues
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0606_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Saturday 06/06/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Demoed current progress of project to team
+-** DONE: Resolved SteamVR input issues
+-** DONE: Discussed project sharing workarounds with Yuni
+-** DONE: Applied auto material to landscape and debugged texture glitches
+-** DONE: Packaged and verified development build to SteamVR
+-** DONE: Discussed UI and menuing with Daniel
+-** DONE: Optimized asset rendering for final build
+-** DONE: Discussed possible launch day issues and workarounds with Ibti  
+-** DONE: Overhauled the level landscape graphics
+-** DONE: Configured motion control input for several controllers in SteamVR
+-*To Do*
+-** YC: Make final changes and optimization to project
+-** YC: Prepare to pack project as an .apk as a backup
+-** YC: Meet with team for final level inspection
+-** YC: Verify level blueprints and packaging settings
+-** YC: Finish mapping controller functionality for other VR controllers
+-** YC: Implement Mei's sound selection to the level
+-** YC: Implement Daniel's start and in-experience menus
+-** YC: Discuss controller explanation page implementation with Daniel and Ibti
+-** YC: Implement custom project thumbnail
+-** YC: Package final build of project
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0607_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Sunday 06/07/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Demoed final build of project to team
+-** DONE: Add controller functionality for Oculus Touch and Valve Index
+-** DONE: Implemented player navigation boundaries
+-** DONE: Fixed landscape texture compilation issue
+-** DONE: Packaged and verified final build functionality on SteamVR
+-** DONE: Implemented Mei's sound selection to the level
+-** DONE: Implemented Daniel's start and in-experience menus
+-** DONE: Compiled backup build for Android  
+-** DONE: Wrote up instructions to set up SteamVR via Oculus Link
+-** DONE: Briefed with team on presentation
+-*To Do*
+-** YC: Update philosophy
+-** YC: Take black and white photo shot
+-** YC: Brief with team again regarding meeting
+-** YC: Give presentation regarding the development of NerveVana
+-** YC: Reorganize project files and Nova asset library
+-** YC: Organize assets used in NerveVana
+-** YC: Compile reusable assets and blueprints of interest from NerveVana
+-** YC: Schedule one on one meeting with Joe
+-** YC: Research more into org mode navigations
+-** YC: Organize harddrives to avoid another data problem
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0609_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Tuesday 06/09/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Partook in first one on one meeting with Joe
+-** DONE: Demoed build of NerveVana to Joe
+-** DONE: Discussed the next steps of NerveVana with Joe
+-** DONE: Met with team to discuss the next build of NerveVana
+-** DONE: Discussed potential for marketability of NerveVana with team
+-** DONE: Debugged launch issues with Daniel
+-** DONE: Consulted with Daniel on PC build
+-** DONE: Discussed new marketable features that can be implemented into NerveVana
+-** DONE: Began to reduce project file size to be uploaded to Github
+-** DONE: Discussed alternative ideas to NerveVana with team
+-*To Do*
+-** YC: Reduce project size of NerveVana 
+-** YC: Begin implementing a system for interactive items in NerveVana
+-** YC: Meet with Joe and the team for Wednesday meeting
+-** YC: Clean and rebuild the navigation boundaries for NerveVana
+-** YC: Test upload and file history to Github
+-** YC: Discuss implementable activities for the player in the experience that are time appropriate
+-** YC: Discuss and research marketable to enterprise VR experiences to team
+-** YC: Fix the NerveVana teleportation navmesh
+-** YC: Discuss UI expansion with Daniel
+-** YC: Begin to expand upon level explorability 
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0610_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Wednesday 06/10/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Reduced project size of NerveVana over 60%
+-** DONE: Tested uploading Unreal projects to Github via Github Desktop and Git LFS
+-** DONE: Discussed feature implementations with team
+-** DONE: Rebuilt NerveVana navmesh
+-** DONE: Proposed potential architectural side project to Joe
+-** DONE: Rethought the marketability of NerveVana with team and discuss new ways of approach
+-** DONE: Discussed features that would encourage replayability of experience
+-** DONE: Discussed strategies that would appeal to enterprise while selling to consumers
+-** DONE: Rerendered NerveVana on the reduced size build
+-** DONE: Discussed reallocation of team resources with new architectural side project
+-*To Do*
+-** YC: Upload seeding philosophy by tomorrow night 
+-** YC: Take black and white headshot and write 300 word skill description for Marwa's website
+-** YC: Upload confidentiality agreement to Github
+-** YC: Tinker with Git LFS and test if I can compromise with the still large file size
+-** YC: Get copy of the project over to the rest of the dev team
+-** YC: Begin working on navigation pathing to open exploration in NerveVana
+-** YC: Flesh out architectural prototype idea and make mini plan of action
+-** YC: Brainstorm marketable features for an architectural prototype
+-** YC: Meet with team to discuss goals for Monday's meeting
+-** YC: Start preliminary designs for an interior space for architectural prototype 
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0611_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Thurday 06/11/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Finished and uploaded seeding philosophy
+-** DONE: Took black and white headshot for Marwa
+-** DONE: Submitted confidentiality agreement to Github
+-** DONE: Uploaded project files to Google Drive for dev team to work on themselves
+-** DONE: Isolated project files that need to be shared via Github
+-** DONE: Debugged initial NerveVana launch with Joe and received feedback
+-** DONE: Removed navigation boundaries to begin opening up explorability
+-** DONE: Fleshed out approach to architectural prototype
+-** DONE: Researched implementation of archviz via UE4 in real time VR
+-** DONE: Began development on architectural prototype
+-*To Do*
+-** YC: Finish 300 word skill description as they relate to XR
+-** YC: Begin changelog of NerveVana development on Github with org
+-** YC: Meet with team to discuss reorganization of roles
+-** YC: Give general overview of Unreal Engine 4 systems to Daniel and Yuni
+-** YC: Strategize with dev team to arrange a more synced development experience
+-** YC: Compile 4K assets and materials for architectural prototype
+-** YC: Test convert past Revit project to Blender followed by UE4
+-** YC: Implement system for real time changing materials 
+-** YC: Change foliage culling in NerveVana to prepare for explorability 
+-** YC: Discuss opening z-axis player movement in NerveVana
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0612_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Friday 06/12/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Finished and delivered bio/skill description to Marwa
+-** DONE: Started NerveVana changelog
+-** DONE: Tested converting from Revit to Blender to UE4
+-** DONE: Compiled a sample of 4K materials for architectural prototype
+-** DONE: Binded real time material changing to motion controller grip
+-** DONE: Created new navmeshes in NerveVana
+-** DONE: Began optimizing system to toggle lighting based on collision
+-** DONE: Brainstormed method to demo concept of architectural prototype
+-** DONE: Updated NerveVana to allow player to descend from starting area
+-** DONE: Replaced broken landscape textures in NerveVana
+-*To Do*
+-** YC: Work to better fit collision boxes to static meshes in architectural prototype
+-** YC: Bring NerveVana changelog up to date
+-** YC: Complete new NerveVana navigation to avoid motion sickness on next build
+-** YC: Give general overview of Unreal Engine 4 systems to Daniel and Yuni
+-** YC: Get an overviewing concept demo of architectural prototype together
+-** YC: Compile Blender files of interest from Nova library and convert to UE4 meshes for architectural prototype
+-** YC: Begin working on architectural inventory system
+-** YC: Adjust collision and physics on furniture in architectural prototype 
+-** YC: Discuss and demonstrate foliage culling in consideration of exploration in NerveVana with dev team
+-** YC: Plan out dev cycle with dev team and schedule with Ibti
+\ No newline at end of file
+deleted    admin/Yuhao/accomplishments0614_YC.org
+@@ -1,28 +0,0 @@
+-#+TITLE: Sunday 06/14/2020
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Daily Accomplishments)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Accomplished*
+-** DONE: Built new explorable pathing in NerveVana
+-** DONE: Coordinated with Daniel to implement volume slider
+-** DONE: Met with team to discuss coming week of development
+-** DONE: Discussed objective of Monday meeting with team
+-** DONE: Packaged second build of NerveVana
+-** DONE: Discussed marketability of architectural prototype with team
+-** DONE: Implemented live material changing to walls and a few static meshes in architectural prototype
+-** DONE: Customized post processing and skylights in architectural prototype
+-** DONE: Adjusted collision physics of certain static meshes in architectural prototype
+-** DONE: Implemented toggleable light visibility in architectural prototype
+-*To Do*
+-** YC: Reupdate NerveVana changelog
+-** YC: Start changelog on architectural prototype
+-** YC: Build teleportation navmesh into new explorable areas in NerveVana
+-** YC: Give general overview of Unreal Engine 4 systems to Daniel and Yuni on Wednesday
+-** YC: Discuss marketability of architectural prototype concept with Joe
+-** YC: Debug VR implementation in architectural prototype
+-** YC: Begin building bridge over to NerveVana meadow area
+-** YC: Begin researching three architectural level prototype ideas 
+-** YC: Discuss architectural art direction with Yuni
+-** YC: Begin work on categorized item menu for architectural prototype
+\ No newline at end of file
+deleted    admin/Yuhao/confidentiality-agreement-fellowship2020_YC.pdf
+deleted    admin/Yuhao/fitting-into-nova-workflow_YC.org
+@@ -1,90 +0,0 @@
+-** Without doing research, one sentence that expresses what you know about:
+-
+-** Due by the end of Day June 3
+-
+-- Teamship: the ability of a team to derive concepts, delegate tasks efficiently time wise, and meet milestones
+-
+-- Emacs: software for text editing and task keeping
+-
+-- Git: open source software popular for team based software development
+-
+-- XR: extended reality in the sense of merging the various types of simulated realities with a real world environment 
+-
+-- Linux: the definitive open source operating system with a strong community, but industry hardware support is lacking although it's been growing in the last few years
+-
+-- Windows: the industry standard of operating systems as many applications are built on binary that run exclusively on a Windows based system
+-
+-- Adobe After Effects: software for creating visual effects often used in the post processing of game development or movie production
+-
+-- Adobe Premiere: software for video editing
+-
+-- Adobe Photoshop: industry standard software for creating and editing digital art, textures, and graphics
+-
+-- Blender: one of the industry's most powerful, yet free, modeling softwares for 3D asset design, texture painting, sculpting, animation, rendering, and presentation
+-
+-- Maya: a more "professional" equivalent of Blender but with a steep cost
+-
+-- C++: an extensive and efficient programming language that became the gaming industry standard as UE4 became the go-to commercial engine for AAA gaming
+-
+-- C sharp: programming language used in Unity game engine
+-
+-- CSS: programing language for website building
+-
+-- Python: popular programming language
+-
+-- Java: popular programming language with far reaching platform utility
+-
+-- JS: popular language for web development as it has dedicated utility in browsers
+-
+-- Webxr: web based extended reality
+-
+-- Wordpress: an online website creator popular for blogs
+-
+-- Mobile apps: applications that prioritize mobility, ease of access, and reach of audience at the compromise of power and complexity
+-
+-- Gaming: an immersive and loving medium for entertainment, art, expression, and education 
+-
+-- Sales: how well a product returns revenue wise with success measured on the proportionality of production to profit
+-
+-- Marketing: the ability of team to push a product to the appropriate audience
+-
+-- Management: the ability of one person or a team to delegate tasks and deadlines to efficiently roll out a product
+-
+-- Leadership: the ability of one to realize a goal within a team and serve as a driving and contributing force for the completion of said goal
+-
+-- Integrity: one's ability to be principled on qualities that derive success in their work
+-
+-- Duty: one's responsibilities as entrusted by a collabarating party
+-
+-- Ethics: one's ability to identify and act on proper moral behavior in a given scenerio
+-
+-*** Paragraph your strengths and weaknesses.
+-
+-My greatest strengths are my technical abilities and enthusiasm in my work.I find it amazing to be be able to boot into some software with a blank screen and create something out of virtually nothing. It's the thought of endless possibilities within these softwares that motivates me to always improve upon what I have and seek greater understanding and utility of said softwares. Regarding my weaknesses, I often get ahead of myself with the scope of my work. When it comes to designing no matter the project or software, I tend to get very ambitious with what I want to accomplish just to realize that to do so would take me way past the deadline. However, because of it, I learned to really appreciate working on a team because it takes a group of people with a shared goal to have the courage to discuss what can and cannot be done within a realistic time table.
+-
+-*** One simple sentence describing a personal ambition for the summer
+-
+-To focus on more small scale scenes as to prioritize high visual fidelity and interactive systems.
+-
+-*** *Interview us.* What are three questions you would like answered?
+-
+-What struggles have you encountered as a company in the VR industry?
+-
+-Consistent financial support and centralization.  As the VR industry has been per project funded for us, it fragments the team but broadens the reach.  There has been struggles in finding the time to execute everything we plan, and agree to.  Not succeeding here significantly reduces output value...
+-
+-Funny stuff too, from people jumping through the mixed reality screen at your fancy hotel demo, to crazy landlord screaming drunk in your office a late Saturday, stranded (briefly) in the middle-east.
+-
+-What I like about nova most is that we pursue projects we wish to.  By having the passion to bring to life any creation is fulfilling and positive.   
+-
+-Start up struggles: Team optimization, capitalization, developing new workflows.  They are all more or less expected, and managable.
+-
+-
+-*** What compelled you originally to go on this venture in VR?
+-
+-I played.  It was wild.  I was also on the hunt for something new and marketable.   XR was a decisive answer in 2016.  I quit my second job within a year.  I opened the LLC, sold a demo-serve to the French Trade Office, and built a team.   
+-
+-Opportunity to control my future - my time and values - maintaining independence and raising a family with education, opportunity, peace and creative pursuits.
+-
+-*** In what ways would you like to see VR technologies evolve on a hardware and software level as well as on a cultural level.
+-
+-Headset smaller. Hand tracking take over for controllers. Shared experiences - collaborative design.  Bring people to places they would not otherwise venture - simulated or imagined.  XR on the web. 
+deleted    admin/Yuhao/seeding-philosophy_YC.org
+@@ -1,33 +0,0 @@
+-=#+TITLE: Seeding Philosophy
+-#+AUTHOR: Yuhao Chen
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Nova XR)}}}
+-{{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-*PROVIDENT* :to have the foresight to prepare for future events whether it stems from success or failure
+-
+-*SINCERE* :to be genuine about the feelings of others to build trust and a strong relationship
+-
+-*ANTICIPATORY* :to act in consideration of a foreseeable outcome
+-
+-*GRACIOUS* :to be humble in success and pleasant in failure
+-
+-*AMBITIOUS* :to possess the determination to take a project to new heights
+-
+-*ATTENTIVE* :to be perceptive of and actively heed others
+-
+-*CONSIDERATE* :to be mindful of others in their endeavors in consideration of one's own
+-
+-*LOYAL* :to be dedicated to an entity and provide support in pursuit of its success
+-
+-*DETERMINED* :to be firm and resolved on a decision and to have faith in seeing a project through to success
+-
+-*DILIGENT* :to be persistent in consistent in the progression of one's work
+-
+-*INNOVATIVE* :to possess a thought process capable of revolutionizing a process by rethinking its traditional approach
+-
+-*CREATIVE* :to possess a visionary mindset that's rich in artistic imagination
+-
+-*RESOURCEFUL* :to overcome difficult situations by using the tools made and found avaliable
+\ No newline at end of file
+deleted    admin/Yuni/Fitting Into NOVA Workflow
+@@ -1,63 +0,0 @@
+-#+TITLE: Fitting Into Nova Workflow
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*FITTING INTO NOVA WORKFLOW*
+-*Without doing research, one sentence that expresses what you know about:
+-
+-** TEAMSHIP: Can’t say anything meaningful about this. 
+-** EMACS: Has to do with ORG mode, don’t know anything meaningful about it. 
+-** GIT: Versioning tool. Saves each iteration so it can be retrieved. Allows several people on a team to create edits in a single workspace without confusion coordinating files. 
+-** XR: Stands for Cross-reality, including virtual and augmented reality. 
+-** LINUX: Operating system favored by tech geeks. 
+-** WINDOWS:: Operating system created by Microsoft. 
+-** ADOBE AFTER EFFECTS:: Digital visual fx software. 
+-** ADOBE PREMIERE:: Industry standard film/video editing software. I have basic proficiency. 
+-** ADOBE PHOTOSHOP:: Industry standard photo and image editing software. I have basic proficiency. 
+-** BLENDER:: Open source 3D modeling and animation software. Not user friendly. 
+-** MAYA:: State-of-the-Art 3D modeling and animation software. Free for students. 
+-** C++:: Programming language heavily used by game devs. 
+-** C sharp:: Another programming language heavily used by game devs. 
+-** CSS:: Basic programming language used primarily by graphic designers and web developers. 
+-** PYTHON:: Programming language, don’t know anything meaningful about it. 
+-** JAVA:: Programming language, don’t know anything meaningful. 
+-** JS:: Can’t say anything meaningful. 
+-** WEBXR:: Can’t say anything meaningful. 
+-** WORDPRESS:: Open source website builder. I have basic proficiency. 
+-** MOBILE APPS:: Applications executable on a phone or other mobile device. 
+-** GAMING:: The enjoyment of complex multimedia entertainment projects featuring film, literary, psychology, visual art, audio design, and programming elements. 
+-** SALES:: A set of psychological tactics used to successfully sell a product to a client. 
+-** MARKETING:: Attracting a target audience to entice them to make a purchase or become aware of your company. 
+-** MANAGEMENT:: Leading, organizing and controling a group of people to achieve a common goal. 
+-** LEADERSHIP:: Using social skills and management skills to inspire and get the most out of followers. 
+-** INTEGRITY::Being true to your moral principles. 
+-** DUTY:: Being compelled by one’s principles to honor and fulfill one’s role in a situation where one is depended upon. 
+-** ETHICS:: An intellectual methodology of deciding right from wrong, or discussing the validity of absolute right and absolute wrong, using principles created by prominent philosophers.
+-
+-
+-*Paragraph your strengths and weaknesses.
+-
+-**Yuni is the team’s concept and 3D artist. She will be responsible for informing the concept development process from an artistic standpoint. She will also oversee all of the visual aspects of the project, including UX design, making 3D assets available to Daniel and Yuhao as they develop the framework for the VR experience. Yuni is still learning the basics of building game experiences in a game engine. Her current weaknesses are in software proficiency, so she will rely heavily on Daniel and Yuhao for support in learning how to construct a game framework.
+-
+-*One simple sentence describing a personal ambition for the summer.
+-
+-**I want my talent and appreciation for the fine arts to shine through in every project and for the first time, become a professional developer! =
+-
+-
+-*Interview us. What are three questions you would like answered?*
+-
+-*Why does Nova seek out interns? What does Nova seek to get out of having interns?
+-
+-
+-*What are Nova’s goals for growth for the next few years? How will Nova scale up?
+-
+-** Increase client revenue 20-40 percent, topping 100k per annum in revenue. To do this, much of it is reputation in the long and the short. In the long, that means having projects that receive attention (festival approach, monetary returns to stakeholders), in the short, that means churning out concepts that are simple, professional, and compelling (clear potential for ROI).
+-** This means more full-time partners/collaborators, and incrementally adding to the team, and shifting from a few people wearing many hats to several people having focus. Team chemistry is critical for this - and therefore the growth needs to be good growth. More people doesn’t always mean more effective.
+-
+-
+-*What are Joe’s life goals? Why did he choose to be an entrepreneur?
+-
+-** Raise a family that is happy, healthy and able to fulfill their amobitions (IE, has the time and resources to seize opportunities and nurture growth)
+-** Entrepreneur because I wish to create my own schedule, own repsonsibity for succes/failures, and not be throttled by earning potential. As an entrepreneur you own your work and can scale yourself greater. IE, there is not a limit on earning potential. Also, it’s in my blood - I’m a bit antiauthroitarian, don’t always play nice if I have to take orders from someone who isn’t themselves giving 100%. But, just coasting, doing a job good enough, blah blah, Becuase their lackadasical mentality limits their abilities, which iun turn limits my opportunities.. So, I rather be surrounded by starving artists and hustlers.
+deleted    admin/Yuni/Personal Bio for Website
+@@ -1,19 +0,0 @@
+-#+TITLE: Personal Bio for NEBULA XR Website
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*BIO*
+-
+-** Yuni grew up all around the world raised in a variety of cultural ecosystems. She credits these early experiences for her unique world view and appreciation for different perspectives—the hallmark of her personality. 
+-
+-** Yuni spends much of her free time in the study and practice of creative endeavors.
+-** She loves stories. Those dearest to her heart are titles in classical literature, especially British Literature. She can lie in bed for hours with a book and treasures the sensation of feeling absorbed into its pages. Sometimes, she writes science fiction or short stories.
+-** She loves to dissect games and films with a critical eye, watching for cinematography and thematic symbolism. She has produced a handful of short student films and has a solid grasp of the pre-production, production, and post-production process in film.
+-
+-** Yuni is in her third year of studying the Fine Arts at The City College of New York. It is her first time studying art in a formal setting. Someday, she hopes to channel her skills, passion, education and unique perspective into a fruitful career as an art director.
+-** For the Summer of 2020, Yuni hopes to be relied upon by NEBULA XR for creative vision, good ideas, and the generation of impressive art assets.
+-
+-** Outside of her career pursuits, Yuni cooks every day and renovates her condo endlessly. When she craves excitement, she spends an evening at the opera, engages strangers in deep conversation, or hops in her car and drives somewhere new. For special thrills, she hikes and kayaks.
+-** Perhaps more than anything, Yuni loves spending quality time with family, friends and her beloved felines—Stela, Misa, Oli, and Uma, who keep her company at her work desk.
+deleted    admin/Yuni/Skills Write Up
+@@ -1,16 +0,0 @@
+-#+TITLE: Yuni's Skills Description
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-** Yuni is both excited and perplexed by the emerging field of Virtual Reality and its prospects as a gaming and storytelling medium.
+-** In the world of art, Yuni finds herself moved by the work of the old masters. A traditional artist herself, Yuni is a master of drawing and sculpture. She has been drawing since she was old enough to hold a pencil, and favors the style of realism.
+-
+-** Yuni sustains skillsets which she believes are growing increasingly rare in the age of technology. 
+-
+-** She has devoted years cultivating her mastery of art theory and principles—including composition, balance, emphasis, harmony, movement, pattern, proportion, repetition, rhythm, unity, and variety.
+-** As an Electronic Design Major, she is studying to be a master of graphic design elements—such as unity, hierarchy, color, line, point, shape, texture, space, and form. She synthesizes these principles with intelligent concepts in her designs.
+-
+-** Sensing the need to join the digital era, she is now investing time learning to configure these skills inside software applications such as Adobe Creative Suite and game engines like Unreal Engine.
+deleted    admin/Yuni/Team Name Proof
+@@ -1,24 +0,0 @@
+-#+TITLE: Team Name Proof: Nebula XR
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-
+-*NEBULA XR*
+-*The NOVA Intern Team has elected to name itself NEBULA XR.
+-
+-**The name runs tangent to the astronomical definition of what a NOVA is: "...a star showing a sudden large increase in brightness.." or "a star that suddenly increases its light output tremendously" as defined by Merriam-Webster.
+-
+-**A "NOVA" is an astronomical event which is typically recognized as the point when astronomers become aware of a particular star's existence. 
+-**Symbolically, that can represent NOVA as a company that has "appeared" in the VR market by "shining brightly."
+-
+-**According to spacecenter.org, a "nebula" is "...an enormous cloud of dust and gas occupying the space between stars and acting as a nursery for new stars."
+-**In other words, it is a collection of particles(skills, talents, ambitions) which are not yet fully-formed but, through pressure and momentum, might eventually turn into stars (successful professionals).
+-**In these terms, the Nova XR's intern team can be understood to be works in progress with lots of potential.
+-
+-
+-*OTHER REASONS WHY THE NAME WORKS*
+-
+-**Nebula XR is parented by Nova XR and both start with an N.
+-**It sounds cool.
+deleted    admin/Yuni/Work Philosophy
+@@ -1,12 +0,0 @@
+-#+TITLE: Yuni's Work Philosophy
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*Yuni's Philosophy*
+-
+-**In her work, Yuni aspires to demonstrate her excellent taste, perfectionism, and natural affinity for the fine arts for which she is seeking formal training. 
+-Yuni strives to embody authenticity and humanity above all else, and believes that artists cannot create exceptional work without being brave enough to offer their whole selves, flaws and all, for scrutinizing eyes--for better or for worse.
+-Yuni believes that games are the next stage of evolution in entertainment, surpassing even film and television. Having witnessed the industry mature alongside herself over the last two decades or so, she feels an acutely personal connection to the medium. 
+-At its highest potential, she believes the enjoyment and process of game design can illuminate the human condition and human nature in a way that no other form of media can.
+deleted    admin/Yuni/YD_Signed Confidentiality Agreement.pdf
+deleted    admin/Yuni/Yuni's Seeding Philosophy
+@@ -1,47 +0,0 @@
+-
+-
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-
+-*PROVIDENT
+-** To me being provident means being efficient with time and time management, especially in planning.
+-
+-*SINCERE
+-** To me, to be sincere is to mean what you say, and not to say things that you don't mean. It is to not misrepresent onesself. It is a simple concept but difficult to implement in academic and professional circles, because these contexts demand large amounts of pretense.
+-
+-*ANTICIPATORY
+-** To me being anticipatory is having the skill of figuring out what is needed of you before you are asked.
+-
+-*GRACIOUS
+-** To me being gracious is to act with an air of courtesy and kindness, even when it is difficult.
+-
+-*AMBITIOUS
+-** To be ambitious is to set high standards and expectations for onesself and one's ventures.
+-
+-*ATTENTIVE
+-** To be attentive is to give one's full attention when it matters because it comes naturally to you, not because it is demanded.
+-
+-*CONSIDERATE
+-** To be considerate is to have a demeanor which proactively seeks to make room for the needs of others who you care for.
+-
+-*LOYAL
+-** To be loyal is to maintain fidelity to a person or group / company. To be sincere, it must be inspired by an intrinsic appreciation for that which one is being loyal to, and not coerced from fear or necessity. Loyalty is earned.
+-
+-*DETERMINED
+-** Determination is a series of internal decisions which lead a person to perservere out of desire for a cherished goal.
+-
+-*DILIGENT
+-** Diligence is the quality of exhibiting attentiveness and devotion to the quality of one's work.
+-
+-*INNOVATIVE
+-** Innovation is a thinking pattern which seeks to disrupt the status quo for some kind of benefit.
+-
+-*CREATIVE
+-** Someone who is creative is inclined to generate something where there before was nothing, or to assemble pieces of something into something new. It is most often associated with artistic fields but in reality can apply to any craft in any field.
+-
+-*RESOURCEFUL
+-** Someone who is resourceful is good at using what they currently have at their disposal to solve problems or produce solutions to dilemmas.
+deleted    admin/Yuni/yuni.org
+@@ -1,64 +0,0 @@
+-#+TITLE: Fitting Into Nova Workflow
+-#+AUTHOR: Yuni Dijamco
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Org Mode Basics)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*FITTING INTO NOVA WORKFLOW*
+-*Without doing research, one sentence that expresses what you know about:
+-
+-** TEAMSHIP: Can’t say anything meaningful about this. 
+-** EMACS: Has to do with ORG mode, don’t know anything meaningful about it. 
+-** GIT: Versioning tool. Saves each iteration so it can be retrieved. Allows several people on a team to create edits in a single workspace without confusion coordinating files. 
+-** XR: Stands for Cross-reality, including virtual and augmented reality. 
+-** LINUX: Operating system favored by tech geeks. 
+-** WINDOWS:: Operating system created by Microsoft. 
+-** ADOBE AFTER EFFECTS:: Digital visual fx software. 
+-** ADOBE PREMIERE:: Industry standard film/video editing software. I have basic proficiency. 
+-** ADOBE PHOTOSHOP:: Industry standard photo and image editing software. I have basic proficiency. 
+-** BLENDER:: Open source 3D modeling and animation software. Not user friendly. 
+-** MAYA:: State-of-the-Art 3D modeling and animation software. Free for students. 
+-** C++:: Programming language heavily used by game devs. 
+-** C sharp:: Another programming language heavily used by game devs. 
+-** CSS:: Basic programming language used primarily by graphic designers and web developers. 
+-** PYTHON:: Programming language, don’t know anything meaningful about it. 
+-** JAVA:: Programming language, don’t know anything meaningful. 
+-** JS:: Can’t say anything meaningful. 
+-** WEBXR:: Can’t say anything meaningful. 
+-** WORDPRESS:: Open source website builder. I have basic proficiency. 
+-** MOBILE APPS:: Applications executable on a phone or other mobile device. 
+-** GAMING:: The enjoyment of complex multimedia entertainment projects featuring film, literary, psychology, visual art, audio design, and programming elements. 
+-** SALES:: A set of psychological tactics used to successfully sell a product to a client. 
+-** MARKETING:: Attracting a target audience to entice them to make a purchase or become aware of your company. 
+-** MANAGEMENT:: Leading, organizing and controling a group of people to achieve a common goal. 
+-** LEADERSHIP:: Using social skills and management skills to inspire and get the most out of followers. 
+-** INTEGRITY::Being true to your moral principles. 
+-** DUTY:: Being compelled by one’s principles to honor and fulfill one’s role in a situation where one is depended upon. 
+-** ETHICS:: An intellectual methodology of deciding right from wrong, or discussing the validity of absolute right and absolute wrong, using principles created by prominent philosophers.
+-
+-
+-*Paragraph your strengths and weaknesses.
+-
+-**Yuni is the team’s concept and 3D artist. She will be responsible for informing the concept development process from an artistic standpoint. She will also oversee all of the visual aspects of the project, including UX design, making 3D assets available to Daniel and Yuhao as they develop the framework for the VR experience. Yuni is still learning the basics of building game experiences in a game engine. Her current weaknesses are in software proficiency, so she will rely heavily on Daniel and Yuhao for support in learning how to construct a game framework.
+-
+-*One simple sentence describing a personal ambition for the summer.
+-
+-**I want my talent and appreciation for the fine arts to shine through in every project and for the first time, become a professional developer! =
+-
+-
+-*Interview us. What are three questions you would like answered?*
+-
+-* Why does Nova seek out interns? What does Nova seek to get out of having interns?
+-
+-
+-* What are Nova’s goals for growth for the next few years? How will Nova scale up?
+-
+-** Increase client revenue 20-40 percent, topping 100k per annum in revenue. To do this, much of it is reputation in the long and the short. In the long, that means having projects that receive attention (festival approach, monetary returns to stakeholders), in the short, that means churning out concepts that are simple, professional, and compelling (clear potential for ROI).
+-
+-
+-** This means more full-time partners/collaborators, and incrementally adding to the team, and shifting from a few people wearing many hats to several people having focus. Team chemistry is critical for this - and therefore the growth needs to be good growth. More people doesn’t always mean more effective. nb
+-
+-* What are Joe’s life goals? Why did he choose to be an entrepreneur?
+-
+-** Raise a family that is happy, healthy and able to fulfill their amobitions (IE, has the time and resources to seize opportunities and nurture growth)
+-** Entrepreneur because I wish to create my own schedule, own repsonsibity for succes/failures, and not be throttled by earning potential. As an entrepreneur you own your work and can scale yourself greater. IE, there is not a limit on earning potential. Also, it’s in my blood - I’m a bit antiauthroitarian, don’t always play nice if I have to take orders from someone who isn’t themselves giving 100%. But, just coasting, doing a job good enough, blah blah, Becuase their lackadasical mentality limits their abilities, which iun turn limits my opportunities.. So, I rather be surrounded by starving artists and hustlers.
+deleted    admin/confidentiality agreement-fellowship2020.pdf
+deleted    admin/fitting-into-nova-workflow.org
+@@ -1,70 +0,0 @@
+-
+-
+-** Without doing research, one sentence that expresses what you know about:
+-
+-** Due by the end of Day June 3
+-
+-- Teamship
+-
+-- Emacs
+-
+-- Git
+-
+-- XR
+-
+-- Linux
+-
+-- Windows
+-
+-- Adobe After Effects
+-
+-- Adobe Premiere
+-
+-- Adobe Photoshop 
+-
+-- Blender
+-
+-- Maya
+-
+-- C++
+-
+-- C sharp
+-
+-- CSS
+-
+-- Python
+-
+-- Java
+-
+-- JS
+-
+-- Webxr
+-
+-- Wordpress
+-
+-- Mobile apps
+-
+-- Gaming
+-
+-- Sales
+-
+-- Marketing
+-
+-- Management
+-
+-- Leadership
+-
+-- Integrity
+-
+-- Duty
+-
+-- Ethics
+-
+-*** Paragraph your strengths and weaknesses.
+-
+-*** One simple sentence describing a personal ambition for the summer
+-=
+-*** *Interview us.* What are three questions you would like answered?
+-
+-
+-
+deleted    admin/in-office-G.org
+@@ -1,123 +0,0 @@
+-#+Title: Grace Cham Intro
+-#+Author: Nova Media
+-#+INCLUDE: "../print/doctype-memo.org"
+-{{{subtitle(Background)}}}
+-{{{date(October 2018)}}}
+-{{{theme-color(874c6d)}}}
+-
+-
+-** 10AM - Introduction
+-** 11AM - House Keeping
+-** 12PM - VR Set up
+-** 1 PM - Lunch
+-** 2 PM - Proposals
+-** 4 PM - Rigging Models + Lesson Plan
+-** 5 PM - Wrap Up
+-
+-{{{pagebreak}}}
+-
+-* Introduction
+-** General overview
+-
+-We serve brands, governments and individuals get involved with immersive media.  We do some prototyping and design work in house but our core focus is on business development.
+-
+-We are always to further our network of develoeprs, artists and media, so we can connect them appropriately with campaigns clients hire us to execute.
+-
+-** Expectations
+-
+-- Self-started
+-- Self accountable
+-- Be honest
+-- Sincere
+-- On time
+-
+-
+-Nova is a laid back environment, but we are still about our work.  What we like most, so far, about you Grace is your energy and enthusiasm to help Nova grow.
+-
+-Be sure to always speak your mind and let us know if you have any questions or concerns as they arise.
+-
+-Step up wherever you see an opportunity.  The best relationships maiximuze everyone's skills and potential.  
+-
+-One of our biggest time killers is troubleshooting hardware.  If this is an area you can step up.
+-
+-You'll fail at times.  That is OK ;) we all do.  What matters is reflecting and learning on how to improve next time.  We're strong advocates of taking responsibility for everything that happens - good/bad/otherwise - as when you accept full responsibility, you give yourself the responsibility, you give yourself the power to change
+-
+-** Weeks to come
+-
+-- 3D Printer
+-- Review first sheet
+-- Outside nova work
+-- 
+-{{{pagebreak}}}
+-
+-* Basics
+-
+-** Passwords
+-Passwords are mostly "dreamawake" or "DreamAwake".  If you find a login doesnt work shoot me a discord.
+-
+-** Door code:
+-
+-7249
+-
+-** Github
+-
+-We use github as our versioning tool for documents - Are you familiar with GIT?  If not, please read first 3 chapters of Git Pro.   
+-
+-** Contacting Nova
+-
+-Reach out anytime, day or night.
+-
+-
+-Joe@novamedia.nyc  | 201-247-7619
+-Kyle@novamedia.nyc | ‭203-619-1888‬
+-
+-481 Van Brunt, Unit 7D
+-Brooklyn, New York 11231
+-
+-Discord: N0vaJ0e #9391
+- 
+-* Resources
+-
+-**Timeline:** https://nova-vr-tests.github.io/static_assets/gantt/index.html
+-
+-**Github** https://github.com/mecs13/NOVAPROPOSALBUILDING
+-
+-
+-
+-
+-{{{pagebreak}}}
+-
+-
+-
+-
+-
+-**Steam**
+-**Oculus**
+-**Adobe**
+-**Vegas**
+-
+-
+-
+-
+- 
+-*** Nova Logistics
+-**Git pro**
+-
+-**Dropbox**
+-
+-**Telegram**
+-
+-
+-
+-
+-
+-**Instagram**
+-
+-**Facebook**
+-
+-**Twitter**
+-
+-
+-
+-- officer equipment
+-- business model
+deleted    admin/seeding-philosophy.org
+@@ -1,33 +0,0 @@
+-=#+TITLE: Seeding Philosophy
+-#+AUTHOR: nova
+-#+INCLUDE: “../print/doctype-memo.org”
+-{{{subtitle(Nova XR)}}}
+-{{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-*PROVIDENT*
+-
+-*SINCERE*
+-
+-*ANTICIPATORY*
+-
+-*GRACIOUS*
+-
+-*AMBITIOUS*
+-
+-*ATTENTIVE*
+-
+-*CONSIDERATE*
+-
+-*LOYAL*
+-
+-*DETERMINED*
+-
+-*DILIGENT*
+-
+-*INNOVATIVE*
+-
+-*CREATIVE*
+-
+-*RESOURCEFUL*
+deleted    admin/team/June14-teammeet.org
+@@ -1,56 +0,0 @@
+-* Review
+-
+-** Development Notes
+-
+-- Architectural and Nervana prototype launched
+-- What did we learn new this week?
+-- What feature polishing is happening this week?
+-
+-
+-** Business Notes
+-- No new strategy or plan
+-- Lack of direction.
+-- Looking at audiences and legal.
+-- Looking for a definitve objective
+-
+-We have to present new formalized ideas (like the executable prototype)
+-
+-** Clear Direction.  
+-
+-Core Objectives
+---  Proud of Project.  completed
+---  Globally makes something more accessible/convenient
+-
+-Features:
+---- Remote access to products/services/people
+---- Educate by demonstrating the benefits of XR
+---- Exprerience something in a greater capacity
+---- Data collection
+---- Prove the more resilient city
+-
+-
+-* Product:
+-
+-VR experience that facilitates trade between interior deigners, retailers and consumers.
+-
+-Scalable, as anyone who sells or buys products/services can benefit.  
+-
+-This innovates in a challenged industry, retail.
+-
+-* Market:
+-
+-Retail is in need of developing "experience" to return market share from logistics companies.  
+-
+-This product returns can return sales immediately through direct sales.
+-
+-It has large market potential, as it can scale to furniture sales, all home interior, all retail of physical goods.  
+-
+-Prospective Enterprise customers:
+-Kartell, Home Depot, Ikea:  (Compile a list of 100)
+-
+-- Bill Lennie, Executive Vice President, Outside Sales and Services at The Home Depot - https://www.linkedin.com/in/bill-lennie-8710b34a/
+-
+-Prosective Investors:
+-
+-Technology Venture Capital, Angels, Family Offices 
+-- Surjeet Singh CEO Subex Limited, Previously CFO Patni Computers Limted - https://www.linkedin.com/in/surjeet-singh-b789b/
+deleted    admin/team/housekeeping-June10.org
+@@ -1,36 +0,0 @@
+-
+-#+TITLE: House Keeping
+-#+AUTHOR: Nova Media 
+-#+INCLUDE: "../print/doctype-proposal.org"
+-{{{subtitle(10 June 2020)}}}
+-{{{theme-color(4b7985)}}}
+-
+-*** Meetings - structure is the key to creativity.  -   
+-
+-Take and share notes/agenda/objectives before.  Finish meet with clear takeaways and action steps.
+-
+-*** ALL Fitting Into nova, Headshot, philosophy, strengths/weaknesses
+-
+-*** ALL Video Blogs - what you admire most about your team.
+-
+-This is to focus on gratitude, understanding each other's value and expressing appreciation
+-*** Discord - direct and topical channels
+-**** JM DL and log into discord on all devices
+-*** Individual take-aways from last week
+-
+-Mei Learned more about the development process/
+-Ibti - Learned about constant communication is key for deadline hitting
+-Yuni - Prioritizing tasks without becoming overwhelmed.
+-Danny -  Grass roots development process, and the importance of communication because everything is interconnected
+-Yuhao -  Effectively work, collaborate and remotely debug remotely. 
+-
+-*** ALL Skills:  ~100-300 words describing your skills, talents re XR  
+-- This is going to go on the webpage Marwa is making.  IE it is public facing
+-
+-*** ALL Confidentiality agreement 
+-
+-*** JM Send team sample of business models for their brain storming 
+-
+-*** ALL NerveVana .2 Monday
+-*** YC Architectural Prototype
+-
+deleted    fitting-into-nova-workflow_DH.org
+@@ -1,76 +0,0 @@
+-
+-
+-** Without doing research, one sentence that expresses what you know about:
+-
+-** Due by the end of Day June 3
+-
+-- Teamship
+-Interdependibility. All about a positive environment that inspires creativity and pushing eachother.
+-- Emacs
+-Text editors.

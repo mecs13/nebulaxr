@@ -1,0 +1,22 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Tuesday 6/23/2020
+* Accomplished:*
+** DONE: Actively corresponding with team and Joe using Discord
+** DONE: Researched and learned more about the Export System 
+** DONE: Researched and looked into the competitive game theory concept 
+** DONE: Researched and looked into data visualization
+** DONE: Uploaded vlog 14 and 15 to GDrive 
+*To-DO*
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Continue to expand on the NYE document of production 
+** TODO: Research about sonic haptics 
+** TODO: Research about "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Attend SEO meeting with Ibti & Marwa
+** TODO: Upload vlog 16

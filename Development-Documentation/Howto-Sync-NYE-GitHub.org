@@ -1,0 +1,28 @@
+#+TITLE: Instructions for Syncing Unreal Project to GitHub
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+* How to Sync NYELobbyExperience to Github for Versioning
+** by Yuhao Chen
+<2020-07-01 Wed>
+-----
+
+1. Download git - /select where you want to install it but keep everything else default./ [[https://git-scm.com/]]
+
+2. Download git lfs. [[https://git-lfs.github.com/]]
+
+3. After installing git lfs, search and open *git bash* on your start menu and type in: *git lfs install*
+
+4. Download git desktop. [[https://desktop.github.com/]]
+
+5. Log in with your github account and *clone the nova-fellowship2020 repository.* The project is the *NYE LOBBY folder* so open the *LOBBY.uproject* in it for UE4.
+
+6. Once UE4 is initiated, in the top ribbon to the left, *click on SOURCE CONTROL* and *ADD a source control to the project.* 
+
+7. Select git as the provider. If git path is blank, navigate to where you installed git, open the bin folder, and select *git.exe* and accept the settings. /You'll know if source control has been properly set up when the red x next to souce control turns into a green up down arrow./
+
+8. You're set to work on the project now, but after every work session, remember to click on *SOURCE CONTROL* and select *SUBMIT TO SOURCE CONTROL.*
+
+9. After that, head back over to Github Desktop, *commit those changes to the master, and push to origin.*

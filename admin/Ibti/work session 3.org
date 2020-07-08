@@ -1,0 +1,15 @@
+#+TITLE: Work Session 3
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Thursday June 25th*
+
+* Set up Google Meet
+* Met with Marwa and Mei
+* Began experimenting with HTML
+* Created menu on original page without having to clone site 
+* Began editing webpage with Divi Builder
+* Began editing text for menu options 
+* Backed up HTML on clone site

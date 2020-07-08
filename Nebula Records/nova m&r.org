@@ -1,0 +1,113 @@
+#+TITLE: Nervevana Research
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(m&r)}}}
+{{{theme-color(4b7985)}}}
+
+* COMPETITION 
+
+** GENERAL COMPETITORS
+-	OCULUS VR
+-	GOOGLE
+-	NEW YORK TIMES
+
+** SPECIFIC COMPETITORS
+-	MYND VR
+-	WORLD VIZ
+-	WEVR
+-	HTC VIVE
+
+{{{pagebreak}}}
+
+* STRATEGY
+
+** SPECIALTIES
+our experience is: 
+-	REMINISCENT
+-	THERAPEUTIC
+-	FUTURISTIC
+-	PANORAMIC
+-	BREATHTAKING
+
+** MARKETING TACTICS
+
+***	SEO MARKETING
+-	backlinks, metadata, keywords
+-	sample tags for steam include meditation space, meditation room, reminiscent, breathtaking, zen, onlyinVR, therapeutic, and scenic
+
+***	80/20 RULE
+-	we’ve identified a target demographic; over time we will begin to tailor our product to meet their demands using data we collect via their analytics
+   -	we can also work to identify niches within this demographic and formulate ad campaigns to further secure their support and build our brand
+-	our advertising can be focused on platforms and countries that host the majority of our consumer base
+   -	targeting ads will alleviate some budgeting concerns
+
+{{{pagebreak}}}
+
+***	ADVERTISING
+-	Social Media campaign
+   -    we will be tying in current events to demonstrate our product’s use value (covid-19 angle, a space beyond quarantine) 
+-	Influencer marketing 
+   -    can be implemented on a local, regional, or international basis
+   -	can be targeted more effectively via the use of specific and general hashtags
+   -	we would target influencers predominant in the gaming/VR industry with existing platforms that specialize in reviewing/demoing experiences
+	   -    we would either provide them with our service free of charge for a month or so, or demo our experience at VR events in which influencers would be already be in attendance
+	
+*** CONSULTATION SERVICES
+-	we are offering free consultation services 
+   -    will help verse customers in how best to navigate our experience, making our model more accessible to those who are otherwise unfamiliar with VR 
+
+{{{pagebreak}}}
+
+* REPORTING
+
+** MEASURING SUCCESS
+
+-	STEAM + GOOGLE ANALYTICS
+   -	ideally, we’ll be able to measure the efficacy of our SEO marketing tags and track our engagement over time
+-	OUR WEBSITE
+   -	any data gained via our website will indicate our proficiency at marketing beyond Nervevana on Steam and indicate whether we’ve retained a substantial amount of our audience (as projected via our analytics from other websites/search engines) 
+   -	we can also host surveys and monitor reviews related to our experience, and adjust aspects of our game according to their prevalence and precedence 
+-	FINANCES
+   -    monitoring subscriptions among our users, especially new subscriptions to gauge our growth
+   -	evaluating our model according to revenue and outside investment
+
+{{{pagebreak}}}
+
+* DESIGN
+
+** ENVIRONMENT
+
+- ENVIRONMENTAL PSYCHOLOGY
+    -	primarily concerns architectural design and general aesthetics that are used to shape one’s experience and perception of a space
+    -	can be used to inspire positive place attachment 
+        -	this is ideal for a VR experience like ours, a subscription-based service reliant on continued patronage
+    -	natural environments, particularly mountainesque environments paired with waterscapes, are shown to be preferential and tranquil among samples
+        -	our landscape is naturalistic, with both waterscapes and greenery
+- IMMERSION
+    -	relative to game design concerns flow, cognitive absorption, and presence
+        -in our menu design, we were careful to implement features that did not break the immersion of our experience
+    -   can be boosted with a harmonious color scheme and working understanding of color psychology 
+        -	we focused our palette on earth tones, as is evident in our logo and graphics in engine 
+        -	green especially is noted for its association with relaxation and comfort, which we did include
+- SOUND AND GRAPHICS
+    -	motion, sound, and graphics are all shown to contribute to the dynamism of an environment
+        -	we opted for a master with both looping ambient sound and a piano instrumental
+        -	we preferred a natural landscape with realistic textures to a hyper realistic model, this is evident in our environment’s production and development
+
+{{{pagebreak}}}
+
+** EFFICACY
+
+*** BUSINESS MODEL
+-	COMPETITIVE ADVANTAGE
+    -	though our model is mainstream, we will be able to edge out our competitors through our emphasis on affordability, immersion, customization, and interactivity
+        -	we’ve implemented a menu design feature that can easily be toggled out of so as not to continuously disturb the landscape, and the user can more freely navigate the environment
+        -	our competitors have focused on meditation and wellness to boost the use value of their products, in crafting a simple and soothing landscape we have made our model more flexible
+        -	our marketing is more current, and in opting for a subscription-based model our product is more affordable versus experiences that charge by the session or hour
+
+*** SOURCES
+-	HTTPS://WWW.NCBI.NLM.NIH.GOV/PMC/ARTICLES/PMC6423066/
+-	HTTPS://WWW.SCIENCEDIRECT.COM/SCIENCE/ARTICLE/ABS/PIP/S0272494405802518?VIA%3DIHUB
+-	HTTPS://WWW.SCIENCEDIRECT.COM/SCIENCE/ARTICLE/ABS/PIP/S0272494485800244
+-	HTTPS://WWW.SCIENCEDIRECT.COM/SCIENCE/ARTICLE/ABS/PII/S0272494405800647
+-	HTTPS://WWW-SCIENCEDIRECT-COM.CCNY-PROXY1.LIBR.CCNY.CUNY.EDU/SCIENCE/ARTICLE/PII/S1875952118300417

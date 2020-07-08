@@ -1,0 +1,32 @@
+#+TITLE: Work Session Notes
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*Work Session Friday Notes 6/26 10AM - 4AM*
+
+*COMPLETED*
+
+** PC PROBLEM INDENTIFIED - it was the graphics card
+** Reinstalled drivers for graphics card
+** Uninstalled and reinstalled Unreal Engine and Epic Game Launcher
+** Started day formatting project settings and importing all assets into it, again
+** Rebuilt initial aesthetic design including about 80% of valuable assets
+** Refined design to satisfactory point for week 2
+
+*SETBACKS*
+
+N/A
+
+*NOTES*
+
+** Need to reduce size of asset folders - remove everything except what is currently being used
+** Figure out how to deal with file transfer in the future when project gets bigger
+** Send screencaps to team to keep them in the loop.
+
+*OBJECTIVE*
+
+** Upgrade Drive or Dropbox
+** Get the file over to Yuhao somehow

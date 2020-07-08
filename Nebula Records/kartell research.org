@@ -1,0 +1,50 @@
+#+TITLE: Kartell Research
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(competition)}}}
+{{{theme-color(4b7985)}}}
+
+* https://design-milk.com/how-virtual-reality-is-changing-the-world-of-interior-design/
+
+** brief overview of existing competition and applications of VR in interior design
+** demonstrated use value in presenting designs to non-professionals which may aid in securing future business (potential marketing tactic?)
+
+* https://www.primer.com
+
+** partnered with home good professionals and artists (Hygge & West, etc)
+** augmented reality app for previewing wallpaper, paint, tiles, and textures
+** selling points are sustainability, visualization, and the ability to make in-app purchases
+** by partnering with other companies that offer a wider range of services we can boost our models use value and its commercial prospects, this also serves as evidence for the commercial viability of our project
+
+* https://www.decormatters.com
+
+** also an augmented reality app with an algorithm that more directly addresses user needs (less work for retailers with this feature)
+** partnered with over 30 brands, so well-established within the industry and has also expanded user base by partnering with college design programs for enhanced instruction
+** with our vr experience, we could try to boost functionality and create a more sophisticated model
+** https://nonagon.style/interior-design-app-review-decormatters/ (review detailing weaknesses with AR)
+
+* https://rooomy.com
+
+** services retailers, interior designers, and real estate professionals
+** partnered with matterport (3D + 360 real estate VR and photo capture) - the advantage of both VR and retail connections
+** boasts versatility as an advantage for staging homes
+** interior design service also hosted on an AR app
+
+* https://www.hok.com/news/2018-03/introducing-the-hok-vr-app/
+
+** pan and VR viewing options
+** app available on apple and android products
+** well-established in architecture and design, well-connected domestically and internationally (an existing network, as experts they are able to model things in-house and cater to other businesses/retailers/firms more accurately using their expertise, fortunately most of their business is devoted to architectural design vs home decor, does limit potential applications for future iterations of kartell)
+
+* https://kei-studios.com
+
+** most similar to our model, have developed AR and VR experiences in our fields of interest (architecture, construction, interior design)
+** can view demos (https://kei-studios.com/vr-portfolio/)
+*** homes are pre-designed (service aimed at designers who are selling to customers) and have tooltips to describe furniture and products - our customization may help make the experiences more engaging (allowing users to move furniture to  their liking) but a tooltip may be a nice addition for increasing interactivity + model production value
+** does not partner with retailers
+
+* ways to diversify our model going forward
+
+** seeing as the most prominent models are apps, if we are to prefer headsets (beyond google cardboard) we should do more to make our environment more interactive.
+** perhaps pitching to retailers and home good stores to set up a VR “booth” instead of their stages (similar to real estate in that retailers could save time, money, and effort and our model would be easily duplicated/adjusted as needed)
+** allow users to shift/orient furniture differently in the environment (presentations can be prioritized depending on the model, but it would broaden our application if we were to allow users the option to engage with the environment as is or to adjust it according to their preferences)

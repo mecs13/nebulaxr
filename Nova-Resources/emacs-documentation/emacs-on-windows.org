@@ -1,0 +1,28 @@
+These are instructions on how to put emacs (OK, really spacemacs) onto a windows machine.
+
+-- Download emacs: https://www.gnu.org/software/emacs/download.html
+----  which will lead you to here: http://mirrors.ocf.berkeley.edu/gnu/emacs/windows/emacs-26/
+most recently, we have downloaded and successfully used this version: emacs-26.1-i686.zip	
+
+-- unzip
+
+
+- In the file explorer (or via terminal if your prefer) *Users--> App Data--> Roaming*
+      (if you don't see the "roaming" file, it may be hidden.  go to FOLDER OPTIONS, and under thre VIEW tab you can change this.)
+
+- change ".emacs.d" to ".emacs.d.old" and install the new emacs configuration by using the terminal (command line) to (in the same directory users--> app data -->roaming) and use the command: git clone https://github.com/syl20bnr/spacemacs .emacs.d
+
+**
+
+- then set the controls to VIM (or whatever your prefer, nova uses VIM in our documentation, also known as EVIL mode.
+
+Instructions with pictures are also found here: https://simpletutorials.com/c/2758/How+to+Install+Spacemacs+on+Windows
+
+
+
+** --- If you get this message:
+'git' is not recognized as an internal or external command, operable program or batch file.
+then you need to add the Git bin directory (C:\Program Files\Git\bin) to your path.
+
+
+How to Add Python 3 directories to your PATH in Windows 7 https://simpletutorials.com/c/1608/How%20to%20Add%20Python%203%20directories%20to%20your%20PATH%20in%20Windows%207

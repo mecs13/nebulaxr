@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Tuesday 6/16/2020
+*Accomplished*
+** DONE: Uploaded Vlogs 11, 12 and 13 to Drive
+** DONE: Uploaded 6/11 and 6/12 10/10s to git
+** DONE: Reviewed meeting notes from 6/15 posted on git
+** DONE: Spoke with team about project direction to get caught up
+** DONE: Suspended Nervevana research, new priority is Kartell
+** DONE: Started formulating ways to measure our success going forward (# of users, partnerships, products sold)
+** DONE: Started identifying weak points in existing VR/AR models
+** DONE: Started drafting research related to existing competition (early stages)
+** DONE: Identified areas for future concept research (aesthetics, theories behind interior design)
+** DONE: Completed loose POA for research in preparation for meeting tomorrow
+*To-Do:*
+~* IC~: Attend team meeting and present POA to Joe
+~* IC~: Attend 1o1 and address any concerns related to ongoing/new projects
+~* IC~: Catch up on reporting and admin
+~* IC~: Determine viability of Kartell project at this stage of development
+~* IC~: Film and upload Vlog 14 to drive
+~* IC~: Continue market/concept research for Kartell
+~* IC~: Update Taskade with new week
+~* IC~: Complete Intern Level Up and email to Yuni
+~* IC~: Meet with team following presentation to establish priorities for the week
+~* IC~: Agree upon the week's schedule for development

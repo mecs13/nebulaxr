@@ -1,0 +1,39 @@
+
+* Updating VRTK For use in Unity 2019.2
+
+In order to use VR for the Interviews, I needed to figure out how to get the main tool used for XR on Torus, the VRTK kit, into Unity 2019.2
+
+The information I got for this was provided to me through the VRTK github and the VRTK Slack
+
+Here's the link for both: https://github.com/ExtendRealityLtd/VRTK
+
+The current version of VRTK on the asset store at the time of this writing is version V3. In order to use it, you will need this specific version of SteamVR:
+
+https://github.com/ValveSoftware/steamvr_unity_plugin/releases/download/1.2.3/SteamVR.Plugin.unitypackage
+
+Also, you will need to go to the Unity Package Manager (accessible through the Window Tab), and enable the following packages:
+
+-TerrainPhysics
+
+-AI
+
+With that, we got VRTK working on the same Unity3d version as the Dkvfx project
+
+Next we need to get the Oculus Integration package from the Unity Asset Store
+
+go to the Unity Package Manager (accessible through the Window Tab), and enable the following packages:
+
+-Video
+
+-Android JNI
+
+Afterward, Reimport All to get everything ready.
+
+
+** Making of the Smoke Effects for the Exist Website:
+
+References Being Used:
+
+https://chameleon.media/en/
+
+Main Reference for the effects being made

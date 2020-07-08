@@ -1,0 +1,45 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*Work Session Thursday 6/25 10AM-12AM*
+
+
+*COMPLETED*
+
+
+** Did some sketching to decide layout for the game actors.
+** Started day formatting project settings and importing all assets into it
+** Built out initial aesthetic design including about 80% of valuable assets
+
+
+*SETBACKS*
+
+
+** MINOR setbacks: skybox not playing nice, floating asteroids with landscape materials? Got things to look beautiful despite setback.
+** MAJOR setback occured at 5:30 PM after 6 hours of work. PC crashed while saving--project file corrupted, Unreal unable to read it. Designs lost!
+** MAJOR setback 2: PC begins a continual reboot cycle when I try to launch Unreal.
+** MAJOR setback 3: EPIC games erases my project files from the cloud without my authorization, INCLUDING the Declan Sample!
+
+
+*NOTES*
+
+
+** This started out as a minor issue with Unreal crashing while I was building the Declan sample on Monday. That issue was self-limiting...a nuisance, but didn't jeopardize my work flow.
+** Spent the later half of the evening today attempting to diagnose the issue...tried uninstalling and reinstalling Unreal. Didn't solve the problem.
+** Tried messing with project settings in Unreal following advice gathered from Unreal forums...no dice.
+** Faulty PSU?
+** BACK UP PROJECT FILES FROM NOW ON.
+
+** Spoke with Yuhao briefly, couldn't diagnose. Yuhao is very busy building and testing a system for the game on his end. Will need my design within a couple days.
+
+
+*OBJECTIVE*
+
+
+** Resolve techincal issues within a DAY, another day of production CANNOT be lost to these issues.
+** Will buy a replacement PC if I cannot fix this one.
+** Contact EPIC Games with project erasure issue.

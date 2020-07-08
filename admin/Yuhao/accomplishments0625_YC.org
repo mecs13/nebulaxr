@@ -1,0 +1,28 @@
+#+TITLE: Thursday 06/25/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Finished material changing system
+** DONE: Implemented visibility toggle on static meshes tagged with interactability 
+** DONE: Debugged cursor spawn issue
+** DONE: Discussed asset selection with Yuni
+** DONE: Discussed storyboarding and environment design with Yuni
+** DONE: Began work on sliceable and destructible static meshes
+** DONE: Reworked interaction system so player must be overlapping object with hand to pick up
+** DONE: Increased the grab range of the player
+** DONE: Updated item interaction system to work coherently with material changing system
+** DONE: Bound a forward vector to blueprint gun and configured projectiles to eject from that vector with impulse
+*To Do*
+** YC: Create a plane object to slice through procedural static meshes
+** YC: Playtest procedural system using sword to cut through static meshes
+** YC: Inject more pickupable items into the level
+** YC: Customize certain objects such as the gun or sword to snap into the hand when picked up
+** YC: Expand on the interact inventory system
+** YC: Begin building the object body inventory system
+** YC: Port the level design by Yuni to VR and debug potential issues
+** YC: Research a reliable way to collaborate on UE4
+** YC: Update changelog on NYE lobby and systems
+** YC: Playtest all current systems for bugs

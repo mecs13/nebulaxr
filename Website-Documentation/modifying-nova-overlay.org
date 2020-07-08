@@ -1,0 +1,40 @@
+
+* How to modify the Nova Overlay plugin
+
+/In order to modify the Nova Overlay, the following steps need to be followed:/
+
+(1) In the My accounts tab of the Siteground account, go to the Cpanel
+
+(2) Go to the File Manager option
+
+(3) look for the following files:
+
+Public_html > wp-content > plugins > nova-overlay > nova-overlay.css
+
+Public_html > wp-content > plugins > nova-overlay > nova-overlay.php
+
+Public_html > wp-content > themes > Divi-child02 > style.css
+
+These files are the main files that handle the plugin’s appearance
+
+(4) In order to easily identify what to change to modify the UI, use the Inspect option by right-clicking on the element you want to change on the website. There, use the options to check which of these scripts need to change and how they need to change.
+
+
+** Obtaining the SSL Certificate for a wensite through Sitegrounds
+
+/for reference, check this link: https://www.siteground.com/tutorials/getting-started/install-a-certificate//
+
+*** SSL Certificates 
+
+(1) Let’s Encrypt is a certificate authority which provides people with the security certificates, needed for enabling HTTPS (SSL/TLS) for their websites.
+
+(2) To get your SSL, you can go to Cpanel > go to the Security section, and select Let's Encrypt
+
+(3) From there, select the domain you want to give an SSL to in the select domain option, select Let's encrypt and press confirm
+
+
+---
+
+There are also options for paid SSL, which provide higher levels of protection for a domain, but they cost a hefty amount, so they are only recommended for dedicated websites
+
+To read more, go to Services tab, scroll down and then select the Learn More option besides SSL

@@ -1,0 +1,23 @@
+* TRANSLATIONS
+** MS Translate video 1 speach to english speach - 00125.MTS
+** MS Write the English equivalence into text file. 00125.MTS
+** MS Time stamp the text file 00125.MTS
+** MS Translate video 1 speach to english speach - 00040.MTS
+** MS Write the English equivalence into text file. 00040.MTS
+** MS Time stamp the text file 00040.MTS
+** MS Translate video 1 speach to english speach - 00095.MTS
+** MS Write the English equivalence into text file. 00095.MTS
+** MS Time stamp the text file 00095.MTS
+
+* WORDPRESS WEBSITE
+** MS Log into wordpress and update user profile information
+** MS Watch 3 Divi-Wordpress tutorials.
+** MS Create a new page with the divi builder.
+** MS Upload your teams photos and write something nice about each of them (this is just a draft)
+** MS Publish the draft and send me the link
+
+* VIRTUAL REALITY WEBSITE
+** MS set the slideshow component to a fixed height so we can see the whole thing
+** MS figure out how to change fonts
+** MS change the color of “ABOUT” and “MORE CONTENT” when mouse hovers and change the cursor to a pointer
+** MS make the home page take up the whole screen, so there's no scrolling available

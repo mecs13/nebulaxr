@@ -1,0 +1,17 @@
+#+TITLE: Weekly Objectives
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Objectives)}}}
+{{{theme-color(4b7985)}}}
+
+* Monday June 22nd
+
+** yuhao- get systems working in VR, create VR demo that demostrates functionality or visual environment depending on time, barron project
+
+** daniel- help streamline development process, complete tasks delegated by yuhao + joe 
+
+** ibti- seo + formatting, key word density, MMORPG research, gaming psychology + environmental psychology depending on visuals
+
+** mei- assistance with seo, research, finances, barron project with yuni + yuhao
+
+** yuni- barron project with mei and yuhao, continued design for sandbox and intern lvl-up pages

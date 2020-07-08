@@ -1,0 +1,42 @@
++# TITLE: June 29 Team meet Notes
++# Authout: JRM
+
+
+- high end haptics. 
+
+- There lower end products - 450. -- marketing oportunity with a viewing party.   Do this with Mei
+
+Drivable Hot airballoon for flight and into wormholes to enter stream.  
+
+Design. -- Images and pictures.
+
+** Website 
+-  Demo video/images. 
+-  Nonstatic
+-  Present it as a Game that will be purchased.  Description specs. 
+- Direct link to DL or play the game (visually attractive).
+-  Game Play trailer.- Cinematic. 
+-  External link for the SEo 
+-  Breakdown of responsibilites of the team.   
+-  Link back to NYE page within Nova (and nova external page).
+
+-  Connect to social media links.  ( learn more about other cultures NYE).
+-  TImeline of it's future development.  
+
+
+-- Count down timer. 
+
+
+
+* Systems to implament.
+- item interaction (pickup items)
+- collision based interaction (collide and something happens)
+- Blueprint gun (projectile event trigger)
+- Object capable of sliceing through meshes.  Once sliced, 
+- parqore .  fall in one place and enter into another one. 
+
+* Next Steps:
+ - bring in the systems into the VR world. 
+ - Debugging so its successful, polishing and implamenting
+- More Sophisticated, closer to complete layout of the system. Advancement of the system .  Improved foliage.  Improved lighting.  Some 
+- Curiosity motivator, and hero mission "saving"

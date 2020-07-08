@@ -1,0 +1,276 @@
+#+TITLE: Internal
+#+AUTHOR: Nova Media
+#+INCLUDE: "../print/doctype-proposal.org"
+{{{subtitle(XR Proposal Outline)}}}
+{{{date(DATE)}}}
+{{{theme-color(0060c1)}}}
+{{{end-footer(contact@novamedia.nyc)}}}
+# {{{no-page-numbers}}}
+# {{{no-toc}}}
+
+
+* Introduction
+
+- What the document is
+- Who it is being presented to 
+- Recent relevant info
+- Next steps
+
+# Introduce the document here.  Be short and sweet.  No bullshit, no selling, minimal adjectives.  This is *clear*, *concise* and simply explains wtf the document is.
+
+* Executive Summary
+  
+** Welcome inside
+- What we do for them and why they care
+- Key perforamnce indicators
+- timeline
+- Return on net investment
+- 
+** What to display
+- User story
+- market research
+- tech involved
+
+
+* Market Research
++ Quantitative proof ofg adoption, interest and application
++ How utilized in industry, and the benefits they are gaining
+[ Quotes ]
+[ Graphs ]
+[ Table ]
+
+
+* Strategy
+ 
+**Objective** 
+
+/What we're doing and why, and setting up for a numerical explanation on **how** we do it/
+
+** Execution Strategy:
+
+Introduction, including time sensetivity/ 
+1) Research
+2) Design
+3) Development
+4) Deployment
+5) Manager
+6) Analyize KPIs
+7) Evolve
+
+** Sales Strategy
+1) Awareness
+2) interest
+3) Action 
+4) Commitment
+5) Share 
+6) Measure (quantifying the key performance indicators) KPIs
+7) Expand (evolve)
+
+** Evolution of Development
+- Year 1, what we will do for them and why they care (protype/MVP)
+- Year 2, what we will do for them and why they care (Full application)
+- Year 3, what we will do for them and why they care (AR)
+- Consider platform deployment
+
+* Production Pipeline
+** Introduction
+In written words we introduce the Design, Develop, and Deployment 
+
+- Who we will need to hire (their contact info and website/portfolio) and the budgets needed
+- The deliverables and a time line
+- How the three below phases work together and rely on each other
+** Timeline
+
+#+INCLUDE: "../print/gantt.org"
+
+
+** Design 
+
+This process begins with collaboration between client and us. Outlining the project from start to finish, thinking through all details and components. 
+
+*** Player Story
+
+**** Act 1
+- Setting, Scene, Characters
+- where the XR is played (distribution)
+
+*** Act 2, 
+- Rising Action, Character Development, Climax
+- What the XR is (hardware, software used and types of content [photogram? CG models]
+- how they learn
+
+*** Act 3
+- Resolution
+- KPIs, ROI (what was learned)
+
+# the user shuold understand what is happening to the VR player before, during and after they put on the headset. 
+
+# Evolution of emotions and the learning process.  
+
+# Reader questions should be evoked and then answered (excpet maybe one or two subtle Qs).  
+
+# Read and identify with the player, his plight and the journey. 
+
+# Reflection of the /strategy/ and the sales (or function) funnel.
+ 
+**** Render
+- Visual of user story
+- Interface, World, Story communicated
+- Form and function are clear 
+- Used for the printed doc and for the website
+- 300 pixels/inch
+- PNG or JPEG
+- 2x width of a letter page & the 1x height of a letter page 
+
+*** Tech Architecture 
+- Why we're making this tech arch choice
+- How it is suited to what we want
+- graphic explaining how things work together
+- hardware needed
+
+- worflow
+- labels
+- links
+# graphic of hardware, software, middleware, protocols, /et cetera/, and how they relate or connect to each other
+
+- Studios
+# Who can we hire (contact and website/portfolio)
+
+- Deliverables
+# what hardware, files, equipment will the client receive?
+
+- Budget
+# breakdown of costs
+
+- Timing
+# Breakdown of money and work over time. 
+
+*** Graphic Design (Visuals)
+
+- Information needed from the client (Creative form)
+- Initial ideas for the world, interface and story
+
+**** Design Flow
+- User experience
+- What do they see and feel at each click of the controller? 
+- This can be communicated in a flow chart so reader understands progression of UX
+
+**** Design Process 
+- The process of creating 3D assets, animations
+- reviewing against the objective of the project 
+- beginning to work with development team for integration
+- Pricing 
+
+** Development (Phase 2)
+- Description of how the application will be developed
+  + Hardware
+  + Software
+  + Integration of assets
+- Timeline of development
+
+- testing completed by dev team during development 
+- working in sprints
+- play tested by gamers
+- resolving detected bugs and consumer ready
+
+# Working with design team to integrate visuals
+
+*** Testing
+ This section describes what needs to be done once the application design is finished.
+
+- Why we test
+- What it consists of
+- How long it will take
+
+# The point of this sections is provide information regarding our product's quality assurance
+
+- Process
+# how does the testing happen?
+
+- Testers
+# what are they measuring?
+
+- Costs/time/deliverables
+# How do we measure their testing's effectiveness?
+
+*** Deployment
+
+- How deployment will take place
+- Why this deployment method is most appropriate
+- time / price of deployment
+
+# Explain what steps are involved in the deployment of this application, how long it will take, what it involves, its costs.
+
+** Distribute 
+
+How will people will know about it?  Who are they? How is this going to reach them? You can make the greatest game in the world, it wont be shit if no one plays it. 
+
+# Advertising can be boiled down to reaching The right people with the right message at the right frequency. 
+# 3-6 touch points are typically the sweet spot. 
+
+Timing of events and basic strategy
+
+Determine 
+- publishing platform, cost, timing, who to hire
+- promotion channels, cost, timing, who to hire
+- made media, cost, timing, who to hire
+
+# If it's a game we want people to play for business purposes, there is strategy involved in when it's going to be released (summer, holiday, etc.)
+# Where does the personal content come from. Who directs it? What's the cost? Is it promoted as MR, video? 
+ 
+*** Audience
+
+[ list ]: bullet points. Snapshot of the audience, education, income, interests, family details, professional standing, tendencies
+[ photo ]: companies are able to understand their audience in part from a photo 
+
+** Deliverables
+# This will be expressed in the form of a table with dates of delivered items  
+
+** Incremental Investments
+
+* Return On Investment
+** Break Even Analysis
+[ graph ]
+
+** Measuring Success
+The metric of KPIs
+
+
+* Summary/Net Investment 
+The decision maker could look at this paragraph and understand the campaign. The entire document distilled into one/two paragraph with a signature line and light legal.
+
+This includes a list of what will be delivered. What we provide and what they provide. 
+
+
+** Features
+** Benefits
+
+- key perfoirmance indicators
+- return on net investment 
+
+* Presentation
+
+** Acts
+- To warm up (prep em)
+
+- Run of Show and why
+
+- XR to present and why
+
+- cool down (follow up)
+
+** Emotions
+- Here we need to entertain, delight, surprise and reward them. 
+
+- Assign value to us and our time
+
+- Encourage them we got this all under control
+
+- Instill FOMO
+
+- Earn their commitment
+
+{{{pagebreak}}}
+
+
+#+INCLUDE: "../print/extro-pages.org"

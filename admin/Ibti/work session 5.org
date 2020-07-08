@@ -1,0 +1,13 @@
+#+TITLE: Work Session 5
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday June 29th* 
+
+* Met with Team
+* Presented updated Demo, as well as draft of final deliverable (due 8/7)
+* First week of Point System completed (89%)
+* Spoke with Yuni and Yuhao following meeting for new dev schedule
+* Filled out Doodle for team meeting availability

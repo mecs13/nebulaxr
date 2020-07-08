@@ -1,0 +1,24 @@
+** Overview
+- Went over objectives 
+- Thoughts on Game Feel 
+- Brainstormed ways VR experience provides that regular video games does not 
+
+** Document 
+- Research: Yuni mentioned about "what are some ways new gamers are presented to the market?" 
+- Research: sonic haptic 
+- we need to have a document not a presentation so we can aim for an agreement to happen
+- 3 phases: design, development, distribution
+
+** Website V.S. Document 
+
+Website:
+- public facing
+- aim for 90% SEO
+- want to be downloadable (trailers, documents, etc.)
+- integrate codepen.io 
+
+Document:
+- behind the scene 
+
+** Things We Can Add
+- trailers, logo, tagline, icon, images, headers, etc. 

@@ -1,0 +1,13 @@
+#+TITLE: Work Session 1
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday June 22nd* 
+* Met with Team 
+* Decided on how best to present (demo, findings, feedback, next steps)
+* Presented Demo + Addressed challenges
+* Presented current research + Addressed challenges
+* Discussed web dev progress
+* Decided next steps + responsibilities for week, drafted them in org 

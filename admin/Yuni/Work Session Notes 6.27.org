@@ -1,0 +1,27 @@
+#+TITLE: Work Session Notes
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*Work Session Saturday Notes 6/27 9AM-2PM, 9PM-4AM*
+
+*COMPLETED*
+
+** Got file to Yuhao
+
+*SETBACKS*
+
+** See convo screencaps for Friday. Data transfer a b*tch
+
+*NOTES*
+
+** Need to catch up on admin
+** Need to study design materials and principles, mental prep for graphic design work
+
+*OBJECTIVE*
+
+** Demo game live with team Sunday
+** Get everyone's stat values for lvl up pages
+** Clear harddrive space again and compress video files for upload

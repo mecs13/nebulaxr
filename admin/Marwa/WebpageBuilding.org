@@ -1,0 +1,21 @@
+* Creating a webpage
+
+/It may sound like it's easy, but no one said it is./
+
+Step 1: Go to wordpress and in the dashboard menu create a new page from the tab pages. Click on pages and then new page or go to the top menu and click new then page.
+
+Step 2: Once step 1 is complete, you will be directed to a new page where you can edit. Click on the purple buttom that says "Use The Divi Builder" then click on "Use Divi Builder".
+
+Step 3: Choose clone page and choose a Divi Theme. Keep in mind, when cloning a page, you will also clone along with it its bugs.
+
+Step 4: Make sure to save draft when adding on an accent to your page.
+
+Step 5: Go back to your builder page by hovering the mouse over the Wordpress logo and clicking About Wordpress, then go to the Pages tab in the Dashboard and select All Pages. Once done, select All Pages under the Pages tab and you should be able to find your page as the first one listed because it doesn't have a title. Make sure the author is you.
+
+Step 6: Add a title to your page, then click on the top right where there is a red tab that has a number out of 100. After that, create a Focus Keyword for it and edit the snippet above the Focus Keyword.
+
+Step 7: Under that red tab (Math Rank), there are some tasks for you to complete. When they are completed, you will notice that the number will increase from 0 to whatever out of 100.
+
+Step 8: You will need a Math Rank of at least a 90 for your webpage to attract a lot of people.
+
+/That is basically all it takes to create a webpage, but, it will take a while because of the tasks. The wording might be confusing, so it might take you a couple of hours or so./

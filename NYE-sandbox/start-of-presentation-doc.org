@@ -1,0 +1,270 @@
+
+
+#+TITLE: Start of NYE Sandbox
+#+AUTHOR: Nova Media 
+#+INCLUDE: "../print/doctype-proposal.org"
+{{{subtitle(22-June-2020)}}}
+{{{theme-color(4b7985)}}}
+
+* NYE Document
+** Executive Summary
+  
+New Year's XR is an original production designed to entertain, education, prove technological utility and fulfill marketing objects.  We will accomplish this December 2020 - January 2021 by live broadcasting 720-degree virtual reality from 10 global destinations
+
+https://novamedia.nyc/index.php/products/new-years-eve/
+
+
+
+| New Year's XR | Timeline information                                |
+|---------------+-----------------------------------------------------|
+| Research      | 300 million subscribers of New Year's LIve Content  |
+| Design        | Torus 3D-Native Menu + Bloomaway Transitions        |
+| Development   | 8k-PC-cams, WebXR, unreal4                          |
+| Deployment    | Web-XR, Youtube VR, Network service                 |
+| Marketing     | Content + contesting, vertical promotions, efemeral |
+| Success       | Client acquisition, gross/net/freq, economic impact |
+
+
+*Nebulus XR id building a fun sandbox to compliment New Year's XR - focus on game play*
+ 
+
+** Market Overview
+
+Over the last three years the major American networks have combined to average 30 million viewers on New Year's Eve. On Average, 12.5 million of those viewers came from the 18-49 age demographic (the same demo that owns the majority of Virtual Reality headsets.
+
+#+CAPTION: NYE network ratings
+| Network | 2017   | 2018   | 2019    |
+|---------+---------+---------+----------|
+| ABC     | 18 mil  | 16 mil  | 21.1 mil |
+| CBS     | 3.1 mil | 3.4 mil | 3.1 mil  |
+| NBC     | 6 mil   | 6.6 mil | 3.6 mil  |
+| FOX     | 4 mil   | 6.6 mil | 3.6 mil  |
+
+Currently live on gaming platform, and New Year's XR publishing channel, STEAM, are [[fill in the number of current team users]]
+
+*** Market Value of audience 
+
+*General Info*
+
+- 44% globally watch less TV
+- 70% globally has increased by watching livestream on a daily basis
+- Preferred technology for livestream: Smartphones then tablets then laptops then etc.
+- In China, over 450 million user during 2019 have livestreamed
+
+*Specific Info*
+
+- Just the New Year's Eve Times Square ball drop to have been watched by over 1.8 million unique viewers from 200+ countries. 
+- During 2018 New Years, more than 10 million people livestreamed New Year's via Facebook (47% increase)
+- According to statistics, people who are between ages 18- 44 & 55- 64 are likely to live stream more than people who are between ages 45- 54. 
+
+*** Forecast of Gaming - Live Event Broadcasting - VR Industries
+
+#+CAPTION: Gaming Industry Forecasted
+| Year | Revenue        |
+|------|----------------|
+| 2016 | $101.1 billion |
+| 2017 | $108.9 billion |
+| 2018 | $115.8 billion |
+| 2019 | $122.7 billion |
+| 2020 | $128.5 billion |
+| 2025 | $257 billion   |
+
+#+CAPTION: Broadcast Media Industry Forecasted 
+| Year | Revenue        |
+|------|----------------|
+| 2005 | $90 billion    |
+| 2010 | $110 billion   |
+| 2015 | $148 billion   |
+| 2016 | $159 billion   |
+| 2017 | $161 billion   |
+| 2018 | $168 billion   |
+
+*Due to uncertain events with COVID-19, broadcasting industry is relatively difficult to forecast due to its volatility*
+
+#+CAPTION: Video Stream Industry Forecasted 
+| Year | Revenue        |
+|------|----------------|
+| 2017 | $21K million   |
+| 2018 | $23K million   |
+| 2019 | $24K million   |
+| 2020 | $27K million   |
+| 2021 | $29K million   |
+| 2022 | $30K million   |
+| 2023 | $31K million   |
+| 2024 | $32K million   |
+
+*** IC Game-Play Research
+
+<<posted on a separate file>>
+
+{{{pagebreak}}}
+
+** Sound and Haptics in Virtual Simulations Research
+
+*Ways to Make an Object Known*
+
+- Continuous
+- Momentarily
+- Spontaneous
+- Repetitive
+
+*Types of Sounds*
+
+- Casual: listen for source of sound
+- Semantic: listen to understand speech
+- Reduced: listen to pitches, harmonies and rhythms
+
+*Strategies*
+
+- Earcons: train player to recogize certain musical phrases
+- Short sounds: to convey evocative scenes
+- Echo: cavernous indoor areas
+- Acousmatic sounds: an invisible sound source to convey dark scenes
+
+*High End Haptic Device Features*
+
+- Realistic perception of pressure
+- Temperature
+- Position
+- Movement
+- Texture
+- Vibration
+
+*Improvements in Virtual Simulations*
+
+- Improve higher fidelity cost & uses: lower fidelity cost ranges $250- 600 USD 
+- Improve in quality of rumble packs: simple vibration feedback in devices
+- Automatic sensory robotic tools: remote controlled robotic tools
+- Combine lower and higher mission critical uses
+
+** Production Timeline
+
+*Design*
+
+With NYELobbyExperience, the Nebula XR Dev team tackles the design challenge of a fun lobby experience for launching Nova XR's New Year's Eve Livestreams. With visuals inspired by Nova and Nebula's space motif, integrating the notion of time and space travel, the setting of the lobby is a campsite on an asteroid! As of week 2 of production, the game experience is structured as a mini-puzzle; Users must enable a hot air-balloon for flight among the stars--using only items scavenged from the campgrounds. Win the game and drive the balloon into one of many wormholes -- each launching a 360 video stream in a unique place on earth on New Year's Eve. Dessert and champagne are complimentary!
+
+*Team*
+
+- Matter Experts: These are the people who will be able to provide the vision for the end user. They will be able to research whether it is psychological or financial persepectives to improve customer experience and user experience. 
+
+- Artists: This will be Nebula XR team. We will design (add color, shapes, etc) to the imaginative VR world (environment). We will be able to convey a VR story (customer journey) & VR interface (modes of operation) to the engineers which will tackle the software and technological direction. 
+
+- Engineers: This will comprise of Nebula XR team. We provide technological direction where we will test and implement the vision on time and within budget. We will make any necessarily programming changes on demand.
+
+*Features*
+
+- Interactivity
+- Immersion with Haptics
+- Human centered
+- Progressive Education 
+- Cultural competence
+
+** Development
+
+*Evolution of Developement*
+
+Everyone has a busy lifestyle and often times, lack the time to experience and immerse themselves in all holiday traditions especially the New Years. New Year is a way for people to celebrate their survival through their previous year. XR is an emerging technology where it is predicted over 50-80 million people will invest in XR technology. 
+
+*2021*
+
+- Deploy the VR experience at selected live stream location, persuading viewers to interact with games and educate worldwide New Year's tradition.
+- Compile data for analytics as well as improve strategies for better clickthrough rate.
+
+*2022*
+
+- Modify the VR software that will outreach to a wider audience showcasing the liveliness of each of the designates New Year locations. 
+- Partner with gaming, broadcasting media and video stream companies. 
+
+*2023*
+
+Release a New Year's VR livestream experience across high viewing countries as well as integrate interactive games that will allow individuals to learn each countries values and traditions (historical, symbolizism and others). 
+
+*2024*
+
+Build an Extended Reality video stream arm. By this time, Extended Reality will likely to have matured to be feasibly applied. Addition to the primary site, we will outreach and partner with many industries so it will provide conveniency and immersion to more than billions of people in our society. 
+
+** Distribution
+** Deliverables
+
+*Week 1 - 3*
+
+- Week-by-week schedule of production.
+- Selection of sites for VR livestream experience.
+
+*Week 4 - 7* 
+
+- Design Specification (models, environment, story, games)
+- Tech Specification (code, hardware, network)
+
+*Week 8 - 11*
+
+- Prototype (avaliable for investors and individuals)
+- Updated livestream/environment/games
+- Chosen team to set up livestream at that location
+
+*Week 12 - 15*
+
+- Alpha Test Reports
+- Livestream/environment/interactive games implemented
+- Prototype version 2
+- Alter any livestream angles for site
+
+*Week 16 - 19*
+
+- Beta Test Reports
+- Interface performance test report
+
+*Week 20 - 23*
+
+- Player Test Reports
+- Final environment check
+- Network testing report
+
+*Week 24 - 26*
+
+- Packaged interactive games, sites and GO LIVE STREAM!
+
+** Measuring Success
+
+*Objective*: Increase partnerships, view-counts and interactivity during New Years through virtual play.
+
+*Audience*: Individuals who appreciate immersion into worldwide New Year's tradition.
+
+*Go-to Market Strategy*
+
+*(1)* Build a immersive haptic (auditory, tactile, etc) New Year's live stream experiece through VR. 
+
+*(2)* Attract eyeball traffic to increase clickthrough rate.
+
+*(3)* Inspire individuals to play through the interactive games.
+
+*(4)* Educate individuals in worldwide New Year's tradition.
+
+*(5)* Satisfying game-feel experience for individuals.
+
+*(6)* Use most recent developements in haptic technology to increase our viewership. 
+
+*(7)* Evolve and transform VR live stream experience for more B2B business. 
+
+*|Awareness|* 
+    |                   Word of mouth                     |
+    | Partnerships with video stream & broadcast companies|
+*|Interest|*  
+    |                   Novelty of VR                     |
+    |        Immersive worldwide New Year's tradition     |
+*|Action|*    
+    |                 Interaction in mini games           |
+    |          Educates global New Year's tradition       |
+*|Commitment|*
+    |                Cost per impression                  |
+    |                Successful partnerships              |
+
+** Return on Investment
+
+- *Investment: $75K+ Per Site* 
+
+This New Year's VR live stream experience will educate and entertain. Different haptics avaliable through our virtual reality programming will bring our marketing to fruition. It increases interactivity, viewership in all parts of the world and minimizes cultural differences in the celebration of the New Year. We will need an estimated [TIME] to develop a product that is ready for implementation and [COST] in financial backing.  
+
+
+** Agreement
+

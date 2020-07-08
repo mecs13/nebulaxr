@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Sunday, July 5th, 2020
+*Accomplished:*
+** DONE: Met with team to demo new visual improvements
+** DONE: Discussed functionality implementation
+** DONE: Discussed steps needed to prepare build for demo Monday
+** DONE: Shared individual progress
+** DONE: Set meeting objectives for Monday
+** DONE: Ran over presentation and planned presentation formatting
+** DONE: Addressed missing points regarding grading system
+** DONE: Uploaded files to appropriate drives
+** DONE: Learned more advanced GitBash commands
+** DONE: Day 25 vlog
+*To-Do:*
+** TODO: Meet with Joe regarding new project iteration
+** TODO: Collect constructive feedback
+** TODO: Meet with team to discuss workflow for the week
+** TODO: Finish PC build/document
+** TODO: Check-in with Joe regarding capture day
+** TODO: Decide on new feature implementations with team
+** TODO: Discuss how game design will evolve going forward
+** TODO: Continue to shape end goal of project with team
+** TODO: Check in on Marwa and offer help
+** TODO: Day 26 vlog

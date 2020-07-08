@@ -1,0 +1,30 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Marwa Soussi
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Wednesday 6/3/2020
+*Accomplished*
+** DONE: Received approval from Joe on project plan of action
+** DONE: Worked with Yuni to further better my understanding and complete tasks
+** DONE: Planned a uniform creative vision for the project
+** DONE: Watched tutorials regarding game menu creation/navigation
+** DONE: Installed and Configured Unreal Game Engine
+** DONE: Collaborated with team via Google Meet to discuss audio implementation
+** DONE: Learned to operate Org-Mode extension
+** DONE: Used web-resources to further familiarize myself with Unreal Engine UI
+** DONE: Created first Video Log to self-reflect on hardships encountered
+** DONE: Created logo for the team's VR but it is still going through receiving feedback
+*To-Do:*
+** TODO: Still need to create a menu and possibly an in-game menu
+** TODO: Agree on audio for project
+** TODO: Edit logo for final touches
+** TODO: Create second Video Log to self-reflect on hardships encountered
+** TODO: Design menu in 2D
+** TODO: Create a cutout in the clouds that forms the shape of a mountain in the logo
+** TODO: Possibly create a loading screen
+** TODO: If able to, work on designing a waterfall
+** TODO: Collaborate with group if we will put a house on the mountaintop
+** TODO: Insert activities that the player can do

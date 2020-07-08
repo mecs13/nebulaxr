@@ -1,0 +1,28 @@
+#+TITLE: Thursday 06/18/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Brought all interactive systems from NerveVana and architectural sandbox into NYE lobby
+** DONE: Met with team to discuss our bearings with the project
+** DONE: Decided on using Nova exclusive assets to maintain a consistent theme and reduce legal complications
+** DONE: Discussed in lobby activities and  themes such as a carnival focus
+** DONE: Archived each Nova asset and isolated each to be a separate asset
+** DONE: Converted most Nova assets to .fbx to import into engine
+** DONE: Began work creating a pick up gun actor and on hit events for carnival theme
+** DONE: Discussed the implementation of varying cultures into NYE lobby
+** DONE: Established understanding of what is considered doable given time constraints 
+** DONE: Determined means of entering NYE livestream 
+*To Do*
+** YC: Apply object outline system from architectural sandbox to NYE lobby
+** YC: Begin work on lobby landscape
+** YC: Create prototype demo to show on hit events from gun 
+** YC: Load in converted Nova assets to stress test lobby and establish theme
+** YC: Brainstorm more fun activities for lobby
+** YC: Discuss the implementation of culture into the lobby with team
+** YC: Discuss sound design of lobby with team
+** YC: Determine method of navigation for user 
+** YC: Brainstorm activities using collision based events for user
+** YC: Demo avaliable Nova assets to team to help establish concept

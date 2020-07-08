@@ -1,0 +1,23 @@
+#+TITLE: Clarifications
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Scoring)}}}
+{{{theme-color(4b7985)}}}
+
+* Reporting - Chief of Points
+** keep weekly records (aiming for 90% performance by Aug 7th, will update team weekly on progress)
+** team will be scored overall (will likely keep track using a table or chart)
+** will check in with other team members individually before final scoring on mondays as needed
+** will be confirming the upload of materials
+*** be sure to upload materials to the correct folders i.e. work sessions to your personal folder on admin, relevant updates and research to NYE sandbox, records not directly related to Nebula Records etc.
+
+* Independent Deliverables
+** by monday morning or sunday night please confirm you have attended your 1o1 with Joe
+** for side projects joe may have assigned, joe and team members will be consulted about deliverables
+** records related to independent assignments may be uploaded under Nebula Records on GH
+
+* Additional Notes
+** meeting attendance will also be counted starting next week (1 point per meet)
+** wednesday meetings will be relevant to our current projects so long as monday meetings remain clear
+** continue to upload multiple iterations, publishing is key
+*** records should be kept on both a weekly and daily (work session) basis

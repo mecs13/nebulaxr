@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Sunday, June 14th, 2020
+*Accomplished:*
+** DONE: Met with team
+** DONE: Tested new game features and improvements
+** DONE: Discussed individual projects and progress
+** DONE: Decided on team name Nebula
+** DONE: Prepared presentation and concerns for Mondays meeting
+** DONE: Discussed new national park concept
+** DONE: Discussed arch proto concept
+** DONE: Decided on rough workflow outline for following week (TBC)
+** DONE: Began research on movable/interactive game components
+** DONE: Day 11 vlog recorded and uploaded 
+*To-Do:*
+** TODO: Meet with Joe
+** TODO: Pitch team name
+** TODO: Pitch new arch proto to Joe
+** TODO: Discuss Shenandoah with Joe
+** TODO: Decide on a single direction for internship project
+** TODO: Discuss project workflow for the week
+** TODO: Delegate individual tasks amongst team members
+** TODO: Pick up psu
+** TODO: Seeding pilosophy
+** TODO: Day 12 vlog

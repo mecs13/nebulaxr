@@ -1,0 +1,28 @@
+#+TITLE: Monday 06/15/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Started changelog on architectural prototype
+** DONE: Met for Monday meeting with Joe and team
+** DONE: Discussed concept and plan of action of architectural prototype
+** DONE: Established project commitment and direction of architectural prototype
+** DONE: Discussed features of interest to be implement into architectural prototype
+** DONE: Removed material changing by collision
+** DONE: Implemented global live material changing via menu
+** DONE: Began compiling Kartell assets
+** DONE: Began work on multi widget menu
+** DONE: Began implementing system that would outline a static mesh with a glow upon collision
+*To Do*
+** YC: Meet for one on one with Joe 
+** YC: Meet with team to reorganize tasks for architectural prototype
+** YC: Begin texture application of textures to Kartell assets via 3ds Max
+** YC: Finish static mesh collision glow system
+** YC: Debug VR issue in architectural prototype
+** YC: Optimize grab and render distances
+** YC: Port multi widget menu to VR player gamemode
+** YC: Stress test via VR live to inspect Event Tick node on performance
+** YC: Test furniture implementation via moveable static mesh or physics enabled object
+** YC: Research VR inventory system

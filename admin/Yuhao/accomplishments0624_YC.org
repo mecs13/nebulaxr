@@ -1,0 +1,28 @@
+#+TITLE: Wednesday 06/24/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Met with team for Wednesday briefing
+** DONE: Discussed new way of team organization via points
+** DONE: Discussed a sense of game feel for the NYE sandbox
+** DONE: Fully ported systems into VR
+** DONE: Ported locomotion from NerveVana into NYE lobby
+** DONE: Built navmeshes for teleportation based from NerveVana
+** DONE: Began work on material changing system based on controller hover
+** DONE: Mapped new interaction functionality to motion controller buttons
+** DONE: Updated item interaction system to work coherently with material changing system
+** DONE: Began restricting item interaction to static meshes that undergone material change
+*To Do*
+** YC: Finish building material changing system
+** YC: Finish implementing toggled visibility on static mesh cursor when hovering over interactable item
+** YC: Debug issue of cursor not appearing when hovering over object
+** YC: Compile assets Yuni obtained through the Epic Marketplace
+** YC: Build item attach system for items such as the blueprint gun
+** YC: Create custom events to activate sound
+** YC: Create more complicated events for item interaction
+** YC: Begin building the lobby storyboard as discussed with Yuni
+** YC: Update changelog on NYE lobby and systems
+** YC: Playtest all current systems for bugs

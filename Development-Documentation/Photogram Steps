@@ -1,0 +1,22 @@
+Object (Turn-Table):
+1. Set up a solid-colored seemless background
+*Make sure the background lays over the platform on which the object will be standing on
+*Make sure that the background curves when transitioning between being upright and being on the platform
+2. Place object on the platform
+*The object must not have any reflective surfaces
+*You can spray paint the object with washable, nonreflective spray paint and edit in the textures post-model creation if you want to use a reflective object
+3. Set up lighting
+*Make sure there are no shadows on the seemless background
+4.Place camera in a position where the entire object is in the photo
+*There should be little soace between the object and the borders of the picture but not no space
+*Keep in mind that you will also need to take photos underneath and above the object, so cehck if you can take well made pictures from where the camera is placed
+5. Take pictures of object
+Issues (Object):
+
+Room (Circle):
+
+Issues (Room):
+
+
+
+(we'll work on this throughout our next photogrammetry session so that we catch every detail necessary)

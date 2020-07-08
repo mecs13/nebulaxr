@@ -1,0 +1,14 @@
+#+TITLE: Work Session 6
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Wednesday July 1st* 
+* Attended 1o1 with Joe
+* Presented week 2 research draft
+* Reorganized github with Joe
+* Assigned new research responsibilities
+* Met with team to review 1o1s, project updates, and next steps
+* Discussed research responsibilities with Mei
+* Discussed point system adjustments for next Monday

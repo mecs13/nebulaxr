@@ -1,0 +1,28 @@
+#+TITLE: Wednesday 06/17/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Met with team and Joe for Wednesday meeting
+** DONE: Discussed the overlying issues going forward with architectural sandbox
+** DONE: Refocused direction of creating a fun experience
+** DONE: Reflected on our lack of proper marketing knowledge and adjusted accordingly
+** DONE: Changed project focus to creating a fun lobby area for Nova NYE
+** DONE: Discussed concept and approach of NYE lobby with team
+** DONE: Reorganized with team by making another project proposal document
+** DONE: Established weekly milestones for NYE lobby
+** DONE: Discussed in experience activities for user 
+** DONE: Began salvaging previous project systems for NYE lobby
+*To Do*
+** YC: Finish salvaging interactive systems from other projects to NYE
+** YC: Meet with team to discuss plans going forward with project
+** YC: Decide on asset and theme commitment 
+** YC: Discuss means to enter the NYE stream in lobby
+** YC: Discuss the environment and setting of lobby with team
+** YC: Implement item grab and on hit event functionality 
+** YC: Discuss extent of project within our five week dev cycle
+** YC: Brainstorm interactive events for user in the lobby
+** YC: Determine overall style and theme of the lobby
+** YC: Brainstorm ways to implement salvaged systems into NYE lobby

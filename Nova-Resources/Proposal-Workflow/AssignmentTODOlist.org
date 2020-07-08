@@ -1,0 +1,150 @@
+
+** Assignemnt!- qualified client who wants to give us money.  Heres the stuff we need to put together
+
+- folder
+- web url?
+- slack channel
+- strat org started
+
+*** Qualifications to be paid:
+-- Kickoff particiation and assignments
+-- commits promptly.  
+
+/responsibilities listed here, by participating you agree you understand and are committed to the SD's deadline/
+
+** Day 5 - Finalize
+**** Cheif Marketing
+-- proof read 
+**** Sales Director
+- proof read  
+- Pitch
+**** Cheif Design
+print (if necesarry)
+**** Tech Director
+-- uplaod to website
+
+** Deliverables:
+*** Proposal
+
+**** Intro
+***** Whats this doc
+***** Who its from
+***** Who its for
+**** Exec Summary
+***** What we do for them and why they care
+***** process
+***** features/benefits
+***** KPIs 
+***** ROI
+**** Market Research
+**** Strategy
+***** Objective
+***** What we're doing and why
+***** Awareness 
+***** Interest
+***** Action
+***** Commitment
+***** Replenish funnel
+***** Measure - KPIs
+***** Evolve
+
+**** Evolution of Development
+***** This year, what we will do for them and why they care
+***** Next year, what we will do for them and why they care
+***** Next next year, what we will do for them and why they care
+***** Next next, next year, what we will do for them and why they care
+
+**** User Story
+***** Setting
+***** Action/climax
+***** Resolution
+
+**** Design Process
+***** Timing
+***** Resources
+***** deliverables
+
+**** Development
+***** Tech Architecture 
+****** Graphic
+****** Software/harware
+****** Conntections
+***** Testing
+***** Timing
+***** Resources
+***** Deliverables
+**** Distribution Process
+***** Resources needed (money, staff, transport)
+***** deliverables
+***** Timing
+
+**** Gant
+***** Timeline
+***** Deliverables
+***** Dates
+***** Investments
+**** Summary/Net Investment 
+***** Features/Benefits
+***** KPIs
+***** ROI
+***** Signature lines
+***** light legal
+
+*** Proposal + legal
+**** All proposal content
+**** Full legal
+
+*** Financial Strategy
+
+*** Webpage
+**** Tagline
+**** Rectangle
+**** transparent picto
+**** SEO tags
+**** URL
+**** PDF link
+
+*** 2-page
+**** Executive Summary
+
+*** demo
+**** Hardware
+**** Battery
+**** Access
+
+*** VO
+
+*** Animation
+*** Features/Benefits
+*** Second render (abstract)
+*** Blog post
+
+EVERYTHING DUE BY Feb 20 - 10AM 
+
+| needed                    | do we have? | assigned | next step                     |
+| graphic                   | yes         | jm       | #done                         |
+| intro                     | yes         | jm       | review                        |
+| executive summary         | yes         | jm       | review                        |
+| features                  | yes         | jm       | review                        |
+| benefits                  | yes         | jm       | review                        |
+| investment                | yes         | jm       | review                        |
+| research                  | yes         | kk       | review                        |
+| user story                | yes         | done     | review                        |
+| Tech architecture         | no          | tb       | qs by 15, done by 16          |
+| tech architecture graphic | no          | jb       | 16th info needed              |
+| production pipeline       | yes         | done     | review                        |
+| distribution              | yes         | jm       | review                        |
+| conclusion                | yes         | kk       | review                        |
+| website                   | yes         | jm       | review                        |
+| animation                 | yes         | jm       | fetch                         |
+| demo                      | yes         | done     | fetch                         |
+| financial strategy        | no          | tb       | 11am 15th                     |
+| creative form             | yes         | done     | write                         |
+| gant                      | no          | tb       | write                         |
+| related vr expereince     | realities   | ss       | super vr trainer / sports bar |
+| legal                     | yes         | jm       | review                        |
+| budget                    | no          | done     | talk to b                     |
+| tagline                   | no          | done     | write                         |
+| 2-page                    | yes         | done     | fetch                         |
+| ev of dev                 | no          | jm       | PB sicuss w/ tb               |
+

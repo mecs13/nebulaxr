@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Thursday, June 18th, 2020
+*Accomplished:*
+** DONE: Met with team in morning to discuss project vision
+** DONE: Discussed pontential feature implementation with ultimate goal of a fun UX in mind
+** DONE: Met with Joe to commence Dev Station build
+** DONE: Took a trip with Joe to Brooklyn Microcenter to get PC screws. Picked up another hard drive, and flash drive for OS install.
+** DONE: Was introduced to 360 capture by Joe
+** DONE: Captured content at Pier 5 and Brooklyn Bridge Park
+** DONE: Installed CPU to motherboard
+** DONE: Was introduced to volumetric capture
+** DONE: Introduced to Particle Effect docummentation
+** DONE: Day 15 vlog
+*To-Do:*
+** TODO: Run NerveVana on Oculus Quest
+** TODO: Finish PC assembly
+** TODO: First boot
+** TODO: Install OS
+** TODO: Partition Drives
+** TODO: Install all necessary softwares
+** TODO: Discuss cultural implementations with team
+** TODO: Talk to Dev team to assign tasks
+** TODO: Brainstorm activity implementation with team
+** TODO: Day 16 vlog

@@ -1,0 +1,5 @@
+Website Image specifications: 
+
+-- 1280x720 pixel backfeound photos
+--  250x166 (right panel menu)
+-- sliders 1600x500

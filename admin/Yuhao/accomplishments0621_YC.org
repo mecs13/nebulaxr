@@ -1,0 +1,28 @@
+#+TITLE: Sunday 06/21/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Finished demo landscape
+** DONE: Met with Yuni and Mei to brief on side project
+** DONE: Created dynamic material bases on timeline as temporary solution to fade in/out system
+** DONE: Combined various fragmented assets from Nova library
+** DONE: Created physics based hover component that can be applied to any mesh
+** DONE: Expanded custom event triggers to arrays
+** DONE: Removed one tick event for  better optimization
+** DONE: Created various demo events triggered by item collection
+** DONE: Cleaned up broken blueprints
+** DONE: Built and packaged demo for Monday meeting
+*To Do*
+** YC: Swap out third person character for VR character
+** YC: Debug interaction issue with switch item targets
+** YC: Brainstorm more complication events to be triggered
+** YC: Remake fade in/out system
+** YC: Port object outline system from being camera based to motion controller forward vector based
+** YC: Plan out sound design for NYE lobby
+** YC: Discuss preliminary design of final landscape with team
+** YC: Clean up and reorganize blueprints from system demo
+** YC: Start changelog on NYE lobby
+** YC: Begin implementing on hit events based on VR actor

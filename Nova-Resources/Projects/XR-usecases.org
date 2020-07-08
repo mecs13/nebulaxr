@@ -1,0 +1,129 @@
+
+#+Title: Nova XR Media
+#+Author: Nova Media
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(XR Use Cases)}}}
+{{{theme-color(119fd4)}}}
+
+/This document highlights the industries in which XR is being applied, providing specific use cases for past programs and imagery of what's to come/.
+
+
+{{{figure}}}
+[[../img/Torus intro visual.png]]
+
+{{{pagebreak}}}
+** Education
+Like the media platforms before it, Extended Reality will continue merging with educational systems around the world and advance visual and auditory learning.
+
+The industry is implementing bar code stickers for the interior of academic textbooks. Scanning the code with an AR kit brings information off the page. This visual learning also reduces the cognitive load required of school teachers.
+
+In a test run for this program students learned basic anatomy of the heart.
+
+{{{figure}}}
+[[../img/Education-Fweb-1.png]]
+
+
+{{{pagebreak}}}
+** Medical
+Stanford Medicine is using a software system that combines imaging from MRIs, CT scans, and angiograms to create a three dimensional model of the patient’s brain prior to surgery.
+
+Inside these 3D renderings, surgeons wear the headset and step inside a model of the patient’s brain. It’s a pre-op tool that allows for customized planning. Interaction with the three dimensional images enhances preparation and improves accuracy.
+
+“We can plan out how we can approach a tumor and avoid critical areas like the motor cortex or the sensory areas. Before, we didn’t have the ability to reconstruct it in three dimensions; we’d have to do it in our minds.” -Gary Steinberg, MD, neurosurgeon, PhD.
+
+{{{figure}}}
+[[../img/Medical-Fweb.png]]
+
+https://www.youtube.com/watch?v=TYBxhomLAcwd
+
+https://med.stanford.edu/news/all-news/2017/07/virtual-reality-system-helps-surgeons-reassures-patients.html
+
+{{{pagebreak}}}
+** Immersive Art
+Artists are already creating and displaying in virtual reality.
+
+Google’s “Tilt Brush” is a Virtual painting program. Stepping inside, artists select various brush strokes, hues, and implements for designing 3D models. In Tilt Brush, and similar customized programs, graphic designers are learning how to design 3D models in a 3D space, enhancing the work they’ve already done in programs like Blender and Maya.
+
+In addition to the creation of 3D models, artists and businesses are displaying artwork in the virtual world. The work of Photographers, sculptors, designers, and other visual artists are on display in virtual art galleries. See Infinite Gallery.
+
+{{{figure}}}
+[[../img/Web-XR-thin.png]]
+
+
+
+{{{pagebreak}}}
+** Conferencing 
+Despite thousands of physical miles that may separate business associates, virtual chat rooms allow folks to be together in the same virtual space. Thin, flexible fibers with glass core light signals (fiber optics) send data and information at a rate of 50Mps. Our movements and voices are read and replicated, so recipients can experience these behaviors through simulated software. We’re now calling this technology “Virtual Reality.”
+
+As VR becomes more prevalent in business, it will replace video conferencing. Instead of seeing the image of a colleague’s face on your 2D computer screen, you’ll put on the headset and join them in a virtual conference room, hearing their voice in 3D audio and using Virtual controller commands to trigger interaction and demonstration.
+
+{{{figure}}}
+[[../img/Conferencing-Fweb.png]]
+
+{{{pagebreak}}}
+** Travel and Tourism
+National ministries (tourism/trade divisions) are developing content that lets us soar through the sky like an Olympic ski jumper (Korea Tourism Office, ~$100k), hang out backstage with Sir Paul McCartney (Visit Britain, ~$1.5mm), and swim the crystal clear Caribbean alongside stingrays (Caribbean Island, ~$300,000). These organizations are finding that immersive media engages travelers and influences agencies more effectively than any media prior, with more robust analytics to prove return on investment.
+
+«Before, travelers just had a brochure or information on the website to inform their choices. Virtual reality allows them to get a true sense of the hotel and the excursion they can go on. It’s been a real game changer for us all.»
+
+Marco Ryan, Chief Digital Officer, Thomas Cook «…Virtual reality let’s our travel trade and media partners experience our destination in a new and unique way that has not been possible before.» -Marsha Walden, CEO, Destination British Columbia.
+
+{{{figure}}}
+[[../img/Travel-Tourism.png]]
+
+
+
+{{{pagebreak}}}
+** Automotive
+Through various holiday sales and new vehicle features, the automotive industry works to attract buyers to the showroom. Virtual Reality brings a three-dimensional automotive experience to the buyer’s home. Inside their VR headset, the user is able to interact with the vehicle and even sit in the driver’s seat.
+
+First we capture dozens of photos from various angles of both the vehicle’s interior and exterior, a process known as photogrammetry. Once the images are captured, they’re arranged (or “meshed”) together in a 3D software to be exported and made compatible with VR hardware.
+
+The end result: the user can sit inside the car and walk around the exterior of the vehicle. Once they sit behind the wheel, they’ll be able to adjust the seat and mirror before turning the key and taking the car for a simulated test-drive through the streets of any city or town in the world.
+
+{{{figure}}}
+[[../img/Automobile-Fweb.png]]
+
+
+
+
+{{{pagebreak}}}
+** Gaming
+In its earliest days, Virtual Reality was predominantly a home for gamers. Classic video games like “Doom” have been remade for VR, while new games like “The Price of Freedom” are expanding the concept of VR gaming.
+
+The software programs most commonly used to build Virtual programs (game engines like Unity and Unreal) were first a platforms for building video games. These game engines are now evolving to build all forms of Virtual interactivity.
+
+VR is different from most media forms that have come before it. Unlike newspapers, books, radio, and television, VR encourages the user to be part of the content, using their body and mind to influencing the information surrounding them. This is a principle first mastered in the gaming industry.
+
+We continue to source the expertise of video game programmers to realize VR’s potential.
+
+{{{figure}}}
+[[../img/Gaming-Fweb.png]]
+
+
+
+
+{{{pagebreak}}}
+** Fundraising
+
+XR can fund raise by taking the donor to 3rd world countries, and urban poverty, a future scorched earth, or the madness past events.   XR allows us to feel peril, sadness, and debilitations.  XR is a powerful way to alter one's perspective for another.
+ 
+This can be done for immediate conversions or long-term loyalty to a cause.   
+
+
+
+{{{figure}}}
+[[../img/Cryptocurency-Fweb.png]]
+
+
+
+{{{pagebreak}}}
+** Hiring
+Even some of the most successful companies struggle to hire the right employees. The applicant creates a resume from their most attractive accomplishments and prepares their best presentation to display during the interview process.  This is a dated concept.  
+
+Virtual Reality provides an opportunity to evaluate the psychology of the applicant more explicitly. By presenting a Virtual component to supplement your company’s interview process, you’ll ask the applicant to enter an interactive Virtual World in which they’ll go through a series of short prompts. Through advanced psychological studies, we’ll help you understand how the applicant’s interaction with the Virtual prompts reveals elements of their mentality, learning style, and competence as related to the particular job opening.
+
+Data collected from their spatial behavior, interaction with various objects, and reaction to varying colors will help companies better evaluate applicants and ultimately reduce costs in their HR department.** XR Use Cases
+
+{{{figure}}}
+[[../img/Hiring-Fweb.png]]

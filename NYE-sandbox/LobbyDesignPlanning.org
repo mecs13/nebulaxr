@@ -1,0 +1,69 @@
+NYE Lobby Design Plan
+Launch Date: August 3, 2020
+─
+
+
+
+Nebula XR
+Nova XR Intern Design Team
+Yuni, Yuhao, Danny, Mei, Marwa, Ibti and Joe
+
+{{{figure}}}
+[[../Images/2013-updated_engineering-method-steps_v6b_noheader.png]]
+
+
+* Define the Problem:
+Nova XR New Year’s Eve Project is missing a FUN lobby experience.
+
+
+* Constraints + what that means
+
+- Must use 3D models available in NOVA XR visual library.
+(avoids legal issues sourcing graphics from third party sources, saving time)
+(avoids time burden of having to generate new 3D models)
+
+- We can only use interactive functionalities which are quick to implement.
+(this rests on what yuhao is comfortable implementing in engine:
+trigger functionality: user pushes button and some event is triggered as a result
+picking up and moving objects)
+
+Must be able to build a high quality prototype by July 20, 2020, 
+(leaving two weeks for debugging. So project must be built to completion in 4 weeks)
+(3D assets cannot be built from scratch unless they are simple and geometric)
+
+Project file must stay as light as possible for transfer.
+(this means we will keep the lobby scale as small as possible and be judicious about how we incorporate highly rendered graphics and functionalities)
+(the simpler the project, the less opportunity for bugs. In engineering, the more moving parts, the more opportunity for something to break)
+
+The talents of each member of the team must be considered and featured.
+(mei music, yuni design, ibti research, marwa ideas, danny UI, yuhao engineering)
+
+Tech Specifications
+The lobby will be built in Unreal Engine 4 using 3D models owned by Nova XR Media and optimized for a variety of VR headsets including Oculus, etc.
+Milestones
+Monday June 22
+First working prototype.
+Playspace (room) defined.
+Layout of objects in playspace defined using low-poly shapes as placeholders.
+Functionality demo-able with low-poly geometric shapes.
+Monday June 29
+Second working prototype.
+Playspace is refined with improved materials and textures.
+Lighting is improved.
+3D models are loaded into the project and materials are applied.
+Audio and sound effects are implemented.
+UI functionalities like “volume” and “exit” are loaded into the project.
+Monday July 6
+Third working prototype.
+Visuals and lighting are refined further.
+Audio and Sound FX are refined further.
+Bugs are worked out.
+Monday July 13
+Fourth working prototype.
+Visuals and lighting are refined further.
+Audio and Sound FX are refined further.
+Bugs are worked out.
+Monday July 20
+First version is ready for Alpha testing.
+Monday July 27
+Last minute edits are added.

@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Monday, June 22, 2020
+*Accomplished:*
+** DONE: Downloaded and read hardware manuals
+** DONE: Ensured hardware cable were plugged into correct motherboard slots
+** DONE: Ensured all components of PC were plugged into correct Power Supply cables
+** DONE: Researched all remaining unplugged cables
+** DONE: Plugged in all front panel pins
+** DONE: Attempted boot (second attempt: unsuccessful)
+** DONE: Noted that computer would flash on for a half second
+** DONE: Researched potential issues in attempt to troubleshoot
+** DONE: Scheduled 360 capture day with Joe and Yuni
+** DONE: Day 18 vlog
+*To-Do:*
+** TODO: Re-read hardware manuals
+** TODO: Give Joe a status update
+** TODO: Ask for advice
+** TODO: Watch debugging tutorials
+** TODO: Discuss options with Joe
+** TODO: Upload accomplishments to GH
+** TODO: Upload vlogs to gdrive
+** TODO: Discuss feature implementations with team
+** TODO: Discuss project progress with team
+** TODO: Day 19 vlog

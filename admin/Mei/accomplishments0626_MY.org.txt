@@ -1,0 +1,23 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Friday 6/26/2020
+* Accomplished:*
+** DONE: Communicated with Yuni on developement (this will change some of my strategies as well as approach to the document)
+** DONE: Continue to learn about SEO (will attend SEO meeting on Sunday with Marwa & Ibti)
+** DONE: Continue to research and learn about different haptics (auditory, visual and others) 
+** DONE: Updated "Go-To-Market Strategy" -> "start-of-presentation"
+** DONE: Updated "Forecast" -> "start-of-presentation"
+** DONE: Updated "Return on Investment" -> "start-of-presentation"
+** DONE: Uploaded vlog 16 & 17
+*To-DO*
+** TODO: Update on GitHub- "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Continue to expand on the NYE document of production (focus on tmw, maybe: market value of audience, deliverables)
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 18

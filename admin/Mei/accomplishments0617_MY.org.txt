@@ -1,0 +1,25 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Wednesday 6/17/2020
+* Accomplished:*
+** DONE: Attended team meeting with Joe to discuss objectives
+** DONE: Debriefed with team afterwards about next steps
+** DONE: Researched on: For which psychological reasons do humans tune in to New Year's Celebrations?
+** DONE: Researched on: Game design fundamentals - WHAT SPECIFIC FACTORS make a game FUN?
+** DONE: Started to read through "A Theory of Fun" recommended by Yuni about fun within the gaming industry
+** DONE: Looked through documentation sent by Joe
+** DONE: Prepared notes and findings for tomorrow's team meeting at 11AM 
+*To-DO*
+** TODO: Build an initial Library of Sound Effects 
+** TODO: Prepare and brainstorm New Year's Eve Financial Strategy 
+** TODO: Prepare and brainstorm New Year's Eve Production Plan 
+** TODO: Prepare a business, financial and marketing presentation
+** TODO: Continue to check in with development team to make sure marketing and business strategy is on point
+** TODO: Continue to collaborate with Ibti on marketing strategies as well as her research findings
+** TODO: Forecast the gaming and broadcast event industry 
+** TODO: Look at top Fortune 500 gaming and broadcast event companies and compare to market trendline
+** TODO: Upload vlogs 11 & 12

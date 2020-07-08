@@ -1,0 +1,47 @@
+** Research IN PROGRESS
+** Black Swan Events
+
+*Market Comparison COVID with Historic Market Crashes*
+Resource: https://www.forbes.com/sites/greatspeculations/2020/03/13/market-crashes-compared28-coronavirus-crash-vs-4-historic-market-crashes/#61ab10204ee8
+
+*Recovery Time*
+
+- Great Depression (1929 - 1933): Took about 25 years for the market to fully recover 
+- Black Monday (Sep 1989): Took about 2 years for Dow to fully recover (this was when Dow Jones lost almost 22% in a single day)
+- Early 2000s Recession: Took about 4 years for the market to fully recover
+- Great Recession (2007 - 2008): Took about 4 years for the market to fully recover 
+
+*Impact on Economic Financially*
+
+- Great Depression: Gross Domestic Product shrank 27% 
+- Great Recession: Gross Domestic Product shrank about 5%
+
+** How Can We Prepare?
+
+(1) We should be able to map your supply chain as well as risks. 
+
+Some steps you can take are: 
+- quantifying the amount of supplied parts per supplier
+- mapping our and having an oversight of suppliers all over the geographic location
+- develop plans for any alternative sources of supply
+
+(2) Implement a businness continuity management program
+
+Having a solution for an effective business continuity plan:
+- how can we continue to analyze, design, test and execute busiess continuity plans
+
+(3) Be in constant communication or have a communication plan
+
+This includes:
+- all of your stakeholders in terms of idetifying, communication strategies via social media, and any contents
+
+** Peer Reviewed Research: Strategies for Managing the Consequences of Black Swan Events
+
+- Black Swan phrase originated back in medieval Europe
+
+*Why do humans fail to recognize Black Swan event?*
+
+- We categorize based on previous data and biases (confirmation bias)
+- We make stories or sugar coat to explain events when it didn't even happen (narrative fallacy)
+- We ignore silent evidence and doesn't weigh equally failures and success
+- We overestimate people's knowledge (ludic fallacy)

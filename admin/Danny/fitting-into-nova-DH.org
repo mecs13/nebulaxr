@@ -1,0 +1,79 @@
+
+deleted    fitting-into-nova-workflow_DH.org
+@@ -1,76 +0,0 @@
+-
+-
+-** Without doing research, one sentence that expresses what you know about:
+-
+-** Due by the end of Day June 3
+-
+-- Teamship
+-Interdependibility. All about a positive environment that inspires creativity and pushing eachother.
+-- Emacs
+-Text editors.
+-- Git
+-Efficient collaboration tool that tracks changes in source code
+-- XR
+-Mixed reality that combines real and virtual attributes. 
+-- Linux
+-Open source operating system
+-- Windows
+-Operatin systemg. Know it inside and out.
+-- Adobe After Effects
+-Visual effect software.
+-- Adobe Premiere
+-Video editing software.
+-- Adobe Photoshop 
+-Photo editing software.
+-- Blender
+-Not too sure. I think something to do with graphics.
+-- Maya
+-I think it a similar software to Blender
+-- C++
+-Object oriented programming language. Very strong understanding.
+-- C sharp
+-Programming language from the C family.
+-- CSS
+-Front end programming language for presentation of documents.
+-- Python
+-High-level programming language.
+-- Java
+-Object oriented programming language. Good understanding.
+-- JS
+-Object oriented front end language used for web dev.
+-- Webxr
+-No knowledge of Webxr
+-- Wordpress
+-Website creation platform. Works hand in hand with SQL.
+-- Mobile apps
+-Programs designed as a mobile experiences.
+-- Gaming
+-Games can be played on various platforms. Inexperienced in creating games but have played them my entire life.
+-- Sales
+-Worked as a salesman previously. Based heavily on rapport and the exchange of goods or services to consumers.
+-- Marketing
+-Techniques used to attract consumers.
+-- Management
+-The infrastructure or stragety of managing a collective group of individuals.
+-- Leadership
+-Guidance of your team.
+-- Integrity
+-The practice of morality.
+-- Duty
+-Your individual responsibily to a team or organization.
+-- Ethics
+-A philosophy of good and bad.
+-*** Paragraph your strengths and weaknesses.
+-My strengths are working in a team, although I can be relied on independently as well. I have a strong understanding of C++ and other programming languages and always want to expand on my knowledge.
+-I am motivated, eager to learn new skills, and a quick learner. I also can rely heavily on my interpersonal skills that I have learned through previous sales experience and love to combine it with my technical knowledge. 
+-Regarding weaknesses, in the past I've had a tendency to get really caught up in my work. It has been the case where the solution is not obvious and I tend to keep going until the issue is resolved.
+- However, I am learning to become aware of when I can become frustrated and counterproductive, and take a step back to come back to a problem with a fresh mindset or ask for the help of one of my peers.
+-*** One simple sentence describing a personal ambition for the summer
+-= To learn how to function as a team in a work setting and pick up as many new skills as I can. I like pushing my comfort zone and am willing to work with concepts unfamiliar to me.
+-*** *Interview us.* What are three questions you would like answered?
+-
+-How would you describe the work culture of Nova? What do you like most about working there?
+-How would you describe the work environment? Is it typically more independent or collaborative?
+-WHat are the key characteristics you feel an intern should possess in order to be successful at Nova?
+-
+-

@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Friday, June 12th, 2020
+*Accomplished:*
+** DONE: Implemented UMG slider into menu level blueprint
+** DONE: Created sound class with all sounds pertaining to master
+** DONE: Created sound mix containing master soundclass
+** DONE: Bound UMG slider to float variable with values between 0-1
+** DONE: Downloaded and configured new project files
+** DONE: Discussed individual progress with team 
+** DONE: Settled on rough objective timeline with team
+** DONE: Discussed level blueprinting with Yuhao
+** DONE: Completed all admin tasks
+** DONE: Day 9 vlog
+*To-Do:*
+** TODO: Add funtionality to slider
+** TODO: Compile resources on how to activate UMG slider as volume control
+** TODO: Activate sound mix upon game launch
+** TODO: Discuss arch prototype with team
+** TODO: Discuss national park idea with team
+** TODO: Research how to implement event when slider value changes
+** TODO: Come up with team name
+** TODO: Test and debug new iteration upon completion
+** TODO: Meet with team to prep for Monday
+** TODO: Day 10 vlog

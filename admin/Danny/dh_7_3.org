@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Friday, July 3rd, 2020
+*Accomplished:*
+** DONE: Installed motherboard and ensured all motherboard mounts were put in properly
+** DONE: Read to manual to ensure proprer installation
+** DONE: Installed CPU
+** DONE: Installed backplate for CPU cooler 
+** DONE: Mounted CPU fan to case and mounted cooler to backplate and applied thermal paste
+** DONE: Read PC case manual and CPU cooler manual to ensure wires were installed into appropriate mobo slots
+** DONE: Installed RAM
+** DONE: Installed GPU to mobo and plugged PCIe 
+** DONE: Added step by step instruction to PC documentation
+** DONE: Day 24 vlog
+*To-Do:*
+** TODO: Decide on Sunday meeting availabilty with team 
+** TODO: Demo project for team
+** TODO: Discuss marketing team documents with team 
+** TODO: Set meeting objectives for Monday
+** TODO: Share individual progress
+** TODO: Reshare work philosophy with Mei
+** TODO: Learn GitBash commands
+** TODO: Finish PC build
+** TODO: Upload vlogs and todo's
+** TODO: Day 25 vlog

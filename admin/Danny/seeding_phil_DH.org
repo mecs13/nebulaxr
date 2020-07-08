@@ -1,0 +1,33 @@
+  
+=#+TITLE: Seeding Philosophy
+
+{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+
+One simple sentence describing what each of these words mean to you:
+
+PROVIDENT
+Being prepared for the future.
+SINCERE
+With the best intentions.
+ANTICIPATORY
+Preparing in anticipation of a future event.
+GRACIOUS
+Kindness, politeness and well mannered.
+AMBITIOUS
+Not afraid of the unknown. The ability to persevere in the face of adversity.
+ATTENTIVE
+Exceptional focus on detail.
+CONSIDERATE
+Possesing empathy towards others inconvenience.
+LOYAL
+Constant, uninterrupted, unconditional support.
+DETERMINED
+Hungry for success.
+DILIGENT
+Demonstrating care in your work.
+INNOVATIVE
+Creative out-of-the-box thinking. Striving to create new methods and applications of resources.
+CREATIVE
+Original and imaginative thinking.
+RESOURCEFUL
+Problem solving by clever thinking to overcome dilemmas.

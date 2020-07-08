@@ -1,0 +1,21 @@
+** Licensing Questions from Yuni about Unreal content
+
+Source: https://www.unrealengine.com/en-US/marketplace-distribution-agreement
+
+Can Nova XR sell any 3D games made using the content?
+
+  • If NOVA XR produces over $1 million USD gross revenue, it will incur 5% royalities
+  
+  • We can use Unreal Engine content we just can't sell the Marketplace content to developers (to use for their own projects)
+  
+  • We have "Digital Rights to Customers" so we are able to use Epic contents 
+  
+  • Must be compliant with "Digital Millennnium Copyright Act: Epic will make sure everything is in compliant against third parties
+  
+  • We DO NOT have the rights to use Epic's Brand Features  
+ 
+Can Barron's* Financial use the commercial product? 
+
+  • Yes we can, we just can't use Epic's Brand Features and we must use Unreal's Content that are in their games. 
+  
+  • ^^ First question answers this question.

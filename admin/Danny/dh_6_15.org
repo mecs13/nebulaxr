@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Monday, June 15, 2020
+*Accomplished:*
+** DONE: Met with Joe in team meeting
+** DONE: Discussed both new ideas
+** DONE: Settled on moving forward with Arch Proto
+** DONE: Discussed marketability of proto
+** DONE: Discussed potential areas of conflict in terms of legality with Shenandoah concept
+** DONE: Decided on implementing existing Nova assets of Kartell furniture line
+** DONE: Picked up PSU
+** DONE: Recieved plan of action from Joe
+** DONE: Created rough workflow outline for the week
+** DONE: Day 12 vlog
+*To-Do:*
+** TODO: Meet with team to work out plan of action
+** TODO: Upload todo's to GitHub
+** TODO: Connect text editor to GitHub
+** TODO: Research VR inventory management
+** TODO: Seeding philosophy
+** TODO: Fork GitHub repository
+** TODO: Sync GitHub fork
+** TODO: Compile resources for UE4 physics implementation
+** TODO: Update taskade with team
+** TODO: Day 13 vlog

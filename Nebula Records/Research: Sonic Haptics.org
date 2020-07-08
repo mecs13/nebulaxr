@@ -1,0 +1,71 @@
+** UPDATE IN PROGRESS: TRANSFERRING NOTES 
+
+** SONIC HAPTICS
+
+*What are haptics?*
+
+- interaction involving touch
+
+** Sonic Mechanics: Audio as Gameplay
+*http://gamestudies.org/1301/articles/oldenburg_sonic_mechanics*
+
+- 1950: sound art and interactivity crossed paths with John Cage's 4'33''
+
+*Types of Dynamic Audio*
+
+- Interactive Audio: responds directly to players actions
+- Static Audio: sounnd tracks 
+
+*Ways to Make an Object Known*
+
+- Continuous
+- Momentarily
+- Spontaeous
+- Repetitive
+
+*Strategies*
+
+- Earcons: train player to recogize certain musical phrases
+- Short sounds: to convey evocative scenes
+- Echo: cavernous indoor areas
+- Acousmatic sounds: an invisible sound source- to convey dark scenes
+
+*Types of Sounds*
+
+- Casual: listen for source of sound 
+- Semantic: listen to understand speech 
+- Reduced: listen to pitches, harmonies and rhythms
+
+** Multimodal Interaction of Conntextual and Non-Contextual Sound and Haptics in Virtual Simulations
+*https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjdx8uG7J3qAhWaVs0KHQQVAAwQFjAJegQIBhAB&url=https%3A%2F%2Fwww.mdpi.com%2F2227-9709%2F5%2F4%2F43%2Fpdf&usg=AOvVaw2_srcxSZu_RFWCVXjzox80
+
+*High End Haptic Device Features*
+
+- Realistic perception of pressure 
+- Temperature
+- Position
+- Movement 
+- Texture 
+- Vibration 
+
+*Higher Fidelity*
+
+- Higher fidelity = higher price 
+- Fidelity: how well does virtual reality emulate the real world 
+- High end fidelity has been used prominently in medical environment 
+- Used for higher mission critical uses 
+
+*Lower Fidelity*
+
+- Cost range: $250- 600 USD
+- Rumble Packs: simple vibration feedback in devices 
+- Remote controlled robotic tools
+- Used for lower mission critical uses 
+
+*Room for Improvement for Future VR Experience*
+
+- Higher fidelity 
+- improve in quality of rumble packs
+- Automatic sensory robotic tools
+- Maybe combine all uses into one product?
+

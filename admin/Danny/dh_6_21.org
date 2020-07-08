@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Sunday, June 21, 2020
+*Accomplished:*
+** DONE: Discussed RAM requirements with Joe
+** DONE: Researched RAM compatibility
+** DONE: Took a trip to Microcenter to buy RAM
+** DONE: Installed into memory slots
+** DONE: Mounted hard drives to bay
+** DONE: Plugged cables from hardware into appropriate mobo slots
+** DONE: Plugged hardware power cables into PSU
+** DONE: Installed windows installation media
+** DONE: Attempted first boot
+** DONE: Day 17 vlog
+*To-Do:*
+** TODO: Troubleshoot PC Boot
+** TODO: Give Joe a status update on Dev Station build
+** TODO: Research and compile troubleshooting techniques
+** TODO: Install Ubuntu LTS
+** TODO: Follow up with Joe regarding 360 capture post production
+** TODO: Repackage extra components into appropriate boxes
+** TODO: Provide team with status update
+** TODO: Talk to team about project progress
+** TODO: First boot
+** TODO: Day 18 vlog

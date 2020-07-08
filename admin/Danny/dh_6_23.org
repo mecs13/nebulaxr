@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Tuesday, June 23, 2020
+*Accomplished:*
+** DONE: Unplugged all cables to motherboard in dev station PC
+** DONE: Researched each cables functionality one by one referring to hardware manuals
+** DONE: Unplugged all cables from power supply
+** DONE: Replugged cables according to manual
+** DONE: Tested computer hardware by attempting boot after hardware removal
+** DONE: Reset AMOS battery in motherboard
+** DONE: Boot Attempt 3: Unsuccessful
+** DONE: Looked through Export System folder on GH
+** DONE: Rescheduled 360 capture date to Wednesday
+** DONE: Day 19 vlog
+*To-Do:*
+** TODO: Continue troubleshooting PC build
+** TODO: Continue to research troubleshooting techniques
+** TODO: Present a status update
+** TODO: Ask Joe for advice
+** TODO: Disassemble PC
+** TODO: Reassemble PC
+** TODO: Document PC Build step by step
+** TODO: Upload accomlishments to GH
+** TODO: Upload vlogs to Gdrive
+** TODO: Day 20 vlog

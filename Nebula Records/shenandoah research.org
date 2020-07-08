@@ -1,0 +1,49 @@
+#+TITLE: Nervevana 2.0 Research
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Shenandoah)}}}
+{{{theme-color(4b7985)}}}
+
+
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175756
+
+** efficacy + precedent, deviation shouldn’t greatly  impact our model
+
+* https://developers.google.com/maps/documentation/elevation/start
+
+** elevation api, privacy policy allowing for conditional and credited use of data, billing unclear - cannot guarantee whether or not opting for this service would be ideal
+** https://www.roadtovr.com/gdc-2018-building-games-with-google-maps/, geodata as a means of enhancing/simulating real-world environments in game engines (particularly unity, but maybe can translate to unreal?)
+
+* https://developer.mapquest.com/documentation/open/elevation-api/
+
+** https://www.opendatacommons.org/licenses/odbl/1.0/ - policy
+** can include provided statement as an added caution (Contains information from DATABASE NAME, which is made available here under the Open Database License (ODbL))
+
+* https://www.law.indiana.edu/publicland/files/nps-intellectual-property_eppley_12d2.pdf
+
+** NPS IP guidelines shown to be vague, perhaps this can be resolved by dealing more directly with the state? Virginia and the NPS can present their terms and i assume license would be granted
+
+* https://www.nps.gov/shen/learn/photosmultimedia/virtual-tours.htm
+
+** historical site virtual tours hosted by matterport, company with a focus on 3D capture and real estate 
+** we can potentially boost engagement in our experience with more sophisticated UI vs tooltips scattered across the environment
+
+* https://59in59.com/shenandoah-national-park
+
+** 360 pictures, scene options, like matterport a very fragmented experience of the park, though more naturalistic  
+** perhaps it would be to our advantage to integrate both models in our final product and create a more fluid experience vs a highlight reel
+
+* https://www.nps.gov/shen/learn/management/lawsandpolicies.htm
+
+** §5.3 Engaging in or soliciting any business (Requires a permit, contract or other written agreement with the United States, or must be pursuant to special regulations). Superintendent’s Office for permit.
+** https://www.nps.gov/shen/planyourvisit/upload/SpecialUsePermitApp_CommercialFilm_StillPhotography_10-932-2.pdf
+
+* https://blog.virginia.org/2020/03/virginia-virtual-tours/
+
+** existing virtual tours emphasize historical sites over national parks, combination of 360 capture and google street view (latter is less immersive)
+** hullfilm similar to matterport with 360 photos and tooltips
+
+* https://www.insider.com/national-parks-america-virtual-tours-3d-visit-2020-3
+
+** national park vr experiences hosted by google earth, including shenandoah, similar to 360 capture as experience jumps from site to site within the park
+** https://earth.google.com/web/@34.7325603,-94.20828087,312.21011663a,11999999.99999995d,35y,359.99998892h,0t,0r/data=Ci0SKxIgMzVhNjc1YmQ0NjVjMTFlOTg0Yjg1NTMyNWRjMDk2MzQiB3ZveV90b2M

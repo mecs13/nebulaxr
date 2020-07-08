@@ -1,0 +1,25 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Monday 6/15/2020
+* Accomplished:*
+** DONE: Attended team meeting with Joe to discuss objectives
+** DONE: Jotted team meeting notes and uploaded to GitHub
+** DONE: Debriefed with team afterwards about next steps
+** DONE: Tried to compile financial information for Kartell 
+** DONE: Jot down questions for tomorrow's 1 on 1 meeting with Joe
+** DONE: Watched many videos and continued my excel learning virtual course about financial statements 
+** DONE: Continued to research about different partnerships (architectural or engineering firms)
+** DONE: Digested Retail XR document (from Joe) and tried to apply to this new architectural project 
+*To-DO*
+** TODO: Alter the mission statement as well as the whole presentation
+** TODO: When idea is finalized, start to gear ideas into a sales funnel ideology
+** TODO: Continue to brainstorm marketing strategy with sales funnel ideology in mind 
+** TODO: Continue to brainstorm how to tackle the financials with Kartel with sales funnel ideology in mind
+** TODO: Send Yuni "Intern Levl Up Page" information 
+** TODO: Continue to collaborate with Ibti on marketing strategies as well as her research findings
+** TODO: Continue to always quantify whenever possible when writing out a business or marketing plan
+** TODO: Upload vlogs 7- 10

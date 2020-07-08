@@ -1,0 +1,30 @@
+* Work Session
+** June 2, 2020
+-----
+
+*** Completed
+
+- Read Design Basics for CR, Chapter 2 Elements
+- Reformatted audio assets and imported into NYELobbyExperience
+- Wrote copy for 3 subsections of Final Document first draft
+- Created Concept art for mei's final doc
+- Pushed Design Planning Doc to repository
+- Installled Caslon Pro into Adobe CCC
+- Pushed Week 2 Concept Art for NYELobbyExperience
+- Created nova typography / graphic analysis docs for meeting
+
+*** Notes
+
+- Audio files for Unreal must be .wav
+- Run MotionArray EULA through Mei to double check commercial legality
+- organize notes for meeting tomorrow?
+- Yuhao's internet is out
+
+
+*** Objectives
+
+- Create *Lighting Planning* for dev docs
+- Talk with joe about nova branding and graphic design
+- Send audio files to yuhao if needed
+- Polish body copy for 3 subsections to final document for mei
+- Build NYELobby v2 and push to repository by Saturday afternoon

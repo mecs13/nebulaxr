@@ -1,0 +1,73 @@
+Paritcle effects:
+
+Paritcle effects:
+
+* Set up
+
+https://github.com/keijiro?tab=repositories --> 
+Depthkit -- https://github.com/keijiro/Dkvfx
+
+--> Downcload, Clone, and extract.
+
+Have git setup and installed to automatically donwload the files. (maybe need to restart your computer)
+
+
+* Unity Work
+
+run a unity 2019
+
+add project
+
+-- Inspector --> Hap Player (hmm we will need to convert MP4s to .Movs)
+
+-- Folder with files we want to convert.  (Make sure its easy to tpe the name, and access)
+
+** Convert mp4s to movs (HAP format) (use FFMpeg)
+
+
+*** Download FFMpeg
+--> for windows: https://ffmpeg.zeranoe.com/builds/
+
+
+*** Google: "FFMpeg HAP conversion" or use this link https://hap.video/using-hap.html
+
+
+--> Scroll down to: "Encoding to HAP from the command line using FFmpeg"
+
+
+
+
+
+Invoke FFmpeg to convert your files.
+
+For HAP movies use the following command:
+
+ffmpeg -i yourSourceFile.mov -c:v hap outputName.mov
+
+For HAP Alpha movies use the following command:
+
+ffmpeg -i yourSourceFile.mov -c:v hap -format hap_alpha outputName.mov
+
+For HAP Q movies use the following command:
+
+ffmpeg -i yourSourceFile.mov -c:v hap -format hap_q outputName.mov
+
+
+** Changing effects
+
+** Recording MP4s
+- Drag and drop into streaming assets of unity project
+- position camera to frame vol video
+- f10 to record
+- name the file (with the take, otherwise you will record over the last file, as it keeps the same name each time you hit record unless you manually change it)
+- videos will be saved in "recordiongs" or wherever you set the file to be saved
+- make sure its 4k
+
+
+
+
+
+==========
+
+Copy 2
+

@@ -1,0 +1,43 @@
+#+TITLE: Work Session Notes
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*Work Session Sunday Notes 6/28*
+
+*COMPLETED*
+
+** Browsed codepen and made a list of things to talk about with Marwa.
+** Emailed Marwa with links from codepen to be used in Nebula XR website.
+** Read Design Basics for Creative Results: (Introduction - Chapter 1, Format)
+** Looked over Joe's doc "web-design-aspect-ratio."
+
+** Wrote NYELobbyExperience Summary:
+** "With NYELobbyExperience, the Nebula XR Dev team tackles the design challenge of a fun lobby experience for 
+** launching Nova XR's New Year's Eve Livestreams. With visuals inspired by Nova and Nebula's space motif, 
+** integrating the notion of time and space travel, the setting of the lobby is a campsite on an asteroid! 
+** As of week 2 of production, the game experience is structured as a mini-puzzle; Users must enable a hot air-balloon 
+** for flight among the stars--using only items scavenged from the campgrounds. Win the game and drive the balloon into 
+** one of many wormholes -- each launching a 360 video stream in a unique place on earth on New Year's Eve. 
+** Dessert and champagne are complimentary!""
+
+
+*NOTES*
+
+** Need to study design materials, mental prep for graphic design work. Continue reading Design Basics.
+** Create a system of organizing web design workflow that runs concurrently with NYELobbyExperience production.
+
+
+*OBJECTIVE*
+
+** Follow up with Marwa about integrating illustrations into the website.
+** Get everyone's stat values for lvl up pages
+
+
+
+
+
+
+

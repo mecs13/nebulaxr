@@ -1,0 +1,20 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Sunday 6/21/2020
+* Accomplished:*
+** DONE: Actively corresponding with team and Joe using Discord
+** DONE: Researched and posted on GitHub of Barron's Magazine financial 
+** DONE: Added sales funnel to the strategy side of presentation
+** DONE: Met with Yuhao and Yuni to debrief on side project 
+** DONE: Uploaded final presentation slide on GitHub so it is ready to go for tomorrow 
+*To-DO*
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Continue supporting development team with ideas 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Continue to expand on the document of production 
+** TODO: Continue to research and support developement in terms of extra features to add or ideas
+** TODO: Upload vlog 13 & 14

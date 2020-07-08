@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Friday, June 19, 2020
+*Accomplished:*
+** DONE: Mounted motherboard to PC case
+** DONE: Replaced case fan with cpu fan
+** DONE: Installed cpu cooling system brackets
+** DONE: Installed power supply unit
+** DONE: Plugged cables into appropriate mobo slots
+** DONE: Installed GPU 
+** DONE: Mounted cpu cooler to backplate and applied thermal paste
+** DONE: Plugged appropriate cables into PSU
+** DONE: Realized mobo is incompatible with DDR3 memory
+** DONE: Day 16 vlog
+*To-Do:*
+** TODO: Discuss RAM compatibility with Joe
+** TODO: Buy RAM
+** TODO: Install RAM
+** TODO: Connect Front Panel cables
+** TODO: Research motherbord cable slots to ensure proper installation
+** TODO: Download Windows Installation Media tool to USB Drive
+** TODO: Download Ubuntu LTS to flashdrive
+** TODO: Partition drives
+** TODO: Install necessary softwares
+** TODO: Day 17 Vlog

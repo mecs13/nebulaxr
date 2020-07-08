@@ -1,0 +1,81 @@
+* NYE Lobby Design Plan (Tentative)
+**Launch Date: August 3, 2020
+
+
+** Nebula XR
+Nova XR Intern Design Team
+(Yuni, Yuhao, Danny, Mei, Marwa, Ibti and Joe)
+
+-----
+
+** Define the Problem:
+
+Nova XR New Year’s Eve Project is missing a *FUN lobby experience.*
+
+
+** Constraints + what that means
+
+1. *Must use 3D models available in NOVA XR visual library or legal commercially usable assets.*
+- (avoids legal issues sourcing graphics from third party sources, saving time)
+- (avoids time burden of having to generate new 3D meshes from scratch)
+
+2. *Aesthetics must maintain visual consistency with Nova's Brand Design somehow.*
+- (modern, succint, minimal)
+- (incorporate Nova logo, be mindful of typeface)
+
+3. *We can only use interactive functionalities which are simple to implement.*
+- (this rests on what yuhao is comfortable implementing in engine)
+- trigger functionality: user pushes button and some event is triggered as a result
+- picking up and moving objects
+
+4. *Must be able to build a high quality prototype by July 20, 2020*
+- (leaving two weeks for debugging. So project must be built to completion in 4 weeks)
+- (3D assets cannot be built from scratch unless they are simple and geometric)
+
+4. *Project file must stay as light as possible for transfer.*
+- (this means we will keep the lobby scale as small as possible and be judicious about how we incorporate highly rendered graphics and functionalities)
+- (the simpler the project, the less opportunity for bugs. In engineering, the more moving parts, the more opportunity for something to break)
+
+5. *The talents of each team member must be considered and featured.*
+- (mei music, yuni design, ibti research, marwa ideas, danny UI, yuhao engineering)
+
+
+** Tech Specifications
+- The lobby will be built in Unreal Engine 4.25.1 and optimized for a variety of VR headsets including Oculus, etc. as well as deskptop application
+- Art assets licensed for commercial use from EPIC Games Marketplace
+- Download will be available on Steam
+
+-----
+
+
+** Milestones
+
+*** Monday June 22
+- [x] First working prototype.
+- [x] Playspace (room) defined.
+- [x] Layout of objects in playspace defined using low-poly shapes as placeholders.
+- [x] Functionality demo-able with low-poly geometric shapes.
+
+*** Monday June 29
+- [x] Second working prototype.
+- [x] Playspace is refined with improved materials and textures.
+- [x] Lighting is improved.
+- [x] 3D models are loaded into the project and materials are applied.
+
+*** Monday July 6
+- [] Third working prototype.
+- [] Visuals (meshes, materials, blueprints) and lighting are refined further
+- [] Base functionalities applied (picking up objects, jumping)
+- [] Preliminary audio and sound effects implemented
+- [] UI functionalities like “volume” and “exit” are loaded into the project.
+
+*** Monday July 13
+- [] Fourth working prototype.
+- [] Visuals and lighting are refined further.
+- [] Audio and Sound FX are refined further.
+- [] Bugs are worked out.
+
+*** Monday July 20
+- [] First version is ready for Alpha testing.
+- [] Monday July 27
+- [] Last minute edits are added.

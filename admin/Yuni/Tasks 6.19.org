@@ -1,0 +1,28 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+*Friday 6/19*
+
+*COMPLETED*
+
+** DONE: Continued illustration work on 7 level up pages.
+** DONE: Sent design proofs and mood board images for lobby map to Yuhao.
+** DONE: Rummaging through Nova Visual library,
+** DONE: Plan work schedule for this week. Broken down by day and noting deadlines.
+** DONE: Meeting goal is to finalize step 4 of the iterative design flowchart: CHOOSE A SOLUTION.
+
+*TODOS*
+
+** TODO: Light documentation of illustration process. Send to Joe Sunday night.
+** TODO: Read over Mei & Ibti's research as a group and discuss it.
+** TODO: As a group, devs assign Mei and Ibti more research objectives.
+** TODO: As a group, discuss how Daniel will recreate UI elements from NerveVana into lobby project.
+** TODO: As a group, write the planning document answering Joe's questions from Discord.
+** TODO: Speak with Yuhao to decide how interactive functionalities will interact with art assets.
+** TODO: Continue illustrations for level up pages.
+** TODO: Get to work building lobby experience.
+** TODO: Hold a meeting this week to discuss progress.
+

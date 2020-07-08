@@ -1,0 +1,26 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Tuesday 6/16/2020
+* Accomplished:*
+** DONE: Attended 1 on 1 with Joe to discuss about business and financials 
+** DONE: Submitted financial materials of what is needed if pursuing architecture project
+** DONE: Attended team meeting via Discord to discuss next steps and follow up 
+** DONE: Submitted Intern Level Up Page (Strength, Weakness, Photo, Software Skill) to Yuni
+** DONE: Uploaded vlog 7- 10
+** DONE: Continue to think about sales funnel
+** DONE: Transfer 1 on 1 conversation notes to my Google Doc
+** DONE: Brainstormed pros and cons of B2B and B2C business 
+*To-DO*
+** TODO: Alter the mission statement as well as the whole presentation
+** TODO: When idea is finalized, start to gear ideas into a sales funnel ideology
+** TODO: Continue to brainstorm partnerships strategies 
+** TODO: Continue to research about different expenses and revenue opportunities 
+** TODO: Keep brainstorming about different backlinks to use
+** TODO: Keep brainstorming about different influencers we can partner with
+** TODO: Keep brainstorming about major Fortune 500 or S&P 500 companies for partnerships 
+** TODO: Continue to always quantify whenever possible when we write a business or marketing plan
+** TODO: Upload vlog 11

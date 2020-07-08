@@ -1,0 +1,68 @@
+
+*NovaXR volume capture --> particle swarms documentation, examples and media* https://drive.google.com/open?id=1VSGb3bGFOXASCiCzFD7eYT_P8mqMKzmb
+
+
+CAPTURING SWARM VIDEOS:
+
+Objective: Display complete interviews as swarming particles (VFX graph) with audio.
+
+Status: The videos are successfully synchronized and loading into Unity Projects as Streaming Assets.  They are MOVs that play in a Hap Player.  
+
+- We can record the videos. (F10 --> Settings -- > Record)
+- We are missing audio.  Potential fix is to add an audio-listener.  If the Hap player does not successfully play the audio, we may import it as a audio-source file, set to play in sync with select video.
+
+
+
+https://docs.unity3d.com/Manual/class-AudioListener.html
+
+
+
+
+EXPORTING TO VIRTUAL REALITY:
+
+HDRP Documentation:
+
+https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/VR-in-HDRP
+
+he High Definition Render Pipeline package documentation website.
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@latest/index.html?preview=1
+
+[Windows platforms with Vulkan]
+
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@7.1/manual/VR-in-HDRP.html
+
+Unity 2019.3
+You can use Multi-pass or Single-pass instancing for VR in HDRP.
+
+Not supported
+Single-pass Stereo (double-wide)
+VFX Graph with Single-pass instancing
+
+(1) Edit--> Project Settings --> XR Settings --> the Stereo Rendering Method dropdown. --> *Change to single pass*
+
+
+(2) Adding Single Pass Stereo rendering support to Shaders
+
+Existing helper methods in UnityCG.cginc support Single Pass Stereo rendering. Whether your application is XR
+ or not, you still need to perform transformations on vertices. For example, when creating any type of application, the vertices enter the vertex shader
+ stage in model space and exit in clip space. The vertex shader must output clip space vertex coordinates. The set of vertices affected by the shader normally begins in model space before the vertex shader transforms them into clip space. However, in order for these vertices to arrive in clip space, the vertex shader first transforms them into world space and then to viewport
+ space.
+
+In the case of XR, there are multiple view matrices: one for both the left and right eye. You can use the built-in method UnityWorldToClipPos to ensure that Unity takes into consideration whether the calculation requires handling multiple view matrices. If you use theUnityWorldToClipPos method, the shader automatically performs the transformation calculation correctly, regardless of the platform your application is running on.
+
+UnityCG.cginc also contains the following helper methods to assist you with authoring stereoscopic Shaders:
+
+/more in link above/
+
+
+
+* Volumes:
+
+Volumes enable you to partition your Scene into areas so that you can control lighting and effects at a finer level, rather than tuning an entire Scene. You can add as many volumes to your Scene as you want, to create different spaces, and then light them all individually for realistic effect. Each volume has an environment, so you can adjust its sky, fog, and shadow settings. You can also create custom Volume Profiles and switch between them.
+
+To add a Volume to your Scene and edit its Volume Profile:
+
+Go to GameObject > Volume and select one of the options from the list.
+In the Scene or Hierarchy view, select the new GameObject to view it in the Inspector.
+On the Volume component, assign a Volume Profile to the Profile property field. If you want to create a new Volume Profile, click the New button to the right of the property field.
+The list of Volume overrides that the Volume Profile contains should now appear below the Profile property. Here you can add or remove Volume overrides and edit their properties.

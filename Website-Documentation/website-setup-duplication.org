@@ -1,0 +1,136 @@
+
+
+
+Bibliography:
+
+https://www.elegantthemes.com/blog/divi-resources/how-to-add-simple-stripe-payment-buttons-to-your-pricing-tables-in-divi
+
+https://www.elegantthemes.com/blog/divi-resources/how-to-add-simple-stripe-payment-buttons-to-your-pricing-tables-in-divi
+
+https://elegantmarketplace.com/downloads/paypal-for-divi/
+
+https://www.elegantthemes.com/blog/divi-resources/get-a-free-luxurious-cryptocurrency-layout-pack-for-divi
+
+https://www.youtube.com/watch?v=1l5OnKj_-5Q&amp=&fbclid=IwAR1waYEglTLd1pS53MiWQZ2kZCaxsgxVXowwr3ZT-ns6K8rcFXcM3za08U8
+
+https://www.elegantthemes.com/blog/divi-resources/ultimate-guide-to-divi-video
+
+https://www.elegantthemes.com/blog/tips-tricks/how-to-showcase-and-share-pdfs-with-wordpress
+
+https://www.elegantthemes.com/blog/divi-resources/creating-unique-divi-button-designs-using-a-text-module
+
+https://www.elegantthemes.com/blog/divi-resources/how-to-make-any-divi-page-element-sticky
+
+https://aframe.io/docs/0.9.0/introduction/
+
+https://www.youtube.com/playlist?list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr
+
+https://www.elegantthemes.com/blog/divi-resources/how-to-create-a-stylish-survey-using-typeform-and-add-it-to-your-divi-website
+
+https://www.elegantthemes.com/blog/theme-releases/divi-feature-update-introducing-advanced-animations-options-for-all-divi-modules-rows-and-sections
+
+
+
+* Setup for the Website:
+
+The first step for the website was making a server to host the website with.
+
+For the host, we used Siteground.com. The process involved making an email for any and all work regarding the website: 
+
+luish.exist@gmail.com
+
+From there the following were purchased:
+
+- Divi theme from Elegant themes for Wordpress
+- The domain name existmusical.com
+- The Grow Big plan from siteground.com (check image: GrowBigPlan.png)
+
+From there, you will be given an option of what scripts to use for the website. In the case of Exist, we chose Wordpress installation, and following the steps outlined in the installation process, the basic Wordpress website is finished being installed
+
+* Setup for the secondary website
+
+** (1) Get a Domain and link it
+-- In order to set up the test website existtesting.xyz, the first step was to get a new domain name.  Siteground provides a quick way to purchase new domain names in the Services tab (check images for reference)
+
+-- Go to the Cpanel in the My accounts tab
+
+-- Addon domain names section, and select it
+
+-- Fill the asked information to set up the new domain name
+
+(2) Install Wordpress
+
+-- go to My accounts, and select the Add Installation Manually option, found on the top right of the installed websites in the Installations section (Check image for reference)
+
+-- Go to the Wordpress option, hover the mouse over it and select installation
+
+-- Fill the basic installation information, and select the new domain name for it
+
+-- Wait for the installation to finish, and it's done!
+
+(3) Link Domain if from elswhere
+
+-- Go to where the domain names where purchased and you need to .  Maybe namecheap.com
+
+-- Go to Advance DSN information
+
+-- add new record
+
+-- change the A records to the servers IP: 104.197.214.211  --> This  should make the domains be redirected properly to the website
+
+-- you need to go to advanced DNS options, then on the same page we added the A Record with the IP address, remove the CNAME Record and the URL Redirect Record. Give it some time, if that doesnt work, tell me
+
+* Duplicate another wordpress website
+
+/How to use the Duplicator plugin for the website/
+
+(1) Download and activate the Duplicator plugin on the Wordpress website to copy. 
+
+(2)  different files: a file called installer.php, and a .zip file that possesses the original website
+
+(3) Go to the siteground account for the website and go to the CPanel (in the My Accounts tab)
+
+(4) In the Cpanel, look for the option File Manager and go in it, selection to go to the document root for the website you want to copy the website into
+
+(5) upload both the installer.php and .zip file that Duplicator provided.
+
+Then, in your browser, go to [insertnameofwebsite]/installer.php
+
+It will start the process for cloning the original website
+
+Follow the instructions the plugin will give and the process is complete
+
+- Name of the data base
+- MySQL username
+- Password of the user
+- Address of the database
+- Table Prefix (if you want to have multiple WordPress on the same database)
+
+** Making New MySQL Databases and Users for said databases
+
+In order to make a MySQL database:
+
+Go to Cpanel > on the databases tab below the Files tab, click MySQL Databases
+
+There you get three sections:
+
+- Make a new Database
+
+you just need to add a name, and you can create a database. When being used for the Duplicator, use the full name, so existmus_[database name]
+
+- Make a new User
+
+You just need to make a username, and a password, simple as that
+
+- Add user to database
+
+You are given an option to select from the databases that are available, then pick a user.
+
+Then, you will be asked about the privileges for the particular user in the database that you want to add him.
+
+After selecting the options, just confirm your selection and its complete
+
+For more information, check
+
+https://themeisle.com/blog/clone-a-wordpress-website/
+

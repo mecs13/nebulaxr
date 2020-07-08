@@ -1,0 +1,37 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Yuni Dijamco
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+*Weekend 6/20-6/21*
+
+*COMPLETED*
+
+** DONE: Continued illustration work on 7 level up pages to near completion of first versions.
+** DONE: Concept planning for Tuesday sample.
+** DONE: Design planning for Tuesday sample.
+** DONE: Visual research on Barron's Fin Mag.
+** DONE: Plan a design for Tuesday sample - meet with Mei and Yuhao to supplement planning.
+** DONE: Download Daz 3D.
+** DONE: Search for appropriate 3D models.
+** DONE: Organize art assets and load them into Unreal.
+** DONE: Chatted with Joe and team to clarify goals for RD sample.
+** DONE: Speak with Yuhao to decide how interactive functionalities will interact with art assets.
+** DONE: Finish up illustration and level-up page layout by Sunday night.
+** DONE: Hold a meeting Sunday morning to demo first iteration of game and discuss Tuesday sample. (MEI and YUHAO)
+
+
+*TODOS*
+
+
+** TODO: Read over Mei & Ibti's research as a group and discuss it-FOR SECOND BUILD.
+** TODO: Reach out to team for feedback and to fill out lvl up pages with data.
+** TODO: Fill out design proof on Github for lvl up pages.
+** TODO: Compress & upload Sund video log when I get back to Astoria.
+** TODO: Watch meeting when I get back to Astoria.
+** TODO: Fill out and send over Timesheet.
+** TODO: Set up a time with Joe to meet on Tuesday.
+** TODO: Build a VR sample for Rob Declan BY 6PM MONDAY.
+** TODO: Work with Danny and Yuhao to get it up and running on the Nova website.
+

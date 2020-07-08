@@ -1,0 +1,15 @@
+#+TITLE: Work Session 8
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Sunday July 5th* 
+
+* Met with team 
+* Prepared for presentation
+* Demo'd experience + went over progress thus far
+* Went over Point System for tomorrow (clarifications for "work sessions" and git uploads)
+* Reviewed web dev updates for library with Mei
+* Published page and shared with team
+* Decided presentation order

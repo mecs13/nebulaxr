@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Marwa Soussi
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+* Thursday 6/4/2020
+
+*Accomplished*
+** DONE: Description of the product
+** DONE: Who is the product for and who are we trying to reach
+** DONE: Our Mission
+** DONE: Designing what the menu will look like and what it will include
+** DONE: Contact Us
+** DONE: About the Team
+** DONE: Free Trial
+** DONE: One-time Payment
+** DONE: Second Video Log
+** DONE: Daily Accomplishments written in Org-Mode
+*To-Do:*
+** MS: Create an in-game menu
+** MS: Agree on audio for project
+** MS: Edit logo for final touches
+** MS: Create third Video Log to self-reflect on hardships encountered
+** MS: Design menu in 2D
+** MS: Create a cutout in the clouds that forms the shape of a mountain in the logo
+** MS: Possibly create a loading screen
+** MS: If able to, work on designing a waterfall
+** MS: Collaborate with group if we will put a house on the mountaintop
+** MS: Insert activities that the player can do

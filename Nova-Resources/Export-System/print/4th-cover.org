@@ -1,0 +1,6 @@
+#+BEGIN_EXPORT html
+<div class="final-page">
+  <img src="../print/footer/final.png" alt="white" class="header-circle" />
+  <img src="./img/header-bg.jpg" alt="sky" class="sky" />
+</div>
+#+END_EXPORT

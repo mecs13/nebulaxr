@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Friday, June 26, 2020
+*Accomplished:*
+** DONE: One-on-One with Joe
+** DONE: Discussed the power of SFX
+** DONE: Played a few games of Beat Saber
+** DONE: Looked thru MEGA Sfx Folder
+** DONE: Further researched PC troubleshooting
+** DONE: Researched ways to implemtent SFX into game
+** DONE: Discussed point system tracking progress with team
+** DONE: Updated on visual concepts of Sandbox
+** DONE: Discuss project progress/issues with team
+** DONE: Day 21 vlog
+*To-Do:*
+** TODO: Meet with Joe and team Monday
+** TODO: Demo project
+** TODO: Discuss SFX implemtation with team
+** TODO: GET THE PC WORKING
+** TODO: Discuss future build objectives with team
+** TODO: Upload vlogs to Gdrive
+** TODO: Upload accomplishments to GH
+** TODO: Upload PC Build Documentation
+** TODO: Update LinkedIn
+** TODO: Day 22 vlog

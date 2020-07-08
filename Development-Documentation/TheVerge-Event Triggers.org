@@ -1,0 +1,40 @@
+
+* List of Event Triggers to Consider:
+** (Mind that not all of these can be implemented over the span of a week.)
+
+
+*1. Air Balloons Rise with Sound FX*
+- description) Balloons rise from outer space beneath the player, rising upward at medium speed and hovering once they reach a certain y-axis height.
+- where) Trigger volume will be placed on the bridge between /the Reprisal/ and /the Adventure/ at the 1/3 mark of its overall length.
+- how) Player must walk into the invisible trigger volume to trigger the event.
+
+*2. Giant Fireworks Rocket Explodes with a Fireworks Show*
+- description) Once a button is pushed, the giant lighter lights up. Once that lights up, the rocket's wick ignites. Four seconds after it ignites, an explosion particle effect animates. Once the explosion particle effect animates, fireworks particle effects animate in the surrounding air space with accompanying sound fx.
+- where) This trigger is prominently featured on /Adventure Island./
+- how) Player must push a big red button placed obviously in the environment, which sets off a chain reaction.
+
+*3. Giant Champagne Bottle Begins to Pour*
+- description) A popping sound is heard and fluid begins to pour from the giant floating Champagne bottle.
+- where) Trigger volume will be placed right at the first step on /the Harvest/ when the feast first comes into frame.
+- how) Player must walk into the invisible trigger volume to trigger the event.
+
+*4. Stars and Nebula Appear*
+- description) Prominent and dramatic music is layered in over the main track as the colorful stars and nebula suddenly apparate in the spacescape.
+- where) Trigger will be placed on a prominently featured light switch on /the End./
+- how) Player must turn on a light switch.
+
+*5. Main/ambient music track commences.*
+- description) Music is atmospheric, starts at a low decibel and increases to full volume over a period of 5 seconds.
+- where) Trigger will be placed on a prominently featured switch on /the Reprisal./
+- how) Player must touch the light switch to turn it on.
+
+*6. Shooting down Floating Nova Logos for Points*
+- description) Player finds a bow and arrow. Floating Nova logos rise up in the surrounding airspace once the bow and arrow are picked up. Player is coerced into shooting them down.
+- where) Trigger will be placed on the bow and arrow on a tree stump on /the End./
+- how) Player must pick up the bow and arrow, aim, and strike the Nova logos with arrows for points.
+
+-----
+
+- *NOTES: Maybe small spherical logos can be hidden around the world...logos can be collected by the player and act as currency/tokens in lieu of a points system, much like finding a gem or coin, collecting seashells, or winning tickets at Chuck E. Cheese to spend on prizes.*
+- *NOTES: Perhaps an in-game store can be implemented. Player can take the collected tokens and shop for items at the "market stall" which would sell equipment like a grappling hook or even bow and arrow. These purchases can be used to progress to previously inaccessible islands or locations.*
+- *NOTES: Logos may rain from the sky when events are triggered, as a reward for exploring the world (think Kingdom Hearts health and magic dots).*

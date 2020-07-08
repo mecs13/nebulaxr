@@ -1,0 +1,90 @@
+** Meeting 06152020 (9:00 - 10:25)
+
+** Agenda
+- Objectives
+- Prototype
+- Business (on hold)
+
+** What do we want to accomplish this summer?
+
+Daniel
+- Create something that we can look back on to be proud of 
+- Create a game or experience make something in our world more accessible and convenient 
+- VR is definitely a new industry: he wants to persuade people how accessible VR is
+- Champion industry 
+
+Yuhao
+- One solid completed project 
+- Ready for mass production and consumption 
+
+Yuni
+- Concepts are fun and clear
+- One small project that is polished 
+
+Comments from Joe
+- Connect markets
+- facilitate trade 
+- Core: furniture
+- Appeal to brand 
+
+
+** Opportunity
+- Possibility of networking with John Jenkins (Princeton-> Soho) where we would be able to present it to him.
+
+** Business StandPoint (Architectural Project)
+- Benchmark our environment and being able to build something that is more resilient 
+- Influence people to get things in real life from VR experience 
+- Being able to be off of the chair and experiencing firsthand. 
+- Proving its ability and providing infrastructure to sell it 
+- Make it easy so architects can easily sell it 
+- Architects are our main focus
+- Create a visual tool that empowers them
+
+
+** Future of NerveVana
+- Encourage tourism: just like the retail experience 
+- Present various forms for clienteles 
+- Businesses are in the area 
+- Different places and activités 
+- Provide comfort and manage expectations
+- Planning and anticipation of going 
+- Experience to live on
+
+Relevance of NerveVana: Australia Project with NOVA 
+- Verbal agreement
+- Signed contract in November 
+
+** What should we do? (combination of NerveVana & Architecture Project)
+- 360 photo of the national park
+- Put a 360 photo outside of the building 
+- Trigger mind 
+- We do not need to deal with legality or national park services 
+- Some issues: optimization might be a problem 
+- Drop a player space in the Shenandoah National Park (static 360-degree photo)
+- Encouraging housing industry 
+- Different settings: Urban (city), Rural, Suburban, National park 
+- We can upload our own 360 location and can implement into space
+- You can personalize this experience, a feature everyone can enjoy
+
+Joe’s Opinion
+- Too many complications for NerveVana project
+
+** Business Standpoint
+- Selling product services
+- bring user experience
+- getting the transaction
+- Improvements to Kartell: change lighting, change exterior for 360 photos (this opens market for relocation)
+
+** Come up with a business strategy 
+- Main Focus for the Week: Only adapt to Kartell
+- Use Cartel’s case study 
+- Kartell: see returns 
+- Present to the client 
+- Net money
+- Retail XR (document): go by that document
+- We have to develop behind the scene 
+
+** What we need to do:
+- Design: gaining materials from the asset, we need to add texture
+- Soft objects 
+- Changing of materials 

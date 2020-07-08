@@ -1,0 +1,448 @@
+** Introduction
+
+*What's this document*
+
+This document expresses the potential of virtual reality as a tool to enhance New Year's live stream experience. It is written by the Nebula XR team within NOVA XR Media in pursuit to accomplish this experience between December 2020 - January 2021. All ideas expressed within are confidential to the aforementioned parties. 
+
+*Why does the reader care?*
+
+Over the last three years the major American networks have combined to average 30 million viewers on New Year's Eve. Just taking 2018 New Year's Eve Times Square ball drop alone, more than 10 million unique viewers, livestreamed the ball drop via Facebook. This was a 47% increase from previous years. The markets for gaming, live event broadcasting as well as VR industries are all exponentially growing in revenue, which means there is a higher demand for these experiences.   
+
+*Date, Location, Author*
+
+- Dec 30, 2020- Jan 2, 2021
+- To Be Determined
+- NOVA XR Media
+
+
+** Executive Summary 
+
+*What is the fun factor?*
+
+We will build an immersive haptic (auditory, tactile, and many others) New Year's live stream experience through VR. We will improve higher fidelity that is currently not accessible or affordable. One would feel high fidelity when interacting with the game that you are able to move and pick objects up and down. 
+
+*How do we know this is going to be fun?*
+
+Each customer or individual would have a satisfying game-feel experience where the game challenges you in order to view the worldwide VR livestream experience. 
+
+*What is the UX outcome*
+
+The User will spawn in a blank, matrix-esque environment, and build the world around them through their actions, puzzles and explorations.
+
+*How does the user engage the world?*
+
+By lifting objects, slicing them, firing a projectile. They will consume with their eyes, ears and body movements
+
+*How does this techncally happen*
+
+Through systems develoepd in Unreal 4 Game engine that calculate movement, location, collision and many more.
+
+
+** Strategy
+
+- Objective: Building and Present a Fun Sandbox XR
+- Audience: Web/Stream users Dec 30 - Jan 2
+
+*What did you recently accomplish- Why*
+
+- Research: We did research on sonic haptics, game feel and psychology of NYE and global celebrations, and games to improve the experience and have clear direction on design methods. 
+
+- Build: We deployed the environment and systems in VR, to demo and test their usefulness for feedback and direction. 
+
+- Website: We published a page with the team information and assessed what more we want to add for public consumption. We also assess our SEO. We did this ensure we are making it visible, attractive engaging, and information.  
+
+*What are you accomplishing now- Why*
+
+- Research: Assessing current game strategies to go to market, how they differentiate from competitors. Black Swan events from the past to consider such as the 2008 economic regression. 
+
+- Build: We are merging the PC proof of systems with the VR proof of environment and will debug, so the next iteration has both major components of form and function in the prototype.
+
+- Website: adding more keywords, adding client facing informtion such as video, download, external links, team responsibilities, additional pages for more information, etc cetera. We are doing this so we have a draft of what content will be published.
+
+*What are you accomplishing next- Why*
+
+- Research: How are businesses/companies recovering after COVID, audience purchasing power, how will our experience support inclusion
+
+- Build: As the level has more or less been finalized, the next step is to refine it to smooth out the experience and bring in more interactivity. The next immediate plan is to plan with the team what events we wish to bake into the experience. 
+
+- Website: Improve SEO to 90% by adding more backlinks to page, regularly upkeep existing content, identifying opportunity & attaching trailer and documents. This will all be needed to add attractivity to client. We will continue to publish new pages and updating them. Also need to pick another format/page to Clone, must reevaluate design + priorities. 
+
+
+** Measure of Success
+
+*Qualitative*
+
+- Qualitative Key Performance Indicator (KPI): process or business decision
+
+- How do customers or individuals describe the NYE livestream experience?
+
+- What kind of interactive games do customers respond well to? 
+
+
+*Quantitative*
+
+- Purchases of flight tickets 
+- Clickthrough rate on websites
+- Measure partnerships investment using Return on Investment (ROI) performance measure 
+- Interactivity through likes, shares, comments and clicks 
+- Total viewers of the livestream
+- Keep an eye on audience growth rate
+- Time spent on the games (important for consumer attention)
+- Number of times an object has been picked up
+- Discrete KPI: ratings, complaints
+- Continuous KPI: measures over time (partnerships, revenue growth, etc.)
+
+*Broadly*
+
+- 11 Types of Key Performance Indicators (KPI)
+
+*Precisely*
+
+- Quantitative Indicators: discrete and continuous (over a time)
+
+- Qualitative Indicators: survey data
+
+- Leading Indicators: customer service (support), number of interactive games
+
+- Lagging Indicators: total number of glitches, amount of cookies used, smoothness in a game (freezing or any other incidents)
+
+- Input Indicators: staff time, equipments used to develop, budget allocated 
+
+- Process Indicators: new implementation time (whether it is customer compliants or customer experience)
+
+- Output Indicators: clickthrough rates, profits, purchases of flight tickets, parternships ROI, viewership 
+
+- Practical Indicators: exploring competitors process and experience (live stream companies)
+
+- Directional Indicators: evaluating the time of day engagement, which partnerships live stream experience has better viewership, where are the industries moving to
+
+- Actionable Indicators: committment and follow through in said changes or processes within specified time frames 
+
+- Financial Indicators: asset turnover ratio, net profit, etc.
+
+
+*Misc*
+
+Go-to Market Strategy
+
+*(1)* Build a immersive haptic (auditory, tactile, etc) New Year's live stream experiece through VR. 
+
+*(2)* Attract eyeball traffic to increase clickthrough rate.
+
+*(3)* Inspire individuals to play through the interactive games.
+
+*(4)* Educate individuals in worldwide New Year's tradition.
+
+*(5)* Satisfying game-feel experience for individuals.
+
+*(6)* Use most recent developements in haptic technology to increase our viewership. 
+
+*(7)* Evolve and transform VR live stream experience for more B2B business. 
+
+
+Sales Funnel
+
+*|Awareness|* 
+    |                   Word of mouth                     |
+    | Partnerships with video stream & broadcast companies|
+*|Interest|*  
+    |                   Novelty of VR                     |
+    |        Immersive worldwide New Year's tradition     |
+*|Action|*    
+    |                 Interaction in mini games           |
+    |          Educates global New Year's tradition       |
+*|Commitment|*
+    |                Cost per impression                  |
+    |                Successful partnerships              |
+    
+
+** Production Pipeline 
+
+|   Phase     | Deliverables                               | Due Dates|
+|-------------|--------------------------------------------|----------|
+|  Design     | Aesthetics and World Design                | July 13  |
+|Development  | Player functionalities and event triggers  | July 13  |
+|Deployment   | Executable Game File for desktop & Oculus  | July 13  |
+
+*Evolution of Developement*
+
+Everyone has a busy lifestyle and often times, lack the time to experience and immerse themselves in all holiday traditions especially the New Years. New Year is a way for people to celebrate their survival through their previous year. XR is an emerging technology where it is predicted over 50-80 million people will invest in XR technology. 
+
+*2021*
+
+- Deploy the VR experience at selected live stream location, persuading viewers to interact with games and educate worldwide New Year's tradition.
+- Compile data for analytics as well as improve strategies for better clickthrough rate.
+
+*2022*
+
+- Modify the VR software that will outreach to a wider audience showcasing the liveliness of each of the designates New Year locations. 
+- Partner with gaming, broadcasting media and video stream companies. 
+
+*2023*
+
+Release a New Year's VR livestream experience across high viewing countries as well as integrate interactive games that will allow individuals to learn each countries values and traditions (historical, symbolizism and others). 
+
+*2024*
+
+Build an Extended Reality video stream arm. By this time, Extended Reality will likely to have matured to be feasibly applied. Addition to the primary site, we will outreach and partner with many industries so it will provide conveniency and immersion to more than billions of people in our society. 
+
+*Week 1 - 3*
+
+- Week-by-week schedule of production.
+- Selection of sites for VR livestream experience.
+
+*Week 4 - 7* 
+
+- Design Specification (models, environment, story, games)
+- Tech Specification (code, hardware, network)
+
+*Week 8 - 11*
+
+- Prototype (avaliable for investors and individuals)
+- Updated livestream/environment/games
+- Chosen team to set up livestream at that location
+
+*Week 12 - 15*
+
+- Alpha Test Reports
+- Livestream/environment/interactive games implemented
+- Prototype version 2
+- Alter any livestream angles for site
+
+*Week 16 - 19*
+
+- Beta Test Reports
+- Interface performance test report
+
+*Week 20 - 23*
+
+- Player Test Reports
+- Final environment check
+- Network testing report
+
+*Week 24 - 26*
+
+- Packaged interactive games, sites and GO LIVE STREAM!
+
+** Design
+
+*World*
+
+Look out into the Verge, a meteoric playspace located in the moments straddling the upcoming year and the last. The space is comprised of several floating island each with its own aesthetic and motif regarding human life over the course of an annual cycle.
+
+The player begins on a floating island infinity in a starry, surreal spacescape on a lush floating island called the Reprisal. The Reprisal is a small island modeled after the season of Spring. It is adorned with a picnic blanket, a giant pear and apple, and a giant bottle of wine and represents the renewal brought forth by each new year.
+
+The player continues into the Adventure, a larger island featuring a campsite. This island represents personal expedition and chances taken, and is modeled after the season of Summer.
+
+Afterwards, the players climbs a steep bridge leading to the Harvest, a giant feast and celebration of the efforts invested in chasing our human aspirations, depicted by an Autumn seasonality. Shortly after, there is the End, a wintery island with very large wrapped gifts, because life is a gift. The End is a space for contemplation and reflection of the dying year.
+
+Cross the final bridge into the last island, the Verge, the lobby’s namesake location. The Verge is an island floating above Earth’s North Pole; Its ground is a giant clock, and it carries a series of portals arranged in a circular formation. The player may access the 360 live streams from these portals to watch other humans standing on the verge of a new year.
+
+*Interface/Story*
+
+It’s the eve of the New Year, and you find yourself on the verge of new ground bustling with eagerness, hope, and humanity. As you nurse your hopes for the incoming year, take stock of last year’s adventures, celebrate your achievements, and pause for reflection, you embody what it means to be a human at the turn of a new calendar year. Move through the Reprisal, the Aventure, the Harvest, and the End and cross the final bridge into the Verge, a surreal timescape island hosting a series of glowing portals. Walk through, and witness your fellow man as they live through the Verges of their own New Year in unique parts of the world, to feel the humanity inherent of a turning year.
+Design
+
+
+** Development 
+
+*Script/Specs:*
+
+While UE4 is written in C++, development in VR can be done solely in blueprints. While blueprints compile slower than code in C++, it's far more convenient and explanatory. The NYE lobby as of this development cycle has all been done in blueprints. Regarding specs, as the project has not concluded, the necessary power of a system to run the experience is still undetermined. However, given that demoing the experience with a RTX 2070 Super has yield a capped 120 FPS, expectations are that a moderate system will be able to run it.
+
+*Assets:*
+
+The source of the assets used in the NYE lobby come primary from the Nova asset library and the Epic Games Marketplace. Given the purpose of the lobby is to serve as a conduit for bring the user into the NYE livestream, the scale of the lobby depends on the time a player intends to stay in the lobby before transitioning to the event. As such, assets can be smartly reused throughout the lobby as to curtail high graphical and computing demands as long as it doesn't cross the players' attentive threshold whereby the notice the obvious recycling of assets. A primary example of this subversion are trees as randomizing size and orientation gives off an illusion of variety. 
+
+*Mechanics:*
+
+As a sandbox, the lobby is centered around the idea of player interactivity. The extents of player interaction can be broken down into the systems that enable it. Of the many systems brainstormed for the lobby, the two that will be most inherently natural to players are item interaction and collision based interaction. Both mechanics are simple in natural but theoretically limitless in potential. The lobby was not designed with realism in mind and as such, it opens up a Pandora's box of possibility. The simple interaction of picking up an object may cause hot air balloons to rise into the air or have the landscape change entirely. Due to the unpredictability of events that may transpire upon interaction, the game draws heavily on the player's curiosity to drive them to seek out and interact more as what may happen is unknown. The natural of collision based interaction is much the same, but rather than picking up an object, a player simply overlaps something. It can be some invisible volume as they cross a bridge which would collapse it or something more visual like jumping into water and causing fireworks to appear. 
+
+*Game Play:*
+
+Being that the NYE sandbox is an experience designed to celebrate the turn of a year, designing gameplay for such an experience is a limiting factor. While most mechanics of games are used to extend the human body such as a gun shooting a projectile or simply a knife extending reach, such mechanics would be inappropriate for this experience. As such, to embody the spirit of the New Year's, gameplay is simplified to be reactionary in the sense that playing the game would reward the player with visuals to garnish a reaction that would motivate said player to continue pursuing said visuals. To achieve that, players are endowed with a sense of control that may feel limitless but are restricted by the laws of the game. Being a sandbox, what a player perceives as natural in real life must be presented as natural within VR. While not theoretically an impossibility, to replicate real life down to each particle within a virtual reality is an enigmatic undertaking. For the NYE lobby, rather than create logic for every possibility, a goal is presented to the player with only a handful of tools avaliable to achieve it as a way to subvert the inadequacies and a sandbox based in VR. An example of this would be the goal of lighting a candle. While there may be other sources of light around, only a specified lighter can light this candle and by presenting this to the player, they abide by the game's restrictions rather than their own expectations. In a game like basketball, one must play within its rules, but in a digital game like CSGO, one must obey its laws.
+
+*Application:*
+
+*Data:*
+
+As of this dev cycle, the size of the project is roughly 30 GB. However, while the project is 30 GB, packaging the project yields roughly 5 GB. This shows that there are a lot of unsused assets currently taking up drive space in the project along with dirty files in need of disposal. Regarding optimization, the experience runs at a capped 120 FPS with a RTX 2070 Super, but that's expected to be because the level has not been fully developed. By the final build, the goal is the have the experience maintain a solid 90 FPS as to maximize the refresh rate on VR headsets. 
+
+*Run Time:*
+
+Approximately 10 minutes of in-game time (dependent on the User). Maximum game time is from the launch of NYE Live Streams to their closure.
+Interface
+
+In first-person perspective hosted by a VR platform, the player will use hand controllers to move around the abstract playspace and interact with eclectic world fare. To make it to each new island, the player must cross a series of precarious bridges without falling off, using the jump feature to navigate missing slats and tricky angles. Two islands jutting from the Adventure contain huts which may be used for discoverables or internal advertising. Events in the world will be triggered by the approach of each new island–whether it be hot air balloons seeming to rise from lower space, a giant bottle of champagne pouring into giant champagne flutes, or a fireworks show.
+
+Given that the lobby has not reach its final build, total run time of the lobby experience has yet to be determined. However, given that the lobby is to serve as a pipeline into the NYE livestream, it must be able to grip the attention of its players while not draining it as it would detract from the main event. For users who only wish to partake in the NYE livestream, an override will be place into the lobby as to essentially skip it and get right to the livestream, but for those who wish to experience the lobby, anticipations are to hope for the experience to last for no more than ten minutes as the strength of VR is its ability to supply a strong initial visual impression but impact dwindles quickly after. As such, the goal of the amount of time spent in the lobby is to have it filled with content and visually impactful scenes for the user.
+
+*OS:*
+
+The NYE sandbox experience is currently being developed for Windows exclusively not by preference but by limitation. While the project can be packaged for an iOS based device, general incompatibility between iOS devices and VR headsets make it so that even if an iOS device had sufficient computing power to run the experience, the ecosystem simply lacks the means to bring one into it. However, Apple seems to be advancing their VR department and given that they sufficiently develop it, an iOS based build can easily be packaged. Regarding exclusively based Android VR experience such as Google Cardboard or the Oculus Go, given that the project has yet to reach its conclusion, the total graphical and computing power necessary for it has yet to be determined. As such, packaging the experience for mobile is uncertain at the moment.
+
+Technical Graphic 
+Interface Graphic
+
+** Financial Predictions
+
+*Current Markets*
+
+On average, 12.5 million of those viewers came from the 18-49 age demographic (the same demo that owns the majority of Virtual Reality Headsets). 
+
+#+CAPTION: NYE network ratings
+| Network | 2017   | 2018   | 2019    |
+|---------+---------+---------+----------|
+| ABC     | 18 mil  | 16 mil  | 21.1 mil |
+| CBS     | 3.1 mil | 3.4 mil | 3.1 mil  |
+| NBC     | 6 mil   | 6.6 mil | 3.6 mil  |
+| FOX     | 4 mil   | 6.6 mil | 3.6 mil  |
+
+*Trends/ Forecast*
+
+#+CAPTION: Gaming Industry Forecasted
+| Year | Revenue        |
+|------|----------------|
+| 2016 | $101.1 billion |
+| 2017 | $108.9 billion |
+| 2018 | $115.8 billion |
+| 2019 | $122.7 billion |
+| 2020 | $128.5 billion |
+| 2025 | $257 billion   |
+
+#+CAPTION: Broadcast Media Industry Forecasted 
+| Year | Revenue        |
+|------|----------------|
+| 2005 | $90 billion    |
+| 2010 | $110 billion   |
+| 2015 | $148 billion   |
+| 2016 | $159 billion   |
+| 2017 | $161 billion   |
+| 2018 | $168 billion   |
+
+*Due to uncertain events with COVID-19, broadcasting industry is relatively difficult to forecast due to its volatility*
+
+#+CAPTION: Video Stream Industry Forecasted 
+| Year | Revenue        |
+|------|----------------|
+| 2017 | $21K million   |
+| 2018 | $23K million   |
+| 2019 | $24K million   |
+| 2020 | $27K million   |
+| 2021 | $29K million   |
+| 2022 | $30K million   |
+| 2023 | $31K million   |
+| 2024 | $32K million   |
+
+** Return on Investment
+
+- *Investment: $75K+ Per Site* 
+
+This New Year's VR live stream experience will educate and entertain. Different haptics avaliable through our virtual reality programming will bring our marketing to fruition. It increases interactivity, viewership in all parts of the world and minimizes cultural differences in the celebration of the New Year. We will need an estimated [TIME] to develop a product that is ready for implementation and [COST] in financial backing.  
+
+
+Graphic 
+
+** Website 
+
+- URL: https://novamedia.nyc/index.php/nebulaxrteam-production/
+- Link to executable
+
+** Team
+
+- Summary 
+
+*Yuni*
+
+- Role: Lead Artist and Designer
+
+- Backgroud: 
+Yuni grew up all around the world raised in a variety of cultural ecosystems. She credits these early experiences for her unique world view and appreciation for different perspectives—the hallmark of her personality.
+
+Yuni spends much of her free time in the study and practice of creative endeavors.
+
+Yuni loves stories. Those dearest to her heart are titles in classical literature, especially British Literature. She can lie in bed for hours with a book and treasures the sensation of feeling absorbed into its pages. Sometimes, she writes science fiction or short stories.
+
+She loves to dissect games and films with a critical eye, watching for cinematography and thematic symbolism. She has produced a handful of short student films and has a solid grasp of the pre-production, production, and post-production process in film.
+
+Yuni is in her third year of studying the Fine Arts at The City College of New York. It is her first time studying art in a formal setting. Someday, she hopes to channel her skills, passion, education and unique perspective into a fruitful career as an art director.
+
+For the Summer of 2020, Yuni hopes to be relied upon by NEBULA XR for creative vision, good ideas, and the generation of impressive art assets.
+
+Outside of her career pursuits, Yuni cooks every day and renovates her condo endlessly. When she craves excitement, she spends an evening at the opera, engages strangers in deep conversation, or hops in her car and drives somewhere new. For special thrills, she hikes and kayaks.
+
+Perhaps more than anything, Yuni loves spending quality time with family, friends and her beloved felines—Stela, Misa, Oli, and Uma, who keep her company at her work desk.
+
+- Philosophy: 
+Yuni aspires to demonstrate her excellent taste, perfectionism, and natural affinity for the fine arts for which she is seeking formal training. Yuni strives to embody authenticity and humanity above all else, and believes that artists cannot create exceptional work without being brave enough to offer their whole selves, flaws and all, for scrutinizing eyes–for better or for worse. Yuni believes that games are the next stage of evolution in entertainment, surpassing even film and television. Having witnessed the industry mature alongside herself over the last two decades or so, she feels an acutely personal connection to the medium. At its highest potential, she believes the enjoyment and process of game design can illuminate the human condition and human nature in a way that no other form of media can. 
+
+*Yuhao*
+
+- Role: Game Engine Developer
+
+- Backgroud: 
+Yuhao is a junior studying Civil Engineering at the City College of New York. While he holds professional interest in structural analysis and hydraulics, his love and passion for video games motivated him to explore the world of development. He considers himself a PC enthusiast as he spends a lot of time tinkering and building PCs.
+Off the computer, he enjoys reading science and history related books, going for walks, spending time with friends, and playing video games.
+
+As a member of the team, Yuhao holds the role of game engine developer. Much of the work he is involved in is based in Unreal Engine 4. Aside from UE4, he is proficient in AutoCAD and Revit and experienced in Blender.
+
+- Philopsophy
+When it comes to work, Yuhao plays off his sense of cautious ambition and keen pragmatism. He brings a variety of technical skills to the team allowing him efficiently anticipate and plan for the challenges that approach with each development cycle. While he is an advocate for constant expansion and enlargement of a project, he understands his responsibility as a dev to always maintain the humility and foresight to be realistic given an allotted time. That being said, he believes that the only true limit in anything is time and given enough of it, there are no such things as inadequacies or impossibilities in projects. 
+
+*Mei*
+
+- Role: Music Visualizer & Marketing Intern
+
+- Background: 
+Mei is a rising Macaulay Honors junior at The City College of New York double majoring in applied mathematics and music with a background in legal, finance, and technology. She has experience starting her own startup as well as working in a corporate setting (Mastercard).
+
+Mei's personal hobbies include volunteering in her local hospitals and music schools as well as doing contortion. She has previously played the National Anthem at the Yankees Stadium as well as performed internationally at a Town Hall in Paris, France. She also loves to teach music, math, and English to students all around the world. 
+
+She previously attended Fiorello H. LaGuardia High School where she graduated with a concentration in music (violin and piano) as well as in liberal arts. With her diverse backgrounds and bi-cultural outlook, she provides a unique perspective in regards to business as well as in development.
+
+- Philosophy:
+Mei's ambition is to always educate and inspire others with her music as well as her business/marketing background. With both of her creativity and techical skills, she offers a unique perspective to each idea. Her amateur music skills conveys indescribabe emotions. Mei believes music is a source of healing power and an adhesive like glue for all industry projects. Her motto is always take on all challenges that are outside of her comfort zone as this is what life is about- always seeking discomfort. 
+
+*Ibti*
+
+- Role: Research & Marketing Intern
+
+- Background: 
+Ibtihal Chamakh, a resident of Queens, NY, is a rising senior at The City College of New York. She is an S Jay Levy fellow and Skadden Scholar majoring in sociology.
+
+In her free time, she enjoys reading, watching movies, and attending live musical events.
+
+Currently, she is working with Nova as a research and marketing intern. Ibtihal is responsible for NerveVana’s research and development. She supported project design and UI decisions via research on existing XR. Her background in law has also contributed to the acquisition and use of royalty-free assets in engine. In this respect, her familiarity with VR is academic.
+
+- Philopsophy:
+Given Ibti’s background in social science, her philosophy is geared towards the betterment of others. She is passionate about people and innovation. In her work, she is committed to ensuring inclusive and fulfilling experiences for all potential users. She believes in the importance of accessibility in tech, and feels VR should be no different.
+
+*Marwa*
+
+- Role: Gaming Design Intern
+
+- Background: 
+Marwa Malak Soussi, a resident of Harlem, NY, is a rising junior at The City College of New York. She is an S Jay Levy fellow majoring in English concentration in creative writing.
+
+In her free time, she enjoys reading, watching movies, and talking for hours on the phone with her husband.
+
+Marwa is skilled in website development with background knowledge in HTML, CSS, and JavaScript. She is responsible behind building NovaMedia’s Interns’ Page.
+
+Currently, she is working with Nova as a gaming design intern. Marwa is responsible for NerveVana’s design and scene production. She is also responsible for creating NerveVana’s logo.
+
+- Philopsophy
+
+*Daniel*
+
+- Role: Software Engineer Intern
+
+- Background: 
+Born and raised in New York City, Daniel is student of Computer Science at Queens College with a background in sales and music production.
+Daniel’s personal hobbies include making music and playing soccer. He previously played soccer at New York City Football Clubs Pre-Academy for 9 years.
+
+He previously attended Bard High School Early College Queens, where he graduated with an Associates Degree in the Liberal Arts and took his first programming course. Since, his background is primarily in software development, he has a strong understanding of business acumen and technology applications gathered through sales experience.
+
+Through his studies he has developed a strong understanding of the Java and C++ programming languages and continues to build on his skills outside of the classroom by learning new languages such as CSS, HTML and JavaScript.
+
+- Philosophy: 
+Daniel’s work philosophy rests on the pillars of ambition, creativity, and learning from failure. He believes that ambition and assertiveness drive the quality of your work by pushing you to your limits, while creativity and positivity allow you to think freely and inspire greatness from yourself and others. While errors are an unavoidable aspect of life, they are the best learning experiences and fear of failure can stop you from your best work. He believes mistakes do not translate to failure, unless you give up.

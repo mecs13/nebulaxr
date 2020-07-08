@@ -1,0 +1,14 @@
+#+TITLE: Work Session 4
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Sunday June 28th*
+
+* Spoke with team regarding point system prior to formal evaluation
+* Confirmed some 1o1 attendance
+* Confirmed some independent deliverables as well as their location
+* Clarified any additional concerns related to documentation, drafts, work sessions, and vlogs
+* Verified where team was uploading documentation for smoother confirmation in the morning
+* Discussed presentation order in advance of Monday meeting with Joe 

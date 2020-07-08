@@ -1,0 +1,27 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Wednesday 7/1/2020
+* Accomplished:*
+** DONE: Attended working session with Joe 
+** DONE: Researched heavily- Black Swan Event 
+** DONE: Looked and read through many research papers around Black Swan event and chose info that was relevant 
+** DONE: Attended team meeting to update on progress and reflect on feedback
+** DONE: Set up Doodle form for future team meetings
+** DONE: Researched and skimmed through- audience purchasing powers- assisting in Ibti's research
+** DONE: Played around with Gantt but it seems that as if some of the production is still up in the air
+** DONE: Continued to update progress on GitHub
+*To-DO*
+** TODO: Research for curiousity- "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Research and update- audience purchasing power
+** TODO: Research and update- Black Swan Event
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Make sure to reach out to development for documetation information
+** TODO: Be up to date with team on progress and have informal meetings
+** TODO: Be prepared for a presentation next Monday
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 18- 20

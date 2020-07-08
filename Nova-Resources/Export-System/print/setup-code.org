@@ -1,0 +1,89 @@
+#+MACRO: newline    src_emacs-lisp[:results raw]{"\n"}
+#+MACRO: tab src_emacs-lisp[:var d=tab_$1[$2,$3]]{d}
+#+MACRO: tabf src_emacs-lisp[:var d=tab_$1[$2,$3]]{(floor d)}
+#+MACRO: tabr src_emacs-lisp[:var d=tab_$1[$2,$3]]{(round d)}
+#+MACRO: pagebreak @@html:<div class="pb"></div>@@
+#+MACRO: cite \cite{$1}
+#+MACRO: date @@html:<style>@media print { @page:nth(5) { @bottom-center { content: '$1' } } }</style>@@
+#+MACRO: subtitle @@html:<style>@media print { #title-page .logo .title { content: '$1' } }</style>@@
+#+MACRO: end-footer @@html:<style>@media print { @page final-page { @bottom-center { content: '$1' } } }</style>@@
+#+MACRO: whitepage @@html:<div class="white-page"></div>@@
+#+MACRO: no-page-numbers @@html:<style>@media print { @page { @bottom-center { content: '' } } }</style>@@
+#+MACRO: no-toc @@html:<style>#table-of-contents { display: none; }</style>@@
+#+MACRO: figure #+ATTR_HTML: :class nova-figure
+#+MACRO: double-pager :PROPERTIES: {{{newline}}}:HTML_CONTAINER_CLASS: double-pager--wrapper $1 {{{newline}}} :END: {{{newline}}} @@html:<style>.double-pager--wrapper.$1::before { page: $1; } .double-pager--wrapper.$1 { page: $1; } @page $1 { background-image: url("./img/$1.png"); background-size: 200%; border: none; @bottom-center { content: ''; border: none; } } @page $1:left { padding-left: 15cm; @top-center { content: flow(header-left-no-margin); } } @page $1:right { background-position: 100% 0%; @top-center { content: flow(header-right-no-margin); } } .double-pager--wrapper.$1> h2::before { content: url("./img/$1-sq.jpg"); }</style>@@
+#+MACRO: theme-color @@html:<style>p code:after, li code:after { background-color: #$1 } .double-pager--wrapper { border-color: #$1 } #table-of-contents h2 { color: #$1!important; } #text-table-of-contents > ul > li::before { background-color: #$1 } #text-table-of-contents > ul > li > ul > li::before { background-color: #$1 } @page { border-color: #$1; @bottom-center { border-color: #$1 } } @media print { .header-picture.margin .margin-line { border-color: #$1 } h2 { border-color: #$1 } h3::before { background-color: #$1 } h4::before { background-color: #$1 } .org-ol li::before { color: #$1; border-color: #$1 } .org-ol .org-ol li::before { color: #$1 } .org-ul li::before { background-color: #$1 } a, p a { color: #$1 } } .sky { content: url("../headers/$1.jpg")!important; }</style>@@
+#+MACRO: crappy-hack * final h2 {{{newline}}} :PROPERTIES: {{{newline}}} :CUSTOM_ID: final-h2 {{{newline}}} :END:
+#+MACRO: gantt @@html:<div class="gantt-page-left"><img src="./img/$1" alt="gantt-right" /></div><div class="gantt-page-right"><img src="./img/$1" alt="gantt-right" /></div>@@
+#+MACRO: translate-title-up :PROPERTIES: {{{newline}}}:HTML_CONTAINER_CLASS: translate-title-up {{{newline}}} :END: {{{newline}}}
+#+MACRO: double-gantt @@html: <div class="double-gantt-page-left top"><img src="./img/$1" alt="gantt-right" /><img src="./img/$2" alt="gantt-right" /></div><div class="double-gantt-page-right top"><img src="./img/$1" alt="gantt-right" /><img src="./img/$2" alt="gantt-right" /></div>@@
+
+
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+OPTIONS: tex:dvisvgm
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../print/style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../print/style-print.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../print/style-toc-print.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../print/gantt.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../print/exec-sum.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./styles/style-overrides.css" />
+
+#+OPTIONS: H:5
+
+
+#+BEGIN_EXPORT html
+<style>#final-h2{display: none}</style>
+<div class="header-picture left margin">
+  <img src="../print/logos/naked.png" alt="logo" class="header-logo" />
+  <img src="../print/footer/left.png" alt="circle" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+  <div class="margin-line"></div>
+</div>
+<div class="header-picture right margin">
+  <img src="../print/footer/right.png" alt="white" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+  <div class="margin-line"></div>
+</div>
+<div class="header-picture left no-margin">
+  <img src="../print/logos/naked.png" alt="logo" class="header-logo" />
+  <img src="../print/footer/left.png" alt="circle" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+</div>
+<div class="header-picture right no-margin">
+  <img src="../print/footer/right.png" alt="white" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+</div>
+<div class="header-picture left toc">
+  <img src="../print/logos/naked.png" alt="logo" class="header-logo" />
+  <img src="../print/footer/toc-left.png" alt="circle" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+  <div class="margin-line"></div>
+  <div class="margin-line right"></div>
+</div>
+<div class="header-picture right toc">
+  <img src="../print/footer/toc-right.png" alt="white" class="header-circle" />
+  <img src="./img/header-bg.jpg" class="sky" />
+  <div class="margin-line"></div>
+  <div class="margin-line right"></div>
+</div>
+
+
+
+<div class="page-to-remove"></div>
+<div class="page-to-remove"></div>
+<div id="title-page">
+  <div class="logo">
+    <img src="../print/logos/naked.png" />
+    <div class="title"></div>
+  </div>
+  <div class="circle">
+    <img src="../print/footer/front.png" />
+  </div>
+  <img src="./img/header-bg.jpg" class="sky" />
+</div>
+
+#+END_EXPORT

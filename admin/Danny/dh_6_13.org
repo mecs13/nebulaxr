@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Saturday, June 13, 2020
+*Accomplished:*
+** DONE: Researched how to create event
+** DONE: Created on value changed event that sets the master volume to value of slider float
+** DONE: Implemented into level blueprint event graph
+** DONE: Talked to Yuhao regarding character blueprint
+** DONE: Rearched how to activate sound mix upon game start
+** DONE: Created pre cons event to activate sound mix
+** DONE: Uploaded newest project iteration to GDrive labeled NerveAna test
+** DONE: Communicated upload to team 
+** DONE: Set meeting time with team on Sunday
+** DONE: Day 10 vlog
+*To-Do:*
+** TODO: Meet with team 
+** TODO: Test new feature with Yuhao
+** TODO: Discuss individual progress
+** TODO: Settle on team name
+** TODO: Prep for Monday meeting
+** TODO: Discuss new feature implementation
+** TODO: Discuss new prototype ideas
+** TODO: Confer with team to decide how to proceed with project 
+** TODO: Research how to implement movable 3D components
+** TODO: Day 11 vlog (upload vlogs to drive)

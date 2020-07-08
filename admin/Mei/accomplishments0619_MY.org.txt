@@ -1,0 +1,24 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Friday 6/19/2020
+* Accomplished:*
+** DONE: Forecasted three industry starting from the most general (Gaming Industry) to specific (Video Stream Industry)
+** DONE: Brainstormed three top companies for each of the industries 
+** DONE: Attended a quick team meeting on June 18, 2020 to debrief findings about my research
+** DONE: As a team we were thinking of implementing games or an interactive element in our lobby 
+** DONE: After brainstorming and analyzing different companies, started to analyze financially each of the companies
+** DONE: Contributed ideas to developement team about interactive elements (based on how each culture celebrated New Years)
+*To-DO*
+** TODO: Build an initial Library of Sound Effects 
+** TODO: Prepare and brainstorm New Year's Eve Financial Strategy 
+** TODO: Prepare and brainstorm New Year's Eve Production Plan 
+** TODO: Prepare a business, financial and marketing presentation
+** TODO: Continue to check in with development team to make sure marketing and business strategy is on point
+** TODO: Continue to collaborate with Ibti on marketing strategies as well as her research findings
+** TODO: Continue to finish financial profile for the chosen companies in each industry
+** TODO: Look at top Fortune 500 gaming and broadcast event companies and compare to market trendline
+** TODO: Upload vlogs 11- 13

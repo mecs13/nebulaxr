@@ -1,0 +1,28 @@
+#+TITLE: Saturday 06/20/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Began working on test landscape for demo
+** DONE: Decided gray scale theming for lobby demo
+** DONE: Finished array based inventory system
+** DONE: Swapped out VR player for third person player for demo purposes
+** DONE: Applied object outlining system to collectable items
+** DONE: Created custom events triggered by item collection
+** DONE: Sampled some Nova assets for demo purposes
+** DONE: Created a sample of animated events to coincide with item collection
+** DONE: Discussed implementation of these systems for the final product with team
+** DONE: Created oscillating timeline component for static messhes
+*To Do*
+** YC: Finish creating demo landscape
+** YC: Expand on inventory system functionality
+** YC: Design ten item collection events for demonstration Monday
+** YC: Build system for actor fade in/out
+** YC: Combine fragmented Nova assets into a single actor due to Blender separating its parts
+** YC: Plan out sound design for NYE lobby
+** YC: Optimize the existing two tick events in the experience
+** YC: Debug material outline system issue in VR
+** YC: Discuss additional activities with team
+** YC: Implement level change methods to enter livestream

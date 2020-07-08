@@ -1,0 +1,11 @@
+* Summarizing the challenge
+
+** Ibti and I have created new webpages for the Nova website.
+/But we encountered some problems./
+
+** Problem 1 - We couldn't get the math rank up to or surpass 90.
+*** We have been having trouble figuring out how to add a table contents.
+*** Also, when we do something and save it, sometimes it deletes on its own.
+
+** Problem 2 - The website as a whole is at a 76/100 on the SEO analysis. We need at least a 90.
+*** I don't understand exactly what to do, but Joe and I are trying to figure it out.

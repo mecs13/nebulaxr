@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Marwa Soussi
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+* Friday 6/5/2020
+
+*Accomplished*
+** DONE: Create an in-game
+** DONE: Logo completed
+** DONE: Designed menu in 2D
+** DONE: Third Video Log to self-reflct on hardships encountered
+** DONE: Loading screen created
+** DONE: Inserted activities that the player can do
+** DONE: Formation of the program's design
+** DONE: Finzalized the Contact Us, About the Team page
+** DONE: Translation done for Joe
+** DONE: Search Engine Optimization (SEO)
+*To-Do:*
+** MS: I have completed my daily tasks, just waiting on the team to give me a heads up if I can something more
+** MS: First female video translation for Joe
+** MS: Second female video translation for Joe
+** MS: N/A
+** MS: N/A
+** MS: N/A
+** MS: N/A
+** MS: N/A
+** MS: N/A
+** MS: N/A

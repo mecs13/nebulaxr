@@ -1,0 +1,21 @@
+** Use CSS for all styling.
+
+Figured out how to change fonts so we can have only one font used throughout the website.
+
+*font-family: Impact, Charcoal, sans-serif;*
+
+/Input wherever needed/
+
+
+Changed cursor to pointer for all over the page use.
+
+*cursor: context-menu;*
+
+/Input cursor in heading if and when the mouse hovers over text it does not become a cursor./
+
+
+Figured out how to change color of "ABOUT" and "MORE CONTENT" when mouse hover over it.
+
+*p:hover {color: red;}*
+
+/Input in heading/

@@ -1,0 +1,19 @@
+Namecheap.com
+User: novaxr
+Password: nmny2016
+
+Steps to deploying Node.js website on DigitalOcean:
+Step by step tutorial on how to ssh into server and host website on digitalocean server with domain hosting
+http://web.archive.org/web/20170830213625/http://www.traversymedia.com/deploying-node-js-to-digital-ocean
+Accompanying youtube video of the process:
+https://www.youtube.com/watch?v=RE2PLyFqCzE
+For STEP “Add a domain name” that's on the tutorial website, you perform on namecheap.com
+Test website on http://novaxrmedia.com/palestine and https://novaxrmedia.com/palestine 
+If does not work try reverse proxy in Putty:
+>>sudo ufw allow OpenSSH
+>>sudo ufw allow http
+>>sudo ufw allow https 
+>>sudo ufw enable
+>>sudo ufw status
+And try again
+Add LetsEncrypt if needed (not needed)

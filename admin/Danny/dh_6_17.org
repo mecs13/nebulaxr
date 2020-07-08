@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Wednesday, June 17th, 2020
+*Accomplished:*
+** DONE: Attented morning team meeting
+** DONE: Discussed overlying issues with current project
+** DONE: Decided on nixing arch proto project
+** DONE: New project decided: NYE Sandbox
+** DONE: New objective: FUN immersive experience
+** DONE: New project proposal created by team 
+** DONE: Established weekly workflow for new project going forward
+** DONE: Collaborated with team to create basic mental outline of game
+** DONE: Checklist with Joe regarding PC Build 6/18 
+** DONE: Day 14 vlog
+*To-Do:*
+** TODO: Meet with team to discuss specific objective
+** TODO: Decide on project theme with team
+** TODO: Discuss Sandbox lobby playability and features
+** TODO: Discuss possibility of adding cultural elements
+** TODO: Learn how to 360 capture
+** TODO: Decide on overall end goal for project
+** TODO: Decide on potentail areas for interactive objects
+** TODO: Discuss potential implementation of mini-games
+** TODO: Build PC
+** TODO: Day 15 Vlog

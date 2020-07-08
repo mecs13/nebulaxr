@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Wednesday, June 24, 2020
+*Accomplished:*
+** DONE: Removed all hardware from motherboard
+** DONE: Unplugged all cables
+** DONE: Cleaned residue from CPU cooler
+** DONE: Ensured CPU was properly installed
+** DONE: Dusted all motherboard slots
+** DONE: Reinstalled all hardware 
+** DONE: Discussed event triggers in Sandbox lobby with team
+** DONE: Met with Joe and team to discuss sandbox build progress
+** DONE: Rescheduled 360 capture to next week
+** DONE: Day 20 vlog
+*To-Do:*
+** TODO: Reconfigure PC cables
+** TODO: Document PC build
+** TODO: Discuss SFX project with Joe
+** TODO: Import music to Beat Saber 
+** TODO: Play a few games
+** TODO: Install Cyberlink Editing Software on VR Backpack
+** TODO: Upload to admin
+** TODO: Set date for Beat Saber competition
+** TODO: Set date for 360 capture
+** TODO: Day 21 vlog

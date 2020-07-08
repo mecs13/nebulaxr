@@ -1,0 +1,90 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Yuni Dijamco & Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+*MONDAY 6/22*
+
+*BACK-END*
+** DONE: Presented systems demo to Joe and team
+** DONE: Cleaned up project systems files and got rid of unused files
+** DONE: Deleted lines of unused C++ code from the engine and nodes from blueprints
+** DONE: Universalized interaction by switching from button interaction to interface interaction
+
+
+*TUESDAY 6/23*
+
+*BACK-END*
+** DONE: Ported NYE systems from third person in the demo to first person
+** DONE: Debugged object outline system issue where functionality in VR was broken
+** DONE: Created a component that can be attached to any static mesh to responsively hover with consideration of distance to ground and impulse
+** DONE: Merged fragmented Nova assets when porting from Blender
+
+*WEDNESDAY 6/24*
+
+*FRONT-END*
+** DONE: Created and formatted new project file in the Unreal Engine 4
+** DONE: Set the project in the FIRST-PERSON Template map as editor startup map, "NYELobbyExperience"
+** DONE: Verified the desired C++ Visual Scripts and starter content was enabled for the project
+** DONE: Eliminated template's pre-existing architecture -- PLEASE DO NOT alter post-process volume or lightmass volume; removing it distrubs lighting of skybox.
+** DONE: Determined grid scale to layout future props for the landscape
+** DONE: Imported asset piles into editor content list
+** DONE: Tested of size and dynamics of each object in the game space.
+** DONE: Analyzed the graphical and aesthetic quality of each obect using the in-game camera and the first person view camera to preview user experience
+** DONE: Molded landscape to contain two floating islands using asteroid meshes, one with a campsite and the other with a hot air balloon.
+** DONE: Sampled materials for home base island for proper aesthetic
+** DONE: Installed rope bridge blueprint - tested gravity, width and scale settings, set end point to proper x-y-z coordinates
+** DONE: Augmented lighting with two additional light sources - top down directional, for working only, not to be kept in final render
+** DONE: Installed Earth, Moon, star assets and scaled, brightness altered
+
+*BACK-END*
+** DONE: Created a sibling system to the object outline system where hovering over an item marked by the outline within the interactable range would trigger a material change in the object
+** DONE: Reworked live material changing system where an event would create a dynamic material in an object to fade in or out the object
+** DONE: Mapped out motion controller button functionality
+
+
+
+*THURSDAY 6/25*
+
+*FRONT-END*
+** DONE: Rebuilt everything on Wednesday due to file loss
+** DONE: Opened materials in the graphics editor
+** DONE: Painted textures over static meshes
+** DONE: Mapped a graphical mesh of space onto skybox blueprint
+
+
+
+*BACK-END*
+** DONE: Created basic procedural static mesh blueprint to respond to cuts by directional planes
+** DONE: Reworked how a player would pick up objects in the sandbox and increased the grab range
+** DONE: Created a gun and bound launching a projectile from its forward vector to trigger projectile hit events
+
+
+*FRIDAY 6/26*
+
+*FRONT-END*
+** DONE: Experimented with having the entire map emit low emission lighting
+** DONE: changed light source to a point of light emitting a radius of light
+** DONE: Installed picnic area and fireworks tent on campground
+** DONE: Childed point of lights to lantern objects
+** DONE: Set up forest assets with movement
+** DONE: Changed lit perspective to player collisiion
+** DONE: Installed drivable hot air ballon blueprint
+** DONE: Used rope spline assets to tie down ballon (able to take damage)
+** DONE: Scaled and Upgraded fire particle to emit glow
+
+*BACK-END*
+** DONE: Customized certain objects such as a gun or a sword to snap into the hand when picked up
+** DONE: Playtested demo using a sword to cut through a variety of procedurally generated meshes
+** DONE: Began work on a body attached inventory system whereby a player can strap objects to their VR body
+
+*SATURDAY 6/27*
+
+*FRONT-END*
+** DONE: Uploaded map and map assests folder into zip file andd sent a link to Yuhao through dropbox / gmail
+
+*BACK-END*
+** DONE: NYELobbyExp optimization for VR
+** DONE: NYELobbyExp version 2 packaged and ready for delivery Monday

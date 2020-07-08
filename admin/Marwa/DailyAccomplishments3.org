@@ -1,0 +1,28 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Marwa Soussi
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+* Saturday 6/6/2020
+*Accomplished*
+** DONE: Logo completed
+** DONE: Audio agreed upon
+** DONE: Strategy completed
+** DONE: Worked on translating videos
+** DONE:
+** DONE:
+** DONE:
+** DONE:
+** DONE:
+** DONE:
+*To-Do:*
+** MS: I have completed my daily tasks, just waiting on the team to give me a heads up if I can something more
+** MS: Translate the rest of the videos Joe assigned to me
+** MS: Have started building a website using Divi
+** MS: Learn to navigate my way through Divi
+** MS: Have the team send in their Black/White headshots
+** MS: Make sure to make the website look elegant
+** MS: Use specific colors depending on the team's preferences
+** MS: Make sure to introduce the team on the wesbite
+** MS: Make sure to introduce our product
+** MS: Make sure pricing and contact us is also available

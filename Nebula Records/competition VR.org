@@ -1,0 +1,67 @@
+#+TITLE: Competition VR
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Competitors)}}}
+{{{theme-color(4b7985)}}}
+
+* XR HEALTH
+** 	HTTPS://WWW.XR.HEALTH/VR-TELEHEALTH-STRESS-RELIEF/
+***	application of VR: treatment-focused, most relevant to our project would be their stress relief home experience Relax8
+***	Relax8 can be viewed here:
+-	https://www.youtube.com/watch?v=8F918cFHAF8
+-	https://www.youtube.com/watch?v=GX2sIdGUXCE (menu)
+**	ADVANTAGES
+***	 available on several headsets, environment options, tailored treatment which boosts use value, monitored progress, music + volume controls (sound fx can be layered)
+**	DISADVANTAGES
+***	pricing w/o insurance (ranges from 30-300 dollars/month, so product isn’t very accessible), marketing (hasn’t garnered much of an audience on their existing platforms,) features of Relax8 experience disrupt the immersion of the environment (the butterfly/breathing tool)
+
+{{{pagebreak}}}
+
+* ESQAPES
+**	HTTPS://WWW.MYESQAPE.COM
+***	application of VR: primarily a spa/massage experience 
+***	Esqapes Immersive Relaxation® can be viewed here:
+-	https://www.youtube.com/watch?v=j-vB18kqN-w
+-	https://www.youtube.com/watch?v=BJL10mrYaik
+**	ADVANTAGES
+***	generally inexpensive - 30 minutes/$35, production value of the environments (lighting especially,) well advertised via news and tourism outlets, headsets can be fitted with eyeglasses depending on shape (increased accessibility)
+**	DISADVANTAGES
+***	all experiences (including ones with mountainesque features) are environments as observed within an enclosed space (chair is implemented in environment but does break immersion to an extent,) limited mobility and engagement, experience hosted in a physical location 
+
+{{{pagebreak}}}
+
+* RELAX VR
+**	HTTPS://WWW.RELAXVR.CO/VIRTUALREALITYSPAS
+***	application of VR: a spa/massage experience, also offers guided meditation experience on Oculus, Android, iOS, Samsung Gear, and Daydream
+***	Relax VR can be viewed here:
+-	https://www.youtube.com/watch?time_continue=133&v=ZGkfc5SlGLw&feature=emb_logo (best for viewing the menu + mechanics)
+-	https://www.youtube.com/watch?v=KQgwxI7bP0Y (user experience, also demonstrates weak points with graphics, more exhaustive with menu features)
+**	ADVANTAGES
+***	real-world environments, well-researched/documented re: efficacy particular to the product, menu/features don't detract from immersion or interrupt landscape (would be worthwhile to consider how we could similarly implement our menus)
+**	DISADVANTAGES
+***	graphics blurry and dimensions can be awkward, mixed reviews, low engagement beyond customization, isn’t transparent on pricing, meditation experience requires access to an existing headset, spa experience incompatible with oculus go + quest
+
+{{{pagebreak}}}
+
+* CUBICLE NINJAS/GUIDED MEDITATION VR
+**	HTTPS://GUIDEDMEDITATIONVR.COM, HTTPS://CUBICLENINJAS.COM/RELAX-VR-OCULUS-GO/
+***	application of VR: a guided meditation experience available for download on the HTC Vive, Gear VR, Oculus Rift, Oculus Go, and Windows Mixed Reality HMD 
+-	cubicle ninja also runs https://guidedvr.com, which utilizes the same software with more of a focus on wellness + healthcare
+***	Guided Meditation VR can be viewed here:
+-	https://www.youtube.com/watch?v=qYBXu8qXj8g (gameplay, brief look at menu design and teleporting within environment)
+**	ADVANTAGES
+***	 can engage with the virtual space, customization is a lot simpler + refined compared to other models, hours of material and several environments, features allowing for a more passive experience, well-reviewed and inexpensive, arguably the leading company in relaxation VR
+**	DISADVANTAGES
+***	caters to specific market even with next gen and float on features where meditation is made optional, teleportation breaks immersion and is especially awkward when navigating more difficult/enclosed terrain, visuals can be flat upon closer inspection, limited movement within map
+
+{{{pagebreak}}}
+
+* PERFECT
+**	HTTPS://WWW.NDREAMS.COM/TITLES/PERFECTVR/
+***	application of VR: an interactive escapism experience
+***	Perfect can be viewed here:
+-	https://www.youtube.com/watch?v=I8T3o-Zyg9Q
+**	ADVANTAGES
+***	 interactive and immersive, can stream your own music, available on PC as well as console, relatively inexpensive, simple controls, can customize time of day and move around on map
+**	DISADVANTAGES
+***	mixed reviews due to limited locations and play options, immersion impacted by control vibrations and inability to freely navigate environments

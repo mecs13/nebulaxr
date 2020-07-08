@@ -1,0 +1,28 @@
+#+TITLE: Friday 06/19/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Loaded Nova assets into NYE lobby project
+** DONE: Started preliminary level design using Nova assets
+** DONE: Created blueprint gun for carnival minigames
+** DONE: Implemented traditional locomotion and teleportation as demo movement options
+** DONE: Compiled ideas for easily contained and implemented lobby activities
+** DONE: Started work on hit event actors using blueprint gun
+** DONE: Began work design collision based events as user moves through lobby
+** DONE: Ported in object outline system from architectural sandbox to NYE lobby
+** DONE: Playtested level to verify VR player possession functioned 
+** DONE: Brainstormed simple animation ideas for NYE lobby
+*To Do*
+** YC: Create and link custom events to blueprint hit events
+** YC: Work on demo landscape to present concept to team
+** YC: Begin work on static mesh animations
+** YC: Discuss means to enter NYE livestream with team
+** YC: Brainstorm more fun activities for lobby
+** YC: Apply textures to assets to see if consistent with theme
+** YC: Experiment with gray scale theme integration
+** YC: Brainstorm load up visuals to hook users in on startup
+** YC: Experiement with collision based event spawning as user moves through landscape
+** YC: Finalize level layout and theme with team

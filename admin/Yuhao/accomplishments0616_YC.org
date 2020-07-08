@@ -1,0 +1,28 @@
+#+TITLE: Monday 06/15/2020
+#+AUTHOR: Yuhao Chen
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Accomplished*
+** DONE: Had one on one with Joe
+** DONE: Discussed the progress of architectural sandbox from development perspective
+** DONE: Finished initial object outline system based on camera direction
+** DONE: Debugged perpetual object outline bug
+** DONE: Implemented object specific menus based on object outlines
+** DONE: Implemented disable input node when in object specific menus
+** DONE: Created and tagged array of static meshes in this class of interactable objects
+** DONE: Fixed perpetual menu trigger bug
+** DONE: Converted viewport widget to 3d component for VR functionality 
+** DONE: Fixed global menu/object specific menu amalgamation bug
+*To Do*
+** YC: Meet for Wednesday team meeting
+** YC: Change target of object highlight from camera to controller
+** YC: Convert 3ds asset library to Blender for texture application
+** YC: Flesh out menu placements relative to player
+** YC: Begin work on object specific menu functionality
+** YC: Increase grab distance of controllers
+** YC: Make objects grabbable and editable in game and latch movement and rotational axes
+** YC: Bloat engine with blueprinted objects to determine maximum amount of assets
+** YC: Completely remove collision boxes for optimization and transition everything to forward vector based interaction
+** YC: Begin work on VR inventory system

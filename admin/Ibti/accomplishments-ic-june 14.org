@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Sunday 6/14/2020
+*Accomplished*
+** DONE: Met with team in prep for Monday's meeting
+** DONE: Decided on a team name
+** DONE: Went over existing competition briefly with team to begin developing market strategy
+** DONE: Started looking at competitors for prototype (interior design VR)
+** DONE: Uploaded Vlog 10 to Drive
+** DONE: Received update on architecture prototype
+** DONE: Confirmed legality of L3DT software for height maps in commercial projects
+** DONE: Began identifying competitors in national park VR 
+** DONE: Began identifying competitors in the Virginia virtual tour/tourism circuit 
+** DONE: Started linting Shenandoah research
+*To-Do:*
+~* IC~: Begin drafting more conclusive market/concept research with Mei
+~* IC~: Finishing linting research and upload to git
+~* IC~: Continue prototype research depending on feedback
+~* IC~: Start looking at other national parks to identify opportunity outside of Virginia
+~* IC~: Upload Vlogs 11 and 12 to Drive 
+~* IC~: Develop objective and actionable steps for next stage of Nervevana development
+~* IC~: Update Taskade with new week
+~* IC~: Complete Intern Level Up and email to Yuni
+~* IC~: Be briefed by team on any feedback received related to the Nervevana update
+~* IC~: Watch recording of meeting

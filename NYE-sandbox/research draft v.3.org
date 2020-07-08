@@ -1,0 +1,44 @@
+#+TITLE: Research Drafts v.3
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Expanding on Relevant Concepts
+
+*Game Psych*
+
+** behavior = play if it is (1) incompletely functional (2) voluntary, spontaneous, pleasurable, or rewarding (3) distinct in form or timing (4) repeated but simultaneously commonplace (5) initiated in absence of severe stress 
+*** incompletely functional play = "no obvious function of the behavior is apparent."" this terminology/these criteria are lifted directly from an animal behavioral study on object play conducted by Gordon M. Burghard et al. (will be annotating and documenting said article in the coming week as well). function in this context refers to behavior with a clear objective and purpose. while games are similarly understood as a set of rules built around the completion of a desired task, Burghard + Balkaya et al. are referencing behavior that serves no clear evolutionary purpose. This is play for play's sake; its function is unclear. Unlike tasks that directly correlate with one's need to survive or procreate, the relationship between person/animal and play is more ambigious. The function isn't as evident, but there seems to be an implicit logic behind completing these tasks (stress relief, adaptation, a sense of accomplishment, etc.) This relates to the ubiquity of play, as well.
+*** what is meant by voluntary, spontaneous, and rewarding play? "the behavior occurs without setting events such as competitors or food deprivation." One is engaging in the play of their own volition. Though there is some structure, in that the play is replicable, it is spontaneous in that indulging in play is unplanned. Burghard is describing a /pattern/ of behavior. The play is rewarding by virtue of itself. A person/animal is satisfied /by/ the play. Similar to past drafts, this can be achieved through implementing certain game mechanics, but in this context, it can be as simple as enjoyment. The play being referenced is simplistic.
+*** play that is distinct in form and timing = "the behavior differs from other contexts in which it might occur such asmating, feeding, and ﬁghting." The behavior displayed during play is different from behavior that is otherwise displayed in both form and timing. The play looks different (think exaggerated movement) and has a different relation to time (early in life, again the article focuses on developmental stages and uses for play but its evolutionary analysis also mirrors how play operates for human beings in infancy well into adulthood.)
+*** play that is repeated and commonplace = "all the ﬁsh engaged in the behavior repeatedly, and the attacks were variable in execution and timing." The play one indulges in is repeated, and no other beings consider it abnormal. The behavior is considered to be normal.
+*** play that is initiated in the absence of severe stress = "all ﬁsh were in ﬁne condition in appropriate environments isolated from social stress induced by conspeciﬁcs or predators." Similar to the points on play being voluntary and spontaneous, one does not play under duress. Most importantly, play is enjoyable! It has a positive affect, and this should be reflected in one's attitude and participation.
+
+** types of play behavior include (1) solitary locomotor-rotational play (most similar to athletics) (2) object play (3) social play
+*** solitary locomotor-rotational play = as i've stated, this is most similar to athlectics. solitary loco-motor-rotational play involves exaggerated movement. Balkaya et al. uses the example of somersaulting in monkeys (again, the articles have a clear mammalian/evolutionary scope)
+*** object play = this is play that involves the manipulation of an object in a playful manner. think more along the lines of a cat playing with yarn (object play) versus a person using a tool. the objectives and functions are clearly different. because virtuality has blurred the lines between one's body and their "bodily extensions" (controllers/in-game players) in virtual environments, object play is heavily relevant to our model. 
+*** social play = when two or more individuals are interacting with each other in a playful manner, they are enaging in social play. Balkaya et al. cite the example of play-fighting in dogs. You may also think of wrestling, tag, multiplayer RPGs. This like other forms of play is heavily contextual.
+
+** categories of play
+*** imaginative and pretend play = "a person pretends [to be] in imagined locations and situations and participating in invented scenarios and acts within them." this type of play is fantastical, in that it relies entirely on one's imagination as well as the suspension of one's disbelief. this is most typical in children, but is also evident in one's interpretation of more abstract works and in games like DND that rely on one's ability to immerse themselves in an alternate reality with limited stimuli.
+*** storytelling play = "refers to the strictly language-dependent play where adults tell or retell a story to children." Again, similar to the example of DND, though this type of play is more literal. More narrative-based.
+*** creative play = "refers to the situations where play and playful activities are used to innovate and create as in the case of advertising agents trying to create a jingle or designers employing playful brainstorming or work to create novel designs and approaches." This definition encompasses a wider range of activity, including but not limited to art and ideation.
+
+** play behavior as evolutionary, ubiquitous, and adaptive 
+*** again, to clarify: 
+- evolutionary = evolutionary in that it has been argued that play may have persisted across species because it has given these species an advantage. play as a model for survival (like cubs playfighting as a means of learning to hunt)
+- ubiquitous = again, this is just a means of saying play is predominant among species, especially mammals.
+- adaptive = adaptive in that play can serve as physical, social and cognitive training - though evidence on whether or not it is instructive is inconclusive, thus why evolutionary points are debated. play does not ensure a competitive advantage, but it does model social behavior in an accessible way - though gaming has become increasingly complex.
+
+* P.E.R.M.A. Model
+*** meant to model a fulfilling life but is just as relevant to developing a fulfilling game/experience; endearing and engaging the player, allowing for interaction, a sense of meaning (“belonging to something bigger” is simple when celebrating something as universal as the passage of time,) and sense of accomplishment
+- *Positive emotions* refer to a wide range of positive feelings such as excitement, joy, happiness, pride, and satisfaction.
+- *Engagement* or flow is the state of being involved and immersed in an activity of interest.
+- *Relationships* refer to our social interactions with other people. Not only romantic relations but also any kind of bond that we share with other individuals or social groups falls under this category.
+- *Meaning* is the feeling of belonging to something bigger and having a satisfactory answer to the question “Why.” Meaning is both the source and result of having a purpose in life.
+- *Accomplishments* are our life goals we try to reach. Also the pursuit of mastery and success...
+
+*Next Steps*
+* reading further articles on evolutionary biology, play, and behavior (Burghard, Bekoff, etc)
+* begin researching other subjects as requested by joe (efficacy, object play/travel + commercialization, cone of learning application w/ intended graphic, further integrating research in game actions)

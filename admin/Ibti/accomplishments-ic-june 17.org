@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Wednesday 6/17/2020
+*Accomplished*
+** DONE: Attended team meeting on Kartell + NYE lobby projects
+** DONE: Presented current Kartell research POA
+** DONE: Attended 1o1 with Joe 
+** DONE: Started outlining Kartell research for record-keeping, will upload when complete
+** DONE: Suspended Kartell research, NYE Lobby is priority going forward
+** DONE: Uploaded 10/10 from 6/13 to git
+** DONE: Scheduled team meeting for tomorrow morning 
+** DONE: Began researching game addiction 
+** DONE: Began identifying what factors/elements make games "fun"
+** DONE: Identified research library formatting priorities
+*To-Do:*
+~* IC~: Finish linting Shenandoah research and upload to git for record-keeping
+~* IC~: Finish outlining Kartell research
+~* IC~: Lint Kartell research and upload to git for records
+~* IC~: Upload Vlogs 14 and 15 to Drive
+~* IC~: Continue catching up on reporting and admin
+~* IC~: Attend tomorrow morning's meeting
+~* IC~: Come up with a list of thoughts, concerns, and ideas to address tomorrow morning
+~* IC~: Continue researching psychology behind game design
+~* IC~: Look into how reward systems impact users/gameplay experiences
+~* IC~: Begin researching specifics for formatting NOVA's research library

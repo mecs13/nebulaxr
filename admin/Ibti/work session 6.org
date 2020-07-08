@@ -1,0 +1,12 @@
+#+TITLE: Work Session 6
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Tuesday June 30th* 
+
+* Spoke with Mei and Yuni over Discord
+* Discussed github updates + philosophy/bios
+* Updated on Doodle and team availability
+* Confirmed team meeting times going forward

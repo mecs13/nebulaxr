@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Thursday 6/18/2020
+*Accomplished*
+** DONE: Attended team meeting
+** DONE: Discussed each member's next steps
+** DONE: Looked through Springerlink database for relevant academic research
+** DONE: Looked through Academic Search Complete for relevant academic research
+** DONE: Compiled a folder of relevant articles to sift through
+** DONE: Began annotating first article on game addiction
+** DONE: Identified motivating factors behind gameplay (particularly for MMORPGs)
+** DONE: Looked briefly into Steam demographics + analytics
+** DONE: Started formulating future market strategies and ways to measure success
+** DONE: Started annotating article on game addiction and social connection
+*To-Do:*
+~* IC~: Continue reading through the articles in research folder
+~* IC~: Continue annotating articles 
+~* IC~: Synthesize findings, and re-format in org by Monday
+~* IC~: Identify areas for future research in Week 2 (MMORPGS thus far)
+~* IC~: Upload Vlogs to Drive (must catch up)
+~* IC~: Begin researching specifics for formatting NOVA's research library
+~* IC~: Conduct additional research on game pyschology (depends on whether existing collection is sufficient or not)
+~* IC~: Complete Intern Level Up and email to Yuni
+~* IC~: Look into how reward systems impact users/gameplay experiences
+~* IC~: Schedule time with Marwa to begin web dev basics for library

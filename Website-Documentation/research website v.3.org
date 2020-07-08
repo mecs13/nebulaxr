@@ -1,0 +1,42 @@
+#+TITLE: Website Updates
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Research Library
+
+** Categorized Research (World-Building, Functionality, Dev & Design, Psychology, Marketing + Efficacy)
+*** Brokedown categories further in subtitles - most have three subsections
+*** Will be expanded on in Summary/Overview for simpler navigation + better clarity
+
+** For each menu subsection, changed background images to mesh with theme
+*** Adjusted image orientation to better frame it and accomodate text
+*** Maintained visual + design fx 
+
+** Wrote introductory blurb, impacted keyword density and made mention of keyword for SEO 
+*** Included logo for branding purposes, color also meshes well with the site's color scheme
+
+** Removed closing section of website due to complications with image insertion
+*** Can revisit formatting in the future, but visual builder continously removes my progress 
+
+** Inserted image with alt-text and included a closing blurb with internal links to products, services, and homepage (for current project updates)
+*** Got SEO back up to 78 from 68
+*** Backed up image + code on backup page to prevent losing any further progress
+
+** Published page + shared with team for feedback
+
+* Next Steps
+
+** Continue working on increasing SEO
+*** Can't necessarily include more media on the page (got SEO up to 80)
+*** Will be writing up blurbs for each of the individual sections which will impact any issues with keyword density
+*** Will be figuring out a natural way to link to an external site 
+*** Will begin creating individual webpages for each of the subsections which the sections themselves will direct to when clicked on
+
+** Will update Marwa on progress to establish other pages + improve SEO/formatting
+
+** Will also work with Joe to recover old products page - menu has changed since adjusting it on Clone?
+
+** Continue publishing new pages and updating team
+*** will need to pick another format/page to Clone, must reevaluate design + content priorities

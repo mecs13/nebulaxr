@@ -1,0 +1,21 @@
+Head:     master todos with 481 move out underway
+Merge:    origin/master todos with 481 move out underway
+
+Unstaged changes (1)
+modified   06 - CEO (Joe)/legal-filings/nye-legal-llc.org
+@@ -1 +1 @@
+-Subproject commit 96c74a5d085577321992c9092bfbcfb7a318fb3c
++Subproject commit 96c74a5d085577321992c9092bfbcfb7a318fb3c-dirty
+
+Recent commits
+a0ec5c0 master origin/master todos with 481 move out underway
+6644e74 sales director minor salesfrid
+c356764 kk cash investment in nova
+0620c75 bus plan edits
+c88fad6 updates to bus plan
+36b3f93 updates to business plan
+756a1ab business plan edits
+67a13a2 business plan changes copied
+a8a0983 business plan edits
+72227a9 sales grid
+

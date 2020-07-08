@@ -1,0 +1,19 @@
+#+TITLE: Subtitle (Nova XR)
+#+AUTHOR: Nova Media
+#+INCLUDE: "../print/doctype-2-pager.org"
+{{{subtitle(CLIENT PROJECT TITLE)}}}
+{{{theme-color(874c6d)}}}
+{{{end-footer(Joe@novamedia.nyc | +1-201-247-7619 )}}}
+
+* Introduction
+  {{{double-pager(user-story)}}}
+
+# best as 1 paragraph.  500 - 600 characters. [click esc-v to go to /visual mode/ and highlight charaters.  counter will be in the bottom right of the buffer
+
+this is a test!  Does the 2pager work? does it not work? We are typing here to fill in the text space t see if the 2 page will successfully export as needed.  if it works, wonderful.  If it does not work. Well, if it does not work - then we need to make the proper adjustments.  We will do that by trying again.  The process that i believe will be most efficient is by identifying the ariables considering ohow they operate and then adjusting and test
+
+
+
+{{{crappy-hack}}}
+#+INCLUDE: "../print/4th-cover.org"
+

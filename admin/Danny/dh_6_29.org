@@ -1,0 +1,30 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Monday, June 29th, 2020
+*Accomplished:*
+** DONE: Met with Joe and team to dicuss project updates
+** DONE: Demoed game and presented work
+** DONE: Uploaded vlogs to GDrive
+** DONE: Uploaded todo's to Github
+** DONE: Discussed future feature builds for next weeks iteration
+** DONE: Collected feedback from Joe
+** DONE: Decided on meet dates with team
+** DONE: Disassembled PC once again
+** DONE: Planned workflow for the week with team
+** DONE: Day 22 vlog
+*To-Do:*
+** TODO: Install motherboard
+** TODO: Read manuals to ensure proper installation
+** TODO: Document first step of pc build
+** TODO: Contact team to decide meeting objectives 
+** TODO: Install cpu and cpu fan
+** TODO: Install RAM 
+** TODO: Work with team to delegate specific tasks as a united front
+** TODO: Update team on progress
+** TODO: One on One with Joe
+** TODO: Day 23 vlog

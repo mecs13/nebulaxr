@@ -1,0 +1,5 @@
+TODO: log into the wordpress.  Create a webpage with DIVi that introduces your team. Make sure its SEO math rank is above 90
+
+TODO: Use their headshots and nice descriptions.  Introduce NerveVana on this page. And make it so one can download a PDF of the plan of action
+
+TODO: Further,  make sure it works and looks good on both mobile and desktop. And use the hover feature to give it reactive design

@@ -1,0 +1,23 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Thursday 6/25/2020
+* Accomplished:*
+** DONE: Met with Marwa and Ibti on SEO and future plans
+** DONE: Started to learn more about Divi Builder by researching & through Ibti and Marwa
+** DONE: Researched about sonic haptics (bulk of my time- have to transfer notes to GitHub)
+** DONE: Caught up and read through documents Joe sent 
+** DONE: Updated "Measuring Success" onto "NYE-sanbox" -> "start-of-presentation"
+** DONE: Started to update Forecast 
+** DONE: Watched Yuni's recorded VR experience for Mr. Rob Declan's project 
+*To-DO*
+** TODO: Continue to research abouut "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Build an initial Library of Sound Effects if needed 
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Continue to expand on the NYE document of production 
+** TODO: Continue to have the mindset of agreement based
+** TODO: Upload vlog 16 & 17

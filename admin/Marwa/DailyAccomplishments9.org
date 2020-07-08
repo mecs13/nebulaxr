@@ -1,0 +1,40 @@
+* Accomplished
+
+DONE - Got the math rank on the Nebula XR Team webpage up to 94! The highest it's been so far!
+
+
+* TO-DO
+
+MS - Search and Identify 5 grant opportunities
+
+MS - MS get 10x nova pages into 80+
+
+New Year’s XR
+- Homepage
+- Team
+- Products
+- Build XR
+- Services
+- HR-XR
+- Exist
+- Bloomaway
+- Infinite Gallery
+- Torus
+
+MS - Codepend Integrations
+
+MS - Codpen pick top 10 of collection - Say why
+
+MS - Implement them into the website
+
+MS - Edit them - modify to personalize more as nova-nebula
+
+MS - Code Pen Integrations - 5x Implemented - Example, animated form.
+
+MS - Write Instructions for Ibti and post to github
+
+MS - Walk Ibti through the process
+
+MS - Modify 5 codepens
+
+MS - Write instructions for Ibti to modify the codepens back to their original form

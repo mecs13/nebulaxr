@@ -1,0 +1,28 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Tuesday 6/30/2020
+* Accomplished:*
+** DONE: Attended 1v1 with Joe 
+** DONE: Typed up "Neb-Doc-Temp-D2" so I would be ready for work session with Joe 
+** DONE: Researched heavily for "Measure of Success" specifically on KPI
+** DONE: Updated & started "Introduction" -> "start of presentation-week2"
+** DONE: Updated & started "Executive Summary" -> "start-of-presentation-week2"
+** DONE: Updated & started "Measure of Success"-> "start-of-presentation-week2"
+** DONE: Updated & started "Productionn Pipeline" -> "start-of-presentation-week2"
+** DONE: Updated & started "Design" -> "start-of-presentation-week2"
+** DONE: Updated & started "Financial Predictions" -> "start-of-presentation-week2"
+** DONE: Updated & started "Team" -> "start-of-presentation-week2"
+*To-DO*
+** TODO: Research for curiousity- "what are some ways new gamers are presented to the market?”- Yuni's question during 0624meeting
+** TODO: Be prepared for work session with Joe (Wednesday, 7/1)
+** TODO: Continue supporting development team 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Make sure to reach out to development for documetation information
+** TODO: Be up to date with team on progress and have informal meetings
+** TODO: Be ready to alter document after work session with Joe 
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 18 & 19

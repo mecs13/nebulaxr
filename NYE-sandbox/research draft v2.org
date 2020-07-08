@@ -1,0 +1,64 @@
+#+TITLE: Research Drafts v.2
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+*Game Psych Draft: Addiction and Rewards Cont.*
+
+* why games are fun? the reward system in the human brain
+
+** behavior = play if it is (1) incompletely functional (2) voluntary, spontaneous, pleasurable, or rewarding (3) distinct in form or timing (4) repeated but simultaneously commonplace (5) initiated in absence of severe stress 
+
+** types of play behavior include (1) solitary locomotor-rotational play (most similar to athletics) (2) object play (3) social play
+*** last two are most relevant to our model, depending on what we can implement by deadline
+
+** three categories of play
+*** imaginative and pretend play
+*** storytelling play
+*** creative play
+
+** when play is met with increased complexity, formality, and is goal-oriented, it becomes a Game
+*** "a system in which players engage in an artificial conflict, defined by rules, that results in a /quantifiable outcome/"
+
+** play behavior as evolutionary, ubiquitous, and adaptive 
+*** adaptive in that play can serve as physical, social and cognitive training - though evidence on whether or not it is instructive is inconclusive
+
+** rewards as conditional prizes, “any appetitive stimuli that can alter behavior”
+
+** operant conditioning (rewards as reinforcing stimuli )
+
+** brain circuits from cortex to basal ganglia = core of reward system, while dopaminergic neurons (release dopamine) + ventral tegmental area play central role in reward processing
+
+** example of shooting game in which players are more concerned with success than violence
+*** the reward response increased when playing against other players vs an ai
+
+** of the sixteen basic human motivators, those most relevant to our model and their respective objects of desire are:
+*** curiosity → knowledge (a space in which the player is encouraged or expected to explore)
+*** social contact → companionship (a given as the concept itself is cultural)
+*** acceptance → be part of group (belonging as accomplished through VR, inclusion)
+*** saving → collecting things (depending on the mini-games we may or may not be creating)
+*** tranquility → emotional calm (will again vary depending on concept)
+
+** P.E.R.M.A. model also central to our development going forward, meant to model a fulfilling life but is just as relevant to developing a fulfilling game/experience
+*** endearing and engaging the player, allowing for interaction, a sense of meaning (“belonging to something bigger” is simple when celebrating something as universal as the passage of time,) and sense of accomplishment
+
+** games as fun because they directly engage with the motivators that drive us in reality, a mode of expression
+*** again the example of MMORPGs as their open concept grants players much agency in indulging their intrinsic motivators - a “playground” of sorts
+*** “the fact that millions of people from different countries with different age and socioeconomic groups do participate in those vast virtual words is a clear indicator that such games can offer something for everyone.” (on MMORPGs and their inclusivity)
+*** especially compelling as virtuality is described as “a bodily extension” making this very suitable for VR in which the body and its senses become even more divorced from reality
+
+
+*Additional Research*
+* steam articles (general) - relevant to marketing as this is where the experience will be hosted
+** https://galyonk.in/some-things-you-should-know-about-steam-5eaffcf33218
+*** from 2015, American users most prominent on the platform followed by Russian + German gamers, localizing games will help expand audience (https://partner.steamgames.com/doc/store/localization)
+
+** https://galyonk.in/steam-in-2017-129c0e6be260
+*** from 2017, very saturated market, specifics on revenue, pricing + regions especially for indie games
+
+*Next Steps*
+* clarify how we will be proceeding re: functionality to see whether social/success features can/should be implemented
+
+* continue psych research for development and design
+** mmorpgs, models most like ours, more specifics on how vr may factor in as research has been focused on online gaming

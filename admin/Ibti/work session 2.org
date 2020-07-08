@@ -1,0 +1,13 @@
+#+TITLE: Work Session 2
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Wednesday June 24th*
+* Debriefed by Yuni and Mei 
+* Discussed logistics of point system going forward
+* Met with Joe
+* Uploaded week's objectives to git, as well as additional information on point system
+* Informed team on updates and distributed point system org file to ensure directions were clear
+* Scheduled time for web dev

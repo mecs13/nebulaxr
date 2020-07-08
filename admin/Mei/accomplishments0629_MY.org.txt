@@ -1,0 +1,24 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Monday 06/29/2020
+* Accomplished:*
+** DONE: Met with Joe annd team to discuss about progress and next steps
+** DONE: Prepare material and presentation speech for tmw 1v1 with Joe
+** DONE: Be up to date with team and planned workflow for the week
+** DONE: Kept inn touch with development team as this is the backbone for my deliverables 
+** DONE: Discussed about future meet dates 
+** DONE: Presented via Discord, didn't quite finish
+** DONE: Uploaded vlogs 18-22
+*To-DO*
+** TODO: Continue supporting development team 
+** TODO: Be prepared to alter document as I meet with Joe tmw 
+** TODO: Continue to collaborate with Ibti and Marwa on SEO if needed 
+** TODO: Make sure to stay in correspondence with development with progress so I can document 
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared for a presentation next Monday
+** TODO: Continue to have the mindset of agreement based document
+** TODO: Upload vlog 

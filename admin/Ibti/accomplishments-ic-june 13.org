@@ -1,0 +1,29 @@
+#+TITLE: Daily Accomplishments
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Saturday 6/13/2020
+*Accomplished*
+** DONE: Started outlining research with sources and concerns
+** DONE: Identified additional competitor in Shenandoah VR experiences
+** DONE: Started researching how IP law is defined/applied by the NPS
+** DONE: Looked into MapQuest's Open Elevation API, under open license so should be preferable
+** DONE: Looked into Google Elevation API pricing and licensing/policy
+** DONE: Looked into the logistics of Google Earth elevation data extraction
+** DONE: Uploaded methodology.org under Nervevana folder on git
+** DONE: Drafted bio for Marwa in light of email instruction
+** DONE: Uploaded bio to personal folder on git, and emailed to Marwa, awaiting confirmation
+** DONE: Reviewed Shenandoah special permit regulations and commercial use authorization guidelines
+*To-Do:*
+~* IC~: Continue looking at the legality of Shenandoah idea 
+~* IC~: Continue looking at Shenandoah's market/design in prep of next week
+~* IC~: Identify competitors in national park VR more broadly
+~* IC~: Identify competitors in the Virginia national park/tourism circuit
+~* IC~: Decide on name with team
+~* IC~: Meet with team this weekend to prepare for presentation (TBD)
+~* IC~: Recieve update on side-project demo
+~* IC~: Confirm which software Yuhao would be using to rip elevation to better determine whether application is legally sound
+~* IC~: Upload Vlogs 10 and 11 to Drive
+~* IC~: Continue outlining research

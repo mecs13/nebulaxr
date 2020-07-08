@@ -1,0 +1,75 @@
+#+TITLE: joe@novamedia.nyc
+#+AUTHOR: Nova Media 
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(XR Projects 2019)}}}
+{{{date(1 June 2019)}}}
+{{{theme-color(9e0000)}}}
+
+
+* New Year's XR
+
+Nova's 2020 /New Year's XR/ production will bring thousands from around the world together on New Year's Eve. From 12 time zones, for 72 consecutive hours, people will travel via live streamed virtual reality.  
+
+*Mission* /Connect people from around the world for an interactive and unifying celebration of the human spirit./  We will accomplish thi rfrs through live, shared, unedited virtual reality.  
+
+This project is to offer people cross cultural experience and facilitate understanding.  Live, real-time, immersion.  Virtually allow people to travel, removing the barriers of time, money or perceived/real risk.  NYE, because it is generally nondenominational and a global holiday.  2020 we will host from 12 locations around the world, for 24 hr, 12 different time zones.
+
+Friends and family will explore, discover and share together. People who would otherwise never cross paths will viscerally connect, in real time. Relatives and friends, separated by land and borders, will reunite.  Strangers will become friends and prejudices will melt away.We will realize how much we've in common.  
+
+This project is projected to connect more than 1,000,000 individuals over the next 24 months, earn more than 100 million impressions and tap into a 100.8 billion dollar travel-spend.
+
+{{{pagebreak}}}
+
+** 2019 Results
+
+New Year's Eve is a global celebration for all.  In 2019 we proved the technology and concept by broadcasting live for 12 consecutive hours from Ramallah and Tel Aviv.  In 2020 we will host 12 different time zones for 24 hours per location.  
+
+- 35,000 organic impressions
+
+- Network engineering verification
+
+- Production pipeline fleshed
+
+- Streaming partnerships validated
+
+Video Recap: https://www.youtube.com/watch?v=ipGkZY859Fg
+
+{{{figure}}}
+[[../img/NYE promo psd 2.png]]
+
+{{{pagebreak}}}
+
+
+** Gahzwan's Iraq
+{{{figure}}}
+[[../img/gahz.png]]
+
+
+Gahzwan is 12 years old.  At age 3 he was stolen and sold to ISIS.  He was trained to be a suicide bomber.  At age 10 he was captured and returned to his family and the Yizidi Tribe in Northern Iraq.
+
+For the last 4 months, Annelise Mecca has been living with the tribe, volunteering at the refugee camps.  This documentary will bring you on an emotioanl journey of a boy raised to commit suicide in the name of extreme Islam.  The psychology of belonging, the nature of our surroundings - this documentary examines how circumstances effect everything.  
+
+We are using XR to introduce the scenes and the characters.   
+
+
+{{{pagebreak}}} 
+** Palestine XR
+
+You do not know what it is like here [pal] by reading or watching.  You need to /feel/ it.  Stories from the people, in their word, with their nuance - sense the sincerity ans strife.  Here, tension is palpable.  Have a gun drawn to your face because it can be.  Psych war-fare, all day - on going - breaking down the people as methodically as possible.    
+
+Palestine XR sim is a real-time immersion into the West Bank.  Working with Palestinean Activists and Film Makers, we provide VR cameras/audio, and post production support so the people on the ground and with real access to "life under occupation" can focus on capturing the expereince, while we publish it.  
+
+[[../img/palpic.png]]
+
+For example.  In January, 2019, JM and Nova XR ventured to Kafr Qaddum where there are weekly protests of the Israeli Soldiers who block the village's passage to the main roads.** After Mosque, the local Palestineans gather and march towards the blocked road.  They are armed with rocks and kofeas (protect against tear gas and identification).  Israeli soliders inevitably fire tear gas, duds and live ammunition as the protesters demand they leave the village, launching their voices over a megaphone and rocks with sling shots.  
+
+Rather than point and aim a camera at the scene, our VR cameras are placed strategically in the middle of the active dispute.  gas and ammunition fired over, physically scuffles up close.  The equipment is discrete enough to not be detected and cheap enough to be replaced easily if destroyed.  This content then gets shared to us, where we can publish it as free content for interested parties.    
+
+The Palestineans are partners in the business, so that both sides feel responsibility and honor for anything produced (or missed).  
+
+The project is to grab the world's attention and persuade them to see Palestine in XR.  Once we garner attention and a special legitimacy we will begin displaying the art, culture, nature and human interest stories that market people to visit the area.  There is no substitute for really visiting, not even XR.  Palestine is only dangerous if you actively participate in the resistance, otherwise, you're free to walk around the giant prison, no more endangered than driving on a US highway.  
+
+**/This blockage of road ways, along with superfuslous stop and searches, and detainment is a part of the constant psychological warfare designed to desuade the people from mentally and economically continuing to live in the region./
+
+
+** EXI(S)T 

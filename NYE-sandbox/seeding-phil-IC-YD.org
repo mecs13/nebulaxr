@@ -1,0 +1,110 @@
+
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-PROVIDENT: For me, to be provident is be prepared for the worst, while hoping for the best.
+-
+-SINCERE: Sincerety involves being honest with others as well as yourself.
+-
+-ANTICIPATORY: You are able to, or at least behave as if you have to ability to, anticipate events and outcomes before they occur. Similar to preparedness.
+-
+-GRACIOUS: You take things in stride, and recognize others for their efforts.
+-
+-AMBITIOUS: You are driven to succeed by your own volition.
+-
+-ATTENTIVE: You are detail-oriented, generally aware of your surroundings, and an active listener/participant.
+-
+-CONSIDERATE: You take other people and perspectives into account, and are mindful of your impact on the world around you.
+-
+-LOYAL: Devoting yourself to something or someone and remaining committed, at least to the extent it isn't detrimental to your own wellbeing.
+-
+-DETERMINED: You are motivated to maintain the momentum needed to achieve your goals.
+-
+-DILIGENT: To be diligent is to be thorough and efficient in equal parts.
+-
+-INNOVATIVE: Innovation involves approaching classic problems in new ways.
+-
+-CREATIVE: To be creative is to approach and present things more dynamically. Similar to innovation, but not quite.
+-
+-RESOURCEFUL: You are aware of what you have at your disposal, and are able to make full use of your skillset.
+\ No newline at end of file
+deleted    admin/JM/Nirvana-Play-Feedback.org
+@@ -1,11 +0,0 @@
+-Great work!  OK, make it smooth.  Focus on getting the initial entrance very pleasant.  This is critical.  First 7 seconds first impression, to a magnitude more.
+-
+-Focus strongly on making this initial scene calm and pleasant.... Maybe minimize stimulus., directional light to  feel guided.
+-
+-I think trying to re-create the real world is impossible.  One would even need to assume a godlike complex to attempt it.
+- But remixing can be effective and fun.  The idea of technically pulling from Google terrain is very interesting and can certainly be monetized with a good strategy.
+-The national parks have market potential - but the schtick would have to be someting more powerfull than "check out the vista".  Maybe you can make a scavenger hunt in VR that coincides to clues hidden in the real parks, which drives visitations because the people who played it in VR are trying to level up, or win something.
+-
+-I really had fun trying this out!   It got me inspired, you can definitely make soemthing really cool this summer.  Keep up the hustle -hell yeah!!
+-
+-Video of play- https://drive.google.com/drive/u/5/my-drive
+
+
+
+
+
+
+
+-*Yuni's Philosophy*
+-
+-**In her work, Yuni aspires to demonstrate her excellent taste, perfectionism, and natural affinity for the fine arts for which she is seeking formal training. 
+-Yuni strives to embody authenticity and humanity above all else, and believes that artists cannot create exceptional work without being brave enough to offer their whole selves, flaws and all, for scrutinizing eyes--for better or for worse.
+-Yuni believes that games are the next stage of evolution in entertainment, surpassing even film and television. Having witnessed the industry mature alongside herself over the last two decades or so, she feels an acutely personal connection to the medium. 
+-At its highest potential, she believes the enjoyment and process of game design can illuminate the human condition and human nature in a way that no other form of media can.
+deleted    admin/Yuni/YD_Signed Confidentiality Agreement.pdf
+deleted    admin/Yuni/Yuni's Seeding Philosophy
+@@ -1,47 +0,0 @@
+-
+-
+-=#+TITLE: Seeding Philosophy
+-
+-{{{subtitle(Nova XR)}}} {{{theme-color(4b7985)}}}
+-
+-One simple sentence describing what each of these words mean to you:
+-
+-
+-*PROVIDENT
+-** To me being provident means being efficient with time and time management, especially in planning.
+-
+-*SINCERE
+-** To me, to be sincere is to mean what you say, and not to say things that you don't mean. It is to not misrepresent onesself. It is a simple concept but difficult to implement in academic and professional circles, because these contexts demand large amounts of pretense.
+-
+-*ANTICIPATORY
+-** To me being anticipatory is having the skill of figuring out what is needed of you before you are asked.
+-
+-*GRACIOUS
+-** To me being gracious is to act with an air of courtesy and kindness, even when it is difficult.
+-
+-*AMBITIOUS
+-** To be ambitious is to set high standards and expectations for onesself and one's ventures.
+-
+-*ATTENTIVE
+-** To be attentive is to give one's full attention when it matters because it comes naturally to you, not because it is demanded.
+-
+-*CONSIDERATE
+-** To be considerate is to have a demeanor which proactively seeks to make room for the needs of others who you care for.
+-
+-*LOYAL
+-** To be loyal is to maintain fidelity to a person or group / company. To be sincere, it must be inspired by an intrinsic appreciation for that which one is being loyal to, and not coerced from fear or necessity. Loyalty is earned.
+-
+-*DETERMINED
+-** Determination is a series of internal decisions which lead a person to perservere out of desire for a cherished goal.
+-
+-*DILIGENT
+-** Diligence is the quality of exhibiting attentiveness and devotion to the quality of one's work.
+-
+-*INNOVATIVE
+-** Innovation is a thinking pattern which seeks to disrupt the status quo for some kind of benefit.
+-
+-*CREATIVE
+-** Someone who is creative is inclined to generate something where there before was nothing, or to assemble pieces of something into something new. It is most often associated with artistic fields but in reality can apply to any craft in any field.
+-
+-*RESOURCEFUL
+-** Someone who is resourceful is good at using what they currently have at their disposal to solve problems or produce solutions to dilemmas.
+deleted    admin/Yuni/yuni.org
