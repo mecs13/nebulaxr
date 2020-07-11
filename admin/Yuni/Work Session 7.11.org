@@ -1,0 +1,15 @@
+* Work Session Friday 7.11
+** Yuni & Yuhao
+
+*Discussed*
+- New visual style of blue sky, removal of space theme
+- Viewing of demo screencaps
+- Resolved issue of being unable to move in Unreal - pressed f on sky sphere
+- Improvement of lighting structure - Skylight, Directional lights & Spotlights
+- Yuhao dealing with major bugs that arose as a result of implementing currency system -- messed up other established systems
+- Planning for save system
+- Jumping adjustability
+
+*Next Steps*
+- Yuni continues world building
+- Yuhao continues debugging
