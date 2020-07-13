@@ -1,0 +1,19 @@
+#+TITLE: Work Session 12
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Saturday July 11th*
+
+* Attended meeting with Yuni, Danny, and Mei 
+* Updated on demo, shifts in aesthetics, and new priorities as expressed in our individual 1o1s
+* Went over list of deliverables with team + clarified point totals
+* Continued working on web dev + research
+
+*Next Steps*
+* Do what I can to raise SEO and progress on webpages till I can collab with Marwa
+* Set up a loose outline for calculating point totals for team on Monday, message Joe as well
+* Find a time to collaborate with the full team
+* Attend meeting on Sunday in prep for Monday
+* Upload deliverables/detail progress thus far in org and upload under new repo on git

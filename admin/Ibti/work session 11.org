@@ -1,0 +1,17 @@
+#+TITLE: Work Session 11
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Friday July 10th*
+
+* Got in touch with Marwa
+* Coordinated new time with team for meeting on Saturday to help Marwa select codepens
+
+*Next Steps*
+* Continue progressing with research + library webpages
+* Attend meeting on Saturday 
+* Select codepens
+* Collaborate with Marwa on web dev and refocus on research (?)
+* Get updated on progress re: other deliverables

@@ -1,0 +1,20 @@
+#+TITLE: Work Session 9
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday July 6th*
+
+* Presented updated Demo with team
+* Presented updated research with Mei
+* Uploaded deliverable documentation re: research & research library
+* Totalled points and calculated percentage for the week
+* Established next steps 
+* Recapped lost points/areas for improvement with team
+
+*Next Steps*
+* Attend 1o1
+* Attend first team meeting (Wednesday)
+* Continue working on website
+* Begin researching specifics as outlined by Joe

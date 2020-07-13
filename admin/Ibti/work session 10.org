@@ -1,0 +1,19 @@
+#+TITLE: Work Session 10
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Wednesday July 8th*
+
+* Met with Joe to cover research for the coming week
+* Established/clarified new point totals
+* Established conditions for completed research library
+* Rescheduled meeting with team for Friday
+* Sent explanation/outline to team re: points for Monday
+
+*Next Steps*
+* Meet with team on Friday
+* Contact Marwa re: web dev in light of 1o1
+* Respond to any concerns on points
+* Continue with web dev + research
