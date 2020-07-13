@@ -1,0 +1,27 @@
+#+TITLE: PC Build Instructions
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+* How to Build a PC (Including some trouble shooting tips)
+** by Daniel Hristodorov
+<2020-07-11>
+-----
+
+1. Disassembled PC entirely. Removed all cable plugged into motherboard. Uninstalled all hardware: power supply, RAM, GPU, CPU cooler.
+
+2. Checked PSU to ensure it is working.Used paper clip test. Break a paper clip in half and plug into green wire pin (signal) and any black cable either to the left or right of it (ground wire). This tricks power supply into thinking its plugged in. If working, PSU fan should spin.
+
+3. Insert motherboards into PC Case. Ensure motherboard is mounted properly and screwed firmly into place.
+
+4. Installed CPU. Ensure arrows line up and push the latch down. Be careful not to bend any pins.
+
+5. Install CPU Cooler. Remove back case fan in order to install CPU Cooler Fan + Radiator. Install backplate by inserting mount though the back of motherboard. Apply a pea sized amount of thermal paste to CPU pump. Attach cooler pump to motherboard by attaching to backplate mount and screw in on opposite sides. Plug CPU pump cable into CPU Fan slot on motherboard. Plug CPU fan cable into SYS Fan slot.
+
+6. Install GPU. Mount into PCI16 slot (get a good click to ensure its in all the way). Screw thumb screw into PC case to lock card in place. Plug in PCI cable from PSU to GPU.
+
+7. HDD Install. Mount drives to bay. Connect SATA cables to Mobo. Plug SATA cables from PSU.
+
+8. Front Panel. Check to ensure specific order of FPanel Cables and match to color code on MOBO.
+
