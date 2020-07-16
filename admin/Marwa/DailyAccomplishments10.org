@@ -1,0 +1,40 @@
+* Accomplished
+
+- 10 Codepens picked from the collection
+
+- Codepen Integrations
+
+- Implemented 5 Codepens into the website
+
+- Edited Codepens to modify them to personalize more as nova-nebula
+
+- Code Pen Integrations - 5x Implemented - Example, animated form
+
+- Write Instructions for Ibti and post to github
+
+- Modify 5 codepens
+
+- Write instructions for Ibti to modify the codepens back to their original form and post to GitHub
+
+* TO-DO
+
+MS - Search and identify 5 grant opportunities
+
+MS - Get 10x nova pages into 80+
+
+New Year’s XR
+
+- Homepage
+- Team
+- Products
+- Build XR
+- Services
+- HR-XR
+- Exist
+- Bloomaway
+- Infinite Gallery
+- Torus
+
+MS - Walk Ibti through the process of implementing Codepens
+
+MS - Walk Ibti through the process of modifying Codepens back to their original form
