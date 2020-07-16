@@ -1,0 +1,35 @@
+* Modifying Codepens - Instructions for Ibti
+
+/When modifying Codepens, of course the first step is to go the the Codepen website which is Codepen.io./
+
+Step 1 - Go to Codepen.io
+
+Step 2 - Search and find a style that you would like to implement into your website.
+
+Step 3 - When found, click on that Codepen.
+
+Step 4 - A page will open up that says HTML on the left, CSS in the center, and JS to the right.
+
+Step 5 - If you need to make any changes there and if you know how to then do so. If not, do not mess around with it!
+
+Step 6 - Click on Fork.
+
+Step 7 - When you have forked the Codepen, click on Embed.
+
+Step 8 - Once the Codepen has been embedded, click on Wordpress Shortcode. This will copy the code that you have now created for your design and will let you copy it into your website!
+
+Step 9 - Go to your website and click on Use The Divi Builder.
+
+Step 10 - When you are using the Divi Builder, click on a plus circle in the center of the website.
+
+Step 11 - When it opens up, click on one full row.
+
+Step 12 - Then click on code.
+
+Step 13 - Paste the code into the pop-up module.
+
+Step 14 - Modify the sizing in the module from a number that should be within the 200s to exactly 300.
+
+Step 15 - On line 2, delete ", result" without deleting the quotation marks.
+
+Step 16 - Click on the check mark, and finally you're done!
