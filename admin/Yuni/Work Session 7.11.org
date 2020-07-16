@@ -2,13 +2,15 @@
 ** Team Meeting 4:30-6:30
 
 *Discussed*
+
 - Mei and Ibti went over Black Swan research with team and try to sort out challenges (lack of data for certain time periods, contemporary nature of "black swan" terminology)
 - Ibti updated team on points system and gave reminder to upload work sessions / mising admin from group
 - Final doc discussed with no solid plans of how it will be augmented.
 - Issues with web development discussed (math rank, challenges with collaboration)
 - Ibti's research page reviewed as a group
 
-Next Steps
+*Next Steps*
+
 - send audio samples to team via discord
 - plan for Danny to come over to Yuni's to get back into Unreal (UI Elements for final NYE Lobby)
 - update final doc
