@@ -1,0 +1,28 @@
+#+TITLE: Dev Station Troubleshoot
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+* Hybrid Server/Dev Station Build Troubleshoot
+** by Daniel Hristodorov
+** Friday, July 10, 2020
+-----
+- Disassembled PC entirely. Removed all cable plugged into motherboard. Uninstalled all hardware from mobo:: power supply, RAM, GPU, CPU cooler.
+
+- Checked PSU to ensure it is working. Used paper clip test method. Break a paper clip in half and plug into green wire pin (signal) and any black cable either to the left or right of it (ground wire). This tricks power supply into thinking its plugged in. If working, PSU fan should spin.
+
+- Since the Power Supply is tested and functional, we can rule out a hardware issue there and move on to test the other hardware.
+
+- Removed hardware one by one, starting with GPU, moving on to RAM, testing out different RAM we know works, and the CPU and attempt to get a boot. This does not work, which leads us to believe it is a motherboard issue. 
+
+- We proceed to install our hardware into a spare motherboard that we know works. Using a working motherboard got us to the bios. We can rule out hardware issues excluding the motherboard.
+
+- We quadruple checked our cables to ensure everything was proper and really narrow down our results. We realize that we had the front panel cables connected out of order which gave us hope. Upon fixing PC starts to Boot Loop.
+
+- Upon inspection we notice bent pins on the CPU Socket of the motherboard, some of which are touching which may very well be ceasing the computer from completing a POST test, resulting in a boot loop.
+
+- Used a razor blade and steady hands to manually reset bent pins into place. 
+
+- IT WORKED, we got to the bios.
+
