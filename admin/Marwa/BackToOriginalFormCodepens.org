@@ -1,0 +1,17 @@
+* Back To Original Form Codepens - Instructions for Ibti
+
+/When modifying Codpens to make them go back to their original form, it's not hard. All you need to do is reatrace your steps./
+
+Step 1 - Go to your website.
+
+Step 2 - Click on Divi Builder.
+
+Step 3 - Click on the Codepen that you have implemented into your website.
+
+Step 4 - Click on the gear icon.
+
+Step 5 - In the text box, in line 1, change the size from 300 to whatever it was in the beginning.
+
+Step 6 - In line 2, add ", result" without adding the quotation marks.
+
+** If that's all of the changes that you've made, then you're done!
