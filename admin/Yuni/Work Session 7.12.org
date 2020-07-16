@@ -1,0 +1,17 @@
+* Work Session Sunday 7.12
+** Yuni & Yuhao
+
+*Discussed*
+
+- Repeat indicence of system crash causing corrupt project file and Unreal program files
+- Yuni verifies and reinstalls EPIC / Unreal. Issue narrowed to conflicting software due to multiple (back up) copies of project file coexisting; back up files moved to external HD; all older backups deleted.
+- Yuni decides that the current project file is too bloated to work efficiently, opts to rebuild from scratch instead (SUCCESS)
+- Complications on Yuni's end attempting to reconnect to Source Control
+- Issues merging Yuhao's systems project with Yuni's build -- Yuhao must test for compatibility.
+- Decision is made to use two separate demos in the morning and marge later in the week.
+
+*Next Steps*
+
+- Yuni finishes build for presentation Mon morning
+- Yuni takes screenshots of finished build and shares with team on Discord
+- Yuhao prepares to present systems demo in the morning
