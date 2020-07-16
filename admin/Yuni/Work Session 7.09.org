@@ -1,0 +1,16 @@
+* Work Session Thurs 7.09
+** Yuni & Yuhao
+
+*Discussed*
+- Lighting issues becoming insurmountable...
+- Current build expanded by Yuni -- bridges replaced with platforming obstacles (objects & islands)
+- Current build design (space and seasonal concepts) abandoned by Yuni
+- Yuhao is building and testing Currency System 
+- Yuhao building Save State
+
+*Next Steps*
+- Yuni does research on basic lighting in Unreal and implements her findings.
+- Possibly replace space theme...new sky sphere?
+- Experiment with and implement a new system of skylighting, directional lighting, and spot lighting.
+- Yuni to speak with Joe on Friday concerning direction of build - ask for ideas.
+- Yuni does a concept sketch for the new structure of the build -- reduce gamification burden - make it simpler for non gaming users.
