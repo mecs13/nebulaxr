@@ -1,0 +1,37 @@
+#+TITLE: Website Updates
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Research Library
+
+** Drafted blurbs for 4/6 sections
+*** Current text published on site must be reviewed by Joe to ensure it is on brand and in line with his vision
+*** Will also present updated site to team to ensure everyone is briefed on progress
+
+** Maintained keyword density
+*** currently at a 0.61, experimented a bit to see impact on SEO 
+*** with 2 more mentions the SEO hits 86, with 6 more mentions the SEO hits 89 (no way to make this natural, will continue to experiment)
+
+** Included an external link (journal of consumer research under marketing blurb)
+*** Boosted SEO from 79 to 85 and resolved most SEO Errors with exception of ToC - which we established is not recognized w/o plug-in - as well as Keyword Density and Word Count
+
+** Added a Cover to the website's end which raised SEO by a single point - replacement for previously removed closing section
+*** Image is in-line with NOVA aesthetic, and arguably makes webpage formatting more natural but can be done away with depending on preference
+
+** Updated back-up webpage to ensure progress wasn't lost when editing using Divi Builder
+
+* Next Steps
+
+** Get SEO to 90 at least
+*** Already experimented with keyword density + word count (at 2500 words SEO gets up to 88 but the density is impacted)
+*** Finish final two blurbs, attempt natural mention of keyword 
+*** Possibly implement another image or video (debatable only because more media would interrupt the simple formatting i've opted for)
+*** Begin creating - as well as formatting - six new webpages with support from Marwa and link to them as well (can vary types of links which may impact SEO)
+
+** Schedule time to collaborate with Marwa and determine how best to approach new webpages
+
+** Update team on progress and present page as is before presentation
+
+** Have text on webpage cleared by Joe
