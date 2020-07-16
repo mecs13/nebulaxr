@@ -28,7 +28,7 @@ Step 12 - Then click on code.
 
 Step 13 - Paste the code into the pop-up module.
 
-Step 14 - Modify the sizing in the module from a number that should be within the 200s to exactly 300.
+Step 14 - In line 1, modify the sizing in the module from a number that should be within the 200s to exactly 300.
 
 Step 15 - On line 2, delete ", result" without deleting the quotation marks.
 
