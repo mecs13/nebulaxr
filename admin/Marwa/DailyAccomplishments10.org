@@ -1,20 +1,20 @@
 * Accomplished
 
-- 10 Codepens picked from the collection
+DONE - 10 Codepens picked from the collection
 
-- Codepen Integrations
+DONE - Codepen Integrations
 
-- Implemented 5 Codepens into the website
+DONE - Implemented 5 Codepens into the website
 
-- Edited Codepens to modify them to personalize more as nova-nebula
+DONE - Edited Codepens to modify them to personalize more as nova-nebula
 
-- Code Pen Integrations - 5x Implemented - Example, animated form
+DONE - Code Pen Integrations - 5x Implemented - Example, animated form
 
-- Write Instructions for Ibti and post to github
+DONE - Write Instructions for Ibti and post to github
 
-- Modify 5 codepens
+DONE - Modify 5 codepens
 
-- Write instructions for Ibti to modify the codepens back to their original form and post to GitHub
+DONE - Write instructions for Ibti to modify the codepens back to their original form and post to GitHub
 
 * TO-DO
 
