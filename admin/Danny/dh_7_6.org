@@ -1,0 +1,19 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Monday, July 6th, 2020
+*Accomplished:*
+** DONE: NebulaXR team met with Joe to demo lastest project version
+** DONE: Reviewed final doc
+** DONE: Collected feedback on both build and document
+** DONE: Met with team
+** DONE: Discussed overal areas of improvement (pertaining to build, doc, and presentation)
+** DONE: Decided on new implemenation that will be featured in this weeks build
+** DONE: Dicussed the visual design of project and how it can be tied into goal oriented game objecives
+** DONE: Discussed music integration and potential themes, as well as most effective implementation
+** DONE: Planned work session and meeting times for the upcoming week
+** DONE: End of day Video Log

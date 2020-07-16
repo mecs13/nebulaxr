@@ -1,0 +1,19 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Sunday, July 12, 2020
+*Accomplished:*
+** DONE: Met with team to discuss progress
+** DONE: Voiced all concerns regarding build. Worked out plans to address all concerns. 
+** DONE: Discussed future timeline of feature implementations
+** DONE: Shared references with team
+** DONE: Reviewed document to ensure it closely mirrors build
+** DONE: Reviewed Ibti's website and offered feedback (very well done!) 
+** DONE: Prepared for Mondays demo/presentation
+** DONE: Complied and debugged project with team to ensure a smooth demonstration come Monday
+** DONE: Gathered Gigabyte customer service contact information
+** DONE: End of Day Video Log
