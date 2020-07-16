@@ -1,0 +1,70 @@
+#+TITLE: Research Drafts v.4
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Preliminary Research
+
+* marketing/commercialization of our model + its efficacy as judged using research on consumerism
+
+*Hedonic Consumption in Virtual Reality*
+
+** hedonic consumption, in marketing, concerns the relationship between a consumer and their enjoyment as brought about directly by a good or service
+*** pleasure-based consumerism
+
+** uses the example of MMORPGs for their real time collaboration/community in a virtual environment using a quantitative and qualitative study of consumer reviews
+
+** four types of product pleasures as proposed by P.W. Jordan
+- physio-pleasures: "originate from the senses,” relevant to our model as VR relies on senses for user engagement and immersion
+- socio-pleasures: "emanate from interpersonal relationships," Community + Belonging - similar to past findings on social motivators in gameplay 
+- psycho-pleasures: "stem from...emotional and cognitive reactions to product use,” sensory engagement should be our main priority but if we can inspire a positive psychological affect - whether it be through the mechanics, gameplay, or visuals - we would boost our product’s pleasure and use value, making it more marketable to Users + Investors
+- ideo-pleasures: “come from product meanings and personal values,” the reaffirmation of a user’s beliefs, irrelevant beyond the possible validation of another culture’s customs/another user’s experience - especially since our concept is non-denominational 
+
+** three driver categories: 
+- product attributes
+- developer strategies
+- virtual game community
+
+** three dimensions of outcome
+- product-related experience
+- behavioral experiences
+- emotional experiences
+
+* tourism, travel, + consumerism as related to "ownership"
+
+*The Ego Factor in Tourism*
+
+** "Tourists travel...to be in the presence of peoples, places, and objects they cannot buy or otherwise take possession of except in a spiritual sense”
+
+** The dominant way commerciaiiy successful destinations have organized touristic experience has been to model themselves...on the ego. Other commodities soid on the basis of their intangible qualities may be implicated in the same narcissistic ego structure."
+*** by ego, MacCannell means an appeal to one’s sense of mastery, sense of control, and sense of self
+
+** motivators for tourist desire are unclear, but some have cited “local color, tradition, racialized differences, history, etc.”
+*** cultural commodification is fairly recent (last 150 yrs or so) so the relationship between consumer and culture is especially unclear because the object of interest cannot be possessed like other products/commodities - nor should they be
+
+** "If the attractions were not kept outside the economic system, there would be no tourism." 
+*** actual possession of these places or objects would diminish their value, our experience fits in with this theory and allows for increased proximity/desire without eradicating the need for the places themselves. again, VR not as a substitute but as a supplement.
+
+** "there is a "globalizing demand to consume as many goods and services as possible. Travel offers a way to expand consumption opportunities” - testament to the commercial viability of the tourism industry, though perhaps not the egoistic approach necessarily
+
+** "Many of the qualities that attract tourists (e.g., 'heritage,' the range of accommodations, facilities such as sports stadiums or museums, night life, and culinary offerings) are frequently similar among competing cities"
+*** while it is right to say that urbanism has made cities rather ubiquitous, there’s also the matter of prestige + intrigue. how cities are marketed globally, especially regarding their experiential/cultural offerings, makes more of a difference. hosting VR experiences can help cities be more proactive in their cities presentation - which may impact their tourism in the years to come
+
+** tourist attractions as "protected space for tourists within the city"
+*** "for the city to function as a tourist attraction, it must be rebuilt as a kind of soft-core exotica made safe for suburbanites" 
+*** the experience is just a means of exerting more control over perception - ego-mimetic (the approach in which one’s ego is imitated to ensure the product or attraction is universal, because everyone has an ego)
+
+** three problems with the ego-mimetic approach
+*** "perfect alignment is not possible. Traditional constraints (i.e., concerns about the future, children, sustainability, and matters of human character) continue to provide resistance to the unrestrained excesses off the ego in partnership with the newly permissive superego. There remains a deep opposition of interests between producer and consumer that can only be covered up, and never gotten rid of, by cultural engineering.” modernity has dulled the efficacy of this approach and conflict of interest has always existed, though it is best to keep this critique in mind to ensure our model is adaptive
+*** "increasing skepticism" re: superego drives (meaning positive aspirations directly related to consumption and capitalism, the public has grown more jaded with this messaging) - ideally focus more on culture + potential enrichment with goods and services as a plus, versus the core appeal
+*** "The ego is going out of fashion...The growing popularity of environmental, conservation, simple-living, and other similar movements are all founded on a willingness to curb the ego and its demands...or at least some of its more excessive expressions, and ego- mimetic strategies will be repulsive to those who may be interested in the search for authentic otherness, however elusive such a destination may be” though ego is universal, it’s not thought of as very sophisticated especially as progressive movements gain more traction and globalization reveals a greater desire for authentic cultural connection and cohesion  
+
+** should also be noted “it is no longer sufficient for a consumer simply to need to buy something. Now they need to be entertained, and the shopping experience must also resemble recreational travel.” recreation is the priority, with it comes consumerism 
+
+** in light of egoism’s decline, more research into hedonic consumption (products that appeal to users for their pleasure, another psychic structure) would be warranted to allow for more flexibility in our approach
+
+*Next Steps*
+* reading further articles on hedonic consumption, already collected just read, synthesize and lint
+* continue looking for sources on object play, object handling, and game psychology as related to consumerism
+* begin researching in-app purchasing and the efficacy of monetizing strategies as developed by Yuhao + Yuni, etc.
