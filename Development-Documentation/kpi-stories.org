@@ -1,0 +1,35 @@
+#+TITLE: KPI Stories
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+* KPI Stories
+** by Daniel Hristodorov
+** Saturday, July 18, 2020
+-----
+Current KPI's Built into Game
+- Currency
+    + A variable stored within the first person character with a custom event bound to it. When the event is triggered, currency increases.
+        -The idea is to collect currency in game to be added to your overall "score"
+        -Score can be demonstrated through a leaderboard comparing to other players around the world (potentially can be categorized into regions)
+        -Currency can be traded in game for a variety of New Years themed objects, such as fireworks, party favors, an upgraded bow and arrow, avatar accessories, or grappling hook.
+- Shots
+    + Variable stored within FP character with a ticker count inceased by 1 when input command is triggered
+        - Archery minigame
+        - Different levels increasing in difficulty
+        - When game is completed with perfect score you are granted the opputuntity of a bonus levels
+        - Moving, diffuclt target. When the player lands a bullseye there is an incentive (plane tickets, Nova t-shirt, etc.)
+- Jump
+    + Variable stored within FP character with a ticker count inceased by 1 when input command is triggered
+        - Jump is crucial when manuevering the map 
+        - Map at times can be challenging to explore from platform to platform (intended)
+        - Implementation of grappling hook as an incentive to collect currency in reward for advanced mobility
+
+KPI's That Can Be Added
+- Time Spent
+    + Bind time to ticker variable that increases simultaneously with each second spent in game
+        - This would be very helpful in terms of measuring success
+        - First hand data that represents how engaging game is 
+        - Added to each individual island in order to measure where players spend time in game
+        - This will give us data to work with in order to make improvement based on player perferences
