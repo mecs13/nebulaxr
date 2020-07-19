@@ -1,0 +1,16 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Saturday, July 18, 2020
+*Accomplished:*
+** DONE: Met with team to discuss individual progress
+** DONE: Further discussed KPI stories
+** DONE: Further brainstomed area for UI implementation/improvement
+** DONE: Researched the impotance of KPIs in a game build to better understand task
+** DONE: Completed KPI story document
+** DONE: End of Day Vlog
+

@@ -1,0 +1,15 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Daniel Hristodorov
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Org Mode Basics)}}}
+{{{theme-color(4b7985)}}}
+
+
+* Wednesday, July 15, 2020
+*Accomplished:*
+** DONE: Researched new motherboard compatibility
+** DONE: Discussed with Joe and ordered from Newegg
+** DONE: Met with team to brainstorm in game oppurtunities for UI implemtentation/improvement
+** DONE: Set future meeting times for the week 
+** DONE: Discussed improvement of build (bloat, stystems)
+** DONE: End of day Video Log
