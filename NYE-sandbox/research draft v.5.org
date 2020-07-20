@@ -1,0 +1,61 @@
+#+TITLE: Research Drafts v.5
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Preliminary Research
+
+*Hedonic Consumption in Virtual Reality - Expanded*
+
+** three driver categories: 
+- product attributes: virtual community design, audio/visual as well as role playing & user interface
+- developer strategies: fee related, features related, and stages of game
+- virtual game community: player interactions and player motivations
+
+** three dimensions of outcome
+- product-related experience: personal experience unique to this product (in-game achievement or experience)
+- behavioral experiences: can be either positive or negative, positive being accomplishment + negative being addiction/repetition 
+- emotional experiences: can be either positive or negative, postive being pleasure + negative being frustration
+*** outcomes are a matter of balance, must be mindful of player's and their experience or lack thereof in-engine
+
+** hedonic and utilitarian products provide different value to consumers.
+*** "Utilitarian attributes offer...functional benefits, while hedonic attributes provide consumers experiential enjoyment. Specifically, consumers focus on functional, instrumental, and practical benefits of utilitarian products. However, consumers seek aesthetic fulfillment, fun, amusement, and enjoyment from products and services dominated by hedonic attributes."
+
+** hedonic consumption as “emotional driven” and utilitarian consumption as “cognitively driven”
+*** for this reason, hedonic and utilitarian products are reviewed according to their affect and attributes respectively
+
+** "a pleasant experience has carry-over effects. Menon and Kahn (2002) found that induced pleasure from an initial Internet encounter has a positive effect on consumers’ browsing and shopping behavior afterward.” there are benefits in ensuring a hedonic experience is fulfilling, similar to past research on “fun factor"
+
+** "The fulfillment of consumer utilitarian needs leads only to satisfaction while the fulfillment of consumer hedonic wants generates delight (Chitturi et al. 2008). Researchers believe that satisfaction alone could not ensure consumers’ repeat purchase behavior, while delight is likely to influence repeat purchases (Chitturi et al. 2008). Consumers’ positive emotion could be utilized to transform them into loyal consumers.” the benefit of hedonic consumption over utilitarian consumption for our model is its ability to inspire/influence consumer behavior in the long term
+
+** MMORPGs as particular for their reliance on cooperation for advancement, this is described as a sort of “social capital”
+*** gamers are more invested in the community at large
+
+** study evaluated a select number of popular MMORPGS using e-WOM (word of mouth) relative to player’s reported rating of the graphics, sound, and gameplay - gameplay reported as most important, and should therefore be a priority before beginning to commercialize model
+
+** "the findings also indicated that the longer a consumer is engaged in a particular virtual hedonic experience, the higher is his=her satisfaction (TIMESPENT is significant). Consumer satisfaction increases when he=she spends more time on the hedonic product.” if possible, in future builds (beyond our current timeline) we should try to incorporate a means of measuring time spent in-game, would be helpful in measuring success 
+
+** "Game attributes, such as audio, visual, and story designs, are crucial factors that influence consumer satisfaction."
+
+*Methodological Limitations of the Hedonic Consumption Paradigm and a Possible Alternative: a Subjectivist Approach*
+
+*In Praise of Pleasure: Hedonic Consumption Fosters Prosocial Behavior*
+
+* Haptics/Object Handling as related to Consumer Behavior and Advertising 
+
+*IGA Haptics*
+
+*Interaction of Senses: The Effect of Vision versus Touch on the Elongation Bias*
+
+*Individual Differences in Haptic Infonnation Processing: The "Need for Touch" Scale*
+
+* In App Purchasing as related to consumer behavior
+
+*Social Media Communication and Consumers Decisions: Analysis of the Antecedents for Intended Apps Purchase* 
+
+*Next Steps*
+* expand on articles as detailed above for a more balanced view of hedonic consumption as related to its viability and subjectivity
+* expand on haptics as related to in-game advertising + game play, as well as versus other senses for immersion and interactivity purposes
+* research in-app purchasing as related to efficacy (will have to continue to experiment with key word searching as focus of in-app purchasing in academia seems to be fairly broad)
+* begin consolidating research and drafting abstracts for implementation on respective page on site
