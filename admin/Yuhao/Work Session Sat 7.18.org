@@ -1,0 +1,16 @@
+* Work Session Sat 7.18
+** Yuni & Yuhao
+
+*Discussed*
+- Merged new level with systems
+- Packaged test build for debugging and playtesting
+- Set up static IP and confirmed multiplayer with Yuni
+- Yuni overhauled the spring island and swapped out assets for a redesign 
+- Yuni continued work on lighting
+
+*Next Steps*
+- Yuhao to fix cilent input replication
+- Yuhao to rebuild the randomized spawner
+- Yuni to research audio implementation
+- Yuni to upload her version of the project to Github for a more synced merge
+- Yuni to package a separate build with proper lighting for temporary demo

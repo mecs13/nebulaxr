@@ -1,0 +1,16 @@
+* Work Session Thurs 7.16
+** Yuni & Yuhao
+
+*Discussed*
+- Removed several tick events to regain lost FPS
+- Overhauled and removed several cast nodes
+- Discussed the addition of a "Bob Island"
+- Yuni worked are design and deliverables
+- Yuni brainstormed more ways of navigation between the islands
+
+*Next Steps*
+- Yuhao to work on teleportation menu
+- Yuhao to debug replication issues
+- Yuhao to debug crash on start issue
+- Yuni to continue work on graphic design and deliverables
+- Yuni to implement navigation between the various islands

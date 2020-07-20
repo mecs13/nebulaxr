@@ -1,0 +1,16 @@
+* Work Session Sun 7.19
+** Yuni & Yuhao
+
+*Discussed*
+- Fixed client input replication
+- Implemented currency spawn replication
+- Implemented menu for teleporation
+- Yuni implemented sound design into new level
+- Yuni packaged aesthetics build for Joe with report
+
+*Next Steps*
+- Yuhao to overhaul and redesign UI
+- Yuhao to fix bug where one player exiting freezes the other player
+- Yuhao to continue debugging replication issues
+- Yuni to determine best place to place points for currency
+- Yuni to further flesh out audio for the level

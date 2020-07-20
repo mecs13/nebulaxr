@@ -1,0 +1,15 @@
+* Work Session Fri 7.17
+** Yuni & Yuhao
+
+*Discussed*
+- Began prelimary design on teleportation menu
+- Began investigating sources of replication issues
+- Fixed crash on start bug caused by conflicting save files
+- Yuni implemented island navigation with small island hopping terrain
+- Yuni continued work on graphics and deliverables
+
+*Next Steps*
+- Yuhao to merge systems with new level design
+- Yuhao to set up static IP for multiplayer playtest
+- Yuni to fix lighting conflicts caused by shadows in the level
+- Yuni to redesign islands and better reposition assets
