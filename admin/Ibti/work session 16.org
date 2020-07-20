@@ -1,0 +1,20 @@
+#+TITLE: Work Session 16
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Sunday July 19th*
+
+* Met with Daniel, Yuhao, Yuni, and Mei
+* Discussed implementation of KPI in-game 
+* Had Yuni demo experience to some feedback
+* Decided on a presentation order for Monday
+* Updated on deliverables and next steps/priorities going forward
+
+*Next Steps*
+* Upload deliverables under new repo (research + website drafts)
+* Write up Read Me's for Joe
+* Fill out point chart tomorrow morning and share with Joe (unclear if he wants explanation or not, or if he just wants to see the chart itself- also unclear on whether he wants to see individual team member performance given his Team focus? may have to adjust chart to allow for some anonymity, otherwise clarify with Joe in the morning)
+* Upload admin
+* Attend meeting and present updated experience 

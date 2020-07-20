@@ -1,0 +1,19 @@
+#+TITLE: Work Session 14
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Thursday July 16th*
+
+* Worked with team to get deliverables in to quantify success
+* Updated on Mei's BS research progress
+* Updated on website/code pen implementation
+* Skimmed Marwa's code pen instructions (unclear if codepens are necessary for my page?)
+* Updated Joe on team's success
+
+*Next Steps*
+* Continue reseach and web dev for upcoming week 
+* Attend team meet tomorrow 
+* Attend rescheduled 1o1 with Joe 
+* Have Joe approve website text

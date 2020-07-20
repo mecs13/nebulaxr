@@ -1,0 +1,20 @@
+#+TITLE: Work Session 15
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Friday July 17th*
+
+* Attended 1o1 with Joe
+* Had website text approved
+* Set up formatting for Functionality webpage with Joe 
+* Met with Daniel, Yuhao, and Marwa
+* Began to establish possible implementation of KPI in-game
+* Assigned Daniel a deliverable for Monday
+
+*Next Steps*
+* Continue reseach on in-app purchasing, object handling, and hedonic consumption
+* Collaborate with Yuni to create a 2D/3D graphic (may not be feasible)
+* Complete final blurbs and continue working on functionality page
+* Catch up with the rest of the team and meet in prep for Monday meeting

@@ -1,0 +1,17 @@
+#+TITLE: Work Session 13
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday July 13th*
+
+* Checked in with team re: admin
+* Requested extension for deliverables after communicating with team
+* Checked in with team after meeting
+
+*Next Steps* 
+* Support team in completing admin work through Wednesday
+* Have team debrief me on feedback and next steps 
+* Attend 1o1 with Joe
+* Continue web dev and research for the week
