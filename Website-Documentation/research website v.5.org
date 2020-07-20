@@ -1,0 +1,32 @@
+#+TITLE: Website Updates
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Research Library
+
+** Collaborated with Joe to create a basic format for one of the subset pages (Functionality)
+*** Selected codepen
+*** Read on codepen integration
+
+** Agreed upon how information will be presented on new pages
+*** Will be consolidating research and drafting abstracts over the next two weeks
+
+** Began integrating material from current projects/demos
+
+** Had website text cleared as on brand, can proceed
+
+* Next Steps
+
+* Finalize original webpage
+** SEO up to 90
+** Complete blurbs
+
+* Clone Functionality site and begin setting up other five pages 
+** Select and integrate codepens as relevant to the theme 
+** Draft abstracts
+** Continue to integrate aspects from past projects (images, materials, articles)
+** Figure out featured question, buttons, etc.
+
+* Support with other site if possible
