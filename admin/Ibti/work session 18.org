@@ -1,0 +1,16 @@
+#+TITLE: Work Session 18
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Saturday July 25th*
+
+* Checked in with team re: progress
+* Spoke to Mei about uploading articles under new folder in Drive
+* Uploaded articles under Drive from Nervevana research to latest NYE demo
+
+*Next Steps*
+* Ask Joe about any deliverables that need to be accounted for in the point system for Monday
+* Try to meet with team in advance to prep for Monday's presentation
+* Continue to work on research and webpages

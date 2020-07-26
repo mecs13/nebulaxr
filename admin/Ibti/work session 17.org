@@ -1,0 +1,19 @@
+#+TITLE: Work Session 17
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday July 20th*
+
+* Uploaded deliverables under new repo (research + website drafts)
+* Wrote up Read Me's for Joe
+* Uploaded admin
+* Spoke to team about deliverables, requested extension but reported on progress in meeting
+* Attended meeting and presented current web dev and research findings/concerns
+* Established next steps
+
+*Next Steps*
+* Clone Functionality page and set up other subsections
+* Upload articles, set up folder on Drive
+* Debrief with team and organize time to meet later in the week
