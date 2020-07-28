@@ -1,0 +1,24 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Saturday 07/18/2020
+* Accomplished:*
+** DONE: Met up with team to disuss progress
+** DONE: Kept in touch with team for progress update 
+** DONE: Researched & watched videos about investment, marketing as well as business strategies
+** DONE: Updated -> "Return on Investment" -> "start-of-presentation-updated0713"
+** DONE: Updated -> "Return Potential" -> "start-of-presentation-updated0713"
+** DONE: Started to transfer information on GitHub
+
+*To-DO*
+** TODO: Continue supporting development team 
+** TODO: Start to look into audio selections (this will happen next week)
+** TODO: Make sure to update everything on GitHub by Monday's meetings
+** TODO: Continue to catch up with Ibti and Marwa if necessary with SEO
+** TODO: Make sure to stay in correspondence with development with progress so we all can continue to add onto the document
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared to present a document or presentation for next Monday
+** TODO: Upload vlog 28-31

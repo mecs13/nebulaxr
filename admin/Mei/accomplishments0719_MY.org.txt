@@ -1,0 +1,26 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Sunday 07/19/2020
+* Accomplished:*
+** DONE: Experienced and Yuni demoed experience via Discord
+** DONE: Kept in touch with team for progress update 
+** DONE: Attended final team meeting 
+** DONE: Contributed ideas to jump, leaderboard and score for game use
+** DONE: Researched -> "Financials on Black Swan"
+** DONE: Researched -> "Marketing Manipulations"
+** DONE: Updated -> "Research Summary" -> "start-of-presentation-updated0713"
+** DONE: Wrote everything on a Google Doc and transferred info to GitHub
+
+*To-DO*
+** TODO: Continue supporting development team 
+** TODO: Start to look into audio selections (this will happen next week)
+** TODO: Make sure to update everything on GitHub by Monday's meetings
+** TODO: Continue to catch up with Ibti and Marwa if necessary with SEO
+** TODO: Make sure to stay in correspondence with development with progress so we all can continue to add onto the document
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared to present a document or presentation for next Monday
+** TODO: Upload vlog 28-32

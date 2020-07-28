@@ -1,0 +1,25 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Friday 07/17/2020
+* Accomplished:*
+** DONE: Read deliverables for this week 
+** DONE: Made sure that the research I'm doing checks off the points for this weeks deliverables 
+** DONE: Kept in touch with team for progress update 
+** DONE: Be ready to hold a team meeting tomorrow evening
+** DONE: Caught up with correspondences on Discord
+** DONE: Updated -> "Measure of Success" -> "start-of-presentation-updated0713"
+** DONE: Updated partially -> "Sales Funnel of KPI" -> "start-of-presentation-update0713" [was kind of lost due to subjectivity and we usually don't do sales funnel for KPI's]
+
+*To-DO*
+** TODO: Continue supporting development team 
+** TODO: Start to look into audio selections (this will happen next week)
+** TODO: Make sure to update on GitHub of progress
+** TODO: Continue to catch up with Ibti and Marwa if necessary with SEO
+** TODO: Make sure to stay in correspondence with development with progress so we all can continue to add onto the document
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared to present a document or presentation for next Monday
+** TODO: Upload vlog 28-30

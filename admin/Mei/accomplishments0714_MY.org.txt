@@ -1,0 +1,23 @@
+#+TITLE: Day-to-Day Accomplishments
+#+AUTHOR: Mei Yolles
+#+INCLUDE: ".../print/doctype-memo.org"
+{{{subtitle(Daily Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+* Tuesday 07/14/2020
+* Accomplished:*
+** DONE: Met with Joe for our 1v1 meetings
+** DONE: Read deliverables for this week 
+** DONE: Research in Progress -> financial analysis of Black Swan during market crashes (lots of stats- took a lot of time to comprehend -> too many equations to consider)
+** DONE: Kept in touch with team for progress update 
+** DONE: Discussed about future meet dates 
+** DONE: Look into phychophysics of Black Swan -> challenging text with again stats that may not be necessary 
+
+*To-DO*
+** TODO: Continue supporting development team 
+** TODO: Make sure to update on GitHub of progress
+** TODO: Continue to catch up with Ibti and Marwa if necessary with SEO
+** TODO: Make sure to stay in correspondence with development with progress so we all can continue to add onto the document
+** TODO: Be up to date with team on progress and continue to hold informal meetings
+** TODO: Be prepared to present a document for next Monday
+** TODO: Upload vlog 28-29
