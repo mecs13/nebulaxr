@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Source\\FirstPersonArchery\\FirstPersonArchery.Build.cs",
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Plugins\\VlcMedia-master\\Source\\VlcMedia\\VlcMedia.Build.cs",
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Plugins\\VlcMedia-master\\Source\\VlcMediaEditor\\VlcMediaEditor.Build.cs",
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Plugins\\VlcMedia-master\\Source\\VlcMediaFactory\\VlcMediaFactory.Build.cs",
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Source\\FirstPersonArchery.Target.cs",
+		"C:\\Users\\yuhao\\Documents\\Unreal Projects\\NYECPP\\Source\\FirstPersonArcheryEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

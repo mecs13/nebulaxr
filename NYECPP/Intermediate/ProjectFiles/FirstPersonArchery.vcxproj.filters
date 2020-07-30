@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstPersonArchery.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B72B06C3-80A6-417D-8559-98C892A8AE23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonArchery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstPersonArcheryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3DC78EEB-4CC7-40F4-8B4D-2A272A6EF0BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstPersonArchery">
+      <UniqueIdentifier>{3713F2C8-E4C1-4E86-8D83-EAC425CC1EE7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.Build.cs">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.cpp">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.h">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonArchery\MyGameModeBase.cpp">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonArchery\MyGameModeBase.h">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

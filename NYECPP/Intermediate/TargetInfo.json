@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstPersonArchery",
+			"Path": "C:\\Users\\yuhao\\Documents\\Unreal Projects\\FirstPersonArchery\\Source\\FirstPersonArchery.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstPersonArcheryEditor",
+			"Path": "C:\\Users\\yuhao\\Documents\\Unreal Projects\\FirstPersonArchery\\Source\\FirstPersonArcheryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

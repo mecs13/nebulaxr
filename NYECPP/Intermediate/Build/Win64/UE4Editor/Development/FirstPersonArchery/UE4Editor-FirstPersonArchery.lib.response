@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FirstPersonArchery.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\FirstPersonArcheryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\FirstPersonArchery.cpp.obj"
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\MyGameModeBase.cpp.obj"
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\FirstPersonArchery.init.gen.cpp.obj"
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\MyGameModeBase.gen.cpp.obj"
+"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\Default.rc2.res"
+/OUT:"C:\Users\yuhao\Documents\Unreal Projects\FirstPersonArchery\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonArchery\UE4Editor-FirstPersonArchery.lib"
+/INCLUDE:IMPLEMENT_MODULE_FirstPersonArchery
