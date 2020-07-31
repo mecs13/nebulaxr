@@ -1,6 +1,20 @@
 +#Title: Search Engine Optimization via User Experience optimization by speeding up loading times through caches and code minification.
+
 +#Author:  Jrm
+
 #+: Subtitle {siteground - Wordpress)
+
 #+ Date: 31 July 2020
 
+** SG Optimization Pluggin
+-- supercaching settings -> Exclusde retailing pages
+-- optmize images -> toggle new images, then start optimation
+
+** Sitegrounds Websites
+-- Site tools -> speed -> cloudflare -> domain activate free
+
+** Siteground -> speed
+- caching static and memcache
+- Lazy load -- img opt toggle and exclude as needed
+- Frontend opt test 1 by 1
 
