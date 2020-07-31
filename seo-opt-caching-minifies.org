@@ -1,0 +1,6 @@
++#Title: Search Engine Optimization via User Experience optimization by speeding up loading times through caches and code minification.
++#Author:  Jrm
+#+: Subtitle {siteground - Wordpress)
+#+ Date: 31 July 2020
+
+
