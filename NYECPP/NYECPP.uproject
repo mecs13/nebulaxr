@@ -19,10 +19,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "OculusInput",
 			"Enabled": false
 		},
@@ -36,7 +32,12 @@
 		},
 		{
 			"Name": "OculusVR",
-			"Enabled": false
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
 		}
 	]
 }
