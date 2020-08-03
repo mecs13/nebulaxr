@@ -1,0 +1,14 @@
+* Work Session Fri 7.31
+** Yuni & Yuhao
+
+*Discussed*
+- Began converting level to be playable in VR
+- Organized and mapped out the blueprints needed for conversion
+- Duplicated map for VR
+- Yuni began upload of new level to Github
+
+*Next Steps*
+- Yuhao to experiment with Git LFS to get files up
+- Yuhao to change rendering on world to better fit VR
+- Yuni to finalize changes to world for upload
+- Yuni to continue work on art deliverables

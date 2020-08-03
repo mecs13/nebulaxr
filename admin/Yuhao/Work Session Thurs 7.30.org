@@ -1,0 +1,14 @@
+* Work Session Thurs 7.30
+** Yuni & Yuhao
+
+*Discussed*
+- Began organizing what needed to be converted to VR
+- Began investigating necessary plugins  for the conversion process
+- Fixed crash on compiling project
+- Yuni continued work on graphics and deliverables
+
+*Next Steps*
+- Yuhao to begin reintroducing VR into world
+- Yuhao to map out all first person character blueprints for replacement
+- Yuni to upload new level to Github
+- Yuni to continue work on art deliverables

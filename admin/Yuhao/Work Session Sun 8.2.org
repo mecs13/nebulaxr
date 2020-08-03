@@ -1,0 +1,14 @@
+* Work Session Sun 8.2
+** Yuni & Yuhao
+
+*Discussed*
+- Readjusted and parented various HUDs to the VR camera
+- Adjusted various logic to work in VR
+- Added VR inputs to player
+- Yuni made final adjustments to the level in response to player collision
+
+*Next Steps*
+- Yuhao to look for workaround regarding flickering issue
+- Yuhao to optimized files to increase frames
+- Yuhao to reduce project file size
+- Yuni to continue work on art deliverables

@@ -1,0 +1,14 @@
+* Work Session Sat 8.1
+** Yuni & Yuhao
+
+*Discussed*
+- Added tracking records for UE4 specific files via LFS
+- Reintroduced VR bow gameplay into world
+- Discovered cause of lighting bug in renderer
+- Yuni completed Github LFS upload
+
+*Next Steps*
+- Yuhao to experiment with forward renderer to eliminate flickering issue
+- Yuhao to experiment with ways to integrate the menu HUDs
+- Yuni to make final touch ups to the world
+- Yuni to continue work on art deliverables
