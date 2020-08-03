@@ -1,0 +1,18 @@
+#+TITLE: Work Session 22
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Sunday August 2nd*
+
+* Spoke briefly with Yuni about point system
+* Reminded team to upload deliverables in advance, will be following up in the morning
+
+*Next Steps*
+* Continue research and content work
+* Upload final research draft
+* Attend meeting tomorrow morning
+* Remind team to upload + quantify success
+* Review steps needed for final deliverables
+* Continue working on typing up content for site 

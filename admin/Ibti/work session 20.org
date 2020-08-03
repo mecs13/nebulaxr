@@ -1,0 +1,17 @@
+#+TITLE: Work Session 20
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Wednesday July 29th*
+
+* Met with Joe
+* Discussed research and content formatting
+* Clarified point totals for final week and deliverables
+* Shared meeting notes with team 
+
+*Next Steps*
+* Continue research and content work
+* Meet with team/answer any point questions as needed
+* Remind team to upload in prep for Monday

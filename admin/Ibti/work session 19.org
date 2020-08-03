@@ -1,0 +1,16 @@
+#+TITLE: Work Session 19
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Monday July 27th*
+
+* Checked in with team to gauge preparedness for team meet on Tuesday
+* Confirmed demo progress
+* Reminded team about deliverables and admin for point system
+
+*Next Steps*
+* Catch up on work from past week (got sick)
+* Attend meeting if possible, otherwise have team debrief
+* Have 1o1 with Joe and clarify point system for final week and delivs 

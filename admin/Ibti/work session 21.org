@@ -1,0 +1,14 @@
+#+TITLE: Work Session 21
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Accomplishments)}}}
+{{{theme-color(4b7985)}}}
+
+*Saturday August 1st*
+
+* Asked Yuhao about progress with transition to VR 
+
+*Next Steps*
+* Continue research and content work
+* Meet with team if possible
+* Remind team to upload in prep for Monday
