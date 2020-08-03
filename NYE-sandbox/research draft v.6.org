@@ -1,0 +1,71 @@
+#+TITLE: Research Drafts v.6
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Preliminary Research - Final Draft Update
+
+*Methodological Limitations of the Hedonic Consumption Paradigm and a Possible Alternative: a Subjectivist Approach*
+
+** Hudson & Murray argue against objectivity in hedonic consumption paradigm research, feeling subjectivity is more appropriate given the variance in user experience
+
+** hedonic consumption paradigm concerns "aspects of consumption that relate to...multisensory images, fantasy, and emotive aspects of product usage (Hirschman and Holbrook 1982.)"
+*** multisensory in this context includes “tastes, sounds, scents, tactile impressions and visual images,” three of which are under our direct control and can be make for a multisensory, engaging, and curated experience in-engine
+
+** “...empirical research suggest[s] that sensory-emotive stimulation seeking and cognitive information seeking are two independent dimensions (Hirschman and Holbrook 1982) and that emotional desires may override utilitarian motives at times (Ahtola 1984, Hirschman and Holbrook 1982). This means that traditional perspectives in consumer behavior do not take into account the full scope of buying behavior and product usage. If consumers imbue a product with subjective meaning and if emotional desires influence utilitarian motives, then traditional consumer research ignores important aspects of the consumption process. Hirschman and Holbrook (1982) argue that the hedonic viewpoint represents an important extension of traditional consumer research and offers a complementary perspective for conceptualizing, many otherwise neglected consumption phenomena."
+*** similar to past research on hedonic consumption, products are shown to have an appeal beyond their utility. i prefer how this is described in this text vs past articles, because hedonic consumption is presented as a natural extension to traditional consumerism. pleasure and use value aren't at odds, pleasure contributes directly to the utility. thus, both should be taken into account, but there are clear advantages to identifying the mass appeal of your product (in our case stimulation/pleasure).
+
+** objectivity in hedonic consumption market research as judged via a sensation scale or by monitoring one’s physiological responses
+*** the issue with this approach - though it is preferred by researchers for its supposed certainty - is that it’s considered “static in nature and therefore, poorly suited to trace…’dynamic changes in [a] consumer’s general degree of hedonic effort and capacity,’ that there is not the capacity to measure emotional arousal and multisensory imagery, that the product varies across time thereby decreasing the reliability” 
+*** should also be noted that most of these studies involve self-reporting which is less than ideal (though this can often be resolved by implementing some sort of “curve,” or evaluating the reports in light of existing bias, and that culturally there are different ways of expressing pleasure/satisfaction - which a project with this sort of scope, i think it’s best to assume a universal appeal but research re: success among specific audiences will require more nuance
+
+** the subjectivist approach is focused on aesthetics, individual experience, and products as “subjective symbols” that can be experienced holistically versus in quantifiable parts
+*** the article also details some potential subjective approaches for consumer research which would be useful if you want to try collecting data beyond the site, they recommend ethnography and interpretation which may not be directly relevant, i’d recommend considering the critiques and opting for an objectivist approach in light of them
+
+*In Praise of Pleasure: Hedonic Consumption Fosters Prosocial Behavior*
+
+** similar to past studies on addiction and dependence as brought about by virtuality, hedonic products are considered maladaptive (which is to say they have a negative affect)
+*** this study is a rebuttal of sorts
+*** “because [these products] are highly immersive, hedonics prompt a higher focus on the consumption experience and render consumers more impulsive and less inhibited. On these premise, we argue that freely engaging in hedonic consumption induces behavioral disinhibition”
+
+** behavioral disinhibition means because users are distracted, they are more suggestible + because "disinhibition is a direct precursor of prosociality” users are able to let intuition take over and demonstrate more social and cooperative behavior, which can translate to real-life as demonstrated by past studies related to behavior and virtuality
+*** "recent studies propose that our innate impulses are geared towards cooperation and that such predispositions are often overshadowed by deliberation (Rand 2016).” 
+*** the thoughtlessness of the action is what allows for impulse to shine through, indulgence is advantageous in this case
+
+** free hedonic consumption - meaning indulgence that isn’t coerced - is positively correlated with helping behavior + spending (specifically for donations)
+
+* Haptics/Object Handling as related to Consumer Behavior and Advertising 
+
+*IGA Haptics*
+
+** haptics concerns touch and all the ways in which it is experienced by the body (article cites skins, muscles, tendons, and joints)
+
+** tactile stimulation a relatively recent area of research, market has focused on visual and auditory stimulation thus far - remains important, but touch, especially in our VR model, should be a priority
+
+** the article "aims to investigate how machine haptics-based consumer–product interactions affect the outcomes of in-game advertising (IGA) by testing the effects of haptic stimuli on consumers’ brand trust, perceived brand excitement, and product placement awareness, as well as the moderating role of consumers’ haptic orientations” using the example of a vehicle as advertised on a computer game
+
+** Need for touch (NFT) refers to ‘‘a preference for the extraction and utilization of information obtained through the haptic system,’’ can be thought of in two dimensions
+*** autotelic NFT: "hedonic aspect of NFT...involves the sensory aspects of product touch without a purchase goal necessarily salient (Peck & Wiggins, 2006). Autotelic touch is characterized by fun, arousal, sensory stimulation, enjoyment, and hedonic-oriented variety seeking interactions.” they use the example of a stuffed animal
+*** instrumental NFT: "the aspects of pre-purchase touch reflecting outcome-directed haptic exploration with a salient purchase goal.” examples of assessing practicality, portability, functionality, durability, etc. these haptic considerations are “rational [and] goal-directed”
+
+** though this study is the former, joe has expressed interest in the latter - haptics as directly related to purchasing behavior, which is far less researched, should also be noted the medium of VR itself is limited in regard to haptics as "computer/video games as entertainment media appeal to users’ intrinsic motivation due to their potential to fulfill hedonic needs, as opposed to their ability to provide diagnostic product information."
+
+** brand trust concerns "'willingness of the average consumer to rely on the ability of the brand to perform its stated function’ (Chaudhuri & Holbrook, 2001, p. 82). Consumer researchers (Doney & Cannon, 1997; Moorman, Zaltman, & Deshpande, 1992) stress that the notion of brand trust is only relevant in situations of uncertainty.” 
+*** especially important when introducing products to new customers
+
+** "haptic elements attached to a persuasive appeal increases persuasion, particularly for consumers who have a clear preference for touch.” uses example of force feedback which we can implement in our VR launch if user is using hand-held controls, but again this applies generally as is shown by research on autotelic NFT in a traditional retail environment with physical products
+*** this will also vary depending on the consumers themselves and their autotelic NFT levels, otherwise it is positively associated; same goes for perceived brand excitement and brand awareness
+
+** on the commercial viability of our model: "According to a report from DFC Intelligence (2011), the global IGA market, which generated $3.1 billion globally in 2010, continues to develop at an exponential rate and will grow to $7.2 billion by 2016 in worldwide IGA expenditures. Video and computer games currently available on the market, especially sports games and racing games, sell slots to advertisers in a similar manner to product placement in movies (Nelson, Keum, & Yaros, 2004).”
+
+** for brand awareness, jin and phua note cognitive load, modality, and NFT
+*** "Yoon, Choi, and Song (2011) differentiated between well-integrated product placement and intrusively integrated product placement, claiming, 'when viewers process an intrusively integrated placement under cognitive load (placement that would be disruptive if they processed it with full cognitive capacity), they will experience a positive, direct heuristic effect on attitude toward the placed brand' (p. 65).”
+*** to put it simply, consumers are already stimulated and their cognition is essentially overloaded with information in-game as is, so product placement has its advantages as players already have a higher awareness via their senses while their inhibitions are lowered (similar to past findings on hedonic consumerism + behavior)
+*** "Results indicate that consumers’ autotelic NFT significantly influences their relationships with brands and products when playing games using haptic devices,”
+
+** finally, it should be noted that despite these findings "haptic interaction is a highly personal and individual experience which makes it theoretically and technically challenging to create universally pleasant haptic stimuli”
+
+*Next Steps*
+* finish consolidating research and drafting abstracts for site 
+** lint and upload under git with pagebreaks for convenience 
