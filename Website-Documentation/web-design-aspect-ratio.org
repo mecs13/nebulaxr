@@ -23,7 +23,7 @@ Web Assets:
 ** Image3 
 - [[../image1.png]]
 ** Image4 
-- [[../image1.png]]
+- [[../image1.png
 ** SLiders 
 – sliders 1600x500
 ** Bottom background 
