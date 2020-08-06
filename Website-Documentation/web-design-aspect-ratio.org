@@ -1,5 +1,12 @@
-+# Title: Web Assets 
-+# Author: Joseph Mecca
+#+TITLE: Web Art Specification
+#+AUTHOR: Nova XR Media
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(Nova Design)}}}
+{{{theme-color(4b7985)}}}
+
+
+We publish through divi themes, on wordpress.  CSS and PHP editing documentation, and brand story as background reading.
+
 
 Web Assets:   
 ** Header (Sky ) 

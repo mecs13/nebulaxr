@@ -1,0 +1,76 @@
+#+Title: Background 
+#+Author: Nova Media
+#+INCLUDE: "../print/doctype-memo.org"
+{{{subtitle(Client Name)}}}
+{{{theme-color(874c6d)}}}
+
+* General
+
+| Client                 |                                         |
+| Contact                |                                         |
+| Objective              |                                         |
+| Budget                 |                                         |
+| Kick off time/date     | /within 24 hours of assignments/        |
+| Pre-prop deliver item  | /send something around 60th hr/         |
+| Proposal Due time/date | /Less than 120 hours since assignments/ |
+| Prop build team        | /who attended kick off and built prop/  |
+| Scope of Work          |                                         |
+|                        |                                         |
+
+* Background Information
+
+** Scope of work
+
+/How big of project is this?/
+
+Define if it is a fragment of an XR build, like just some design needs - if it is a complete production of an XR experience, if it includes brand development and marketing, or if it is an entire business/department development.  
+
+** Client + Decision Makers
+
+*Contacts:* Name, position, responsibility, mentality
+*Supervisors/Associates/Partners:*  Name, position, responsibility, mentality  
+
+/include linkedin, fb and or other social, along with  publications when available./ 
+
+How are decisions made?  Why are they made that way?
+
+** Biggest problem 
+
+What is the biggest problem the client has?
+Why is it a problem?
+What has worked in he past and what has not worked in the past?
+
+** Objective 
+
+What does the client want to achieve?  Why?  Why again?  Why five times.  THATS our objective.  
+
+** Budget 
+
+How much can we get them signed up for immediately?
+
+What is their projects total budget?
+
+
+** Timing 
+
+When do we want to be live?  Why?
+
+
+** Key Performance Indicators 
+
+How do we know if the project was a success or failure?
+
+/Quantitative, so that we can point out, see you asked for 5 blah blahs and we delivered 7!/
+
+** Audience
+
+Describe them like your neighbor. 
+Everyone is not a good answer - nail it down to the optimal buyer.
+
+** Competitive advantage
+
+WHat makes them better than their competition --- AKA what features of their business do they want to highlight?
+
+* Notes
+
+

@@ -1,0 +1,16 @@
+#+begin_export html
+<div class="double-gantt-page-left top">
+  <img src="./img/gantt1.png" alt="gantt-right" />
+  <img src="./img/gantt2.png" alt="gantt-right" />
+</div>
+
+<div class="double-gantt-page-right top">
+  <img src="./img/gantt1.png" alt="gantt-right" />
+  <img src="./img/gantt2.png" alt="gantt-right" />
+</div>
+
+#+end_export
+
+
+
+

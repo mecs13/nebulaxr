@@ -1,0 +1,22 @@
+@media print {
+    .client-logo {
+        display: none!important;
+    }
+    /** GANT SIZING AND POSITIONING */
+    .gantt-page-right img, .gantt-page-left img {
+        position: absolute;
+        top: 55%;
+        display: block;
+    }
+
+    .gantt-page-right img {
+        left: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(-50%, -50%)scale(2.2);
+    }
+
+    .gantt-page-left img {
+        right: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(50%, -50%)scale(2.2);
+    }
+
+}

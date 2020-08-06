@@ -1,0 +1,136 @@
+#+TITLE: Proposal Build
+#+AUTHOR: Nova Media
+#+INCLUDE: "../print/doctype-proposal.org"
+{{{subtitle(Standard Operational Procedure)}}}
+{{{theme-color(874c6d)}}}
+
+
+* Proposal Building
+
+** Requirements
+- Proposal to be *timely* - delivered digitally & hard copy within 24-120 hrs of assignment 
+
+- Proposal must be *quality*, detailed, succinct, spell/grammar checked - to their specific request. 
+
+** Assignment -- Day 1
+- A "qualified" buyer demonstrates interest and provides the proper information necesarry for us to pursue a proposal build. 
+
+- Open NOVAPROPOSALBUILDING folder (copy template + numbering accordingly).  
+
+- Complete "background document" and other available info
+
+- Share folder over slack "sales" channel, notes documntation, added to calendar (<24h of assignment), invite all prospective participants 
+
+- team reads documentation, background, notes initial ideas.
+
+
+
+/This document details the type of content and the visuals needed for all the possible sections of the proposal/
+/all on an as appropriate base/
+ 
+
+{{{pagebreak}}}
+
+
+** Kickoff - Day 2
+
+| Task                                               | Dir | C |
+|----------------------------------------------------+-----+---|
+| Intro to team (3-5 minutes) /                      |     |   |
+| Team asks questions (3-5 minutes)                  |     |   |
+| Discuss 'til min 30 (objective>everything)         |     |   |
+| Determine Direction                                |     |   |
+
+
+**Determinations**
+| Assignment           | Determination |
+|----------------------+---------------|
+| Sales Director:      |               |
+| Proposal Director:   |               |
+| Production Director: |               |
+| Art Director:        |               |
+| Budget:              |               |
+| Due Date:            |               |
+| Client:              |               |
+| Objective:           |               |
+| Scope:               |               |
+
+
+| Prop Director assigns /Directors/                  |     |   |
+| Individually outline sections for 10 minutes       |     |   |
+| 1Builders present and ask questions                |     |   |
+| CONFIRM: How are we satisfying the objective & KPI |     |   |
+| Verify assignments/ due dates                      |     |   |
+| Content and assignments committed                  |     |   |
+| SD sends Strat over slack & git repo.              |     |   |
+
+{{{pagebreak}}}
+
+** Proposal Document
+
+Everyone breaks away to work on their on proposal assignments.  Any Qs or doubts, reach out to Prop-Director.
+
+*** Day 3 Deliverables  
+| Task                          | Dir | C |
+|-------------------------------+-----+---|
+| Update client on progress     | SD  |   |
+| Client Logo                   | SD  |   |
+| Confer on illustration draft  | SD  |   |
+| refine /title ones/           | SD  |   |
+| Pitch Run of Show Drafted     | SD  |   |
+| refine /title ones/           | PD  |   |
+| Estimate distribution $/x/Ds  | PD  |   |
+| Prospective Dist partners     | PD  |   |
+| Contract drafted              | PD  |   |
+| Tracking/KPIs refined         | PD  |   |
+| Draft illustrations           | AD  |   |
+| Estimate design $/x/Ds        | AD  |   |
+| Prospective hires             | AD  |   |
+| Sketch tec architecture       | TD  |   |
+| Report on prospective studios | TD  |   |
+| Estimate tech $/x/Ds          | TD  |   |
+| Confirm Ev of Dev (TD)        | TD  |   |
+| legal agreement written       | SD  |   |
+| Prints distributed            | PD  |   |
+
+*** Day 4 Deliverables
+
+| Task                      | Dir | C |
+|---------------------------+-----+---|
+| Confirm $/X/Ds            | AD  |   |
+| adjusts logo, confirma PL | AD  |   |
+| Confirm $/X/Ds            | PD  |   |
+| Confirm $/X/Ds            | TD  |   |
+| Practice pitch prez       | SD  |   |
+| Poofs/edits all documents | SD  |   |
+| Poofs/edits all documents | AD  |   |
+| Poofs/edits all documents | TD  |   |
+| Poofs/edits all documents | PD  |   |
+| Final Designs due         | AD  |   |
+| Pitch Run of Show         | SD  |   |
+| Gant info inputted        | TD  |   |
+| Gant info inputted        | AD  |   |
+| Gant info inputted        | PD  |   |
+|---------------------------+-----+---|
+| Final content edits made  | PD  |   |
+|---------------------------+-----+---|
+| Formatting confirmed      | PD  |   |
+| Pitches team              | SD  |   |
+
+{{{pagebreak}}}
+*** Day 5 Deliverables
+
+| Task                  | Dir | C |
+|-----------------------+-----+---|
+| Final proof read      | PD  |   |
+| Final proof read      | SD  |   |
+| Final proof read      | AD  |   |
+| Final proof read      | TD  |   |
+|-----------------------+-----+---|
+| Printed               | TD  |   |
+| Upload to website     | TD  |   |
+| Share link over slack | TD  |   |
+|-----------------------+-----+---|
+| Physically delivered  | SD  |   |
+| Pitch / presentation  | SD  |   |
+| Formalized Report SD  | SD  |   |

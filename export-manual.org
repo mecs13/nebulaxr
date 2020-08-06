@@ -1,0 +1,513 @@
+#+TITLE: 10 August 2018
+#+AUTHOR: Nova Media
+#+INCLUDE: "../print/doctype-proposal.org"
+{{{subtitle(Export manual)}}}
+{{{date()}}}
+{{{theme-color(5b254e)}}}
+{{{end-footer(thomas@novamedia.nyc)}}}
+
+* Abstract
+  
+This manual describes how to use the Nova document auto export. We start with a checklist of exportable documents should adhere to. We follow with an overview of various files involved in the project before introducing the options available to parameterize the output's format.
+
+* Introduction
+  
+Nova Media's workflow consists of only writing documents in a semantic way, and letter en exporter deal with the formatting of that semantic.
+
+The markup language we use in order to attach semantic to various parts of our text is called *Org Mode*. Thus, when writing a document to be formatted, members should not be concerned with the looks until the exporting process begins.
+
+This manual has been written to make sure the exporting process happens smoothly. There is nothing complex described in this manual, however there happens to be quite a few options we parameterize the exporter with. The document's header color, or its format (2-pager, proposal, memo) for instance, are communicated to the exporter with a special syntax. 
+
+In this manual, we give an exhaustive overview of the exporter's functionalities, how to use them, and how to parameterize them.
+
+* Notes to readers
+1. All file names are case sensitive, space sensitive, etc. Copy them all as such, they are hard coded in my export code. For instance, if the required picture is ~header-bg.jpg~ and you add a file called ~header-bg.png~, it will not work.
+2. When starting a new proposal, if you copy paste the Template directory and go from the ~proposaltemplate.org~ file, everything will be setup until steps 4 and 5. Even without steps 4 and 5, it should compile properly.
+3. For now, you can only export from the NovaTodos computer at the office.
+
+* Exporting nova documents
+  
+1. Open emacs and go to the proposal repo
+2. Sync the NOVAPROPOSALBUILDING repo (push and pull)
+3. Make sure you .org file has the required headers, gantt, and footer extra code:
+   1. Header, replace ~[name]~ on the ~#+INCLUDE:~ line by ~proposal~, ~2-pager~, or ~memo~:
+     #+begin_src org
+     #+TITLE: Proposal Template
+     #+AUTHOR: Nova Media
+     #+INCLUDE: "../print/doctype-[name].org"
+     {{{subtitle(Template)}}}
+     {{{date(DATE)}}}
+     {{{theme-color(#0069aa)}}}
+     #+end_src 
+   2. Gantt:
+     #+begin_src org
+     #+INCLUDE: "../print/gantt.org"
+     #+end_src 
+   3. Footer:
+     #+begin_src org
+     
+
+     #+BIBLIOGRAPHY: ./bibliography/prop.bib plain option:-nobibsource
+
+     #+INCLUDE: "../print/extro-pages.org"
+     #+end_src 
+4. Make sure the proposal folder contains an empty directory called "exports" ; this is where the documents will be exported too.
+5. We need to have the following files and folders in the proposal repo:
+   1. ~./img/header-bg.jpg~
+   2. ~./img/client-logo.png~
+   3. ~./img/gantt.png~
+6. A bibliography directory containing:
+   1. ~./bibliography/prop.bib~
+7. In normal mode, press: ~SPC m e h~
+8. This exports your ~[file].org~ file to ~./exports/[file].pdf~ where ~[file].org~ is the name of the file you want to export.
+  
+   
+* Repository structure
+  
+Bellow is an overview of the repository structure. We will go into them individually.
+
+     #+begin_src
+NOVAPROPOSALBUILDING/
+├── doc/
+├── headers/
+│   ├── [hex-color-1].jpg
+│   ├── [hex-color-2].jpg
+│   ...
+│   └── [hex-color-n].jpg
+├── K0XX - proposal-name/
+│   ├── bibliography/
+│   │   └── prop.bib
+│   ├── exports/
+│   │   └── prop.pdf
+│   ├── img/
+│   │   ├── [double-pager-n].png
+│   │   ├── [double-pager-sq-n].png
+│   │   ├── gantt.png
+│   │   └── client-logo.png
+│   └── styles/
+│       └── style-overrides.css
+├── Leads/
+│   ├── [doc-name-1].org
+│   ├── [doc-name-2].org
+│   ...
+│   ├── [doc-name-n].org
+│   ├── exports/
+│   │   ├── [doc-name-1].pdf
+│   │   ...
+│   │   └── [doc-name-n].pdf
+│   └── img/
+├── print/
+├── proposal-assets/
+│   ├── [asset-name].[ext]
+│   ...
+├── research/
+├── scripts/
+├── tech-images/
+└── Template/
+     #+end_src
+     
+** doc/
+   
+This folder contains the code relative to this folder. In particular, it contains the source for the ~export-manual~ document.
+
+** headers/
+   
+This folder contains all the proposal header image files. It allows to easily switch out the header color when exporting a document.
+
+The file name convention is as follows: it is a ~.jpg~ file and is named after the color in hexadecimal that goes with the header color. Jacques takes care of this, and we'll see later in this document how to use this naming convention to easily change our documents' themes.
+
+** K0XX - proposal-name/
+   
+Folders following this naming convention, replacing ~XX~ by the proposal ID, are what Nova members will be working in most of the time.
+
+The contain all the files and folders necessary to export the org files properly.
+
+We will go through each of the required folders in each proposal for a proper export.
+   
+*** bibliography/
+    
+Contains the ~.bib~ files that list our bibliography. This file follows the *Bibtex* file format which in its simplest form looks like:
+
+#+BEGIN_src bibtex
+  @article{entry-id,
+    author = {Author Name},
+    title = {Resource title},
+    url = {https://www.url.ext},
+  },
+
+  @article{nova-website,
+    author = {Nova Media LLC},
+    title = {Resource title},
+    url = {https://www.novamedia.nyc},
+  },
+#+END_SRC
+
+Other entry options allows to specify books, editors, publishing dates, etc. The reader is encouraged to look up /bibtex format/ on google.
+
+The orgmode syntax allowing to refer to the above Bibtex entry is:
+
+#+BEGIN_SRC org
+Nova Media LLC is a New York City based XR firm {{{ref(nova-website)}}}
+#+END_SRC
+
+This will insert the reference number instead of ~{{{ref(nova-website)}}}~ with the reference number in between: ~[1]~. The reference number will be clickable in the PDF and bring the reader to the document's bibliography.
+
+*** exports/
+    
+This folder contains all of the .org files that were exported. The pdfs are named after the exported org files.
+
+*** img/
+    
+This folder contains all the images included in the proposal. To include image files stored in this folder, refer to them with this syntax in your org files:
+
+#+BEGIN_SRC orgmode
+[[./img/img-name.ext]]
+#+END_SRC
+
+*** styles/
+    
+This folder contains files allowing to override the pdf's final output. It is used to fine tune documents when flexibility is needed.
+    
+** Leads
+   
+This folder contains org files for various leads Nova Media has. On top of these, this folder contains 2 necessary folders we'll go into.
+
+*** exports/
+    
+All the exported pdf for leads are stored in this folder and are named after the exported org file.
+
+*** img/
+    
+This folder contains all the images we might want to include in our leads org files.
+    
+** print/
+   
+This folder is /vital/ for the proposal auto formatter. It contains the source code for the various /macros/ we will use to format our document.
+
+*Appendix A* describes the files included in this folder.
+
+** proposal-assets/
+   
+Contains images that are used in multiple proposals. Rather than copying them into each proposal's ~img/~ folder, they can be copied into this folder.
+
+To access images stored in this folder from /exportable/ org files in proposal folders, use the following syntax:
+
+#+BEGIN_SRC orgmode
+[[../proposal-assets/img-name.ext]]
+#+END_SRC
+
+** TB [#B] research/ :CTO:
+   SCHEDULED: <2018-09-27 Thu>
+
+** scripts/
+   
+This folder contains various scripts that can be re-used in our proposals and financial strategies. It currently contains a single computational model used to quantify social media advertising viewership amongst other things.
+   
+** tech-images/
+   
+This folder contains all template tech architectures for easy reuse in other documents.
+   
+** Template/
+   
+This folder contains all the /boilerplate/ necessary to create auto formatted documents. When created a document for a new client, you should copy paste this folder in ~NOVAPROPOSALBUILDING~ and rename it following the /proposal naming convention/.
+
+In particular, the template folder contains three template files exportable documents:
+- ~doctype-proposal.org~
+- ~doctype-2-pager.org~
+- ~doctype-memo.org~
+
+These files are configured to insert the proper pages before and after our document content based on the type of file it is: a proposal, a 2-pager, or a memo. We go into the /Document Type/ subsection of the /Document Options/ section.
+
+{{{pagebreak}}}
+* Macros
+  
+In order to customize our exports, we'll be using *macros*. Without going into details, they allows to insert code before the export in order have proper formatting. Some of them are crucial to the output, and some simply customize a particular item. For instance, without the ~theme-color~ macro, our documents lose their Nova headers.
+
+This documents details many of the macros commonly used to make documents look good. It is therefore important to have a solid understanding of them. Thankfully, they are very basic and all share the same syntax.
+
+In their simplest form, macros don't take any parameter and follow this syntax:
+  
+     #+begin_src org
+     {{{macro-name}}}
+     #+end_src 
+     
+Where ~macro-name~ is of course to be substituted by the name of the macro we want to use. An example of such a macro is the ~pagebreak~ macro, that we call by writting in our document ~{{{pagebreak}}}~.
+
+Thankfully, we can also parameter our macros so they customize our documents. We pass the argument as follows:
+     
+     #+begin_src org
+     {{{macro-name(arg1)}}}
+     #+end_src 
+     
+An example of such macro is the ~theme-color~ macro that takes the color of our proposal as a parameter.
+
+We sometimes need to pass more than 1 argument to our macros:
+     
+     #+begin_src org
+     {{{macro-name(arg1, arg2, ...)}}}
+     #+end_src 
+
+{{{pagebreak}}}
+* Document options
+  
+** First page
+   
+All documents should start with these lines for a proper export:
+
+     #+begin_src org
+     #+TITLE: ACTUALLY SUBTITLE
+     {{{subtitle(ACTUALLY TITLE)}}}
+     {{{date(DATE)}}}
+     {{{theme-color(HEADER-IMG-NAME)}}}
+     {{{end-footer(CONTACT-INFO)}}}
+     #+end_src 
+     
+These macros allow for customizing our document's front and back cover texts.
+  
+** Document type
+   
+Document types are structural templates for our documents. Depending an what the document's goal is (being published, being submitted to a client, convey more or less information) a structure is more suited than another.
+
+We define three document types: 
+- proposals, 
+- 2-pages, 
+- and memos.
+
+*** Proposal
+    
+Insert this line at the top of your document.
+    
+     #+begin_src org
+     #+INCLUDE: "../print/doctype-proposal.org"
+     #+end_src 
+     
+
+{{{pagebreak}}}
+     
+This will make it a proposal document type, which includes:
+1) a front page with a title and subtitle
+2) a page with the client logo
+3) a page with our logo
+4) a table of content
+5) the rest of the proposal
+6) extro pages *(see bellow)*
+
+*N.B.* Make sure that the final document's total number of page is divisible by 4, otherwise it will not be printable in booklet format. Insert *whitepage* (see further in the document) to include white page between steps *5* and *6* above.
+     
+**** Client logo
+   
+The client logo should be named ~./img/client-logo.png~.
+
+**** Extro pages
+     
+Include the following line as the last line of your document. 
+     
+     #+begin_src org
+     #+INCLUDE: "../print/extro-pages.org"
+     #+end_src 
+
+This will include:
+1) a contacts info page
+2) a page with our logo
+3) a document back cover
+
+*** 2-pager
+    
+A 2-pager consist of a *single title 1* document annotated in such a way that it looks for a background image and a square image to include. Besides, it injects front and back covers to the document.
+
+The 2 last lines of the example bellow are explained in the sections called "Special pages > 2 pager".
+    
+     #+begin_src org
+     #+INCLUDE: "../print/doctype-2-pager.org"
+
+     * TITLE 1
+     {{{double-pager(img-root-name)}}}
+     #+end_src 
+     
+**** Back cover
+     
+A ~doctype-2-pager~ document must end with the following lines:
+
+     #+begin_src org
+     {{{crappy-hack}}}
+     #+INCLUDE: "../print/4th-cover.org"
+     #+end_src 
+     
+The ~crappy-hack~ macro is necessary to make the back cover behave properly for some reason.
+
+This will insert a single page back cover.
+
+*** Memo
+    
+Memos are any other documents that need to be formatted. They allow for both short and long documents that are less formal than proposals or 2-pagers. Insert this *doctype* at the top of your document to make it a memo:
+    
+     #+begin_src org
+     #+INCLUDE: "../print/doctype-memo.org"
+     #+end_src 
+     
+This will include a document front cover before introducing the proposal content starting on page 2.
+     
+**** Back cover (optional)
+This inserts a back cover (optional for memos) and sets everything else up for export. Optionally you can insert the following line at the end of your document to insert a back cover:
+
+{{{pagebreak}}}
+
+     #+begin_src org
+     {{{crappy-hack}}}
+     #+INCLUDE: "../print/4th-cover.org"
+     #+end_src 
+    
+
+** Document theme
+   
+The ~theme-color~ macro that takes 1 argument, the name of a file in the ~NOVAPROPOSALBUILDING/headers/~ folder without the extension. *The name should be 6 alphanumeric characters long*.
+   
+     #+begin_src org
+     {{{theme-color(header-file-name-without-extension)}}}
+     #+end_src 
+   
+*** Header background
+    
+| Description  | Dimensions  | File name               |
+|--------------+-------------+-------------------------|
+| Header image | 600px*260px | ~./headers/[color].jpg~ |
+
+**** Line and bullet colors
+
+Automatically setup if you call a header that exists.
+   
+** Special pages
+   
+Some of these pages fit on 2 pages and therefore need to start on an even page number. Use a ~pagebreak~ before including the gantt if it starts on an odd page.
+   
+*** Double pages
+    
+Use the ~double-pager~ macro right after a title 1 to make everything until the next title 1 a double page with a background and a square image.
+
+{{{pagebreak}}}
+     #+begin_src org
+     * TITLE 1
+     {{{double-pager(img-name)}}}
+     #+end_src 
+     
+The convention is that if you call this macro, the exporter will pull the following files (and fail if they do not exist):
+
+| Description      | Dimensions    | File name               |
+|------------------+---------------+-------------------------|
+| Background image | 3000px*3000px | ~./img/img-name.png~    |
+| Square image     | 1200px*1200px | ~./img/img-name-sq.jpg~ |
+
+#+CAPTION: Double pager in a proposal
+[[./img/2-pager.png]]
+
+*** Gantt
+    
+Requires 2 pages and a file called ~./img/gantt.png~.
+
+     #+begin_src org
+     #+INCLUDE: "../print/gantt.org"
+     #+end_src 
+
+
+#+CAPTION: Timeline double page
+[[./img/gantt-screen.png]]
+
+
+
+*** TB [#B] Signature page :CTO:
+    SCHEDULED: <2018-09-27 Thu>
+    
+Ideally some signature macro that generated signature boxes with person's name in header.
+
+
+** Images
+   
+*** Default
+    
+     #+begin_src org
+     #+CAPTION: Figure caption
+     [[./img/image-name.ext]]
+     #+end_src 
+     
+#+CAPTION: Default images
+[[./img/bloomaway-render.jpg]]
+    
+
+{{{pagebreak}}}
+*** Figures
+    
+Allows to center the picture instead of default behavior.
+
+     #+begin_src org
+     {{{figure}}}
+     #+CAPTION: Figure caption
+     [[./img/image-name.ext]]
+     #+end_src 
+     
+{{{figure}}}
+#+CAPTION: ROI
+[[./img/roi.png]]
+     
+
+** Extra options
+*** TOC
+    
+There is a table of content by default on the *doctype-proposal* only which can be removed using
+     #+begin_src org
+     {{{no-toc}}}
+     #+end_src 
+
+For the other doctype, adding this line right before the first title 1 of the proposal will insert a table of content right before the title 1.
+
+You can use a ~pagebreak~ if the table of content fit on one page but you want the content to start on the next double page 
+     #+begin_src org
+     #+TOC: headlines 2
+     #+end_src 
+
+*** Page numbers
+    
+Page numbers are by default on the *doctype-proposal* and *doctype-memo* and can be removed by including the ~no-page-numbers~ macro at the top of the document.
+
+     #+begin_src org
+     {{{no-page-numbers}}}
+     #+end_src 
+    
+** Page breaks
+  
+Keeps headers.
+
+     #+begin_src org
+{{{pagebreak}}}
+     #+end_src 
+
+
+** White pages
+   
+Without headers, blank page.
+
+     #+begin_src org
+     {{{whitepage}}}
+     #+end_src 
+     
+* Limitations
+
+Although very useful, the exporter currently has some limitations, report to the author at *thomas@novamedia.nyc* for any feature requests.
+
+- Having an unordered bullet inside of an ordered bullet list messes up the order's list increment. Therefore only use ordered lists in ordered list. The child ordered list will appear with a margin and small case roman numerals.
+- Having a paragraph inside of a bullet (ordered or not) causes an alignment problem between the text and its bullet.
+- The front and back covers have an alignment issue
+- Another alignment issue occurs in the intro pages of the ~doctype-proposal~.
+   
+* Conclusion
+
+This manual gave an exhaustive overview of the Nova document exporter. It outlined the steps to follow to export any org file in a proposal folder, gave an overview of the repository structure, gave details on formatting options, before finally exposing the exporter's limitations.
+
+For any questions, please contact me at *thomas@novamedia.nyc*.
+
+{{{pagebreak}}}
+* TB [#B] Appendix A: print/ :CTO:
+  SCHEDULED: <2018-09-27 Thu>
+{{{pagebreak}}}
+
+{{{crappy-hack}}}
+#+INCLUDE: "../print/4th-cover.org"

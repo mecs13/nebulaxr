@@ -1,0 +1,152 @@
+body {
+    font-family: sans-serif;
+    margin: 6rem;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+table {
+    margin: 3rem auto;
+}
+
+/**
+    Captions
+*/
+caption {
+}
+
+.figure p, caption {
+    margin-bottom: 2rem;
+    font-style: italic;
+}
+
+.table-number, .figure-number {
+    font-weight: bold;
+}
+
+.org-ul, .org-ol {
+    margin: 2rem 4rem 2rem 4rem;
+    text-align: justify;
+}
+
+.org-ul .org-ul {
+    margin-right: 0;
+}
+
+li {
+    margin: 1rem 0;
+}
+
+.Latex {
+    display: none;
+}
+
+.status {
+    display: none;
+}
+
+/**
+    Document title
+*/
+.title {
+    margin: 15rem 0;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+h6 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+h7 {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 1.1rem;
+}
+
+/**
+        Nova definitions
+*/
+.nova-definitions {
+    margin: 10rem 0;
+}
+
+.nova-definitions .definition-block {
+}
+
+.nova-definitions .definition-block .word {
+    font-weight: bold;
+}
+
+.nova-definitions .definition-block .word .pronounciation {
+    font-weight: normal;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.nova-definitions .definition-block .definition {
+}
+
+#content > div:nth-of-type(7) h3 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+#content > div:nth-of-type(8) >  div:first-of-type {
+    page-break-after: always;
+}
+
+/**
+    Org title level 1
+*/
+.outline-2 {
+}
+
+.outline-2 h2 {
+}
+
+.outline-2 h3 {
+}
+
+.outline-2 h4 {
+}
+
+h5 {
+    font-weight: bold;
+    border-bottom: 0px solid rgba(0, 0, 0, 0.3);
+    padding-bottom: 0.25rem;
+    width: min-content;
+    display: inline-block;
+    margin: 0;
+    color: rgba(0, 0, 0, 1);
+    font-size: 1rem;
+}
+
+.gantt-page-right {
+    display: none;
+}
+
+.gantt-page-left {
+    display: block;
+    position: inherit;
+}
+
+.gantt-page-left img {
+    display: block;
+    position: inherit;
+}
+
+.nova-logo-page, .src-gantt, .business-cards-page {
+    display: none;
+}

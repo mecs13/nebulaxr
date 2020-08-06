@@ -1,0 +1,38 @@
+.double-pager--wrapper {
+    page-break-after: always;
+    margin-left: 4cm;
+    border: 1px solid green;
+    padding-left: 0.71cm;
+    padding-right: 1.5cm;
+    transform: translate(3cm, 3.5cm);
+    position: relative;
+    border-top-left-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+}
+
+.double-pager--wrapper::before {
+    page-break-after: always;
+    page-break-before: always;
+    display: block;
+    content: '';
+}
+
+.double-pager--wrapper > h2 {
+    position: absolute;
+    transform: translate(2.5cm, -3.5cm);
+    border: none;
+}
+
+.double-pager--wrapper > h2::before {
+    height: 3cm;
+    width: 3cm;
+    position: absolute;
+    transform: translate(-3.8cm, -1.2cm);
+    border-radius: 0.5cm;
+}
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+#+begin_export html
+<div class="gantt-page-left">
+  <img src="./img/gantt.png" alt="gantt-right" />
+</div>
+
+<div class="gantt-page-right">
+  <img src="./img/gantt.png" alt="gantt-right" />
+</div>
+#+end_export

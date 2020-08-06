@@ -1,0 +1,25 @@
+#+TITLE: DATE
+#+AUTHOR: Nova Media
+#+INCLUDE: "../print/doctype-proposal.org"
+{{{subtitle(2 Pager Template)}}}
+{{{theme-color(0060c1)}}}
+{{{end-footer(contact@novamedia.nyc)}}}
+
+* XR Media
+  {{{double-pager(exec-sum)}}}
+  
+** Welcome inside
+- What we do for them and why they care
+- Process
+- Key perforamnce indicators
+- Return on net investment
+- 
+** What to display
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+
+*** How the world came to be
+Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent 
+
+{{{crappy-hack}}}
+#+INCLUDE: "../print/4th-cover.org"

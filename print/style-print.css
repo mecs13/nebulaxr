@@ -1,0 +1,877 @@
+@media print {
+    p code, li code {
+        padding: 0.1cm;
+        position: relative;
+        display: inline-block;
+    }
+    p code:after, li code:after {
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgb(0,0,0);
+        opacity: 0.1;
+        border-radius: 0.1cm;
+
+    }
+    .page-to-remove {
+        height: 10cm;
+        width: 10cm;
+        background-color: red;
+        page-break-before: always;
+        page-break-after: always;
+        counter-reset: page;
+    }
+    html {
+        color: #454853;
+    }
+    .pb {
+        page-break-after: always;
+    }
+
+    #footer,
+    #non-printable {
+        display: none !important;
+    }
+    #printable {
+        display: none;
+    }
+
+    @page {
+        size: US-Letter;
+        margin: 2cm;
+        margin-top: 5cm;
+        border-left: 1px solid #000000;
+
+        @top-center {
+            content: '';
+            width: 21.6cm;
+            background-repeat: no-repeat;
+        }
+
+        @bottom-center {
+            content: counter(page);
+            font-family: sans-serif;
+            border-left: 1px solid #000000;
+        }
+    }
+
+
+    .header-picture {
+        width: 200%;
+        height: 200%;
+        margin-top: 10%;
+        transform: translateY(-122%);
+        position: relative;
+    }
+
+    .header-picture.margin .margin-line {
+        border-right: 1px solid #000000;
+        width: 2cm;
+        z-index: 100000;
+        position: absolute;
+        transform: translateY(-0.5cm);
+    }
+
+    .header-picture.left .margin-line {
+        height: 1.4cm;
+    }
+
+    .header-picture.right .margin-line {
+        height: 2.05cm;
+        width: 3.4cm;
+        transform: translate(20.2cm, 10.5cm);
+        top: 7.15cm;
+        left: 0;
+    }
+
+    .header-picture.right.margin {
+        flow: static(header-right);
+    }
+
+    .header-picture.left.margin {
+        flow: static(header-left);
+    }
+
+    .header-picture.right.no-margin{
+        flow: static(header-right-no-margin);
+    }
+    .header-picture.left.no-margin{
+        flow: static(header-left-no-margin);
+    }
+
+    .header-picture .header-circle {
+        height: auto;
+        width: 23cm;
+        position: absolute;
+        top: 50rem;
+    }
+
+    .header-picture.right .header-circle {
+        transform: translateX(21cm);
+    }
+
+    .header-picture .header-logo {
+        height: 1.15cm;
+        width: 1.15cm;
+        position: absolute;
+        top: 590px;
+        right: 1201px;
+    }
+
+
+    @page:left {
+        @top-center {
+            content: flow(header-left);
+        }
+    }
+
+    @page:right {
+        @top-center {
+            content: flow(header-right);
+            transform: translateX(-100%);
+        }
+    }
+
+    /********
+        Title page
+   */
+    @page:nth(3) {
+        margin: 2cm;
+        margin-top: 18cm;
+        border: 0;
+
+        @top-center {
+            content: flow(title-page);
+        }
+
+        @bottom-center {
+            content: flow(doc-title);
+            border-left: 0;
+        }
+    }
+    #title-page {
+        flow: static(title-page);
+    }
+    #title-page .sky {
+        width: 200%;
+        height: 200%;
+        position: absolute;
+        top: -1;
+    }
+
+    #title-page .circle {
+        overflow: hidden;
+        height: 5cm;
+        width: 59cmm;
+        position: absolute;
+        bottom: 5.7cm;
+        right: -6rem;
+        left: -6rem;
+        z-index: 100;
+    }
+
+    #title-page .circle img {
+        height: 5cm;
+        width: 59cmm;
+    }
+
+    #title-page .logo {
+        position: absolute;
+        z-index: 100;
+        margin-top: 10cm;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #title-page .logo .title {
+        content: 'Proposal Title';
+        text-transform: uppercase;
+        color: white;
+        margin: 1cm;
+        margin-top: 0.5cm;
+        padding: 0;
+        font-size: 0.7cm;
+        z-index: 1000000;
+        min-height: 200cm;
+        min-width: 200cm;
+    }
+
+    #title-page .logo img {
+        height: 2.3cm;
+        width: 2.3cm;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /********
+        Definitions page
+   */
+
+
+    /********
+        Nova logo page
+   */
+    .nova-logo-page {
+        page-break-after: always;
+        display: block;
+    }
+
+    .nova-logo-page img {
+        height: 15%;
+        width: 18%;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -70%);
+        margin: 0;
+        padding: 0;
+    }
+
+    /********
+        Client logo page
+   */
+    .client-logo-page {
+        page-break-after: always;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .client-logo-page .header-circle,
+    .client-logo-page .sky  {
+        position: absolute;
+        top: -5cm;
+        height: auto;
+        width: 17in;
+        left: -2cm;
+    }
+
+    .client-logo-page .header-circle {
+        top: 7cm;
+        z-index: 100;
+    }
+
+    .client-logo-page .client-logo {
+        height: 1.8cm;
+        width: auto;
+        z-index: 200;
+        position: absolute;
+        bottom: 1cm;
+        left: 2.5in;
+    }
+
+
+    /********
+        Page breaks
+   */
+    .page-break {
+        page: page-break;
+    }
+
+    @page page-break {
+        @bottom-center {
+            content: '';
+        }
+    }
+
+
+    /********
+        Intro page
+   */
+
+    .intro-page {
+        page-break-before: always;
+        page-break-after: always;
+    }
+
+    .intro-page img {
+        position: absolute;
+        top: -5cm;
+        height: auto;
+        width: 17in;
+        left: -2cm;
+    }
+
+    .intro-page .header-circle {
+        top: 7.7cm;
+        z-index: 100;
+    }
+
+    .intro-page .sky {
+        transform: translateX(-50%);
+    }
+
+    /********
+        white page
+   */
+    .white-page {
+        page-break-before: always;
+        page-break-after: always;
+        page: white-page;
+        height: 20cm;
+    }
+
+    @page white-page {
+        border: 0;
+        @top-center {
+            content: '';
+            background-image: none;
+        }
+
+        @bottom-center {
+            content: '';
+            border-left: 0;
+        }
+    }
+
+    /********
+        Business cards page
+   */
+
+    .business-cards-page {
+        page: business-cards-page;
+        page-break-after: always;
+        page-break-before: always;
+        display: block;
+    }
+
+    .business-cards-page img {
+        height: 45%;
+        width: 40%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0;
+        padding: 0;
+    }
+
+    @page business-cards-page {
+        border: 0;
+        @top-center {
+            content: '';
+        }
+
+        @bottom-center {
+            content: '';
+            border-left: 0;
+        }
+    }
+
+    /********
+        Last page
+   */
+
+    .final-page {
+        page: final-page;
+        page-break-after: always;
+        page-break-before: always;
+    }
+
+    .final-page img {
+        position: absolute;
+        top: -5cm;
+        height: auto;
+        width: 17in;
+        left: -2cm;
+    }
+
+    .final-page .header-circle {
+        top: 7cm;
+        z-index: 100;
+    }
+
+    .final-page .sky {
+        transform: translateX(-50%);
+    }
+
+    @page final-page {
+        border: 0;
+
+        @top-center {
+            content: '';
+        }
+
+        @bottom-center {
+            display: block;
+            page-break-before: always;
+            margin: 35rem 0;
+            color: rgba(0, 0, 0, 0.4);
+            font-weight: normal;
+            font-size: 1.7rem;
+            content: '';
+            border: 0;
+        }
+    }
+
+    /********
+        New section lvl 1 page
+   */
+
+    .outline-2 > h2 {
+    }
+
+    @page foo {
+        @top-center {
+            content: '';
+        }
+    }
+
+
+
+
+
+    html {
+        height: 8px;
+        font-size: 10pt;
+    }
+
+    body {
+        font-family: sans-serif;
+        margin: 2rem;
+    }
+
+    /* org math exports */
+    .org-svg {
+        width: auto;
+        height: auto;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    p {
+        line-height: 1.5rem;
+        text-align: justify;
+        color: #454853;
+    }
+
+    p a {
+        color: black;
+        text-decoration: none;
+    }
+
+    table {
+        margin: 3rem auto;
+    }
+
+    caption {
+        margin-bottom: 2rem;
+    }
+
+    li {
+        margin: 1rem 0;
+    }
+
+    .Latex {
+        display: none;
+    }
+
+    .status {
+        display: none;
+    }
+
+    /**
+        prevents long links from breaking printing
+   */
+    p a {
+        word-wrap: break-word;
+    }
+
+    #table-of-contents  ul {
+    }
+
+    #text-table-of-contents a, .todo, #text-table-of-contents b {
+        color: rgba(0, 0, 0, 1);
+        text-decoration: none;
+        font-weight: normal;
+    }
+
+    h3 {
+        margin-top: 10rem;
+        margin-bottom: 10rem;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: #30313c;
+    }
+
+    table, figure, ul, ol, p {
+    }
+
+    /**
+    Document title
+   */
+    h1.title {
+        display: block;
+        page-break-before: always;
+        margin: 35rem 0;
+        color: rgba(0, 0, 0, 0.4);
+        font-weight: normal;
+        font-size: 1.7rem;
+        flow: static(doc-title)
+    }
+
+    /**
+        Nova definitions
+   */
+    .nova-definitions {
+        page-break-before: always;
+        page-break-after: always;
+        padding: 0 4rem;
+        margin: 0;
+        height: 100vh;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .nova-definitions .definition-block {
+    }
+
+    .nova-definitions .definition-block word {
+    }
+
+    .nova-definitions .definition-block definition {
+    }
+
+    /**
+    Org title level 1
+   */
+    .outline-2 {
+        margin: 0;
+        padding: 0;
+    }
+
+    h2 {
+        margin-top: 0.4cm;
+        margin-bottom: 0.4cm;
+        background-color: white;
+        border: 1px solid #000000;
+        border-top-right-radius: 0.3cm;
+        border-bottom-right-radius: 0.3cm;
+        display: inline-block;
+        padding: 0.2cm 0.6cm;
+        transform: translateX(-0.73cm);
+    }
+
+    h3 {
+        width: 20cm;
+        transform: translateX(-0.9cm);
+        margin-top: 0.4cm;
+        margin-bottom: 0.4cm;
+    }
+
+    h3::before {
+        min-width: 0.35cm;
+        min-height: 0.35cm;
+        max-height: 0.35cm;
+        margin-right: 0.6cm;
+        background-color: #000000;
+        color: rgba(0, 0, 0, 0);
+        border-radius: 50%;
+        content: 'a';
+        display: inline-block;
+    }
+
+    .outline-3 {
+    }
+
+    h4 {
+        transform: translateX(-0.88cm);
+        margin-top: 0.4cm;
+        margin-bottom: 0.4cm;
+    }
+
+
+    h4::before {
+        min-width: 0.25cm;
+        min-height: 0.25cm;
+        max-height: 0.25cm;
+        margin-right: 0.6cm;
+        background-color: #000000;
+        color: rgba(0, 0, 0, 0);
+        border-radius: 50%;
+        content: 'a';
+        font-size: 0;
+        display: inline-block;
+        transform: translate(0.03cm, -0.27cm);
+        opacity: 0.7;
+    }
+
+
+    .page-break, .white-page {
+        page-break-before: avoid;
+        page-break-after: avoid;
+    }
+
+    .figure {
+        padding: 0;
+        width: 20cm;
+        margin: 1.5cm 0;
+    }
+    .figure p {
+        margin: 0;
+        padding: 0;
+    }
+    .figure img {
+        object-fit: cover;
+        transform: translateX(0.0cm);
+        border-top-left-radius: 0.5cm;
+        border-bottom-left-radius: 0.5cm;
+        height: 10cm;
+    }
+
+    .figure img.nova-figure {
+        transform: translateX(-1.0cm);
+        max-width: 18cm;
+        height: inherit;
+    }
+
+    /**
+        Gantt pages
+    */
+    .src-gantt {
+        display: none;
+    }
+
+    .gantt-page-right, .gantt-page-left {
+        page-break-after: always;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        display: block;
+    }
+    .gantt-page-right {
+        page: gantt-right;
+    }
+
+    @page gantt-right {
+        border: none;
+        @bottom-center {
+            border: none;
+        }
+        @top-center {
+            content: flow(header-right-no-margin);
+        }
+    }
+
+    .gantt-page-right img {
+        left: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(-50%, -50%)scale(2.2);
+    }
+
+    .gantt-page-left img {
+        right: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(50%, -50%)scale(2.2);
+    }
+
+    .gantt-page-right img, .gantt-page-left img {
+        position: absolute;
+        top: 55%;
+        display: block;
+    }
+
+
+
+
+
+
+
+
+    @page double-gantt-right {
+        border: none;
+        @bottom-center {
+            border: none;
+        }
+        @top-center {
+            content: flow(header-right-no-margin);
+        }
+    }
+    .double-gantt-page-right, .double-gantt-page-left {
+        page-break-after: always;
+    }
+
+    .double-gantt-page-right {
+        page: double-gantt-right;
+    }
+
+    .double-gantt-page-right img, .double-gantt-page-left img {
+        position: absolute;
+        top: 55%;
+        display: block;
+    }
+
+    .double-gantt-page-right img {
+        left: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(-50%, -50%)scale(2.0);
+    }
+
+    .double-gantt-page-right img:nth-child(1), .double-gantt-page-left img:nth-child(1) {
+        top: 31%;
+    }
+
+    .double-gantt-page-right img:nth-child(2), .double-gantt-page-left img:nth-child(2) {
+        top: 79%;
+    }
+
+    .double-gantt-page-left img {
+        right: -2cm; /* SEE MARGIN AT BEGINNING OF DOC */
+        transform: translate(50%, -50%)scale(2.0);
+    }
+
+
+
+    /**
+        Table
+    */
+    table {
+        border-collapse:separate;
+        border:solid #454853 1px;
+        border-radius:0.5cm;
+        -moz-border-radius:6px;
+    }
+
+    td, th {
+        padding-right: 0.3cm;
+        padding-left: 0.3cm;
+        border:solid #454853 0.5px;
+    }
+
+    th {
+        border-top: none;
+        vertical-align: middle;
+        background-color: #EFF4F4;
+    }
+    th:first-child {
+        border-top-left-radius: 0.5cm;
+    }
+    th:last-child {
+        border-top-right-radius: 0.5cm;
+    }
+
+    td:first-child, th:first-child {
+        border-left: none;
+    }
+
+    td:last-child, th:last-child {
+        border-right: none;
+    }
+
+    tr:last-child td {
+        border-bottom: none;
+    }
+
+    .table-number {
+    }
+
+    /**
+        References
+    */
+    #bibliography h2 {
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    #bibliography table a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #bibliography table {
+        border: none;
+    }
+
+    #bibliography table tr td {
+        padding-bottom: 1.2rem;
+    }
+    #bibliography table tr .bibtexnumber {
+        padding-right: 1rem;
+    }
+
+    /* bullets */
+    .org-ol {
+        counter-reset: li;
+        margin: 0;
+        padding: 0;
+    }
+
+    .org-ol .org-ol {
+        counter-reset: li;
+        margin-left: 1cm;
+    }
+
+    .org-ol li {
+        list-style: none;
+    }
+
+    .org-ol li::before {
+        content: counter(li);
+	      counter-increment: li;
+        background-color: white;
+        color: #000000;
+        border: 1px solid #000000;
+        min-width: 0.5cm;
+        min-height: 0.5cm;
+        border-radius: 50%;
+        transform: translateX(-1cm);
+        position: absolute;
+        text-align: center;
+        padding-top: 0.04cm;
+        box-sizing: border-box;
+    }
+
+    .org-ol .org-ol li::before {
+        background-color: white;
+        color: #000000;
+        border: none;
+        content: counter(li, lower-roman);
+    }
+
+
+    .org-ul {
+        margin: 0;
+        padding: 0;
+        margin-left: 0.5cm;
+    }
+
+    .org-ul .org-ul {
+        margin-left: 1cm;
+    }
+
+    .org-ul li {
+        list-style: none;
+    }
+
+    .org-ul li::before {
+        background-color: #000000;
+        content: '';
+        font-size: 0;
+        color: rgba(0, 0, 0, 0);
+        min-height: 0.15cm;
+        min-width: 0.15cm;
+        border-radius: 50%;
+        display: block;
+        position: absolute;
+        transform: translate(-0.45cm, 0.15cm);
+    }
+
+    .src {
+        border-radius: 0.5cm;
+    }
+
+    /* OPTIONS */
+    .translate-title-up {
+        transform: translateY(-1cm);
+    }
+
+}

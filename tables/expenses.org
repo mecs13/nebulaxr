@@ -1,0 +1,25 @@
+
+
+* Expenses
+
+
+| Item              | Cost ($) | repsn | money from | ownership |
+|-------------------+----------+-------+------------+-----------|
+| Camera            |     4500 | JM    |            |           |
+| camera 2          |     4500 | AS    |            |           |
+| fixer             |      200 | DT    |            |           |
+| fixer 2           |      200 | DT    |            |           |
+| plane ticket      |      800 | JM    |            |           |
+| plane ticket 2    |      800 | KK    |            |           |
+| plane ticket 3    |      800 | DT    |            |           |
+| plane ticket 4    |      800 | AS    |            |           |
+| Cam Production    |     1500 | AS    |            |           |
+| VR experience     |     1500 | MS    |            |           |
+| on ground costs   |     1500 | DT    |            |           |
+| on ground costs 2 |     1500 | JM    |            |           |
+| promotion         |     1500 | KK    |            |           |
+| Coordination      |     1500 | JB    |            |           |
+| data/hosting      |     1500 | AS    |            |           |
+| time comp         |     1500 | JM    |            |           |
+|                   |    20100 |       |            |           |
+#+TBLFM: @>$2=vsum(@3..@-1)

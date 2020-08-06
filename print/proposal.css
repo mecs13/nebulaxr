@@ -1,0 +1,78 @@
+@media print {
+    /********
+        Title page
+   */
+
+    /********
+        Definitions page
+   */
+    @page:nth(4){
+        margin: 0;
+        border: 0;
+
+        @top-center {
+            content: '';
+            background-image: none;
+        }
+
+        @bottom-center {
+            content: '';
+        }
+    }
+
+    /********
+        Nova logo page
+   */
+    @page:nth(5){
+        margin-bottom: 4rem;
+        border: 0;
+
+        @top-center {
+            content: '';
+            background-image: none;
+        }
+
+        @bottom-center {
+            content: '';
+            margin-bottom: 4rem;
+            font-family: sans-serif;
+            color: rgba(0, 0, 0, 0.7);
+            font-size: 1.2rem;
+        }
+    }
+
+    /********
+        Client logo page
+   */
+    @page:nth(6){
+        border: 0;
+        @top-center {
+            content: '';
+            background-image: none;
+        }
+
+        @bottom-center {
+            content: '';
+            margin-bottom: 4rem;
+            font-family: sans-serif;
+            color: rgba(0, 0, 0, 0.7);
+            font-size: 1.2rem;
+            border-left: 0;
+        }
+    }
+
+    /********
+        Intro page
+   */
+    @page:nth(7){
+        border: 0;
+        @top-center {
+            content: '';
+        }
+
+        @bottom-center {
+            content: '';
+            border-left: 0;
+        }
+    }
+}
