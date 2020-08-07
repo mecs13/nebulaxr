@@ -1,0 +1,25 @@
+Proper game development requires a team well attuned to one another with each member playing off each other’s strengths while covering their weaknesses. While the people who work on developing a product can be considered a singular dev team, a dev team will consist of teams within the team as each part of the development process will demand a number of people working on it to insure that it’s as polished as envisioned. Furthermore, such teams will see frequent overlap with each other as the vision for the game is not a single thought of one person but rather a synthesis of every member. This demand for teams within a team grows as the scale of the project grows. For example, high quality indie games today can be done with a dozen or less people with a clear vision while modern triple A games can have dev teams consisting of hundreds of people. Moreover, besides the manpower and talent, there’s also the matter of time and capital. Launch date plays a big role in deciding what can be done. Additionally, no matter how much passion developers have, they have to be compensated. Beyond these preliminary dev requirements, the following outlines the teams within the dev team that I would seek out.
+
+*Game Designer*
+
+Members tasked with “creating the game.” They come up with the ideas, cultivate its gameplay, and structure its rules. They would serve as pseudo admins or directors that envision the characters, the story, and the visuals of the experience. Having one person to work solely as a designer should be fine as everyone in every team will act as a designer in a way.
+
+*Artist*
+
+Members tasked with creating everything art related to the game both 2D and 3D. This would consist of bringing the designers’ graphic vision of the game to life as well as create promotional marketing art pieces. However, much of their work is rallying around an artistic theme for the game and creating the all the assets for it. Ideally, there would be three artists with a lead artist leading the other two. The lead artist would be the one with the greatest familiarity with the theme while taking criticism from and compartmentalizing tasks to the other artists. 
+
+*Sound Producer*
+
+Members responsible for everything audio related to the game ranging from the sound of grass being blown in the wind all the way to large scale orchestral pieces. Additionally, they’d be responsible for the voices of characters along with ambient sounds. While one person can handle this depending on the project scale, having two people work off one another guarantees more variety and balance. Additionally, as audio production is such a large process, there will be a considerable investment in outsourcing as voice actors and musicians will need to be hired. However, control of this process should be entirely in the hands of the sound producers with occasional checks by management.
+
+*Level Designer*
+
+Members in charge of creating the playable areas for players. They take everything the members from above have produced and mold it into a stage for players to interact with. They design a level in accordance to the vision of the game designers while ensuring the level and the sound fit together. Additionally, they manage the assets created by the artists and work with them in the creation of additional ones. Having two people work on level design would hasten the process and provide more ideas for it. 
+
+*Programmer*
+
+Members who write the code and logic of a game. They provide function to the game through physics, character AI, scripting, networking, and implementing the gameplay specified by the game designer. They essentially control the sense of the game and bestow upon it a game feel. Having at least four people working on programming would allow them to compartmentalize on tasks as well as tackle issues that lie in wait around every corner. 
+
+*Tester*
+
+Members who playtest the game at every step of the development process. They play through the entire level as thoroughly as possible to ensure things are supposed to go the way they’re intended to while identifying bugs and exploits. Once person dedicated to testing is fine but having two will significantly speed up the process as each will have a different mindset in playing. Additionally, other members can act as testers as well on downtime. 
