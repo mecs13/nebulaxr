@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Source\\NYEVR\\NYEVR.Build.cs",
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Plugins\\VlcMedia-master\\Source\\VlcMedia\\VlcMedia.Build.cs",
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Plugins\\VlcMedia-master\\Source\\VlcMediaFactory\\VlcMediaFactory.Build.cs",
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Plugins\\VlcMedia-master\\Source\\VlcMediaEditor\\VlcMediaEditor.Build.cs",
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Source\\NYEVR.Target.cs",
+		"C:\\Users\\yuhao\\Desktop\\NYEVR\\Source\\NYEVREditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

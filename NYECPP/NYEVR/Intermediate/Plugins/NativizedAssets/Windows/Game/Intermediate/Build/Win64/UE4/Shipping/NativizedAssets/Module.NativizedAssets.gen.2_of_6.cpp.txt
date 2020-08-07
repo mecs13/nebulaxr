@@ -1,0 +1,43 @@
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Shipping\NativizedAssets\Definitions.NativizedAssets.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Earth__pf2036008057.gen.cpp
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Earth__pf2036008057.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\ENUM_EarthQuality__pf2036008057.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENUM_EarthQuality__pf2036008057.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Engine/StaticMeshActor.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticMeshActor.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Earth__pf2036008057.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_FuncLib__pf3332962890.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_FuncLib__pf3332962890.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/CoreUObject/Public/UObject/NoExportTypes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_FuncLib__pf3332962890.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_GoodSky__pf2629841966.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_GoodSky__pf2629841966.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Enum_GoodSky_Preset__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Preset__pf194322682.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Enum_GoodSky_Style_Clouds__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Style_Clouds__pf194322682.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Enum_GoodSky_Clouds_Coverage__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Clouds_Coverage__pf194322682.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Enum_GoodSky_Effects__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Effects__pf194322682.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Enum_GoodSky_MeshType__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_MeshType__pf194322682.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_GoodSky__pf2629841966.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_MotionController__pf563933975.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_MotionController__pf563933975.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\GripEnum__pf563933975.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\GripEnum__pf563933975.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_MotionController__pf563933975.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Particle_Leaves__pf321031355.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Particle_Leaves__pf321031355.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\P_Leaves_Enum__pf897159640.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\P_Leaves_Enum__pf897159640.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\Interface_Wind_Particle_True__pf3628915390.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Interface_Wind_Particle_True__pf3628915390.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Particle_Leaves__pf321031355.generated.h

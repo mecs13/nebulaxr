@@ -1,0 +1,2 @@
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\Definitions.NYEVR.h
+c:\users\yuhao\desktop\nyevr\source\nyevr\NYEVR.h

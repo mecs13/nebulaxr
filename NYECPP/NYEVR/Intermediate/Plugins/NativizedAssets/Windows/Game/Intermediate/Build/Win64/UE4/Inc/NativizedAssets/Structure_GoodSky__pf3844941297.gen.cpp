@@ -1,0 +1,1017 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "NativizedAssets/Public/Structure_GoodSky__pf3844941297.h"
+#ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeStructure_GoodSky__pf3844941297() {}
+// Cross Module References
+	NATIVIZEDASSETS_API UScriptStruct* Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FLinearColor();
+// End Cross Module References
+class UScriptStruct* FStructure_GoodSky__pf3844941297::StaticStruct()
+{
+	class UPackage* StructPackage = FindOrConstructDynamicTypePackage(TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky"));
+	class UScriptStruct* Singleton = Cast<UScriptStruct>(StaticFindObjectFast(UScriptStruct::StaticClass(), StructPackage, TEXT("Structure_GoodSky")));
+	if (!Singleton)
+	{
+		extern NATIVIZEDASSETS_API uint32 Get_Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Hash();
+		Singleton = GetStaticStruct(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297, StructPackage, TEXT("Structure_GoodSky"), sizeof(FStructure_GoodSky__pf3844941297), Get_Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Hash());
+	}
+	return Singleton;
+}
+template<> NATIVIZEDASSETS_API UScriptStruct* StaticStruct<FStructure_GoodSky__pf3844941297>()
+{
+	return FStructure_GoodSky__pf3844941297::StaticStruct();
+}
+static FCompiledInDeferStruct Z_CompiledInDeferStruct_UScriptStruct_FStructure_GoodSky__pf3844941297(FStructure_GoodSky__pf3844941297::StaticStruct, TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky"), TEXT("Structure_GoodSky"), true, TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky"), TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky.Structure_GoodSky"));
+static struct FScriptStruct_NativizedAssets_StaticRegisterNativesFStructure_GoodSky__pf3844941297
+{
+	FScriptStruct_NativizedAssets_StaticRegisterNativesFStructure_GoodSky__pf3844941297()
+	{
+		UScriptStruct::DeferCppStructOps(FName(TEXT("Structure_GoodSky")),new UScriptStruct::TCppStructOps<FStructure_GoodSky__pf3844941297>);
+	}
+} ScriptStruct_NativizedAssets_StaticRegisterNativesFStructure_GoodSky__pf3844941297;
+	struct Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics
+	{
+		static UObject* OuterFuncGetter();
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Struct_MetaDataParams[];
+#endif
+		static void* NewStructOps();
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[];
+#endif
+		static void NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+		static const UE4CodeGen_Private::FStructParams ReturnStructParams;
+	};
+	UObject* Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::OuterFuncGetter()
+	{
+		return FindOrConstructDynamicTypePackage(TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky"));	}
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::Struct_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Structure_GoodSky" },
+		{ "ReplaceConverted", "/Game/GoodSky/Source/Data/Structure/Structure_GoodSky.Structure_GoodSky" },
+	};
+#endif
+	void* Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewStructOps()
+	{
+		return (UScriptStruct::ICppStructOps*)new UScriptStruct::TCppStructOps<FStructure_GoodSky__pf3844941297>();
+	}
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Light direction" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf = { "Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "----------------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "----------------------------------------------------------------------------------------------------------------_250_D798A6BA4AD41A35D49755BDDF4E8A5E" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "----------------------------------------------------------------------------------------------------------------_250_D798A6BA4AD41A35D49755BDDF4E8A5E", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_Lightning Scale" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf = { "Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_Lightning Add Clouds Brightness Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf = { "Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_Lightning Area Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf = { "Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_Lightning Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf = { "Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_Lightning Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf = { "Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Storm_UseLightning" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf = { "Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "--------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "--------------------------------------------------------------------------------------------------------_245_398FB4D24CEBC759683FCDAFF05B97A6" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "--------------------------------------------------------------------------------------------------------_245_398FB4D24CEBC759683FCDAFF05B97A6", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star_Star RepeatUV Amount" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf = { "Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star_Star Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf = { "Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star_Star Area Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf = { "Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star_Star Brightness Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf = { "Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star_Star Overlay Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf = { "Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Star UseStar" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "StarUseStar_189_D8785F484CA88012389287AE4C79C41C" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf = { "StarUseStar_189_D8785F484CA88012389287AE4C79C41C", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "-------------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "-------------------------------------------------------------------------------------------------------------_241_A232913F4F68172443AAD0AB9714712C" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "-------------------------------------------------------------------------------------------------------------_241_A232913F4F68172443AAD0AB9714712C", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Self Scale" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf = { "Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Glow Scale" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf = { "Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Glow Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf = { "Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Self Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf = { "Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Self Glow" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf = { "Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon Overlay Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf = { "Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_Moon All Scale Amount" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf = { "Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Moon_UseMoon" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf = { "Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "--------------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "--------------------------------------------------------------------------------------------------------------_247_005EC53A494DC7E1FE96DE9F6248CA61" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "--------------------------------------------------------------------------------------------------------------_247_005EC53A494DC7E1FE96DE9F6248CA61", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Back Lit Zenith Area Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf = { "Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Back Lit Effect Radius Hardness" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf = { "Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Back Lit Effect Radius" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf = { "Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Back Lit Darkness Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf = { "Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Back Lit Brightness Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf = { "Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Use Sun Back Light" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf = { "Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Glow Radius" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf = { "Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Glow Area Smooth" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf = { "Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Glow Brightness Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf = { "Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Glow Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf = { "Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Self color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf = { "Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Self Brightness Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf = { "Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_Sun Self Radius" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf = { "Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Sun_UseSun" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf = { "Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "-----------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "-----------------------------------------------------------------------------------------------------------_237_0FD5829F4CF4FBAC811F7FBA03F12729" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "-----------------------------------------------------------------------------------------------------------_237_0FD5829F4CF4FBAC811F7FBA03F12729", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Detail Clouds Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf = { "CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Detail Clouds Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf = { "CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Third Clouds Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf = { "CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Second Cloud Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf = { "CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Second Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf = { "CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Main Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf = { "CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds Main Cloud Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf = { "CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds All Clouds Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf = { "CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Clouds All Clouds Overlay color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf = { "CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "----------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "----------------------------------------------------------------------------------------------------------_239_336BB52B4A73E5F13F9CE5B495794BB1" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "----------------------------------------------------------------------------------------------------------_239_336BB52B4A73E5F13F9CE5B495794BB1", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Background SkyDome Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf = { "BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Background Background Horizon Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf = { "BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Background Background Overlay color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf = { "BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Background Zenith Area Falloff Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf = { "BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "------------------------------------------------------------------------------------------------------------" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "------------------------------------------------------------------------------------------------------------_235_4DE832A14D42CEB7749AEBAF181FE2EC" },
+		{ "Tooltip", "" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit(void* Obj)
+	{
+		((FStructure_GoodSky__pf3844941297*)Obj)->bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = { "------------------------------------------------------------------------------------------------------------_235_4DE832A14D42CEB7749AEBAF181FE2EC", nullptr, (EPropertyFlags)0x0010000000010005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FStructure_GoodSky__pf3844941297), &Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Global TimeFloat Input" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf = { "GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Global Global Overlay Color" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf = { "GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Global_Global Desaturation Intensity" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf = { "Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf_MetaData[] = {
+		{ "Category", "Structure_GoodSky__pf3844941297" },
+		{ "DisplayName", "Global_Global Time Speed" },
+		{ "ModuleRelativePath", "Public/Structure_GoodSky__pf3844941297.h" },
+		{ "OverrideNativeName", "Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E" },
+		{ "Tooltip", "" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf = { "Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FStructure_GoodSky__pf3844941297, bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf), METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Lightdirection_255_3990A5554EF0CA7C78DBA5AECA1E11EB__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_250_D798A6BA4AD41A35D49755BDDF4E8A5E__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningScale_213_9DF6CBCD457AB8A1BC48688182ACF45A__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAddCloudsBrightnessIntensity_226_0C780FF04294BEA516B648B9357FD9E9__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningAreaFalloffIntensity_211_5D19969A4ED838C8C8340ABCC7382D33__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningIntensity_210_08478FB3445782F741B973A747309FB9__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_LightningColor_209_1FBD829C4FBA38D79F5CB8B39BDD207C__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Storm_UseLightning_207_770FF77743C9A83B29EA29A56F914DDE__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_245_398FB4D24CEBC759683FCDAFF05B97A6__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarRepeatUVAmount_195_139DBB924FD38DEF4B5B2FB9418272AE__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarFalloffIntensity_256_9292C18C49D6ACF8C31215845B391770__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarAreaFalloffIntensity_193_82253AD942C0AA6DAE8929893619F1DD__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarBrightnessIntensity_192_7CCC46F040C7F78AB02A7D89FEBF8CE5__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Star_StarOverlayColor_191_EFDAB24F414FBB8CA50B46A079800AB8__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__StarUseStar_189_D8785F484CA88012389287AE4C79C41C__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_241_A232913F4F68172443AAD0AB9714712C__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfScale_181_44270A204B8041E87EDA86A96FF49436__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowScale_182_2B115CDC400127973C1DA2BA0853A1B1__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonGlowIntensity_180_7CDF12604C6AC6B48D651FB1A490D968__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfIntensity_179_1B7B8CBA4A8D1B0EDF769FA497CDB567__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonSelfGlow_178_F803F19D4FBE18C08B64499D8753EF86__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonOverlayColor_177_339E2F7B425C9333C47E1CAA4F2803A6__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_MoonAllScaleAmount_176_A9C9D5BF4286E2D137890F8C110D6ABE__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Moon_UseMoon_175_CA2920B140AFF37C9BF7209D955AAD76__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_247_005EC53A494DC7E1FE96DE9F6248CA61__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitZenithAreaFalloffIntensity_173_217809F94DEED70A9EE72C8099FB9690__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadiusHardness_172_71411F8F48FDF8B3FFE246853DB27A5A__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitEffectRadius_171_F4B0CB344838F15BCB2CB4ABBEEBDD7D__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitDarknessColor_220_01A6A39A4463CFE9EF8DD38BA9453C9B__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_BackLitBrightnessColor_219_753364BD45426E11718519BA3B883BD8__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSunBackLight_168_A405BD47493E6CC685BF7E990484B2A2__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowRadius_167_27A63B6D4CFFB071A7ECDFBCC8ABEF06__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowAreaSmooth_166_A9DACC7B414171061BBAB89A6FD2D205__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowBrightnessIntensity_165_E08622354562A48652BCDAB86E746C17__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunGlowColor_164_066E4AFC4D91C82EDEF7609EB6CE45F4__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfcolor_163_53683D4846E9616DC5DD7397AC4D63BB__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfBrightnessIntensity_162_942EE01C443ECF657371899C814B6B52__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_SunSelfRadius_161_87093D6C4DA2BE7DC32F0D99B25BE69C__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Sun_UseSun_160_032921CA48E2728FB7228E8A34D8F554__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_237_0FD5829F4CF4FBAC811F7FBA03F12729__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsIntensity_159_63A3078C41472D3CF538DB85501E29E1__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsDetailCloudsColor_158_211005B54CF06D93B1B0AE95330E86C7__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsThirdCloudsIntensity_157_8C1C189244390DB0EE1524A982C53206__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondCloudIntensity_155_20EEA3854D48CF611003FF8F4D6C5A20__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsSecondFalloffIntensity_156_04F6B25749468AF57D46378D23F7C529__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainFalloffIntensity_154_AD48590B4899E584DA8A52AF01A4A29F__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsMainCloudIntensity_153_DC5A030348C555879A7C7CBBD39F1622__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsFalloffIntensity_152_FCF09CA7436F7DAD3ED007B5E6DB562C__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__CloudsAllCloudsOverlaycolor_221_02E3AE3340BD2B4A6278E5B96B8CA139__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_239_336BB52B4A73E5F13F9CE5B495794BB1__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundSkyDomeColor_227_7BAE59164E040A633CF2C58B2FE3A2A6__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundHorizonColor_224_8A5C82DC4930BBEA0C4D6385F4149D68__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundBackgroundOverlaycolor_222_004689DD48226FF20E11E5985A83F0CF__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__BackgroundZenithAreaFalloffIntensity_146_471229CF4C31C8E0ABB93096315A7C69__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_235_4DE832A14D42CEB7749AEBAF181FE2EC__pfGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalTimeFloatInput_145_78F9E4244346905926690AB3513D5917__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__GlobalGlobalOverlayColor_144_B7F58EC84AD34B34C74DBBAB9E3C2F46__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalDesaturationIntensity_254_853055FE4274ED4891DB6FAB9E07B9ED__pf,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::NewProp_bpv__Global_GlobalTimeSpeed_230_85696CD6479B05C1B365EEBC2D13AA5E__pf,
+	};
+	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::ReturnStructParams = {
+		(UObject* (*)())&OuterFuncGetter,
+		nullptr,
+		&NewStructOps,
+		"Structure_GoodSky",
+		sizeof(FStructure_GoodSky__pf3844941297),
+		alignof(FStructure_GoodSky__pf3844941297),
+		Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::PropPointers,
+		UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::PropPointers),
+		RF_Public|RF_Transient,
+		EStructFlags(0x00000001),
+		METADATA_PARAMS(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::Struct_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::Struct_MetaDataParams))
+	};
+	UScriptStruct* Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297()
+	{
+		extern uint32 Get_Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Hash();
+		UPackage* Outer = FindOrConstructDynamicTypePackage(TEXT("/Game/GoodSky/Source/Data/Structure/Structure_GoodSky"));
+		UScriptStruct* ReturnStruct = FindExistingStructIfHotReloadOrDynamic(Outer, TEXT("Structure_GoodSky"), sizeof(FStructure_GoodSky__pf3844941297), Get_Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Hash(), true);
+		if (!ReturnStruct)
+		{
+			UE4CodeGen_Private::ConstructUScriptStruct(ReturnStruct, Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Statics::ReturnStructParams);
+		}
+		return ReturnStruct;
+	}
+	uint32 Get_Z_Construct_UScriptStruct_FStructure_GoodSky__pf3844941297_Hash() { return 3802598970U; }
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif

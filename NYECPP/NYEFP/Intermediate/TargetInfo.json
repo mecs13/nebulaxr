@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstPersonArchery",
+			"Path": "C:\\Users\\yuhao\\Documents\\nebulaxr\\NYECPP\\NYEFP\\Source\\FirstPersonArchery.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstPersonArcheryEditor",
+			"Path": "C:\\Users\\yuhao\\Documents\\nebulaxr\\NYECPP\\NYEFP\\Source\\FirstPersonArcheryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

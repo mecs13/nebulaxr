@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NYEVR",
+			"Path": "C:\\Users\\yuhao\\Desktop\\NYEVR\\Source\\NYEVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NYEVREditor",
+			"Path": "C:\\Users\\yuhao\\Desktop\\NYEVR\\Source\\NYEVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

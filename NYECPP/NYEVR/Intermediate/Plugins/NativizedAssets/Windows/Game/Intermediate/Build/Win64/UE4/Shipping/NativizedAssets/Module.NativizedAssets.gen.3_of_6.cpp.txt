@@ -1,0 +1,57 @@
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Shipping\NativizedAssets\Definitions.NativizedAssets.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Paticle_wind_settings__pf321031355.gen.cpp
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Paticle_wind_settings__pf321031355.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/CoreUObject/Public/UObject/NoExportTypes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Paticle_wind_settings__pf321031355.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_1__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_1__pf770311399.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Engine/StaticMeshActor.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticMeshActor.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_1__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_2__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_2__pf770311399.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_2__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_3__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_3__pf770311399.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_3__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_4__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_4__pf770311399.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_4__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_6__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_6__pf770311399.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_6__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Portal_7__pf770311399.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Portal_7__pf770311399.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Portal_7__pf770311399.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_Stars__pf2036008057.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_Stars__pf2036008057.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_Stars__pf2036008057.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/BP_vines_spline__pf3430301455.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/BP_vines_spline__pf3430301455.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\BP_vines_spline__pf3430301455.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/CommercialPlane_AnimBlueprint__pf1945484998.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/CommercialPlane_AnimBlueprint__pf1945484998.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassData.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimClassData.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_Root.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_Root.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/AnimGraphRuntime/Public/AnimNodes/AnimNode_LayeredBoneBlend.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/AnimData/BoneMaskFilter.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BoneMaskFilter.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_LayeredBoneBlend.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Animation/AnimNode_SequencePlayer.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/AnimNode_AssetPlayerBase.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_AssetPlayerBase.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputScaleBias.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimNode_SequencePlayer.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/AnimGraphRuntime/Public/AnimNodes/AnimNode_BlendSpacePlayer.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_BlendSpacePlayer.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\CommercialPlane_AnimBlueprint__pf1945484998.generated.h

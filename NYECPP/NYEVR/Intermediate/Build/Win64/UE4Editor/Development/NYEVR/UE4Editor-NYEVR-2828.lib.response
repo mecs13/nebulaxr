@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NYEVR-2828.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\NYEVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\MyGameModeBase.cpp.obj"
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\NYEVR.cpp.obj"
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\MyGameModeBase.gen.cpp.obj"
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\NYEVR.init.gen.cpp.obj"
+"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\Default.rc2.res"
+/OUT:"C:\Users\yuhao\Desktop\NYEVR\Intermediate\Build\Win64\UE4Editor\Development\NYEVR\UE4Editor-NYEVR-2828.lib"
+/INCLUDE:IMPLEMENT_MODULE_NYEVR

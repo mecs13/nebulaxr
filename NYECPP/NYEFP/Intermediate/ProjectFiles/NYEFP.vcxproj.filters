@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NYEFP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E0D56E11-1F9F-46C2-A7B4-7E5E3649468B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonArchery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstPersonArcheryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BAFDA82C-E9A9-459B-9BF8-F841DB941DDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{5CE52E03-9FF0-42CF-B7EA-A0F62C085E9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{F6D1119B-4E7D-4F23-BD53-376F494FE7F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VlcMedia-master">
+      <UniqueIdentifier>{3BC6DF29-37E3-42B8-BA47-A755F6E1F1D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VlcMedia-master\Source">
+      <UniqueIdentifier>{73205B04-8A89-4217-910D-CA1F67329BCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia">
+      <UniqueIdentifier>{64378C30-E48D-44E4-A815-2D22E55EC714}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\VlcMedia.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private">
+      <UniqueIdentifier>{6493051C-0740-4444-A2A1-0C3243D95E6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\VlcMediaModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\VlcMediaPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Player">
+      <UniqueIdentifier>{3B647E94-90B7-407D-8303-99FA4EDFA125}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaAudioSample.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaCallbacks.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaCallbacks.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaPlayer.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaPlayer.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaSource.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaSource.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTextureSample.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTracks.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTracks.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaView.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaView.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared">
+      <UniqueIdentifier>{5FCB3D32-38FA-4769-9F21-CDA10446A59F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared\VlcMediaUtils.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared\VlcMediaUtils.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc">
+      <UniqueIdentifier>{0D02AE33-BA5D-4103-91D1-29384832668D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\Vlc.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\Vlc.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\VlcImports.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\VlcTypes.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Public">
+      <UniqueIdentifier>{76593AE9-961B-4427-AB81-074E6A08AE06}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Public\IVlcMediaModule.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UVRF">
+      <UniqueIdentifier>{CBC2CD0B-B478-4FCD-B60B-61E50E907B1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UVRF\UVRF.uplugin">
+      <Filter>Plugins\UVRF</Filter>
+    </None>
+    <Filter Include="Plugins\UVRF\Resources">
+      <UniqueIdentifier>{18C7FD05-B6E5-4EFB-91A0-896BF3C0A646}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UVRF\Resources\Icon128.png">
+      <Filter>Plugins\UVRF\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\VlcMedia-master\VlcMedia.uplugin">
+      <Filter>Plugins\VlcMedia-master</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Resources">
+      <UniqueIdentifier>{97859121-E1B7-4907-8FA8-70DF37DD38AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Resources\Icon128.png">
+      <Filter>Plugins\VlcMedia-master\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaEditor">
+      <UniqueIdentifier>{70103600-455C-4D18-B114-620412208091}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\VlcMediaEditor.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaEditor\Private">
+      <UniqueIdentifier>{A2037DE8-E5DD-45BB-B2B4-04B23FF77D14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcFileMediaSourceFactory.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcFileMediaSourceFactory.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcMediaEditorModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcMediaEditorPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory">
+      <UniqueIdentifier>{FE932602-F067-473B-9668-07C60DB57183}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\VlcMediaFactory.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory\Private">
+      <UniqueIdentifier>{2874C6EB-A9BE-4213-ACF7-BB7D3278A38B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactoryModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactoryPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactorySettings.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory\Public">
+      <UniqueIdentifier>{54B16D40-555E-4DD5-99ED-155695B86599}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Public\VlcMediaSettings.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\FirstPersonArchery">
+      <UniqueIdentifier>{D0C77B8C-66E2-41D2-BA3A-28812DD50DC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.Build.cs">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.cpp">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonArchery\FirstPersonArchery.h">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonArchery\MyGameModeBase.cpp">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonArchery\MyGameModeBase.h">
+      <Filter>Source\FirstPersonArchery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

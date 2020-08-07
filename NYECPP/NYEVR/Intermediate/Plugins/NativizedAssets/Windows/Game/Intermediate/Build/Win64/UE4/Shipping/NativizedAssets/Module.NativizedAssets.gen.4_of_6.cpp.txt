@@ -1,0 +1,97 @@
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Intermediate\Build\Win64\UE4\Shipping\NativizedAssets\Definitions.NativizedAssets.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/EAirplaneType__pf3475422732.gen.cpp
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/EAirplaneType__pf3475422732.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\EAirplaneType__pf3475422732.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraBooleanLogicOps__pf2855420827.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraBooleanLogicOps__pf2855420827.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENiagaraBooleanLogicOps__pf2855420827.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraCoordinateSpace__pf2855420827.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENiagaraCoordinateSpace__pf2855420827.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraExpansionMode__pf2855420827.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraExpansionMode__pf2855420827.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENiagaraExpansionMode__pf2855420827.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraOrientationAxis__pf2855420827.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraOrientationAxis__pf2855420827.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENiagaraOrientationAxis__pf2855420827.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENiagaraRandomnessMode__pf2855420827.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENiagaraRandomnessMode__pf2855420827.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ENUM_EarthQuality__pf2036008057.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/ENUM_EarthQuality__pf2036008057.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ENUM_EarthQuality__pf2036008057.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Enum_GoodSky_Clouds_Coverage__pf194322682.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Enum_GoodSky_Clouds_Coverage__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Clouds_Coverage__pf194322682.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Enum_GoodSky_Effects__pf194322682.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Enum_GoodSky_Effects__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Effects__pf194322682.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Enum_GoodSky_MeshType__pf194322682.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Enum_GoodSky_MeshType__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_MeshType__pf194322682.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Enum_GoodSky_Preset__pf194322682.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Enum_GoodSky_Preset__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Preset__pf194322682.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Enum_GoodSky_Style_Clouds__pf194322682.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Enum_GoodSky_Style_Clouds__pf194322682.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Enum_GoodSky_Style_Clouds__pf194322682.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Fire_1__pf2930058030.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Fire_1__pf2930058030.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Fire_1__pf2930058030.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/GlobalMediaBroadcast__pf2665521898.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/GlobalMediaBroadcast__pf2665521898.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\VideoParams__pf2665521898.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\GeneratedCodeHelpers.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\UserDefinedStruct.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetArrayLibrary.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetArrayLibrary.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CollisionProfile.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetMathLibrary.generated.h
+d:\epic games\ue_4.25\engine\source\runtime\engine\classes\kismet\KismetMathLibrary.inl
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/DataTableFunctionLibrary.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+d:\epic games\ue_4.25\engine\source\runtime\engine\public\DataTableUtils.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTableFunctionLibrary.generated.h
+d:\epic games\ue_4.25\engine\source\runtime\engine\public\Net/UnrealNetwork.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\VideoParams__pf2665521898.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\GlobalMediaBroadcast__pf2665521898.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/GripEnum__pf563933975.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/GripEnum__pf563933975.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\GripEnum__pf563933975.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/InteractInterface__pf1634840482.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/InteractInterface__pf1634840482.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\InteractInterface__pf1634840482.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Interface_Wind_Particle_True__pf3628915390.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Interface_Wind_Particle_True__pf3628915390.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Interface_Wind_Particle_True__pf3628915390.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Item__pf2130893442.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Item__pf2130893442.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\source\nativizedassets\public\ItemStructure__pf1634840482.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\ItemStructure__pf1634840482.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Item__pf2130893442.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/Item_Child__pf2130893442.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/Item_Child__pf2130893442.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\Item_Child__pf2130893442.generated.h
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/ItemStructure__pf1634840482.gen.cpp
+C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Intermediate/Build/Win64/UE4/Inc/NativizedAssets/MotionControllerPawn__pf563933975.gen.cpp
+C:\Users\yuhao\Desktop\NYEVR\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets/Public/MotionControllerPawn__pf563933975.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/CoreUObject/Public/UObject/NoExportTypes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/GameFramework/Character.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+c:\users\yuhao\desktop\nyevr\intermediate\plugins\nativizedassets\windows\game\intermediate\build\win64\ue4\inc\nativizedassets\MotionControllerPawn__pf563933975.generated.h

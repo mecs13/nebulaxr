@@ -1,0 +1,532 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/MediaAssets'",
+		"Package'/Script/CableComponent'",
+		"Package'/Script/ClothingSystemRuntimeNv'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/UMG'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/SteamVR'",
+		"Package'/Script/MediaUtils'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/AudioMixer'"
+	],
+	"convertedAssets":
+	{
+		"/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraCoordinateSpace__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraOrientationAxis__pf2855420827.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraOrientationAxis__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraBooleanLogicOps.ENiagaraBooleanLogicOps",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraBooleanLogicOps__pf2855420827.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraBooleanLogicOps__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraRandomnessMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraExpansionMode.ENiagaraExpansionMode",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENiagaraExpansionMode__pf2855420827.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENiagaraExpansionMode__pf2855420827.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GripEnum__pf563933975.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GripEnum__pf563933975.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoInputSourceType.VideoInputSourceType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoInputSourceType.VideoInputSourceType",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VideoInputSourceType__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VideoInputSourceType__pf2665521898.cpp"
+		},
+		"/Game/Particles_Wind_Control_System/Blueprints/Enumerations/P_Leaves_Enum.P_Leaves_Enum":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Particles_Wind_Control_System/Blueprints/Enumerations/P_Leaves_Enum.P_Leaves_Enum",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/P_Leaves_Enum__pf897159640.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/P_Leaves_Enum__pf897159640.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Enum_GoodSky_Style_Clouds__pf194322682.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Enum_GoodSky_Style_Clouds__pf194322682.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Enum_GoodSky_Preset__pf194322682.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Enum_GoodSky_Preset__pf194322682.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Enum_GoodSky_MeshType__pf194322682.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Enum_GoodSky_MeshType__pf194322682.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Enum_GoodSky_Effects__pf194322682.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Enum_GoodSky_Effects__pf194322682.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Enum_GoodSky_Clouds_Coverage__pf194322682.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Enum_GoodSky_Clouds_Coverage__pf194322682.cpp"
+		},
+		"/Game/CommercialPlane/Blueprints/EAirplaneType.EAirplaneType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/CommercialPlane/Blueprints/EAirplaneType.EAirplaneType",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/EAirplaneType__pf3475422732.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/EAirplaneType__pf3475422732.cpp"
+		},
+		"/Game/Earth32/Blueprint/ENUM_EarthQuality.ENUM_EarthQuality":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Earth32/Blueprint/ENUM_EarthQuality.ENUM_EarthQuality",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENUM_EarthQuality__pf2036008057.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENUM_EarthQuality__pf2036008057.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoInputSource.VideoInputSource":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoInputSource.VideoInputSource",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VideoInputSource__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VideoInputSource__pf2665521898.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoParams.VideoParams":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/VideoParams.VideoParams",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VideoParams__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VideoParams__pf2665521898.cpp"
+		},
+		"/Game/GoodSky/Source/Data/Structure/Structure_GoodSky.Structure_GoodSky":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/GoodSky/Source/Data/Structure/Structure_GoodSky.Structure_GoodSky",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Structure_GoodSky__pf3844941297.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Structure_GoodSky__pf3844941297.cpp"
+		},
+		"/Game/SoftInventory/ItemStructure.ItemStructure":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/SoftInventory/ItemStructure.ItemStructure",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ItemStructure__pf1634840482.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ItemStructure__pf1634840482.cpp"
+		},
+		"/Game/SuspensionBridge/Blueprints/S_MeshRScale.S_MeshRScale":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/SuspensionBridge/Blueprints/S_MeshRScale.S_MeshRScale",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/S_MeshRScale__pf3332962890.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/S_MeshRScale__pf3332962890.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MotionControllerPawn__pf563933975.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MotionControllerPawn__pf563933975.cpp"
+		},
+		"/Game/Blueprints/Bow/BP_BaseBow.BP_BaseBow_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Bow/BP_BaseBow.BP_BaseBow_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_BaseBow__pf4190551111.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_BaseBow__pf4190551111.cpp"
+		},
+		"/Game/Meshes/SyntyBow/Animbp_Bow.Animbp_Bow_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/Meshes/SyntyBow/Animbp_Bow.Animbp_Bow_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Animbp_Bow__pf1695184374.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Animbp_Bow__pf1695184374.cpp"
+		},
+		"/Game/Blueprints/Bow/BP_BaseArrow.BP_BaseArrow_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Bow/BP_BaseArrow.BP_BaseArrow_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_BaseArrow__pf4190551111.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_BaseArrow__pf4190551111.cpp"
+		},
+		"/Game/TargetFloat.TargetFloat_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TargetFloat.TargetFloat_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TargetFloat__pf1010915279.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TargetFloat__pf1010915279.cpp"
+		},
+		"/Game/FirstPersonBP/Blueprints/PlayerSaveGameInfo.PlayerSaveGameInfo_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FirstPersonBP/Blueprints/PlayerSaveGameInfo.PlayerSaveGameInfo_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlayerSaveGameInfo__pf205484891.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlayerSaveGameInfo__pf205484891.cpp"
+		},
+		"/Game/MapData/Teleport.Teleport_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/MapData/Teleport.Teleport_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Teleport__pf643803050.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Teleport__pf643803050.cpp"
+		},
+		"/Game/MapData/TeleportMenu.TeleportMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/MapData/TeleportMenu.TeleportMenu_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TeleportMenu__pf643803050.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TeleportMenu__pf643803050.cpp"
+		},
+		"/Game/Score/ScoreHUD.ScoreHUD_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Score/ScoreHUD.ScoreHUD_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ScoreHUD__pf2597647882.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ScoreHUD__pf2597647882.cpp"
+		},
+		"/Game/Blueprints/PS_TS_Fireworks_Burst_Palm.PS_TS_Fireworks_Burst_Palm_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/PS_TS_Fireworks_Burst_Palm.PS_TS_Fireworks_Burst_Palm_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PS_TS_Fireworks_Burst_Palm__pf2132744816.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PS_TS_Fireworks_Burst_Palm__pf2132744816.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_MotionController__pf563933975.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_MotionController__pf563933975.cpp"
+		},
+		"/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RightHand_AnimBP__pf558596347.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RightHand_AnimBP__pf558596347.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PickupActorInterface__pf563933975.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Air_Balloons/Blueprints/BP_Air_Balloon.BP_Air_Balloon_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Air_Balloons/Blueprints/BP_Air_Balloon.BP_Air_Balloon_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Air_Balloon__pf3784893704.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Air_Balloon__pf3784893704.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/TV_BP.TV_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/TV_BP.TV_BP_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TV_BP__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TV_BP__pf2665521898.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/Remote_BP.Remote_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/Remote_BP.Remote_BP_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Remote_BP__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Remote_BP__pf2665521898.cpp"
+		},
+		"/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/GlobalMediaBroadcast.GlobalMediaBroadcast_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/ACOptimizedTV/ACOptimizedTV_Blueprints/GlobalMediaBroadcast.GlobalMediaBroadcast_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GlobalMediaBroadcast__pf2665521898.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GlobalMediaBroadcast__pf2665521898.cpp"
+		},
+		"/Game/Particles_Wind_Control_System/Blueprints/Components/Interface_Wind_Particle_True.Interface_Wind_Particle_True_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Particles_Wind_Control_System/Blueprints/Components/Interface_Wind_Particle_True.Interface_Wind_Particle_True_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Interface_Wind_Particle_True__pf3628915390.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Particles_Wind_Control_System/Blueprints/BP_Paticle_wind_settings.BP_Paticle_wind_settings_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Particles_Wind_Control_System/Blueprints/BP_Paticle_wind_settings.BP_Paticle_wind_settings_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Paticle_wind_settings__pf321031355.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Paticle_wind_settings__pf321031355.cpp"
+		},
+		"/Game/Particles_Wind_Control_System/Blueprints/BP_Particle_Leaves.BP_Particle_Leaves_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Particles_Wind_Control_System/Blueprints/BP_Particle_Leaves.BP_Particle_Leaves_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Particle_Leaves__pf321031355.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Particle_Leaves__pf321031355.cpp"
+		},
+		"/Game/Wind_Turbine/WindTurbine.WindTurbine_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Wind_Turbine/WindTurbine.WindTurbine_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/WindTurbine__pf918451800.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/WindTurbine__pf918451800.cpp"
+		},
+		"/Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_GoodSky__pf2629841966.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_GoodSky__pf2629841966.cpp"
+		},
+		"/Game/Air_Balloons/Blueprints/BP_Air_Balloon_Spawner.BP_Air_Balloon_Spawner_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Air_Balloons/Blueprints/BP_Air_Balloon_Spawner.BP_Air_Balloon_Spawner_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Air_Balloon_Spawner__pf3784893704.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Air_Balloon_Spawner__pf3784893704.cpp"
+		},
+		"/Game/CommercialPlane/Blueprints/BP_CommercialPlane.BP_CommercialPlane_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/CommercialPlane/Blueprints/BP_CommercialPlane.BP_CommercialPlane_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_CommercialPlane__pf3475422732.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_CommercialPlane__pf3475422732.cpp"
+		},
+		"/Game/CommercialPlane/Meshes/CommercialPlane_AnimBlueprint.CommercialPlane_AnimBlueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/CommercialPlane/Meshes/CommercialPlane_AnimBlueprint.CommercialPlane_AnimBlueprint_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/CommercialPlane_AnimBlueprint__pf1945484998.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/CommercialPlane_AnimBlueprint__pf1945484998.cpp"
+		},
+		"/Game/Earth32/Blueprint/BP_Earth.BP_Earth_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Earth32/Blueprint/BP_Earth.BP_Earth_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Earth__pf2036008057.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Earth__pf2036008057.cpp"
+		},
+		"/Game/Earth32/Blueprint/BP_Stars.BP_Stars_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Earth32/Blueprint/BP_Stars.BP_Stars_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Stars__pf2036008057.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Stars__pf2036008057.cpp"
+		},
+		"/Game/FloatingIsland/Blueprints/BP_Clouds.BP_Clouds_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FloatingIsland/Blueprints/BP_Clouds.BP_Clouds_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Clouds__pf346126169.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Clouds__pf346126169.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_1.BP_Portal_1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_1.BP_Portal_1_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_1__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_1__pf770311399.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_2.BP_Portal_2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_2.BP_Portal_2_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_2__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_2__pf770311399.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_3.BP_Portal_3_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_3.BP_Portal_3_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_3__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_3__pf770311399.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_4.BP_Portal_4_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_4.BP_Portal_4_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_4__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_4__pf770311399.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_6.BP_Portal_6_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_6.BP_Portal_6_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_6__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_6__pf770311399.cpp"
+		},
+		"/Game/HQportals/Blueprints/BP_Portal_7.BP_Portal_7_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/HQportals/Blueprints/BP_Portal_7.BP_Portal_7_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Portal_7__pf770311399.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Portal_7__pf770311399.cpp"
+		},
+		"/Game/ModernKitchenClutterPack/MergedBlueprints/HighPoly/Pot_01HP.Pot_01HP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/ModernKitchenClutterPack/MergedBlueprints/HighPoly/Pot_01HP.Pot_01HP_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Pot_01HP__pf788567482.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Pot_01HP__pf788567482.cpp"
+		},
+		"/Game/PyroParticlePack/Blueprints/Fire_1.Fire_1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/PyroParticlePack/Blueprints/Fire_1.Fire_1_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Fire_1__pf2930058030.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Fire_1__pf2930058030.cpp"
+		},
+		"/Game/RestartCollide.RestartCollide_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/RestartCollide.RestartCollide_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RestartCollide__pf1010915279.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RestartCollide__pf1010915279.cpp"
+		},
+		"/Game/Score/Shop/Shop.Shop_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Score/Shop/Shop.Shop_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Shop__pf3279071941.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Shop__pf3279071941.cpp"
+		},
+		"/Game/Score/Shop/ShopMenu.ShopMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Score/Shop/ShopMenu.ShopMenu_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ShopMenu__pf3279071941.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ShopMenu__pf3279071941.cpp"
+		},
+		"/Game/Score/Shop/ShopCollision.ShopCollision_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Score/Shop/ShopCollision.ShopCollision_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ShopCollision__pf3279071941.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ShopCollision__pf3279071941.cpp"
+		},
+		"/Game/Spawner.Spawner_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Spawner.Spawner_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Spawner__pf1010915279.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Spawner__pf1010915279.cpp"
+		},
+		"/Game/SoftInventory/Items/Item_Child.Item_Child_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/SoftInventory/Items/Item_Child.Item_Child_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Item_Child__pf2130893442.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Item_Child__pf2130893442.cpp"
+		},
+		"/Game/SoftInventory/Items/Item.Item_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/SoftInventory/Items/Item.Item_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Item__pf2130893442.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Item__pf2130893442.cpp"
+		},
+		"/Game/SoftInventory/InteractInterface.InteractInterface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/SoftInventory/InteractInterface.InteractInterface_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InteractInterface__pf1634840482.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Stylized_Landscape/blueprints/BP_border_spline.BP_border_spline_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stylized_Landscape/blueprints/BP_border_spline.BP_border_spline_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_border_spline__pf3430301455.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_border_spline__pf3430301455.cpp"
+		},
+		"/Game/Stylized_Landscape/blueprints/BP_vines_spline.BP_vines_spline_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stylized_Landscape/blueprints/BP_vines_spline.BP_vines_spline_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_vines_spline__pf3430301455.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_vines_spline__pf3430301455.cpp"
+		},
+		"/Game/SuspensionBridge/Blueprints/BP_Bridge.BP_Bridge_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/SuspensionBridge/Blueprints/BP_Bridge.BP_Bridge_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Bridge__pf3332962890.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Bridge__pf3332962890.cpp"
+		},
+		"/Game/SuspensionBridge/Blueprints/BP_FuncLib.BP_FuncLib_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/SuspensionBridge/Blueprints/BP_FuncLib.BP_FuncLib_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_FuncLib__pf3332962890.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_FuncLib__pf3332962890.cpp"
+		},
+		"/Game/TargetSpawner.TargetSpawner_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TargetSpawner.TargetSpawner_C",
+			"generatedHeaderPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TargetSpawner__pf1010915279.h",
+			"generatedCppPath": "C:/Users/yuhao/Desktop/NYEVR/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TargetSpawner__pf1010915279.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
