@@ -1,0 +1,77 @@
+#+TITLE: Content for Site
+#+AUTHOR: Ibtihal Chamakh
+#+INCLUDE: “../print/doctype-memo.org”
+{{{subtitle(research)}}}
+{{{theme-color(4b7985)}}}
+
+* Library Homepage - Blurbs
+
+*Psychology*
+
+The psychology behind gameplay has long been a subject of interest for researchers. With the advent of VR, a medium that further closes the gap between player and screen, psychology has only become more and more relevant to how we interact with and conceptualize the online world. Though designing and marketing our experiences calls for more technical knowledge, we believe that before committing ourselves to any project we must fully consider how the average player would react.
+
+Social scientists, psychologists, and evolutionary biologists have studied play behavior for years, and with their knowledge and expertise, we at Nova have learned to create experiences that do more than stimulate the senses. We are conscious of how play has evolved, and the many functions it serves in modeling behavior and providing tangible relief. These considerations help to enrich our experiences and inform their development. For specifics on how we evaluate gameplay and involve psych research in our products, please feel free to browse the sources we have listed for you at the link above!
+
+*Dev & Design*
+
+Development and design are integral to any VR experience. At Nova, we devote a lot of time and energy to ensuring our experiences are optimized for players well before they are released. When working in-engine, our team is focused on seamlessly integrating assets, converting and packaging files, and balancing features with creative design. Many of our landscapes go through re-coloring, and our developers work closely with designers to ensure final products are fetching, functional, and fun.
+
+Beyond implementing new features and assigning variables to in-game objects, our developers are tasked with play-testing and overseeing every iteration of our project from start to finish. Devs also ensure our experiences are intuitive to some extent, allowing for a learning curve of sorts for users less familiar with VR. Accessibility continues to be a priority of ours. For more information on color, sound, and programming FX, we recommend checking out the resources we have available at the link above!
+
+{{{pagebreak}}}
+
+* Webpages - World-Building
+
+** Though VR can take many forms, ranging from hyperrealism to the outright surreal, all virtual environments require a heightened awareness of space.
+
+In our modern world, virtuality is second-nature to us. Even research has shown virtuality as an extension of the self, allowing for bodily experience beyond our physical form. The potentiality of virtual and simulated experience is limitless, and as such many programmers and developers take the medium for granted, crafting beautiful spaces that may not do their concepts justice. This can manifest in any number of ways. Perhaps the landscape is too cluttered with assets, the environment is interrupted with clumsy features, or players are unable to intuitively navigate the space.
+
+This all has to do with world-building. Though world-building is traditionally thought of in a narrative sense, it is equally important to consider your experience’s setting as it contributes to your player’s overall experience. Before one considers how they can potentially monetize a model or properly address the needs of client they must consider the ways in which their space - whether it be 2D or 3D - influences the player. The key to building a convincing and dynamic environment is conceptualization, theming, and cohesion. Once we’ve settled on a concept and general aesthetic for the environment, we play-test regularly and demo our experience to users less familiar with the project’s technicalities. Our research team also keeps our devs on track by ensuring our team vision correlates with the latest research on environmental psychology and design. The process is very thorough and brings an integrity and mindfulness to the space that would not exist otherwise. This makes a world of difference when looking at a user's reported gameplay experience.
+
+{{{pagebreak}}}
+
+* Webpages - Functionality
+
+** In order for any user to be engaged by an experience, VR or otherwise, they must have clear and unfettered access to its features.
+
+Though we devote ourselves to fully developing each aspect of our VR experiences, we understand the true appeal of an experience lies in its function. If our experiences aren't playable, interactive, or immersive, there is no incentive to engage with them in the first place. Gameplay is goal-oriented after all, and without stimulating the user and sustaining their attention, our experience is reduced to its audiovisual and tactile cues. There is value in this sensory data, but game psychology has shown that drive makes a tangible difference in one’s level of engrossment. 
+
+Of course, functionality will vary according to intention. Is your experience cerebral? Are players in a vacuum, or are they focusing on object play? Are features customizable, or is the player only given so much free reign? How are your menus structured? Does your UI break immersion at points, and can this be resolved? This all boils down to preference, but players have demonstrated increased interest in immersive and interactive games. Just as world-building will ground the player and establish the reality they are navigating, the UI will set the tone for the rest of their experience in-game. Thus, function should be just as much of a priority in-engine.
+
+{{{pagebreak}}}
+
+* Webpages - Dev & Design
+
+** VR is many moving parts, but quality development and design make for a well-oiled machine.
+
+The success of many VR experiences is owed to the efforts of countless developers and designers working in-engine to produce quality content that mirrors a concept in new and exciting ways. Developers and designers, being of a more technical expertise, often operate independently according to their own intuitions on what makes for good game design. Though this technique has served programmers for decades, research has suggested it may be more appropriate to adopt an interdisciplinary approach. Our devs and designers work hand in hand, which erases the need for course correction mid-project, but devs must still collaborate with other branches to guarantee the final product stays on brand.
+
+Beyond assuring a certain level of consistency amongst the many branches involved in project development, developers and designers must concern themselves with committing to a cohesive aesthetic and soundscape. Visual and sound effects not only have to be seamlessly integrated in-engine, but depending on the desired effect, ambiance and color psychology must be taken into account. Before anything else, VR is sensory. Much thought is put into how assets are textured, how sounds are layered, and how environments are shaped. Even limiting a player’s mobility and access will dramatically shift their experience of the space. As developers are entrusted to implement and integrate functionality, they play a vital role in determining a world’s  potential. By partnering with researchers, even technical aspects of the game can be leveraged to boost a game’s entertainment or use value.
+
+{{{pagebreak}}}
+
+* Webpages - Psychology
+
+** Much like nothing remains untouched by virtuality in the modern era, virtually nothing about VR can be divorced from our cognition.  
+
+Though some may shy away from a psychological, neurological, biological, or sociological reading of technology, preferring it for what it is, we feel that knowledge of the many ways we experience technology is key to crafting it. Our products over the years have taken many shapes and forms, but the science behind play behavior has remained unchanged. In researching the ways in which our brains begin to decipher simulated experiences, we have been able to create new ways of connecting with the world at large.
+
+Play behavior and games have been used to model behavior for centuries, far before the advent of technology. Our experiences are able to repurpose these conditioned responses to gameplay, and make for satisfying and fulfilling VR. Psychology hasn’t necessarily advanced on gameplay in the past few years, but this remains a burgeoning area of interest and as discourse evolves, we will be integrating findings in our future models. The flexible nature of academia only works to further innovate this medium, and we rise to the challenge.
+
+{{{pagebreak}}}
+
+* Webpages - Marketing
+
+** Multifaceted marketing is to everyone’s advantage.
+
+A product is only as strong as its marketing strategy. The strategy will obviously vary according to the client, the project, and the purpose. For something like Exi(s)t and New Years Eve, both of which are still in development and aren’t necessarily customer facing, we approach marketing in a particular way. A lot of our market research will be done in-house according to public records, financial projections, and competition. Besides financial analysis, we also conduct research according to the efficacy of various strategies contrasted with the latest in consumer behavioral research.
+
+For a luxury like VR, the broad appeal is in hedonic consumption, where a product is noted for the pleasure it evokes in a user. There is also some room for a utilitarian approach depending on the niche. If an experience were educational or instructional in some way than a consumer may be inspired to purchase it for its utility rather than its pleasure. For some consumers, their purchase decision may be influenced by their ego and how it is reflected or coddled by the product. Of course, none of these approaches are mutually exclusive and should never be thought of as such. Rather, it is testament to the many ways purchasing is influenced by one’s cognition and how strategy can help corner unsuspecting markets.
+
+{{{pagebreak}}}
+
+* Webpages - Efficacy
+
+** Success is a learning curve, of which we are rarely ever on the other side.
+
+Just as development is ongoing, at Nova we are always looking for ways to optimize our future projects and experiences. Much of this is accomplished through near constant evaluation of on-going progress and extensive documentation. With real-time updates, not only are we better equipped to identify areas of improvement, but we’re able to reproduce certain features with little to no difficulty. As we track a series of marketing strategies and harvest data from our own surveys and experiences, we learn to adjust our model accordingly and continue to benefit from past iterations and works. Nothing is wasted. This library is another means of documenting, structuring, and organizing our latest works. We hope you have benefitted from this resource, and that you reach out to us with any of your virtual needs. Reality at Nova goes above and beyond.
